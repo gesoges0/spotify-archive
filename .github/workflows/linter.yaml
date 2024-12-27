@@ -1,5 +1,10 @@
 name: Lint Python
 
+on:
+  push:
+  pull_request:
+
+
 jobs:
   lint-python:
     name: Lint Python
@@ -17,9 +22,7 @@ jobs:
           python-version-file: ".python-version"
 
       - name: Install dependencies
-        run: |
-          uv sync
+        run: uv sync
 
       - name: Lint with ruff
-        run: |
-          ruff check
+        run: ruff check

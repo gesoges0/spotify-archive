@@ -8,6 +8,10 @@ on:
         required: true
         default: '3fnbbwZjv6wTI5VcEOSlSW'
 
+permissions:
+  contents: write
+  pull-requests: write
+
 jobs:
   archive-playlist:
     name: Archive Playlist
@@ -37,7 +41,7 @@ jobs:
       - name: Create pull request
         uses: peter-evans/create-pull-request@v7
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.ACCESS_TOKEN }}
           commit-message: 'Archive playlist: ${{ github.event.inputs.playlist_id }}'
           title: 'Archive Playlist for ID ${{ github.event.inputs.playlist_id }}'
           body: |

@@ -135,8 +135,8 @@ class Track:
     name: str
     artists: list["Artist"]
     album: "Album"
-    duration_ms: int  # ミリ秒
-    popularity: int  # 0-100の値で、そのトラックがどれだけ人気があるかを示す
+    duration_ms: int  # ms
+    popularity: int  # 0-100
     url: str
 
     @classmethod
@@ -150,7 +150,7 @@ class Track:
             album=Album.from_dict(track["album"]),
             duration_ms=track["duration_ms"],
             popularity=track["popularity"],
-            url=track["external_urls"].get("spotify"),  # ない場合がある
+            url=track["external_urls"].get("spotify"),
         )
 
     @property
@@ -169,7 +169,7 @@ class Artist:
         return cls(
             id=artist["id"],
             name=artist["name"],
-            url=artist["external_urls"].get("spotify"),  # ない場合がある
+            url=artist["external_urls"].get("spotify"),
         )
 
 
@@ -195,7 +195,7 @@ class Album:
             release_date=album["release_date"],
             release_date_precision=album["release_date_precision"],
             artists=artists,
-            url=album["external_urls"].get("spotify"),  # ない場合がある
+            url=album["external_urls"].get("spotify"),
             total_tracks=album.get("total_tracks", 0),
         )
 
@@ -231,7 +231,7 @@ class MyPlaylist:
         self.user_id = os.environ.get("USER_ID")
 
     def import_playlist(self, playlist: dict):
-        # 既に自身のプレイリストに同じ名前のプレイリストがあったら何もしない
+        # check if playlist already exists
         playlists = sp_credential.current_user_playlists()
         if not playlists:
             print("failed to get playlists")

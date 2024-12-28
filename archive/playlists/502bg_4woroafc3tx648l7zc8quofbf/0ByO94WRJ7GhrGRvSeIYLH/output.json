@@ -1,0 +1,1422 @@
+{
+  "id": "0ByO94WRJ7GhrGRvSeIYLH",
+  "tracks": [
+    {
+      "id": "61KNN1WWCUEFFH5h59qd9q",
+      "name": "Dream Believers",
+      "artists": [
+        {
+          "id": "1bY7QMGccPmba1f1frZ8Xb",
+          "name": "蓮ノ空女学院スクールアイドルクラブ",
+          "url": "https://open.spotify.com/artist/1bY7QMGccPmba1f1frZ8Xb"
+        }
+      ],
+      "album": {
+        "id": "1SLUZBM04XJrH3y9b8mfPZ",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731b8d5c15b29c227ccd5e8db5",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021b8d5c15b29c227ccd5e8db5",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511b8d5c15b29c227ccd5e8db5",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Dream Believers",
+        "release_date": "2023-03-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1bY7QMGccPmba1f1frZ8Xb",
+            "name": "蓮ノ空女学院スクールアイドルクラブ",
+            "url": "https://open.spotify.com/artist/1bY7QMGccPmba1f1frZ8Xb"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1SLUZBM04XJrH3y9b8mfPZ",
+        "total_tracks": 6
+      },
+      "duration_ms": 317740,
+      "popularity": 6,
+      "url": "https://open.spotify.com/track/61KNN1WWCUEFFH5h59qd9q"
+    },
+    {
+      "id": "1QYth6nKJPHnF34aZpSxWC",
+      "name": "Trick ＆ Cute",
+      "artists": [
+        {
+          "id": "1bY7QMGccPmba1f1frZ8Xb",
+          "name": "蓮ノ空女学院スクールアイドルクラブ",
+          "url": "https://open.spotify.com/artist/1bY7QMGccPmba1f1frZ8Xb"
+        }
+      ],
+      "album": {
+        "id": "7eoVHI0HBN6UzeCDKer2rf",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c1371c14aeb35335e8a01ba3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c1371c14aeb35335e8a01ba3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c1371c14aeb35335e8a01ba3",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Link to the FUTURE",
+        "release_date": "2024-01-17",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1bY7QMGccPmba1f1frZ8Xb",
+            "name": "蓮ノ空女学院スクールアイドルクラブ",
+            "url": "https://open.spotify.com/artist/1bY7QMGccPmba1f1frZ8Xb"
+          }
+        ],
+        "url": "https://open.spotify.com/album/7eoVHI0HBN6UzeCDKer2rf",
+        "total_tracks": 6
+      },
+      "duration_ms": 232594,
+      "popularity": 3,
+      "url": "https://open.spotify.com/track/1QYth6nKJPHnF34aZpSxWC"
+    },
+    {
+      "id": "67S3K2vrk6PGhAjx0EhhsY",
+      "name": "ノンフィクションヒーローショー",
+      "artists": [
+        {
+          "id": "3he8Hc0WxcVbpLzFpRsnO4",
+          "name": "みらくらぱーく!",
+          "url": "https://open.spotify.com/artist/3he8Hc0WxcVbpLzFpRsnO4"
+        }
+      ],
+      "album": {
+        "id": "0A2mfW5i2Eg9bsLhCb8AJ1",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27344c6a562a1c27275953d41bc",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0244c6a562a1c27275953d41bc",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485144c6a562a1c27275953d41bc",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "アイデンティティ",
+        "release_date": "2023-11-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "3he8Hc0WxcVbpLzFpRsnO4",
+            "name": "みらくらぱーく!",
+            "url": "https://open.spotify.com/artist/3he8Hc0WxcVbpLzFpRsnO4"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0A2mfW5i2Eg9bsLhCb8AJ1",
+        "total_tracks": 6
+      },
+      "duration_ms": 216441,
+      "popularity": 3,
+      "url": "https://open.spotify.com/track/67S3K2vrk6PGhAjx0EhhsY"
+    },
+    {
+      "id": "7drRBmRxfO56CTK1UjOfUo",
+      "name": "ド！ド！ド！",
+      "artists": [
+        {
+          "id": "3he8Hc0WxcVbpLzFpRsnO4",
+          "name": "みらくらぱーく!",
+          "url": "https://open.spotify.com/artist/3he8Hc0WxcVbpLzFpRsnO4"
+        }
+      ],
+      "album": {
+        "id": "1SLUZBM04XJrH3y9b8mfPZ",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731b8d5c15b29c227ccd5e8db5",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021b8d5c15b29c227ccd5e8db5",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511b8d5c15b29c227ccd5e8db5",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Dream Believers",
+        "release_date": "2023-03-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1bY7QMGccPmba1f1frZ8Xb",
+            "name": "蓮ノ空女学院スクールアイドルクラブ",
+            "url": "https://open.spotify.com/artist/1bY7QMGccPmba1f1frZ8Xb"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1SLUZBM04XJrH3y9b8mfPZ",
+        "total_tracks": 6
+      },
+      "duration_ms": 267337,
+      "popularity": 7,
+      "url": "https://open.spotify.com/track/7drRBmRxfO56CTK1UjOfUo"
+    },
+    {
+      "id": "18NsII5UFYyOAwvLLDAYr5",
+      "name": "KNOT",
+      "artists": [
+        {
+          "id": "6M4HRvHCFBOWlPW3Tn2Oqh",
+          "name": "DOLLCHESTRA",
+          "url": "https://open.spotify.com/artist/6M4HRvHCFBOWlPW3Tn2Oqh"
+        }
+      ],
+      "album": {
+        "id": "5imvavCbQ1ZA4nWVAF48YN",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27360db3e7456c911311241ab69",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0260db3e7456c911311241ab69",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485160db3e7456c911311241ab69",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Take It Over",
+        "release_date": "2023-11-22",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6M4HRvHCFBOWlPW3Tn2Oqh",
+            "name": "DOLLCHESTRA",
+            "url": "https://open.spotify.com/artist/6M4HRvHCFBOWlPW3Tn2Oqh"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5imvavCbQ1ZA4nWVAF48YN",
+        "total_tracks": 6
+      },
+      "duration_ms": 214440,
+      "popularity": 4,
+      "url": "https://open.spotify.com/track/18NsII5UFYyOAwvLLDAYr5"
+    },
+    {
+      "id": "1Spe8gvGG2KJlWlKc7z8wP",
+      "name": "AWOKE",
+      "artists": [
+        {
+          "id": "6M4HRvHCFBOWlPW3Tn2Oqh",
+          "name": "DOLLCHESTRA",
+          "url": "https://open.spotify.com/artist/6M4HRvHCFBOWlPW3Tn2Oqh"
+        }
+      ],
+      "album": {
+        "id": "1SLUZBM04XJrH3y9b8mfPZ",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731b8d5c15b29c227ccd5e8db5",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021b8d5c15b29c227ccd5e8db5",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511b8d5c15b29c227ccd5e8db5",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Dream Believers",
+        "release_date": "2023-03-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1bY7QMGccPmba1f1frZ8Xb",
+            "name": "蓮ノ空女学院スクールアイドルクラブ",
+            "url": "https://open.spotify.com/artist/1bY7QMGccPmba1f1frZ8Xb"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1SLUZBM04XJrH3y9b8mfPZ",
+        "total_tracks": 6
+      },
+      "duration_ms": 182343,
+      "popularity": 5,
+      "url": "https://open.spotify.com/track/1Spe8gvGG2KJlWlKc7z8wP"
+    },
+    {
+      "id": "3m9pAhrzvx51VzSAN08n4R",
+      "name": "千変万華",
+      "artists": [
+        {
+          "id": "6L7wKf6aQv6A3OpiuMITqM",
+          "name": "スリーズブーケ",
+          "url": "https://open.spotify.com/artist/6L7wKf6aQv6A3OpiuMITqM"
+        }
+      ],
+      "album": {
+        "id": "6sRuvw1SOzDxG0XATDaIkt",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27380068eb4a37f12a27c25e421",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0280068eb4a37f12a27c25e421",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485180068eb4a37f12a27c25e421",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "素顔のピクセル",
+        "release_date": "2023-11-15",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6L7wKf6aQv6A3OpiuMITqM",
+            "name": "スリーズブーケ",
+            "url": "https://open.spotify.com/artist/6L7wKf6aQv6A3OpiuMITqM"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6sRuvw1SOzDxG0XATDaIkt",
+        "total_tracks": 6
+      },
+      "duration_ms": 204887,
+      "popularity": 3,
+      "url": "https://open.spotify.com/track/3m9pAhrzvx51VzSAN08n4R"
+    },
+    {
+      "id": "1ZTCKDuj8qf6ItRQC3MLxr",
+      "name": "水彩世界",
+      "artists": [
+        {
+          "id": "6L7wKf6aQv6A3OpiuMITqM",
+          "name": "スリーズブーケ",
+          "url": "https://open.spotify.com/artist/6L7wKf6aQv6A3OpiuMITqM"
+        }
+      ],
+      "album": {
+        "id": "1SLUZBM04XJrH3y9b8mfPZ",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731b8d5c15b29c227ccd5e8db5",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021b8d5c15b29c227ccd5e8db5",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511b8d5c15b29c227ccd5e8db5",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Dream Believers",
+        "release_date": "2023-03-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1bY7QMGccPmba1f1frZ8Xb",
+            "name": "蓮ノ空女学院スクールアイドルクラブ",
+            "url": "https://open.spotify.com/artist/1bY7QMGccPmba1f1frZ8Xb"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1SLUZBM04XJrH3y9b8mfPZ",
+        "total_tracks": 6
+      },
+      "duration_ms": 216312,
+      "popularity": 6,
+      "url": "https://open.spotify.com/track/1ZTCKDuj8qf6ItRQC3MLxr"
+    },
+    {
+      "id": "7b5kWMEMAlCHJrcnOrTKd2",
+      "name": "ツバサ・ラ・リベルテ",
+      "artists": [
+        {
+          "id": "1bY7QMGccPmba1f1frZ8Xb",
+          "name": "蓮ノ空女学院スクールアイドルクラブ",
+          "url": "https://open.spotify.com/artist/1bY7QMGccPmba1f1frZ8Xb"
+        }
+      ],
+      "album": {
+        "id": "7eoVHI0HBN6UzeCDKer2rf",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c1371c14aeb35335e8a01ba3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c1371c14aeb35335e8a01ba3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c1371c14aeb35335e8a01ba3",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Link to the FUTURE",
+        "release_date": "2024-01-17",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1bY7QMGccPmba1f1frZ8Xb",
+            "name": "蓮ノ空女学院スクールアイドルクラブ",
+            "url": "https://open.spotify.com/artist/1bY7QMGccPmba1f1frZ8Xb"
+          }
+        ],
+        "url": "https://open.spotify.com/album/7eoVHI0HBN6UzeCDKer2rf",
+        "total_tracks": 6
+      },
+      "duration_ms": 297191,
+      "popularity": 3,
+      "url": "https://open.spotify.com/track/7b5kWMEMAlCHJrcnOrTKd2"
+    },
+    {
+      "id": "56hreyBUabzSo4T4k3vrHe",
+      "name": "Holiday∞Holiday",
+      "artists": [
+        {
+          "id": "1mrTF6CiKue6LW1F1AHjvD",
+          "name": "スリーズブーケ",
+          "url": "https://open.spotify.com/artist/1mrTF6CiKue6LW1F1AHjvD"
+        }
+      ],
+      "album": {
+        "id": "1phGekvPpXpfT0Gafbg0bv",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b05f276d9b290c1fe7df5604",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b05f276d9b290c1fe7df5604",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b05f276d9b290c1fe7df5604",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Holiday Holiday / Tragic Drops (スリーズブーケ盤)",
+        "release_date": "2023-06-14",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1mrTF6CiKue6LW1F1AHjvD",
+            "name": "スリーズブーケ",
+            "url": "https://open.spotify.com/artist/1mrTF6CiKue6LW1F1AHjvD"
+          },
+          {
+            "id": "6M4HRvHCFBOWlPW3Tn2Oqh",
+            "name": "DOLLCHESTRA",
+            "url": "https://open.spotify.com/artist/6M4HRvHCFBOWlPW3Tn2Oqh"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1phGekvPpXpfT0Gafbg0bv",
+        "total_tracks": 4
+      },
+      "duration_ms": 256290,
+      "popularity": 11,
+      "url": "https://open.spotify.com/track/56hreyBUabzSo4T4k3vrHe"
+    },
+    {
+      "id": "5ueyK4CYcMQ1KdhZAMAsLj",
+      "name": "以心☆電信",
+      "artists": [
+        {
+          "id": "3he8Hc0WxcVbpLzFpRsnO4",
+          "name": "みらくらぱーく!",
+          "url": "https://open.spotify.com/artist/3he8Hc0WxcVbpLzFpRsnO4"
+        }
+      ],
+      "album": {
+        "id": "7qy2t3uQSFAVwuUAa4BedI",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27393b7fb3320c3cb0fcd39453a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0293b7fb3320c3cb0fcd39453a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485193b7fb3320c3cb0fcd39453a",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "以心☆電信",
+        "release_date": "2024-03-27",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "3he8Hc0WxcVbpLzFpRsnO4",
+            "name": "みらくらぱーく!",
+            "url": "https://open.spotify.com/artist/3he8Hc0WxcVbpLzFpRsnO4"
+          }
+        ],
+        "url": "https://open.spotify.com/album/7qy2t3uQSFAVwuUAa4BedI",
+        "total_tracks": 6
+      },
+      "duration_ms": 220720,
+      "popularity": 3,
+      "url": "https://open.spotify.com/track/5ueyK4CYcMQ1KdhZAMAsLj"
+    },
+    {
+      "id": "6WQEUpGq9j5ztpCXJ3LWZo",
+      "name": "Take It Over",
+      "artists": [
+        {
+          "id": "6M4HRvHCFBOWlPW3Tn2Oqh",
+          "name": "DOLLCHESTRA",
+          "url": "https://open.spotify.com/artist/6M4HRvHCFBOWlPW3Tn2Oqh"
+        }
+      ],
+      "album": {
+        "id": "5imvavCbQ1ZA4nWVAF48YN",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27360db3e7456c911311241ab69",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0260db3e7456c911311241ab69",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485160db3e7456c911311241ab69",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Take It Over",
+        "release_date": "2023-11-22",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6M4HRvHCFBOWlPW3Tn2Oqh",
+            "name": "DOLLCHESTRA",
+            "url": "https://open.spotify.com/artist/6M4HRvHCFBOWlPW3Tn2Oqh"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5imvavCbQ1ZA4nWVAF48YN",
+        "total_tracks": 6
+      },
+      "duration_ms": 226653,
+      "popularity": 3,
+      "url": "https://open.spotify.com/track/6WQEUpGq9j5ztpCXJ3LWZo"
+    },
+    {
+      "id": "7ydberivcyRW16Ao6Ss7La",
+      "name": "Link to the FUTURE",
+      "artists": [
+        {
+          "id": "6L7wKf6aQv6A3OpiuMITqM",
+          "name": "スリーズブーケ",
+          "url": "https://open.spotify.com/artist/6L7wKf6aQv6A3OpiuMITqM"
+        },
+        {
+          "id": "6M4HRvHCFBOWlPW3Tn2Oqh",
+          "name": "DOLLCHESTRA",
+          "url": "https://open.spotify.com/artist/6M4HRvHCFBOWlPW3Tn2Oqh"
+        },
+        {
+          "id": "3he8Hc0WxcVbpLzFpRsnO4",
+          "name": "みらくらぱーく!",
+          "url": "https://open.spotify.com/artist/3he8Hc0WxcVbpLzFpRsnO4"
+        }
+      ],
+      "album": {
+        "id": "7eoVHI0HBN6UzeCDKer2rf",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c1371c14aeb35335e8a01ba3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c1371c14aeb35335e8a01ba3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c1371c14aeb35335e8a01ba3",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Link to the FUTURE",
+        "release_date": "2024-01-17",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1bY7QMGccPmba1f1frZ8Xb",
+            "name": "蓮ノ空女学院スクールアイドルクラブ",
+            "url": "https://open.spotify.com/artist/1bY7QMGccPmba1f1frZ8Xb"
+          }
+        ],
+        "url": "https://open.spotify.com/album/7eoVHI0HBN6UzeCDKer2rf",
+        "total_tracks": 6
+      },
+      "duration_ms": 299823,
+      "popularity": 4,
+      "url": "https://open.spotify.com/track/7ydberivcyRW16Ao6Ss7La"
+    },
+    {
+      "id": "5mwfnFY0b4SWerkHq339mq",
+      "name": "青とシャボン",
+      "artists": [
+        {
+          "id": "6M4HRvHCFBOWlPW3Tn2Oqh",
+          "name": "DOLLCHESTRA",
+          "url": "https://open.spotify.com/artist/6M4HRvHCFBOWlPW3Tn2Oqh"
+        }
+      ],
+      "album": {
+        "id": "5WNsLquCW0KkCRgsrTzOXI",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739b911aa526eb77071f45c2fe",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029b911aa526eb77071f45c2fe",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519b911aa526eb77071f45c2fe",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Special Thanks / 青とシャボン / ミルク",
+        "release_date": "2024-02-14",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6L7wKf6aQv6A3OpiuMITqM",
+            "name": "スリーズブーケ",
+            "url": "https://open.spotify.com/artist/6L7wKf6aQv6A3OpiuMITqM"
+          },
+          {
+            "id": "6M4HRvHCFBOWlPW3Tn2Oqh",
+            "name": "DOLLCHESTRA",
+            "url": "https://open.spotify.com/artist/6M4HRvHCFBOWlPW3Tn2Oqh"
+          },
+          {
+            "id": "3he8Hc0WxcVbpLzFpRsnO4",
+            "name": "みらくらぱーく!",
+            "url": "https://open.spotify.com/artist/3he8Hc0WxcVbpLzFpRsnO4"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5WNsLquCW0KkCRgsrTzOXI",
+        "total_tracks": 6
+      },
+      "duration_ms": 253415,
+      "popularity": 2,
+      "url": "https://open.spotify.com/track/5mwfnFY0b4SWerkHq339mq"
+    },
+    {
+      "id": "2Pgm7uAhOGyVpSY3XrIKAU",
+      "name": "パラレルダンサー",
+      "artists": [
+        {
+          "id": "6M4HRvHCFBOWlPW3Tn2Oqh",
+          "name": "DOLLCHESTRA",
+          "url": "https://open.spotify.com/artist/6M4HRvHCFBOWlPW3Tn2Oqh"
+        }
+      ],
+      "album": {
+        "id": "3AzT04ZzFHuzH1PqDNo5dU",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e0aad02d2554badd355d8606",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e0aad02d2554badd355d8606",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e0aad02d2554badd355d8606",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "夏めきペイン",
+        "release_date": "2023-09-20",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1bY7QMGccPmba1f1frZ8Xb",
+            "name": "蓮ノ空女学院スクールアイドルクラブ",
+            "url": "https://open.spotify.com/artist/1bY7QMGccPmba1f1frZ8Xb"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3AzT04ZzFHuzH1PqDNo5dU",
+        "total_tracks": 10
+      },
+      "duration_ms": 194930,
+      "popularity": 4,
+      "url": "https://open.spotify.com/track/2Pgm7uAhOGyVpSY3XrIKAU"
+    },
+    {
+      "id": "60G03AriuPqjd6rSE064P6",
+      "name": "ミルク",
+      "artists": [
+        {
+          "id": "3he8Hc0WxcVbpLzFpRsnO4",
+          "name": "みらくらぱーく!",
+          "url": "https://open.spotify.com/artist/3he8Hc0WxcVbpLzFpRsnO4"
+        }
+      ],
+      "album": {
+        "id": "5WNsLquCW0KkCRgsrTzOXI",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739b911aa526eb77071f45c2fe",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029b911aa526eb77071f45c2fe",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519b911aa526eb77071f45c2fe",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Special Thanks / 青とシャボン / ミルク",
+        "release_date": "2024-02-14",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6L7wKf6aQv6A3OpiuMITqM",
+            "name": "スリーズブーケ",
+            "url": "https://open.spotify.com/artist/6L7wKf6aQv6A3OpiuMITqM"
+          },
+          {
+            "id": "6M4HRvHCFBOWlPW3Tn2Oqh",
+            "name": "DOLLCHESTRA",
+            "url": "https://open.spotify.com/artist/6M4HRvHCFBOWlPW3Tn2Oqh"
+          },
+          {
+            "id": "3he8Hc0WxcVbpLzFpRsnO4",
+            "name": "みらくらぱーく!",
+            "url": "https://open.spotify.com/artist/3he8Hc0WxcVbpLzFpRsnO4"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5WNsLquCW0KkCRgsrTzOXI",
+        "total_tracks": 6
+      },
+      "duration_ms": 292107,
+      "popularity": 2,
+      "url": "https://open.spotify.com/track/60G03AriuPqjd6rSE064P6"
+    },
+    {
+      "id": "3iPHOzYJKrns803nikFHpV",
+      "name": "アイデンティティ",
+      "artists": [
+        {
+          "id": "3he8Hc0WxcVbpLzFpRsnO4",
+          "name": "みらくらぱーく!",
+          "url": "https://open.spotify.com/artist/3he8Hc0WxcVbpLzFpRsnO4"
+        }
+      ],
+      "album": {
+        "id": "0A2mfW5i2Eg9bsLhCb8AJ1",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27344c6a562a1c27275953d41bc",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0244c6a562a1c27275953d41bc",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485144c6a562a1c27275953d41bc",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "アイデンティティ",
+        "release_date": "2023-11-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "3he8Hc0WxcVbpLzFpRsnO4",
+            "name": "みらくらぱーく!",
+            "url": "https://open.spotify.com/artist/3he8Hc0WxcVbpLzFpRsnO4"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0A2mfW5i2Eg9bsLhCb8AJ1",
+        "total_tracks": 6
+      },
+      "duration_ms": 197085,
+      "popularity": 4,
+      "url": "https://open.spotify.com/track/3iPHOzYJKrns803nikFHpV"
+    },
+    {
+      "id": "2iOAgKKzmgfWVcb29KtRQi",
+      "name": "Special Thanks",
+      "artists": [
+        {
+          "id": "6L7wKf6aQv6A3OpiuMITqM",
+          "name": "スリーズブーケ",
+          "url": "https://open.spotify.com/artist/6L7wKf6aQv6A3OpiuMITqM"
+        }
+      ],
+      "album": {
+        "id": "5WNsLquCW0KkCRgsrTzOXI",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739b911aa526eb77071f45c2fe",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029b911aa526eb77071f45c2fe",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519b911aa526eb77071f45c2fe",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Special Thanks / 青とシャボン / ミルク",
+        "release_date": "2024-02-14",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6L7wKf6aQv6A3OpiuMITqM",
+            "name": "スリーズブーケ",
+            "url": "https://open.spotify.com/artist/6L7wKf6aQv6A3OpiuMITqM"
+          },
+          {
+            "id": "6M4HRvHCFBOWlPW3Tn2Oqh",
+            "name": "DOLLCHESTRA",
+            "url": "https://open.spotify.com/artist/6M4HRvHCFBOWlPW3Tn2Oqh"
+          },
+          {
+            "id": "3he8Hc0WxcVbpLzFpRsnO4",
+            "name": "みらくらぱーく!",
+            "url": "https://open.spotify.com/artist/3he8Hc0WxcVbpLzFpRsnO4"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5WNsLquCW0KkCRgsrTzOXI",
+        "total_tracks": 6
+      },
+      "duration_ms": 206331,
+      "popularity": 3,
+      "url": "https://open.spotify.com/track/2iOAgKKzmgfWVcb29KtRQi"
+    },
+    {
+      "id": "3JzDmpHnhJdwnLMd2bfAPD",
+      "name": "シュガーメルト",
+      "artists": [
+        {
+          "id": "6L7wKf6aQv6A3OpiuMITqM",
+          "name": "スリーズブーケ",
+          "url": "https://open.spotify.com/artist/6L7wKf6aQv6A3OpiuMITqM"
+        }
+      ],
+      "album": {
+        "id": "6sRuvw1SOzDxG0XATDaIkt",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27380068eb4a37f12a27c25e421",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0280068eb4a37f12a27c25e421",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485180068eb4a37f12a27c25e421",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "素顔のピクセル",
+        "release_date": "2023-11-15",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6L7wKf6aQv6A3OpiuMITqM",
+            "name": "スリーズブーケ",
+            "url": "https://open.spotify.com/artist/6L7wKf6aQv6A3OpiuMITqM"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6sRuvw1SOzDxG0XATDaIkt",
+        "total_tracks": 6
+      },
+      "duration_ms": 244223,
+      "popularity": 3,
+      "url": "https://open.spotify.com/track/3JzDmpHnhJdwnLMd2bfAPD"
+    },
+    {
+      "id": "6G2wErX82coTl2AnxxMSS7",
+      "name": "抱きしめる花びら",
+      "artists": [
+        {
+          "id": "1bY7QMGccPmba1f1frZ8Xb",
+          "name": "蓮ノ空女学院スクールアイドルクラブ",
+          "url": "https://open.spotify.com/artist/1bY7QMGccPmba1f1frZ8Xb"
+        }
+      ],
+      "album": {
+        "id": "3WUB8ST2KBEFjSOdBYE8pK",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27365086921c8a39a7becaa48c6",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0265086921c8a39a7becaa48c6",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485165086921c8a39a7becaa48c6",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "抱きしめる花びら",
+        "release_date": "2024-04-03",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1bY7QMGccPmba1f1frZ8Xb",
+            "name": "蓮ノ空女学院スクールアイドルクラブ",
+            "url": "https://open.spotify.com/artist/1bY7QMGccPmba1f1frZ8Xb"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3WUB8ST2KBEFjSOdBYE8pK",
+        "total_tracks": 4
+      },
+      "duration_ms": 299533,
+      "popularity": 2,
+      "url": "https://open.spotify.com/track/6G2wErX82coTl2AnxxMSS7"
+    },
+    {
+      "id": "1mmlaowthCxBvB3Lwt1EoB",
+      "name": "Legato",
+      "artists": [
+        {
+          "id": "1bY7QMGccPmba1f1frZ8Xb",
+          "name": "蓮ノ空女学院スクールアイドルクラブ",
+          "url": "https://open.spotify.com/artist/1bY7QMGccPmba1f1frZ8Xb"
+        }
+      ],
+      "album": {
+        "id": "3AzT04ZzFHuzH1PqDNo5dU",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e0aad02d2554badd355d8606",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e0aad02d2554badd355d8606",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e0aad02d2554badd355d8606",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "夏めきペイン",
+        "release_date": "2023-09-20",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1bY7QMGccPmba1f1frZ8Xb",
+            "name": "蓮ノ空女学院スクールアイドルクラブ",
+            "url": "https://open.spotify.com/artist/1bY7QMGccPmba1f1frZ8Xb"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3AzT04ZzFHuzH1PqDNo5dU",
+        "total_tracks": 10
+      },
+      "duration_ms": 291761,
+      "popularity": 3,
+      "url": "https://open.spotify.com/track/1mmlaowthCxBvB3Lwt1EoB"
+    },
+    {
+      "id": "1Yt6acUiarfV1HjLlF3zz0",
+      "name": "DEEPNESS",
+      "artists": [
+        {
+          "id": "6NmJoxOriKedeYcurRXjKS",
+          "name": "蓮ノ空女学院スクールアイドルクラブ",
+          "url": "https://open.spotify.com/artist/6NmJoxOriKedeYcurRXjKS"
+        }
+      ],
+      "album": {
+        "id": "1PlAeoYTrMYrweEdjewdwT",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273df068f701e2b837dd2ec8a36",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02df068f701e2b837dd2ec8a36",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851df068f701e2b837dd2ec8a36",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Mirage Voyage",
+        "release_date": "2023-08-09",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "5M5Kv02fK6jCSK99IB04qg",
+            "name": "DOLLCHESTRA",
+            "url": "https://open.spotify.com/artist/5M5Kv02fK6jCSK99IB04qg"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1PlAeoYTrMYrweEdjewdwT",
+        "total_tracks": 6
+      },
+      "duration_ms": 264733,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/1Yt6acUiarfV1HjLlF3zz0"
+    },
+    {
+      "id": "5aWKHY8SI52dN1xKApx7RD",
+      "name": "On your mark",
+      "artists": [
+        {
+          "id": "1bY7QMGccPmba1f1frZ8Xb",
+          "name": "蓮ノ空女学院スクールアイドルクラブ",
+          "url": "https://open.spotify.com/artist/1bY7QMGccPmba1f1frZ8Xb"
+        }
+      ],
+      "album": {
+        "id": "1SLUZBM04XJrH3y9b8mfPZ",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731b8d5c15b29c227ccd5e8db5",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021b8d5c15b29c227ccd5e8db5",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511b8d5c15b29c227ccd5e8db5",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Dream Believers",
+        "release_date": "2023-03-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1bY7QMGccPmba1f1frZ8Xb",
+            "name": "蓮ノ空女学院スクールアイドルクラブ",
+            "url": "https://open.spotify.com/artist/1bY7QMGccPmba1f1frZ8Xb"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1SLUZBM04XJrH3y9b8mfPZ",
+        "total_tracks": 6
+      },
+      "duration_ms": 236053,
+      "popularity": 8,
+      "url": "https://open.spotify.com/track/5aWKHY8SI52dN1xKApx7RD"
+    },
+    {
+      "id": "5JpnZSlyQdieFmG0DxK4ph",
+      "name": "Colorfulness",
+      "artists": [
+        {
+          "id": "6p7hDshfZUv61w2R6cvXTN",
+          "name": "るりのとゆかいなつづりたち",
+          "url": "https://open.spotify.com/artist/6p7hDshfZUv61w2R6cvXTN"
+        }
+      ],
+      "album": {
+        "id": "1QJmyBlrNxny3Tsu2raAWY",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2730bef024901a1bd6b2e47462f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e020bef024901a1bd6b2e47462f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048510bef024901a1bd6b2e47462f",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Colorfulness / ハッピー至上主義！ / Pleasure Feather",
+        "release_date": "2024-03-20",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6p7hDshfZUv61w2R6cvXTN",
+            "name": "るりのとゆかいなつづりたち",
+            "url": "https://open.spotify.com/artist/6p7hDshfZUv61w2R6cvXTN"
+          },
+          {
+            "id": "32cDWjJcbkr9PsrlaS5Vkt",
+            "name": "かほめぐ♡じぇらーと",
+            "url": "https://open.spotify.com/artist/32cDWjJcbkr9PsrlaS5Vkt"
+          },
+          {
+            "id": "2HcVhceK0VTU7A6TGijFFe",
+            "name": "蓮ノ休日",
+            "url": "https://open.spotify.com/artist/2HcVhceK0VTU7A6TGijFFe"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1QJmyBlrNxny3Tsu2raAWY",
+        "total_tracks": 6
+      },
+      "duration_ms": 214387,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/5JpnZSlyQdieFmG0DxK4ph"
+    },
+    {
+      "id": "5xRJXvSPCa03gWSmPJPViN",
+      "name": "Pleasure Feather",
+      "artists": [
+        {
+          "id": "2HcVhceK0VTU7A6TGijFFe",
+          "name": "蓮ノ休日",
+          "url": "https://open.spotify.com/artist/2HcVhceK0VTU7A6TGijFFe"
+        }
+      ],
+      "album": {
+        "id": "1QJmyBlrNxny3Tsu2raAWY",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2730bef024901a1bd6b2e47462f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e020bef024901a1bd6b2e47462f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048510bef024901a1bd6b2e47462f",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Colorfulness / ハッピー至上主義！ / Pleasure Feather",
+        "release_date": "2024-03-20",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6p7hDshfZUv61w2R6cvXTN",
+            "name": "るりのとゆかいなつづりたち",
+            "url": "https://open.spotify.com/artist/6p7hDshfZUv61w2R6cvXTN"
+          },
+          {
+            "id": "32cDWjJcbkr9PsrlaS5Vkt",
+            "name": "かほめぐ♡じぇらーと",
+            "url": "https://open.spotify.com/artist/32cDWjJcbkr9PsrlaS5Vkt"
+          },
+          {
+            "id": "2HcVhceK0VTU7A6TGijFFe",
+            "name": "蓮ノ休日",
+            "url": "https://open.spotify.com/artist/2HcVhceK0VTU7A6TGijFFe"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1QJmyBlrNxny3Tsu2raAWY",
+        "total_tracks": 6
+      },
+      "duration_ms": 256919,
+      "popularity": 2,
+      "url": "https://open.spotify.com/track/5xRJXvSPCa03gWSmPJPViN"
+    },
+    {
+      "id": "1yqpRlD8OLmQkYk7SS9Ic3",
+      "name": "ハッピー至上主義！",
+      "artists": [
+        {
+          "id": "32cDWjJcbkr9PsrlaS5Vkt",
+          "name": "かほめぐ♡じぇらーと",
+          "url": "https://open.spotify.com/artist/32cDWjJcbkr9PsrlaS5Vkt"
+        }
+      ],
+      "album": {
+        "id": "1QJmyBlrNxny3Tsu2raAWY",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2730bef024901a1bd6b2e47462f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e020bef024901a1bd6b2e47462f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048510bef024901a1bd6b2e47462f",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Colorfulness / ハッピー至上主義！ / Pleasure Feather",
+        "release_date": "2024-03-20",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6p7hDshfZUv61w2R6cvXTN",
+            "name": "るりのとゆかいなつづりたち",
+            "url": "https://open.spotify.com/artist/6p7hDshfZUv61w2R6cvXTN"
+          },
+          {
+            "id": "32cDWjJcbkr9PsrlaS5Vkt",
+            "name": "かほめぐ♡じぇらーと",
+            "url": "https://open.spotify.com/artist/32cDWjJcbkr9PsrlaS5Vkt"
+          },
+          {
+            "id": "2HcVhceK0VTU7A6TGijFFe",
+            "name": "蓮ノ休日",
+            "url": "https://open.spotify.com/artist/2HcVhceK0VTU7A6TGijFFe"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1QJmyBlrNxny3Tsu2raAWY",
+        "total_tracks": 6
+      },
+      "duration_ms": 228599,
+      "popularity": 3,
+      "url": "https://open.spotify.com/track/1yqpRlD8OLmQkYk7SS9Ic3"
+    },
+    {
+      "id": "2Eqagz4V4WQjoJ7ymOWA07",
+      "name": "Dream Believers - 104期 Ver.",
+      "artists": [
+        {
+          "id": "1bY7QMGccPmba1f1frZ8Xb",
+          "name": "蓮ノ空女学院スクールアイドルクラブ",
+          "url": "https://open.spotify.com/artist/1bY7QMGccPmba1f1frZ8Xb"
+        }
+      ],
+      "album": {
+        "id": "3dMHV6SE7aFr0l7Dd7UiLS",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ad18ec24726c9b4573d041a6",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ad18ec24726c9b4573d041a6",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ad18ec24726c9b4573d041a6",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Dream Believers (104期 Ver.)",
+        "release_date": "2024-04-17",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1bY7QMGccPmba1f1frZ8Xb",
+            "name": "蓮ノ空女学院スクールアイドルクラブ",
+            "url": "https://open.spotify.com/artist/1bY7QMGccPmba1f1frZ8Xb"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3dMHV6SE7aFr0l7Dd7UiLS",
+        "total_tracks": 6
+      },
+      "duration_ms": 317740,
+      "popularity": 3,
+      "url": "https://open.spotify.com/track/2Eqagz4V4WQjoJ7ymOWA07"
+    },
+    {
+      "id": "0CC67baprdLQVTiSUIoQdI",
+      "name": "STEP UP !",
+      "artists": [
+        {
+          "id": "1bY7QMGccPmba1f1frZ8Xb",
+          "name": "蓮ノ空女学院スクールアイドルクラブ",
+          "url": "https://open.spotify.com/artist/1bY7QMGccPmba1f1frZ8Xb"
+        }
+      ],
+      "album": {
+        "id": "3WUB8ST2KBEFjSOdBYE8pK",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27365086921c8a39a7becaa48c6",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0265086921c8a39a7becaa48c6",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485165086921c8a39a7becaa48c6",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "抱きしめる花びら",
+        "release_date": "2024-04-03",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1bY7QMGccPmba1f1frZ8Xb",
+            "name": "蓮ノ空女学院スクールアイドルクラブ",
+            "url": "https://open.spotify.com/artist/1bY7QMGccPmba1f1frZ8Xb"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3WUB8ST2KBEFjSOdBYE8pK",
+        "total_tracks": 4
+      },
+      "duration_ms": 247120,
+      "popularity": 2,
+      "url": "https://open.spotify.com/track/0CC67baprdLQVTiSUIoQdI"
+    },
+    {
+      "id": "6ImIP53PHXFcpYJJxmU9rx",
+      "name": "永遠のEuphoria",
+      "artists": [
+        {
+          "id": "1bY7QMGccPmba1f1frZ8Xb",
+          "name": "蓮ノ空女学院スクールアイドルクラブ",
+          "url": "https://open.spotify.com/artist/1bY7QMGccPmba1f1frZ8Xb"
+        }
+      ],
+      "album": {
+        "id": "1SLUZBM04XJrH3y9b8mfPZ",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731b8d5c15b29c227ccd5e8db5",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021b8d5c15b29c227ccd5e8db5",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511b8d5c15b29c227ccd5e8db5",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Dream Believers",
+        "release_date": "2023-03-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1bY7QMGccPmba1f1frZ8Xb",
+            "name": "蓮ノ空女学院スクールアイドルクラブ",
+            "url": "https://open.spotify.com/artist/1bY7QMGccPmba1f1frZ8Xb"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1SLUZBM04XJrH3y9b8mfPZ",
+        "total_tracks": 6
+      },
+      "duration_ms": 276373,
+      "popularity": 4,
+      "url": "https://open.spotify.com/track/6ImIP53PHXFcpYJJxmU9rx"
+    }
+  ],
+  "description": "M16.Runway EN.1 DEEPNESS(6人Ver) EN.6 Dream Believers(9人Ver) &#x2F; 蓮ノ空女学院スクールアイドルクラブ 2nd Live Tour 〜Blooming with ○○○〜 &#x2F; 幕張メッセ 国際展示場",
+  "name": "2024.04.20 蓮ノ空 2nd Live Tour 千葉 Day1",
+  "owner": {
+    "display_name": "502bg",
+    "url": "https://open.spotify.com/user/4woroafc3tx648l7zc8quofbf",
+    "id": "4woroafc3tx648l7zc8quofbf"
+  },
+  "url": "https://open.spotify.com/playlist/0ByO94WRJ7GhrGRvSeIYLH"
+}

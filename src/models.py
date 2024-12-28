@@ -5,18 +5,18 @@ from dataclasses import dataclass
 import spotipy
 from dotenv import load_dotenv
 from markdown import Markdown
-from spotipy.oauth2 import SpotifyOAuth
+from spotipy.oauth2 import SpotifyOAuth, SpotifyClientCredentials
 
 load_dotenv()
 
-# sp = spotipy.Spotify(
-#     auth_manager=SpotifyClientCredentials(
-#         client_id=os.environ["CLIENT_ID"],
-#         client_secret=os.environ["CLIENT_SECRET"],
-#     )
-# )
+sp_credential = spotipy.Spotify(
+    auth_manager=SpotifyClientCredentials(
+        client_id=os.environ["CLIENT_ID"],
+        client_secret=os.environ["CLIENT_SECRET"],
+    )
+)
 
-sp = spotipy.Spotify(
+sp_oauth = spotipy.Spotify(
     auth_manager=SpotifyOAuth(
         client_id=os.environ["CLIENT_ID"],
         client_secret=os.environ["CLIENT_SECRET"],
@@ -48,7 +48,7 @@ class Playlist:
 
     @classmethod
     def from_playlist_id(cls, playlist_id: int):
-        playlist = sp.playlist(playlist_id)
+        playlist = sp_credential.playlist(playlist_id)
         if not playlist:
             print("playlist not found")
             return None
@@ -58,7 +58,7 @@ class Playlist:
         limit = 100
         tracks = []
         while True:
-            playlist_tracks = sp.playlist_tracks(
+            playlist_tracks = sp_credential.playlist_tracks(
                 playlist_id, limit=limit, offset=offset
             )
             tracks.extend([Track.from_dict(t) for t in playlist_tracks["items"]])
@@ -232,7 +232,7 @@ class MyPlaylist:
 
     def import_playlist(self, playlist: dict):
         # 既に自身のプレイリストに同じ名前のプレイリストがあったら何もしない
-        playlists = sp.current_user_playlists()
+        playlists = sp_credential.current_user_playlists()
         if not playlists:
             print("failed to get playlists")
             return
@@ -244,7 +244,7 @@ class MyPlaylist:
                 print(f"playlist {p['id']} already exists")
                 return
 
-        new_playlist = sp.user_playlist_create(
+        new_playlist = sp_credential.user_playlist_create(
             self.user_id, playlist["name"], public=False
         )
         if not new_playlist:
@@ -254,7 +254,7 @@ class MyPlaylist:
         track_ids = [track["id"] for track in playlist["tracks"]]
         for i in range(0, len(track_ids), chunk_size):
             chunk = track_ids[i : i + chunk_size]
-            sp.user_playlist_add_tracks(
+            sp_oauth.user_playlist_add_tracks(
                 self.user_id,
                 new_playlist["id"],
                 chunk,
@@ -268,7 +268,7 @@ class UserPlaylist:
 
     @classmethod
     def from_user_id(cls, user_id: str):
-        playlists = sp.user_playlists(user_id)
+        playlists = sp_credential.user_playlists(user_id)
         if not playlists:
             print("failed to get playlists")
             return None

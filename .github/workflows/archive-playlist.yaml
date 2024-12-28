@@ -32,6 +32,9 @@ jobs:
       - name: Install dependencies
         run: uv sync
 
+      - name: Set Date
+        run: echo "DATE=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
+
       - name: Cache Value Set          
         run: |
           echo "${{ secrets.SPOTIPY_CACHE_SECRET }}" > "${HOME}/.spotipy_cache"
@@ -45,17 +48,24 @@ jobs:
           SPOTIPY_CACHE: "${HOME}/.spotipy_cache"
         run: uv run src/archive.py archive-playlist --id $PLAYLIST_ID
 
-      # git add, git commit
+      - name: Set Branch Name
+        run: echo "BRANCH=playlist-${{ github.event.inputs.playlist_id }}" >> $GITHUB_ENV
+
       - name: Commit changes
+        env:
+          BRANCH: ${{ env.BRANCH }}
         run: |
           git config --global user.name 'GitHub Actions'
           git config --global user.email 'actions@github.com'
+          git checkuot -B "${BRANCH}"
           git add archive
           git commit -m "Archive playlist: ${{ github.event.inputs.playlist_id }} - $(date '+%Y-%m-%d')"
     
       # 手動実行したブランチに対してPRを作成する
       - name: Create pull request
         uses: peter-evans/create-pull-request@v7
+        env:
+          BRANCH: ${{ env.BRANCH }}
         with:
           token: ${{ secrets.ACCESS_TOKEN }}
           commit-message: 'Archive playlist: ${{ github.event.inputs.playlist_id }}'
@@ -64,6 +74,5 @@ jobs:
             This PR archives the playlist with ID: ${{ github.event.inputs.playlist_id }}.
             
             Triggered manually via workflow_dispatch.
-          branch: 'archive-playlist-${{ github.event.inputs.playlist_id }}'
+          branch: "${BRANCH}"
           base: '${{ github.ref_name }}'
-

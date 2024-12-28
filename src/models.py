@@ -34,27 +34,32 @@ class Playlist:
 
     @property
     def readme(self) -> str:
-        traks_text = "\n".join(
-            [
-                f"| [{t.name}]({t.url}) | {' & '.join(a.name for a in t.artists)} | [{t.album.name}]({t.album.url}) | {t.min_and_sec[0]}分{t.min_and_sec[1]}秒 | {t.popularity} |"
-                for t in self.tracks
-            ]
-        )
-        markdown_text = f"""
-# {self.name}        
+        trakcs = []
+        for t in self.tracks:
+            name = f"[{t.name}]({t.url})"
+            artists = " & ".join(f"[{a.name}]({a.url})" for a in t.artists)
+            album = f"[{t.album.name}]({t.album.url})"
+            duration = f"{t.min_and_sec[0]}分{t.min_and_sec[1]}秒"
+            popularity = t.popularity
+            trakcs.append(
+                f"| {name} | {artists} | {album} | {duration} | {popularity} |\n"
+            )
+        traks_text = "".join(trakcs)
+        title = f"# {self.name}" if not self.name.startswith("# ") else self.name
+        return f"""{title}
 
 ## Description
 {self.description}        
 
 ## Owner
-[Owner]({self.owner.url})        
+[{self.owner.display_name}]({self.owner.url})
+
 
 ## Tracks
 | Track | Artist | Album | Duration | Popularity |
 | ----- | ------ | ----- | -------- | ---------- |
 {traks_text}
         """
-        return markdown_text
 
     @property
     def html(self) -> str:

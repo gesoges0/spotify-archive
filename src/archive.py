@@ -48,7 +48,7 @@ def archive_playlist(id: str):
         dir.mkdir(parents=True, exist_ok=True)
     with json_path.open("w") as j, readme_path.open("w") as r:
         json.dump(asdict(playlist), j, indent=2, ensure_ascii=False)
-        r.write(f"# {playlist.readme}\n")
+        r.write(f"{playlist.readme}\n")
 
 
 if __name__ == "__main__":

@@ -32,13 +32,19 @@ jobs:
       - name: Install dependencies
         run: uv sync
 
+      # ${{ secrets.SPOTIPY_CACHE_SECRET }} を$(pwd)/.cacheに設定
+      - name: Cache Value Set          
+        run: |
+          echo ${{ secrets.SPOTIPY_CACHE_SECRET }} > $(pwd)/.cache
+          echo "SPOTIPY_CACHE=$(pwd)/.cache"
+
       - name: Archive playlist
         env:
           PLAYLIST_ID: ${{ github.event.inputs.playlist_id }}
           CLIENT_ID: ${{ secrets.CLIENT_ID }}
           CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
           USER_ID: ${{ secrets.USER_ID }}
-          SPOTIPY_CACHE: ${{ secrets.SPOTIPY_CACHE }}
+          SPOTIPY_CACHE: $(pwd)/.cache
         run: uv run src/archive.py archive-playlist --id $PLAYLIST_ID
 
       # git add, git commit

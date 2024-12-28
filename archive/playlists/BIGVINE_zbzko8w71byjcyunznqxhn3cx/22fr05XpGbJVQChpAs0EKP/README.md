@@ -7,9 +7,14 @@ https://open.spotify.com/playlist/22fr05XpGbJVQChpAs0EKP
 ## Owner
 [BIGVINE](https://open.spotify.com/user/zbzko8w71byjcyunznqxhn3cx)
 
-## Tracks
-19 tracks
+# Statistics
+num tracks: 19
 
+duration: 83分20秒
+
+primary artists: [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE)
+
+## Tracks
 | no | Track | Artist | Album | Duration | Popularity |
 | -- | ----- | ------ | ----- | -------- | ---------- |
 | 1 | [innocent starter](https://open.spotify.com/track/6HAAG01wmaFg7mjDBwRpZH) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [innocent starter](https://open.spotify.com/album/3Mm5J6uZ8yN30jCdODv856) | 4分41秒 | 27 |

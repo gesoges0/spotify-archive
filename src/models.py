@@ -1,4 +1,5 @@
 import os
+from collections import defaultdict
 from dataclasses import dataclass
 
 import spotipy
@@ -79,6 +80,18 @@ class Playlist:
             )
         traks_text = "\n".join(trakcs)
         title = f"# {self.name}" if not self.name.startswith("# ") else self.name
+        sum_duration = sum(t.duration_ms for t in self.tracks)
+        sum_duration_m, sum_duration_s = divmod(sum_duration // 1000, 60)
+
+        num_by_artist = defaultdict(int)
+        for t in self.tracks:
+            for a in t.artists:
+                num_by_artist[a] += 1
+        primary_artists = [
+            a[0]
+            for a in sorted(num_by_artist.items(), key=lambda x: x[1], reverse=True)[:3]
+        ]
+
         return f"""{title}
 {self.url}
 
@@ -88,9 +101,14 @@ class Playlist:
 ## Owner
 [{self.owner.display_name}]({self.owner.url})
 
-## Tracks
-{len(self.tracks)} tracks
+# Statistics
+num tracks: {len(self.tracks)}
 
+duration: {sum_duration_m}分{sum_duration_s}秒
+
+primary artists: {" & ".join(f"[{a.name}]({a.url})" for a in primary_artists)}
+
+## Tracks
 | no | Track | Artist | Album | Duration | Popularity |
 | -- | ----- | ------ | ----- | -------- | ---------- |
 {traks_text}

@@ -7,9 +7,14 @@ https://open.spotify.com/playlist/4Lzen2cvZjP5xf3HVZM9zG
 ## Owner
 [gesogeso](https://open.spotify.com/user/llc1xxsoknqgh69956sifvyi5)
 
-## Tracks
-10 tracks
+# Statistics
+num tracks: 10
 
+duration: 48分24秒
+
+primary artists: [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm)
+
+## Tracks
 | no | Track | Artist | Album | Duration | Popularity |
 | -- | ----- | ------ | ----- | -------- | ---------- |
 | 1 | [残響散歌](https://open.spotify.com/track/2cErTn7DU75ZILisPP34TB) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Open α Door](https://open.spotify.com/album/4BJ7PY6YSfHY9pu2nDFBiy) | 3分4秒 | 61 |

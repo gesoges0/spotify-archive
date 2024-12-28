@@ -7,9 +7,14 @@ https://open.spotify.com/playlist/6CpQWdViAFjjnXCEudZVQR
 ## Owner
 [gesogeso](https://open.spotify.com/user/llc1xxsoknqgh69956sifvyi5)
 
-## Tracks
-213 tracks
+# Statistics
+num tracks: 213
 
+duration: 804分52秒
+
+primary artists: [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) & [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) & [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU)
+
+## Tracks
 | no | Track | Artist | Album | Duration | Popularity |
 | -- | ----- | ------ | ----- | -------- | ---------- |
 | 1 | [Elastic Heart](https://open.spotify.com/track/6kwAbEjseqBob48jCus7Sz) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [1000 Forms Of Fear](https://open.spotify.com/album/3xFSl9lIRaYXIYkIn3OIl9) | 4分17秒 | 76 |

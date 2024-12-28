@@ -1,0 +1,1071 @@
+{
+  "id": "5lqjciDxUhJozsueibRWAi",
+  "tracks": [
+    {
+      "id": "6kV6k9vMNqBASlPVK557Na",
+      "name": "フェノメナルマン",
+      "artists": [
+        {
+          "id": "5upXI71QNPjLwir1YZgKEx",
+          "name": "cinema staff",
+          "url": "https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx"
+        }
+      ],
+      "album": {
+        "id": "4Azvu1ma0aQgwj8dTn6Fk4",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731af7c3465028e319c864904e",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021af7c3465028e319c864904e",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511af7c3465028e319c864904e",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "I SAY NO",
+        "release_date": "2023-06-21",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "5upXI71QNPjLwir1YZgKEx",
+            "name": "cinema staff",
+            "url": "https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4Azvu1ma0aQgwj8dTn6Fk4",
+        "total_tracks": 5
+      },
+      "duration_ms": 180500,
+      "popularity": 5,
+      "url": "https://open.spotify.com/track/6kV6k9vMNqBASlPVK557Na"
+    },
+    {
+      "id": "3yGT3b9BAqeBFVxMKOgO4S",
+      "name": "シャドウ",
+      "artists": [
+        {
+          "id": "5upXI71QNPjLwir1YZgKEx",
+          "name": "cinema staff",
+          "url": "https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx"
+        }
+      ],
+      "album": {
+        "id": "0o28OzGncFCkfEVB49uE4e",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27356bc850aa3fee195534b67b5",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0256bc850aa3fee195534b67b5",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485156bc850aa3fee195534b67b5",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "blueprint",
+        "release_date": "2015-04-22",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "5upXI71QNPjLwir1YZgKEx",
+            "name": "cinema staff",
+            "url": "https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0o28OzGncFCkfEVB49uE4e",
+        "total_tracks": 12
+      },
+      "duration_ms": 267133,
+      "popularity": 10,
+      "url": "https://open.spotify.com/track/3yGT3b9BAqeBFVxMKOgO4S"
+    },
+    {
+      "id": "3Jrl90BkaKiYrgWYbw0EgV",
+      "name": "海底",
+      "artists": [
+        {
+          "id": "5upXI71QNPjLwir1YZgKEx",
+          "name": "cinema staff",
+          "url": "https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx"
+        }
+      ],
+      "album": {
+        "id": "75sqlBUXkAu2Wxth5ArG3R",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a8e47aaa8332dcf6dce0370a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a8e47aaa8332dcf6dce0370a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a8e47aaa8332dcf6dce0370a",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "海底より愛をこめて",
+        "release_date": "2021-11-03",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "5upXI71QNPjLwir1YZgKEx",
+            "name": "cinema staff",
+            "url": "https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx"
+          }
+        ],
+        "url": "https://open.spotify.com/album/75sqlBUXkAu2Wxth5ArG3R",
+        "total_tracks": 12
+      },
+      "duration_ms": 184013,
+      "popularity": 17,
+      "url": "https://open.spotify.com/track/3Jrl90BkaKiYrgWYbw0EgV"
+    },
+    {
+      "id": "3mkJaTEf5rgjWOhy4V7PX9",
+      "name": "切り札",
+      "artists": [
+        {
+          "id": "5upXI71QNPjLwir1YZgKEx",
+          "name": "cinema staff",
+          "url": "https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx"
+        }
+      ],
+      "album": {
+        "id": "0pF8faxLiiANqQnQ9DT5EG",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734bc5ce254a8bf0c9d5c53262",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024bc5ce254a8bf0c9d5c53262",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514bc5ce254a8bf0c9d5c53262",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "eve 通常盤",
+        "release_date": "2016-05-18",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "5upXI71QNPjLwir1YZgKEx",
+            "name": "cinema staff",
+            "url": "https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0pF8faxLiiANqQnQ9DT5EG",
+        "total_tracks": 13
+      },
+      "duration_ms": 215986,
+      "popularity": 23,
+      "url": "https://open.spotify.com/track/3mkJaTEf5rgjWOhy4V7PX9"
+    },
+    {
+      "id": "68ifD12iJpCQkQJCYZwPUH",
+      "name": "若者たち",
+      "artists": [
+        {
+          "id": "5upXI71QNPjLwir1YZgKEx",
+          "name": "cinema staff",
+          "url": "https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx"
+        }
+      ],
+      "album": {
+        "id": "75sqlBUXkAu2Wxth5ArG3R",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a8e47aaa8332dcf6dce0370a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a8e47aaa8332dcf6dce0370a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a8e47aaa8332dcf6dce0370a",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "海底より愛をこめて",
+        "release_date": "2021-11-03",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "5upXI71QNPjLwir1YZgKEx",
+            "name": "cinema staff",
+            "url": "https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx"
+          }
+        ],
+        "url": "https://open.spotify.com/album/75sqlBUXkAu2Wxth5ArG3R",
+        "total_tracks": 12
+      },
+      "duration_ms": 231453,
+      "popularity": 12,
+      "url": "https://open.spotify.com/track/68ifD12iJpCQkQJCYZwPUH"
+    },
+    {
+      "id": "72CdKBWZrpv1QdxqHMnRuz",
+      "name": "salvage me",
+      "artists": [
+        {
+          "id": "5upXI71QNPjLwir1YZgKEx",
+          "name": "cinema staff",
+          "url": "https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx"
+        }
+      ],
+      "album": {
+        "id": "2MOpfHn1q84dC5P35iRKSA",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b78786f33b88f6439afbf433",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b78786f33b88f6439afbf433",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b78786f33b88f6439afbf433",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "SALVAGE YOU",
+        "release_date": "2012-09-05",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "5upXI71QNPjLwir1YZgKEx",
+            "name": "cinema staff",
+            "url": "https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2MOpfHn1q84dC5P35iRKSA",
+        "total_tracks": 7
+      },
+      "duration_ms": 335173,
+      "popularity": 8,
+      "url": "https://open.spotify.com/track/72CdKBWZrpv1QdxqHMnRuz"
+    },
+    {
+      "id": "4ZOtps9bDDpmDJsk0RhZqZ",
+      "name": "小説家",
+      "artists": [
+        {
+          "id": "5upXI71QNPjLwir1YZgKEx",
+          "name": "cinema staff",
+          "url": "https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx"
+        }
+      ],
+      "album": {
+        "id": "2MOpfHn1q84dC5P35iRKSA",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b78786f33b88f6439afbf433",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b78786f33b88f6439afbf433",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b78786f33b88f6439afbf433",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "SALVAGE YOU",
+        "release_date": "2012-09-05",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "5upXI71QNPjLwir1YZgKEx",
+            "name": "cinema staff",
+            "url": "https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2MOpfHn1q84dC5P35iRKSA",
+        "total_tracks": 7
+      },
+      "duration_ms": 213400,
+      "popularity": 5,
+      "url": "https://open.spotify.com/track/4ZOtps9bDDpmDJsk0RhZqZ"
+    },
+    {
+      "id": "0iXYLrcgvd9u6ATFMIHMpD",
+      "name": "great escape",
+      "artists": [
+        {
+          "id": "5upXI71QNPjLwir1YZgKEx",
+          "name": "cinema staff",
+          "url": "https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx"
+        }
+      ],
+      "album": {
+        "id": "0Vm2xyKTkezYcMc5i8ehng",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2732d41c4dbcfb172ba5c992a3c",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e022d41c4dbcfb172ba5c992a3c",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048512d41c4dbcfb172ba5c992a3c",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "great escape",
+        "release_date": "2013-08-21",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "5upXI71QNPjLwir1YZgKEx",
+            "name": "cinema staff",
+            "url": "https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0Vm2xyKTkezYcMc5i8ehng",
+        "total_tracks": 2
+      },
+      "duration_ms": 207466,
+      "popularity": 49,
+      "url": "https://open.spotify.com/track/0iXYLrcgvd9u6ATFMIHMpD"
+    },
+    {
+      "id": "0qczXVvweqlYXRKKgw1WGZ",
+      "name": "I SAY NO",
+      "artists": [
+        {
+          "id": "5upXI71QNPjLwir1YZgKEx",
+          "name": "cinema staff",
+          "url": "https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx"
+        }
+      ],
+      "album": {
+        "id": "4Azvu1ma0aQgwj8dTn6Fk4",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731af7c3465028e319c864904e",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021af7c3465028e319c864904e",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511af7c3465028e319c864904e",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "I SAY NO",
+        "release_date": "2023-06-21",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "5upXI71QNPjLwir1YZgKEx",
+            "name": "cinema staff",
+            "url": "https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4Azvu1ma0aQgwj8dTn6Fk4",
+        "total_tracks": 5
+      },
+      "duration_ms": 207500,
+      "popularity": 16,
+      "url": "https://open.spotify.com/track/0qczXVvweqlYXRKKgw1WGZ"
+    },
+    {
+      "id": "5skdIdafoqUz2ijK9iAHSF",
+      "name": "希望の残骸",
+      "artists": [
+        {
+          "id": "5upXI71QNPjLwir1YZgKEx",
+          "name": "cinema staff",
+          "url": "https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx"
+        }
+      ],
+      "album": {
+        "id": "0pF8faxLiiANqQnQ9DT5EG",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734bc5ce254a8bf0c9d5c53262",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024bc5ce254a8bf0c9d5c53262",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514bc5ce254a8bf0c9d5c53262",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "eve 通常盤",
+        "release_date": "2016-05-18",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "5upXI71QNPjLwir1YZgKEx",
+            "name": "cinema staff",
+            "url": "https://open.spotify.com/artist/5upXI71QNPjLwir1YZgKEx"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0pF8faxLiiANqQnQ9DT5EG",
+        "total_tracks": 13
+      },
+      "duration_ms": 240666,
+      "popularity": 8,
+      "url": "https://open.spotify.com/track/5skdIdafoqUz2ijK9iAHSF"
+    },
+    {
+      "id": "5WQAussByRFjUWYQDowtHE",
+      "name": "スカー",
+      "artists": [
+        {
+          "id": "7mvhRvEAHiCTQHUnH7fgnv",
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "album": {
+        "id": "4qHbR7z8zMoUFOukvg7KXd",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c086023113fc322ffd962978",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c086023113fc322ffd962978",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c086023113fc322ffd962978",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スカー",
+        "release_date": "2022-10-18",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "7mvhRvEAHiCTQHUnH7fgnv",
+            "name": "Tatsuya Kitani",
+            "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4qHbR7z8zMoUFOukvg7KXd",
+        "total_tracks": 1
+      },
+      "duration_ms": 259191,
+      "popularity": 53,
+      "url": "https://open.spotify.com/track/5WQAussByRFjUWYQDowtHE"
+    },
+    {
+      "id": "4I1L92UCPlYMdHYJ7r8Jhl",
+      "name": "悪魔の踊り方",
+      "artists": [
+        {
+          "id": "7mvhRvEAHiCTQHUnH7fgnv",
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "album": {
+        "id": "2hXykcsL0BiG6PaJq3BixE",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737ceeaf938856061afe737a00",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027ceeaf938856061afe737a00",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517ceeaf938856061afe737a00",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "I DO (NOT) LOVE YOU.",
+        "release_date": "2018-09-26",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "7mvhRvEAHiCTQHUnH7fgnv",
+            "name": "Tatsuya Kitani",
+            "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2hXykcsL0BiG6PaJq3BixE",
+        "total_tracks": 13
+      },
+      "duration_ms": 236064,
+      "popularity": 47,
+      "url": "https://open.spotify.com/track/4I1L92UCPlYMdHYJ7r8Jhl"
+    },
+    {
+      "id": "3KhODlXNFUONL8CdqEmd1d",
+      "name": "PINK",
+      "artists": [
+        {
+          "id": "7mvhRvEAHiCTQHUnH7fgnv",
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "album": {
+        "id": "4vnB6AiGOaZWl6u7xIsyG9",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2730574601f4bcf70362bc7cce3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e020574601f4bcf70362bc7cce3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048510574601f4bcf70362bc7cce3",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "BIPOLAR",
+        "release_date": "2022-05-25",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "7mvhRvEAHiCTQHUnH7fgnv",
+            "name": "Tatsuya Kitani",
+            "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4vnB6AiGOaZWl6u7xIsyG9",
+        "total_tracks": 10
+      },
+      "duration_ms": 176853,
+      "popularity": 48,
+      "url": "https://open.spotify.com/track/3KhODlXNFUONL8CdqEmd1d"
+    },
+    {
+      "id": "1OQnU8nl1kjjKBlyax696e",
+      "name": "夜警",
+      "artists": [
+        {
+          "id": "7mvhRvEAHiCTQHUnH7fgnv",
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "album": {
+        "id": "4vnB6AiGOaZWl6u7xIsyG9",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2730574601f4bcf70362bc7cce3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e020574601f4bcf70362bc7cce3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048510574601f4bcf70362bc7cce3",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "BIPOLAR",
+        "release_date": "2022-05-25",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "7mvhRvEAHiCTQHUnH7fgnv",
+            "name": "Tatsuya Kitani",
+            "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4vnB6AiGOaZWl6u7xIsyG9",
+        "total_tracks": 10
+      },
+      "duration_ms": 189506,
+      "popularity": 36,
+      "url": "https://open.spotify.com/track/1OQnU8nl1kjjKBlyax696e"
+    },
+    {
+      "id": "1bwHUsQwWSWzoxlULC0wwT",
+      "name": "聖者の行進",
+      "artists": [
+        {
+          "id": "7mvhRvEAHiCTQHUnH7fgnv",
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "album": {
+        "id": "5Nf1cYILokJyVjehjQzOpW",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27385f8cf436c19a5cecf1a2820",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0285f8cf436c19a5cecf1a2820",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485185f8cf436c19a5cecf1a2820",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "聖者の行進",
+        "release_date": "2021-07-22",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "7mvhRvEAHiCTQHUnH7fgnv",
+            "name": "Tatsuya Kitani",
+            "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5Nf1cYILokJyVjehjQzOpW",
+        "total_tracks": 1
+      },
+      "duration_ms": 177168,
+      "popularity": 45,
+      "url": "https://open.spotify.com/track/1bwHUsQwWSWzoxlULC0wwT"
+    },
+    {
+      "id": "4Ntdp3aRtZPlteJjz0PBQb",
+      "name": "素敵なしゅうまつを！",
+      "artists": [
+        {
+          "id": "7mvhRvEAHiCTQHUnH7fgnv",
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "album": {
+        "id": "3rHbZkE8Hov6chHEiyU5DP",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e56c4adc11d6aae82de1dadd",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e56c4adc11d6aae82de1dadd",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e56c4adc11d6aae82de1dadd",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "青のすみか",
+        "release_date": "2023-07-19",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "7mvhRvEAHiCTQHUnH7fgnv",
+            "name": "Tatsuya Kitani",
+            "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3rHbZkE8Hov6chHEiyU5DP",
+        "total_tracks": 4
+      },
+      "duration_ms": 191080,
+      "popularity": 42,
+      "url": "https://open.spotify.com/track/4Ntdp3aRtZPlteJjz0PBQb"
+    },
+    {
+      "id": "6rzj2tkH9uP75cvK34ikGm",
+      "name": "ラブソング - cover",
+      "artists": [
+        {
+          "id": "7mvhRvEAHiCTQHUnH7fgnv",
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "album": {
+        "id": "3rHbZkE8Hov6chHEiyU5DP",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e56c4adc11d6aae82de1dadd",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e56c4adc11d6aae82de1dadd",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e56c4adc11d6aae82de1dadd",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "青のすみか",
+        "release_date": "2023-07-19",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "7mvhRvEAHiCTQHUnH7fgnv",
+            "name": "Tatsuya Kitani",
+            "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3rHbZkE8Hov6chHEiyU5DP",
+        "total_tracks": 4
+      },
+      "duration_ms": 165680,
+      "popularity": 34,
+      "url": "https://open.spotify.com/track/6rzj2tkH9uP75cvK34ikGm"
+    },
+    {
+      "id": "7wag9tAwUdqyfQMDUgY1g9",
+      "name": "化け猫",
+      "artists": [
+        {
+          "id": "7mvhRvEAHiCTQHUnH7fgnv",
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "album": {
+        "id": "4nDK96OK3zDeE3rZkvG9E7",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731ce634a2e99b90cd646a4c33",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021ce634a2e99b90cd646a4c33",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511ce634a2e99b90cd646a4c33",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "化け猫",
+        "release_date": "2022-12-09",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "7mvhRvEAHiCTQHUnH7fgnv",
+            "name": "Tatsuya Kitani",
+            "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4nDK96OK3zDeE3rZkvG9E7",
+        "total_tracks": 1
+      },
+      "duration_ms": 167733,
+      "popularity": 42,
+      "url": "https://open.spotify.com/track/7wag9tAwUdqyfQMDUgY1g9"
+    },
+    {
+      "id": "1COxo1XElJqydDfYielqrZ",
+      "name": "Ghost!?",
+      "artists": [
+        {
+          "id": "7mvhRvEAHiCTQHUnH7fgnv",
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "album": {
+        "id": "783W0uBFEvWyW6PuSunfqt",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737ea2405a0f6b119950df3bc4",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027ea2405a0f6b119950df3bc4",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517ea2405a0f6b119950df3bc4",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Ghost!?",
+        "release_date": "2021-03-31",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "7mvhRvEAHiCTQHUnH7fgnv",
+            "name": "Tatsuya Kitani",
+            "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+          }
+        ],
+        "url": "https://open.spotify.com/album/783W0uBFEvWyW6PuSunfqt",
+        "total_tracks": 1
+      },
+      "duration_ms": 197800,
+      "popularity": 37,
+      "url": "https://open.spotify.com/track/1COxo1XElJqydDfYielqrZ"
+    },
+    {
+      "id": "5ZrGmkq9KCU8kM9lDgiXJk",
+      "name": "大人になっても",
+      "artists": [
+        {
+          "id": "7mvhRvEAHiCTQHUnH7fgnv",
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "album": {
+        "id": "1N3qm3w4YsYgXh6XxBjkay",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273fec2d68fca92ce07c2b0d616",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02fec2d68fca92ce07c2b0d616",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851fec2d68fca92ce07c2b0d616",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ROUNDABOUT",
+        "release_date": "2024-01-10",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "7mvhRvEAHiCTQHUnH7fgnv",
+            "name": "Tatsuya Kitani",
+            "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1N3qm3w4YsYgXh6XxBjkay",
+        "total_tracks": 10
+      },
+      "duration_ms": 181560,
+      "popularity": 35,
+      "url": "https://open.spotify.com/track/5ZrGmkq9KCU8kM9lDgiXJk"
+    },
+    {
+      "id": "43Q8AnfUhEwMECHU2uyf37",
+      "name": "タナトフォビア",
+      "artists": [
+        {
+          "id": "7mvhRvEAHiCTQHUnH7fgnv",
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "album": {
+        "id": "4vnB6AiGOaZWl6u7xIsyG9",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2730574601f4bcf70362bc7cce3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e020574601f4bcf70362bc7cce3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048510574601f4bcf70362bc7cce3",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "BIPOLAR",
+        "release_date": "2022-05-25",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "7mvhRvEAHiCTQHUnH7fgnv",
+            "name": "Tatsuya Kitani",
+            "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4vnB6AiGOaZWl6u7xIsyG9",
+        "total_tracks": 10
+      },
+      "duration_ms": 217520,
+      "popularity": 42,
+      "url": "https://open.spotify.com/track/43Q8AnfUhEwMECHU2uyf37"
+    },
+    {
+      "id": "0e4HssKedndIhLoDpkwBNH",
+      "name": "Rapport",
+      "artists": [
+        {
+          "id": "7mvhRvEAHiCTQHUnH7fgnv",
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "album": {
+        "id": "3nxLlpubxwp8tMN8Dttupm",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2735f9ec08d6d46c63b7d79affd",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e025f9ec08d6d46c63b7d79affd",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048515f9ec08d6d46c63b7d79affd",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Rapport",
+        "release_date": "2021-11-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "7mvhRvEAHiCTQHUnH7fgnv",
+            "name": "Tatsuya Kitani",
+            "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3nxLlpubxwp8tMN8Dttupm",
+        "total_tracks": 1
+      },
+      "duration_ms": 217526,
+      "popularity": 47,
+      "url": "https://open.spotify.com/track/0e4HssKedndIhLoDpkwBNH"
+    },
+    {
+      "id": "12usPU2WnqgCHAW1EK2dfd",
+      "name": "青のすみか",
+      "artists": [
+        {
+          "id": "7mvhRvEAHiCTQHUnH7fgnv",
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "album": {
+        "id": "4QjNVlIw8Rx6jItSZtn2VS",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e9ce77912820de8e7a129cfe",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e9ce77912820de8e7a129cfe",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e9ce77912820de8e7a129cfe",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "青のすみか",
+        "release_date": "2023-07-07",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "7mvhRvEAHiCTQHUnH7fgnv",
+            "name": "Tatsuya Kitani",
+            "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS",
+        "total_tracks": 1
+      },
+      "duration_ms": 196466,
+      "popularity": 70,
+      "url": "https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd"
+    }
+  ],
+  "description": "",
+  "name": "2023.12.15 Hello End 2023",
+  "owner": {
+    "display_name": "502bg",
+    "url": "https://open.spotify.com/user/4woroafc3tx648l7zc8quofbf",
+    "id": "4woroafc3tx648l7zc8quofbf"
+  },
+  "url": "https://open.spotify.com/playlist/5lqjciDxUhJozsueibRWAi"
+}

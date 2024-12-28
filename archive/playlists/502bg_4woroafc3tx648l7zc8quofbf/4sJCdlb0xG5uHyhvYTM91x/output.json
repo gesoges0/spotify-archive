@@ -1,0 +1,1168 @@
+{
+  "id": "4sJCdlb0xG5uHyhvYTM91x",
+  "tracks": [
+    {
+      "id": "41tyHJJD71A3yhVenwE4dm",
+      "name": "GAUZE",
+      "artists": [
+        {
+          "id": "6Rs4z6XgltEI01UlDlu98B",
+          "name": "DUSTCELL",
+          "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+        }
+      ],
+      "album": {
+        "id": "23cSUODF42rPa2NS3RQA6P",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b85703a0cb7d5d51e1eb84ef",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b85703a0cb7d5d51e1eb84ef",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b85703a0cb7d5d51e1eb84ef",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "光",
+        "release_date": "2024-07-24",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6Rs4z6XgltEI01UlDlu98B",
+            "name": "DUSTCELL",
+            "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+          }
+        ],
+        "url": "https://open.spotify.com/album/23cSUODF42rPa2NS3RQA6P",
+        "total_tracks": 16
+      },
+      "duration_ms": 205062,
+      "popularity": 31,
+      "url": "https://open.spotify.com/track/41tyHJJD71A3yhVenwE4dm"
+    },
+    {
+      "id": "1DKR0lI9ACwoqAkQbDR5aP",
+      "name": "火焔",
+      "artists": [
+        {
+          "id": "6Rs4z6XgltEI01UlDlu98B",
+          "name": "DUSTCELL",
+          "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+        }
+      ],
+      "album": {
+        "id": "6vIxDmZrN7tYrp3BtgyRGl",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273053503b6ecb3316c49f291a0",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02053503b6ecb3316c49f291a0",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851053503b6ecb3316c49f291a0",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "自白",
+        "release_date": "2021-10-20",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6Rs4z6XgltEI01UlDlu98B",
+            "name": "DUSTCELL",
+            "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6vIxDmZrN7tYrp3BtgyRGl",
+        "total_tracks": 14
+      },
+      "duration_ms": 178106,
+      "popularity": 36,
+      "url": "https://open.spotify.com/track/1DKR0lI9ACwoqAkQbDR5aP"
+    },
+    {
+      "id": "6YJ5qnd6qiTOmsODivt9Ry",
+      "name": "Nighthawk - feat. たなか",
+      "artists": [
+        {
+          "id": "6Rs4z6XgltEI01UlDlu98B",
+          "name": "DUSTCELL",
+          "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+        },
+        {
+          "id": "77QLvMMKj7GtS11D1Q00jm",
+          "name": "たなか",
+          "url": "https://open.spotify.com/artist/77QLvMMKj7GtS11D1Q00jm"
+        }
+      ],
+      "album": {
+        "id": "23cSUODF42rPa2NS3RQA6P",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b85703a0cb7d5d51e1eb84ef",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b85703a0cb7d5d51e1eb84ef",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b85703a0cb7d5d51e1eb84ef",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "光",
+        "release_date": "2024-07-24",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6Rs4z6XgltEI01UlDlu98B",
+            "name": "DUSTCELL",
+            "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+          }
+        ],
+        "url": "https://open.spotify.com/album/23cSUODF42rPa2NS3RQA6P",
+        "total_tracks": 16
+      },
+      "duration_ms": 233863,
+      "popularity": 30,
+      "url": "https://open.spotify.com/track/6YJ5qnd6qiTOmsODivt9Ry"
+    },
+    {
+      "id": "5199603pHRw3aAsx0X5dXa",
+      "name": "蜜蜂",
+      "artists": [
+        {
+          "id": "6Rs4z6XgltEI01UlDlu98B",
+          "name": "DUSTCELL",
+          "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+        }
+      ],
+      "album": {
+        "id": "23cSUODF42rPa2NS3RQA6P",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b85703a0cb7d5d51e1eb84ef",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b85703a0cb7d5d51e1eb84ef",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b85703a0cb7d5d51e1eb84ef",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "光",
+        "release_date": "2024-07-24",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6Rs4z6XgltEI01UlDlu98B",
+            "name": "DUSTCELL",
+            "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+          }
+        ],
+        "url": "https://open.spotify.com/album/23cSUODF42rPa2NS3RQA6P",
+        "total_tracks": 16
+      },
+      "duration_ms": 196340,
+      "popularity": 22,
+      "url": "https://open.spotify.com/track/5199603pHRw3aAsx0X5dXa"
+    },
+    {
+      "id": "0KYinRD4IV8G9G7EYGYY9J",
+      "name": "FRAGILE",
+      "artists": [
+        {
+          "id": "6Rs4z6XgltEI01UlDlu98B",
+          "name": "DUSTCELL",
+          "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+        }
+      ],
+      "album": {
+        "id": "23cSUODF42rPa2NS3RQA6P",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b85703a0cb7d5d51e1eb84ef",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b85703a0cb7d5d51e1eb84ef",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b85703a0cb7d5d51e1eb84ef",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "光",
+        "release_date": "2024-07-24",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6Rs4z6XgltEI01UlDlu98B",
+            "name": "DUSTCELL",
+            "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+          }
+        ],
+        "url": "https://open.spotify.com/album/23cSUODF42rPa2NS3RQA6P",
+        "total_tracks": 16
+      },
+      "duration_ms": 177713,
+      "popularity": 28,
+      "url": "https://open.spotify.com/track/0KYinRD4IV8G9G7EYGYY9J"
+    },
+    {
+      "id": "7fYWMFfdueb1xo7HH6AfoD",
+      "name": "PAIN - New Mix",
+      "artists": [
+        {
+          "id": "6Rs4z6XgltEI01UlDlu98B",
+          "name": "DUSTCELL",
+          "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+        }
+      ],
+      "album": {
+        "id": "23cSUODF42rPa2NS3RQA6P",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b85703a0cb7d5d51e1eb84ef",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b85703a0cb7d5d51e1eb84ef",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b85703a0cb7d5d51e1eb84ef",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "光",
+        "release_date": "2024-07-24",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6Rs4z6XgltEI01UlDlu98B",
+            "name": "DUSTCELL",
+            "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+          }
+        ],
+        "url": "https://open.spotify.com/album/23cSUODF42rPa2NS3RQA6P",
+        "total_tracks": 16
+      },
+      "duration_ms": 190753,
+      "popularity": 23,
+      "url": "https://open.spotify.com/track/7fYWMFfdueb1xo7HH6AfoD"
+    },
+    {
+      "id": "1xp2tcnBLC05kwO2WLUzOP",
+      "name": "帰りの会",
+      "artists": [
+        {
+          "id": "6Rs4z6XgltEI01UlDlu98B",
+          "name": "DUSTCELL",
+          "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+        }
+      ],
+      "album": {
+        "id": "23cSUODF42rPa2NS3RQA6P",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b85703a0cb7d5d51e1eb84ef",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b85703a0cb7d5d51e1eb84ef",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b85703a0cb7d5d51e1eb84ef",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "光",
+        "release_date": "2024-07-24",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6Rs4z6XgltEI01UlDlu98B",
+            "name": "DUSTCELL",
+            "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+          }
+        ],
+        "url": "https://open.spotify.com/album/23cSUODF42rPa2NS3RQA6P",
+        "total_tracks": 16
+      },
+      "duration_ms": 209654,
+      "popularity": 29,
+      "url": "https://open.spotify.com/track/1xp2tcnBLC05kwO2WLUzOP"
+    },
+    {
+      "id": "50TKhNSHIP8uNpW57Z71xp",
+      "name": "堕落生活",
+      "artists": [
+        {
+          "id": "6Rs4z6XgltEI01UlDlu98B",
+          "name": "DUSTCELL",
+          "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+        }
+      ],
+      "album": {
+        "id": "6vIxDmZrN7tYrp3BtgyRGl",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273053503b6ecb3316c49f291a0",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02053503b6ecb3316c49f291a0",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851053503b6ecb3316c49f291a0",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "自白",
+        "release_date": "2021-10-20",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6Rs4z6XgltEI01UlDlu98B",
+            "name": "DUSTCELL",
+            "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6vIxDmZrN7tYrp3BtgyRGl",
+        "total_tracks": 14
+      },
+      "duration_ms": 172026,
+      "popularity": 29,
+      "url": "https://open.spotify.com/track/50TKhNSHIP8uNpW57Z71xp"
+    },
+    {
+      "id": "3Ybrga9KQ2ogK3BXvyKkQ8",
+      "name": "DERO",
+      "artists": [
+        {
+          "id": "6Rs4z6XgltEI01UlDlu98B",
+          "name": "DUSTCELL",
+          "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+        }
+      ],
+      "album": {
+        "id": "6vIxDmZrN7tYrp3BtgyRGl",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273053503b6ecb3316c49f291a0",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02053503b6ecb3316c49f291a0",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851053503b6ecb3316c49f291a0",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "自白",
+        "release_date": "2021-10-20",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6Rs4z6XgltEI01UlDlu98B",
+            "name": "DUSTCELL",
+            "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6vIxDmZrN7tYrp3BtgyRGl",
+        "total_tracks": 14
+      },
+      "duration_ms": 197186,
+      "popularity": 34,
+      "url": "https://open.spotify.com/track/3Ybrga9KQ2ogK3BXvyKkQ8"
+    },
+    {
+      "id": "44C0NUUOyq8RyzGDBJuvNL",
+      "name": "可笑しな生き物",
+      "artists": [
+        {
+          "id": "6Rs4z6XgltEI01UlDlu98B",
+          "name": "DUSTCELL",
+          "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+        }
+      ],
+      "album": {
+        "id": "23cSUODF42rPa2NS3RQA6P",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b85703a0cb7d5d51e1eb84ef",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b85703a0cb7d5d51e1eb84ef",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b85703a0cb7d5d51e1eb84ef",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "光",
+        "release_date": "2024-07-24",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6Rs4z6XgltEI01UlDlu98B",
+            "name": "DUSTCELL",
+            "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+          }
+        ],
+        "url": "https://open.spotify.com/album/23cSUODF42rPa2NS3RQA6P",
+        "total_tracks": 16
+      },
+      "duration_ms": 216132,
+      "popularity": 22,
+      "url": "https://open.spotify.com/track/44C0NUUOyq8RyzGDBJuvNL"
+    },
+    {
+      "id": "2VdRYBWhOKgod7qRnVA93E",
+      "name": "無垢",
+      "artists": [
+        {
+          "id": "6Rs4z6XgltEI01UlDlu98B",
+          "name": "DUSTCELL",
+          "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+        }
+      ],
+      "album": {
+        "id": "23cSUODF42rPa2NS3RQA6P",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b85703a0cb7d5d51e1eb84ef",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b85703a0cb7d5d51e1eb84ef",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b85703a0cb7d5d51e1eb84ef",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "光",
+        "release_date": "2024-07-24",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6Rs4z6XgltEI01UlDlu98B",
+            "name": "DUSTCELL",
+            "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+          }
+        ],
+        "url": "https://open.spotify.com/album/23cSUODF42rPa2NS3RQA6P",
+        "total_tracks": 16
+      },
+      "duration_ms": 258798,
+      "popularity": 22,
+      "url": "https://open.spotify.com/track/2VdRYBWhOKgod7qRnVA93E"
+    },
+    {
+      "id": "0FyazEifkT1NvUbBzN7n5W",
+      "name": "Void",
+      "artists": [
+        {
+          "id": "6Rs4z6XgltEI01UlDlu98B",
+          "name": "DUSTCELL",
+          "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+        }
+      ],
+      "album": {
+        "id": "23cSUODF42rPa2NS3RQA6P",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b85703a0cb7d5d51e1eb84ef",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b85703a0cb7d5d51e1eb84ef",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b85703a0cb7d5d51e1eb84ef",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "光",
+        "release_date": "2024-07-24",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6Rs4z6XgltEI01UlDlu98B",
+            "name": "DUSTCELL",
+            "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+          }
+        ],
+        "url": "https://open.spotify.com/album/23cSUODF42rPa2NS3RQA6P",
+        "total_tracks": 16
+      },
+      "duration_ms": 173025,
+      "popularity": 20,
+      "url": "https://open.spotify.com/track/0FyazEifkT1NvUbBzN7n5W"
+    },
+    {
+      "id": "7A8qRHXihHITYJ4KkIBoPU",
+      "name": "izqnqi",
+      "artists": [
+        {
+          "id": "6Rs4z6XgltEI01UlDlu98B",
+          "name": "DUSTCELL",
+          "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+        }
+      ],
+      "album": {
+        "id": "6vIxDmZrN7tYrp3BtgyRGl",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273053503b6ecb3316c49f291a0",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02053503b6ecb3316c49f291a0",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851053503b6ecb3316c49f291a0",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "自白",
+        "release_date": "2021-10-20",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6Rs4z6XgltEI01UlDlu98B",
+            "name": "DUSTCELL",
+            "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6vIxDmZrN7tYrp3BtgyRGl",
+        "total_tracks": 14
+      },
+      "duration_ms": 196920,
+      "popularity": 23,
+      "url": "https://open.spotify.com/track/7A8qRHXihHITYJ4KkIBoPU"
+    },
+    {
+      "id": "2ncyjwKhI4c0rJ9Q8GYG5a",
+      "name": "透明度",
+      "artists": [
+        {
+          "id": "6Rs4z6XgltEI01UlDlu98B",
+          "name": "DUSTCELL",
+          "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+        }
+      ],
+      "album": {
+        "id": "23cSUODF42rPa2NS3RQA6P",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b85703a0cb7d5d51e1eb84ef",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b85703a0cb7d5d51e1eb84ef",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b85703a0cb7d5d51e1eb84ef",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "光",
+        "release_date": "2024-07-24",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6Rs4z6XgltEI01UlDlu98B",
+            "name": "DUSTCELL",
+            "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+          }
+        ],
+        "url": "https://open.spotify.com/album/23cSUODF42rPa2NS3RQA6P",
+        "total_tracks": 16
+      },
+      "duration_ms": 176460,
+      "popularity": 21,
+      "url": "https://open.spotify.com/track/2ncyjwKhI4c0rJ9Q8GYG5a"
+    },
+    {
+      "id": "2VUlxc8GKKdhKIkGx8f3cs",
+      "name": "雨の植物園",
+      "artists": [
+        {
+          "id": "6Rs4z6XgltEI01UlDlu98B",
+          "name": "DUSTCELL",
+          "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+        }
+      ],
+      "album": {
+        "id": "23cSUODF42rPa2NS3RQA6P",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b85703a0cb7d5d51e1eb84ef",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b85703a0cb7d5d51e1eb84ef",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b85703a0cb7d5d51e1eb84ef",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "光",
+        "release_date": "2024-07-24",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6Rs4z6XgltEI01UlDlu98B",
+            "name": "DUSTCELL",
+            "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+          }
+        ],
+        "url": "https://open.spotify.com/album/23cSUODF42rPa2NS3RQA6P",
+        "total_tracks": 16
+      },
+      "duration_ms": 179219,
+      "popularity": 27,
+      "url": "https://open.spotify.com/track/2VUlxc8GKKdhKIkGx8f3cs"
+    },
+    {
+      "id": "2blxpTJ9nkfYVZ9JZAEFY7",
+      "name": "足りない",
+      "artists": [
+        {
+          "id": "6Rs4z6XgltEI01UlDlu98B",
+          "name": "DUSTCELL",
+          "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+        }
+      ],
+      "album": {
+        "id": "23cSUODF42rPa2NS3RQA6P",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b85703a0cb7d5d51e1eb84ef",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b85703a0cb7d5d51e1eb84ef",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b85703a0cb7d5d51e1eb84ef",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "光",
+        "release_date": "2024-07-24",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6Rs4z6XgltEI01UlDlu98B",
+            "name": "DUSTCELL",
+            "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+          }
+        ],
+        "url": "https://open.spotify.com/album/23cSUODF42rPa2NS3RQA6P",
+        "total_tracks": 16
+      },
+      "duration_ms": 182285,
+      "popularity": 23,
+      "url": "https://open.spotify.com/track/2blxpTJ9nkfYVZ9JZAEFY7"
+    },
+    {
+      "id": "3aVqEq4X0ML5WAPQkFO4Zz",
+      "name": "Caffeine",
+      "artists": [
+        {
+          "id": "6Rs4z6XgltEI01UlDlu98B",
+          "name": "DUSTCELL",
+          "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+        }
+      ],
+      "album": {
+        "id": "23cSUODF42rPa2NS3RQA6P",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b85703a0cb7d5d51e1eb84ef",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b85703a0cb7d5d51e1eb84ef",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b85703a0cb7d5d51e1eb84ef",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "光",
+        "release_date": "2024-07-24",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6Rs4z6XgltEI01UlDlu98B",
+            "name": "DUSTCELL",
+            "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+          }
+        ],
+        "url": "https://open.spotify.com/album/23cSUODF42rPa2NS3RQA6P",
+        "total_tracks": 16
+      },
+      "duration_ms": 187413,
+      "popularity": 40,
+      "url": "https://open.spotify.com/track/3aVqEq4X0ML5WAPQkFO4Zz"
+    },
+    {
+      "id": "4LO8CQz1adoWx0BbXopJb8",
+      "name": "表情差分",
+      "artists": [
+        {
+          "id": "6Rs4z6XgltEI01UlDlu98B",
+          "name": "DUSTCELL",
+          "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+        }
+      ],
+      "album": {
+        "id": "2Y7SRpiQObxi8VlGjHACTe",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737a9af03a34964076d1879067",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027a9af03a34964076d1879067",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517a9af03a34964076d1879067",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "表情差分",
+        "release_date": "2024-10-09",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6Rs4z6XgltEI01UlDlu98B",
+            "name": "DUSTCELL",
+            "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2Y7SRpiQObxi8VlGjHACTe",
+        "total_tracks": 1
+      },
+      "duration_ms": 206541,
+      "popularity": 48,
+      "url": "https://open.spotify.com/track/4LO8CQz1adoWx0BbXopJb8"
+    },
+    {
+      "id": "1nzea8f2kSQAFEFvaDxVzg",
+      "name": "フラッシュバック",
+      "artists": [
+        {
+          "id": "6Rs4z6XgltEI01UlDlu98B",
+          "name": "DUSTCELL",
+          "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+        }
+      ],
+      "album": {
+        "id": "23cSUODF42rPa2NS3RQA6P",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b85703a0cb7d5d51e1eb84ef",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b85703a0cb7d5d51e1eb84ef",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b85703a0cb7d5d51e1eb84ef",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "光",
+        "release_date": "2024-07-24",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6Rs4z6XgltEI01UlDlu98B",
+            "name": "DUSTCELL",
+            "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+          }
+        ],
+        "url": "https://open.spotify.com/album/23cSUODF42rPa2NS3RQA6P",
+        "total_tracks": 16
+      },
+      "duration_ms": 210928,
+      "popularity": 24,
+      "url": "https://open.spotify.com/track/1nzea8f2kSQAFEFvaDxVzg"
+    },
+    {
+      "id": "492GY9Jp8F8QK2eQfMDZXq",
+      "name": "命の行方",
+      "artists": [
+        {
+          "id": "6Rs4z6XgltEI01UlDlu98B",
+          "name": "DUSTCELL",
+          "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+        }
+      ],
+      "album": {
+        "id": "02S9ytTyWvDtuZjDVOyxJY",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2736e14af822b7cbef3d2ef463b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e026e14af822b7cbef3d2ef463b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048516e14af822b7cbef3d2ef463b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "命の行方",
+        "release_date": "2021-04-10",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6Rs4z6XgltEI01UlDlu98B",
+            "name": "DUSTCELL",
+            "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+          }
+        ],
+        "url": "https://open.spotify.com/album/02S9ytTyWvDtuZjDVOyxJY",
+        "total_tracks": 1
+      },
+      "duration_ms": 200400,
+      "popularity": 30,
+      "url": "https://open.spotify.com/track/492GY9Jp8F8QK2eQfMDZXq"
+    },
+    {
+      "id": "3fSPELU3WRxqXHOKUIfv4q",
+      "name": "独白",
+      "artists": [
+        {
+          "id": "6Rs4z6XgltEI01UlDlu98B",
+          "name": "DUSTCELL",
+          "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+        }
+      ],
+      "album": {
+        "id": "1QYKQsta7dlCUsjpsnMqNp",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d80285fb76065dcceae32c09",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d80285fb76065dcceae32c09",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d80285fb76065dcceae32c09",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "独白",
+        "release_date": "2021-06-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6Rs4z6XgltEI01UlDlu98B",
+            "name": "DUSTCELL",
+            "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1QYKQsta7dlCUsjpsnMqNp",
+        "total_tracks": 1
+      },
+      "duration_ms": 195428,
+      "popularity": 25,
+      "url": "https://open.spotify.com/track/3fSPELU3WRxqXHOKUIfv4q"
+    },
+    {
+      "id": "7vZG6miDbBX0P99ORRGL0v",
+      "name": "STIGMA",
+      "artists": [
+        {
+          "id": "6Rs4z6XgltEI01UlDlu98B",
+          "name": "DUSTCELL",
+          "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+        }
+      ],
+      "album": {
+        "id": "2afXWQvMmgOxkThOk8TArW",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a32fa4f474321d36c7aa3f18",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a32fa4f474321d36c7aa3f18",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a32fa4f474321d36c7aa3f18",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "SUMMIT",
+        "release_date": "2020-05-20",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6Rs4z6XgltEI01UlDlu98B",
+            "name": "DUSTCELL",
+            "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2afXWQvMmgOxkThOk8TArW",
+        "total_tracks": 12
+      },
+      "duration_ms": 204440,
+      "popularity": 35,
+      "url": "https://open.spotify.com/track/7vZG6miDbBX0P99ORRGL0v"
+    },
+    {
+      "id": "1mmscHszkCTiykJ1V7AZlW",
+      "name": "CULT",
+      "artists": [
+        {
+          "id": "6Rs4z6XgltEI01UlDlu98B",
+          "name": "DUSTCELL",
+          "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+        }
+      ],
+      "album": {
+        "id": "2afXWQvMmgOxkThOk8TArW",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a32fa4f474321d36c7aa3f18",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a32fa4f474321d36c7aa3f18",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a32fa4f474321d36c7aa3f18",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "SUMMIT",
+        "release_date": "2020-05-20",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6Rs4z6XgltEI01UlDlu98B",
+            "name": "DUSTCELL",
+            "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2afXWQvMmgOxkThOk8TArW",
+        "total_tracks": 12
+      },
+      "duration_ms": 201266,
+      "popularity": 33,
+      "url": "https://open.spotify.com/track/1mmscHszkCTiykJ1V7AZlW"
+    },
+    {
+      "id": "0etcgIMNPMWCkHr609tTg2",
+      "name": "優しい人でありたい",
+      "artists": [
+        {
+          "id": "6Rs4z6XgltEI01UlDlu98B",
+          "name": "DUSTCELL",
+          "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+        }
+      ],
+      "album": {
+        "id": "23cSUODF42rPa2NS3RQA6P",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b85703a0cb7d5d51e1eb84ef",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b85703a0cb7d5d51e1eb84ef",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b85703a0cb7d5d51e1eb84ef",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "光",
+        "release_date": "2024-07-24",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6Rs4z6XgltEI01UlDlu98B",
+            "name": "DUSTCELL",
+            "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+          }
+        ],
+        "url": "https://open.spotify.com/album/23cSUODF42rPa2NS3RQA6P",
+        "total_tracks": 16
+      },
+      "duration_ms": 225810,
+      "popularity": 24,
+      "url": "https://open.spotify.com/track/0etcgIMNPMWCkHr609tTg2"
+    },
+    {
+      "id": "68lutc8nbR2KnnHkdjlx6j",
+      "name": "光",
+      "artists": [
+        {
+          "id": "6Rs4z6XgltEI01UlDlu98B",
+          "name": "DUSTCELL",
+          "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+        }
+      ],
+      "album": {
+        "id": "23cSUODF42rPa2NS3RQA6P",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b85703a0cb7d5d51e1eb84ef",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b85703a0cb7d5d51e1eb84ef",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b85703a0cb7d5d51e1eb84ef",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "光",
+        "release_date": "2024-07-24",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6Rs4z6XgltEI01UlDlu98B",
+            "name": "DUSTCELL",
+            "url": "https://open.spotify.com/artist/6Rs4z6XgltEI01UlDlu98B"
+          }
+        ],
+        "url": "https://open.spotify.com/album/23cSUODF42rPa2NS3RQA6P",
+        "total_tracks": 16
+      },
+      "duration_ms": 277446,
+      "popularity": 26,
+      "url": "https://open.spotify.com/track/68lutc8nbR2KnnHkdjlx6j"
+    }
+  ],
+  "description": "2024年10月3日 (木) Zepp Nagoya",
+  "name": "2024.10.03 DUSTCELL TOUR 2024「光」 名古屋公演 セトリ ",
+  "owner": {
+    "display_name": "502bg",
+    "url": "https://open.spotify.com/user/4woroafc3tx648l7zc8quofbf",
+    "id": "4woroafc3tx648l7zc8quofbf"
+  },
+  "url": "https://open.spotify.com/playlist/4sJCdlb0xG5uHyhvYTM91x"
+}

@@ -1,0 +1,1030 @@
+{
+  "id": "1yhzNXD7jViZg9r86N5Fcr",
+  "tracks": [
+    {
+      "id": "1qsCLieHNQXNi1nRjkt0QO",
+      "name": "Higher's High",
+      "artists": [
+        {
+          "id": "06jSjpC81wzjoUoE61Fhdn",
+          "name": "NANAOAKARI",
+          "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+        }
+      ],
+      "album": {
+        "id": "2PQWxWKHG7VNhRgjyvMpGD",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273711ae308275c5edf78082c08",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02711ae308275c5edf78082c08",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851711ae308275c5edf78082c08",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Higher's High",
+        "release_date": "2020-10-04",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "06jSjpC81wzjoUoE61Fhdn",
+            "name": "NANAOAKARI",
+            "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2PQWxWKHG7VNhRgjyvMpGD",
+        "total_tracks": 1
+      },
+      "duration_ms": 212586,
+      "popularity": 23,
+      "url": "https://open.spotify.com/track/1qsCLieHNQXNi1nRjkt0QO"
+    },
+    {
+      "id": "5sDCmw5Ox5Ce9mrR0xbmSP",
+      "name": "リセットセット",
+      "artists": [
+        {
+          "id": "06jSjpC81wzjoUoE61Fhdn",
+          "name": "NANAOAKARI",
+          "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+        }
+      ],
+      "album": {
+        "id": "4HOmkUPEkkCs8tu24S6zY6",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2730f2ffbf1235c6ca9986c8dd3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e020f2ffbf1235c6ca9986c8dd3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048510f2ffbf1235c6ca9986c8dd3",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "DAMELEON",
+        "release_date": "2019-10-01",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "06jSjpC81wzjoUoE61Fhdn",
+            "name": "NANAOAKARI",
+            "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4HOmkUPEkkCs8tu24S6zY6",
+        "total_tracks": 7
+      },
+      "duration_ms": 214320,
+      "popularity": 20,
+      "url": "https://open.spotify.com/track/5sDCmw5Ox5Ce9mrR0xbmSP"
+    },
+    {
+      "id": "7HpRzCOpC0AgRJwkxrk5bH",
+      "name": "奇縁ロマンス",
+      "artists": [
+        {
+          "id": "06jSjpC81wzjoUoE61Fhdn",
+          "name": "NANAOAKARI",
+          "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+        }
+      ],
+      "album": {
+        "id": "1YujqcEfWz2zenKQKtDJKT",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27362a1134dd15ba54a676fffbe",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0262a1134dd15ba54a676fffbe",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485162a1134dd15ba54a676fffbe",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "奇縁ロマンス",
+        "release_date": "2023-04-08",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "06jSjpC81wzjoUoE61Fhdn",
+            "name": "NANAOAKARI",
+            "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1YujqcEfWz2zenKQKtDJKT",
+        "total_tracks": 1
+      },
+      "duration_ms": 221686,
+      "popularity": 44,
+      "url": "https://open.spotify.com/track/7HpRzCOpC0AgRJwkxrk5bH"
+    },
+    {
+      "id": "7iMizwkSqNacghYKrAo8o7",
+      "name": "正解はいらない",
+      "artists": [
+        {
+          "id": "06jSjpC81wzjoUoE61Fhdn",
+          "name": "NANAOAKARI",
+          "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+        }
+      ],
+      "album": {
+        "id": "5GGDpAGTo3Y2c2Gboiv6OC",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27322f980296823890b3e415db3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0222f980296823890b3e415db3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485122f980296823890b3e415db3",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "正解はいらない",
+        "release_date": "2024-04-15",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "06jSjpC81wzjoUoE61Fhdn",
+            "name": "NANAOAKARI",
+            "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5GGDpAGTo3Y2c2Gboiv6OC",
+        "total_tracks": 1
+      },
+      "duration_ms": 165866,
+      "popularity": 44,
+      "url": "https://open.spotify.com/track/7iMizwkSqNacghYKrAo8o7"
+    },
+    {
+      "id": "2BvYYo46Fvn6BbTgiJQ4RY",
+      "name": "眠らない街、眠りたい僕",
+      "artists": [
+        {
+          "id": "06jSjpC81wzjoUoE61Fhdn",
+          "name": "NANAOAKARI",
+          "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+        }
+      ],
+      "album": {
+        "id": "6cuRTbjbuFqCYyFnRiFwJC",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734669f677e8be828652297606",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024669f677e8be828652297606",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514669f677e8be828652297606",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "フライングベスト〜知らないの？巷で噂のダメ天使〜",
+        "release_date": "2018-10-02",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "06jSjpC81wzjoUoE61Fhdn",
+            "name": "NANAOAKARI",
+            "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6cuRTbjbuFqCYyFnRiFwJC",
+        "total_tracks": 15
+      },
+      "duration_ms": 265000,
+      "popularity": 15,
+      "url": "https://open.spotify.com/track/2BvYYo46Fvn6BbTgiJQ4RY"
+    },
+    {
+      "id": "0gRHVOJfsINzG4aKYSAiY4",
+      "name": "ハノ",
+      "artists": [
+        {
+          "id": "06jSjpC81wzjoUoE61Fhdn",
+          "name": "NANAOAKARI",
+          "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+        }
+      ],
+      "album": {
+        "id": "2YqrbVcXlniP4Bs1iPJohT",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273955251947114efaaf90acd8c",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02955251947114efaaf90acd8c",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851955251947114efaaf90acd8c",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ネクラロイドのあいしかた",
+        "release_date": "2017-08-22",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "06jSjpC81wzjoUoE61Fhdn",
+            "name": "NANAOAKARI",
+            "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2YqrbVcXlniP4Bs1iPJohT",
+        "total_tracks": 6
+      },
+      "duration_ms": 193733,
+      "popularity": 6,
+      "url": "https://open.spotify.com/track/0gRHVOJfsINzG4aKYSAiY4"
+    },
+    {
+      "id": "2LgGUzGjxDPCE1H33AFIu0",
+      "name": "陽傘",
+      "artists": [
+        {
+          "id": "06jSjpC81wzjoUoE61Fhdn",
+          "name": "NANAOAKARI",
+          "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+        }
+      ],
+      "album": {
+        "id": "1iUItUWiuoPxLgLidzFqzX",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27334faccfc6ea9fd06d2d286a4",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0234faccfc6ea9fd06d2d286a4",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485134faccfc6ea9fd06d2d286a4",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "陽傘",
+        "release_date": "2022-08-17",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "06jSjpC81wzjoUoE61Fhdn",
+            "name": "NANAOAKARI",
+            "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1iUItUWiuoPxLgLidzFqzX",
+        "total_tracks": 1
+      },
+      "duration_ms": 270186,
+      "popularity": 11,
+      "url": "https://open.spotify.com/track/2LgGUzGjxDPCE1H33AFIu0"
+    },
+    {
+      "id": "5VNEb6t8rzprAmJBbLrT4f",
+      "name": "note:",
+      "artists": [
+        {
+          "id": "06jSjpC81wzjoUoE61Fhdn",
+          "name": "NANAOAKARI",
+          "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+        }
+      ],
+      "album": {
+        "id": "1ZH188sW33ZrhwSaRHDplr",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2732ca9fcfe7400354cd6441564",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e022ca9fcfe7400354cd6441564",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048512ca9fcfe7400354cd6441564",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "マンガみたいな恋人がほしい",
+        "release_date": "2020-04-07",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "06jSjpC81wzjoUoE61Fhdn",
+            "name": "NANAOAKARI",
+            "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1ZH188sW33ZrhwSaRHDplr",
+        "total_tracks": 6
+      },
+      "duration_ms": 290506,
+      "popularity": 8,
+      "url": "https://open.spotify.com/track/5VNEb6t8rzprAmJBbLrT4f"
+    },
+    {
+      "id": "2vywOxMZKodW2eLYAMJeoe",
+      "name": "忘れないでベイベー",
+      "artists": [
+        {
+          "id": "06jSjpC81wzjoUoE61Fhdn",
+          "name": "NANAOAKARI",
+          "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+        }
+      ],
+      "album": {
+        "id": "3f3qjZsVvvoTo9XBWOrMvc",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2730471beb91474b5407cea1eee",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e020471beb91474b5407cea1eee",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048510471beb91474b5407cea1eee",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "忘れないでベイベー",
+        "release_date": "2023-03-22",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "06jSjpC81wzjoUoE61Fhdn",
+            "name": "NANAOAKARI",
+            "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3f3qjZsVvvoTo9XBWOrMvc",
+        "total_tracks": 1
+      },
+      "duration_ms": 205840,
+      "popularity": 25,
+      "url": "https://open.spotify.com/track/2vywOxMZKodW2eLYAMJeoe"
+    },
+    {
+      "id": "1jWQUBQcnHh0Rtzr8Rlu4s",
+      "name": "ブループリント",
+      "artists": [
+        {
+          "id": "06jSjpC81wzjoUoE61Fhdn",
+          "name": "NANAOAKARI",
+          "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+        }
+      ],
+      "album": {
+        "id": "3ZM5smVHohm7YEhkZuqA7v",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273aa3f2562c06d20f70775bdae",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02aa3f2562c06d20f70775bdae",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851aa3f2562c06d20f70775bdae",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ブループリント",
+        "release_date": "2024-07-13",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "06jSjpC81wzjoUoE61Fhdn",
+            "name": "NANAOAKARI",
+            "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3ZM5smVHohm7YEhkZuqA7v",
+        "total_tracks": 1
+      },
+      "duration_ms": 210943,
+      "popularity": 32,
+      "url": "https://open.spotify.com/track/1jWQUBQcnHh0Rtzr8Rlu4s"
+    },
+    {
+      "id": "5jguO6cwuUWvyFL3oT0N1f",
+      "name": "わかんないセブンティーン",
+      "artists": [
+        {
+          "id": "06jSjpC81wzjoUoE61Fhdn",
+          "name": "NANAOAKARI",
+          "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+        }
+      ],
+      "album": {
+        "id": "3pqgbqHyMVWfgnfyQcDlR0",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273bfb3d3500fbc757a7d1fff14",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02bfb3d3500fbc757a7d1fff14",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851bfb3d3500fbc757a7d1fff14",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "わかんないセブンティーン",
+        "release_date": "2024-11-12",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "06jSjpC81wzjoUoE61Fhdn",
+            "name": "NANAOAKARI",
+            "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3pqgbqHyMVWfgnfyQcDlR0",
+        "total_tracks": 1
+      },
+      "duration_ms": 182895,
+      "popularity": 31,
+      "url": "https://open.spotify.com/track/5jguO6cwuUWvyFL3oT0N1f"
+    },
+    {
+      "id": "5Uw32o408Yl7BqcyxwTtEl",
+      "name": "キュートフィクション",
+      "artists": [
+        {
+          "id": "06jSjpC81wzjoUoE61Fhdn",
+          "name": "NANAOAKARI",
+          "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+        }
+      ],
+      "album": {
+        "id": "4wWzWVnoEMLxhcVjnH0dfc",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27384a12385ed189f9166430fb2",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0284a12385ed189f9166430fb2",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485184a12385ed189f9166430fb2",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ブループリント (Special Edition)",
+        "release_date": "2024-08-21",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "06jSjpC81wzjoUoE61Fhdn",
+            "name": "NANAOAKARI",
+            "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4wWzWVnoEMLxhcVjnH0dfc",
+        "total_tracks": 5
+      },
+      "duration_ms": 220920,
+      "popularity": 20,
+      "url": "https://open.spotify.com/track/5Uw32o408Yl7BqcyxwTtEl"
+    },
+    {
+      "id": "6ov7dWfxJsadTqkGZbmKOI",
+      "name": "恋愛脳",
+      "artists": [
+        {
+          "id": "06jSjpC81wzjoUoE61Fhdn",
+          "name": "NANAOAKARI",
+          "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+        }
+      ],
+      "album": {
+        "id": "7DcfUaVT0xSAmFByPZUNIm",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273dd937e7fb91148423b130b7e",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02dd937e7fb91148423b130b7e",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851dd937e7fb91148423b130b7e",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "恋愛脳",
+        "release_date": "2022-07-10",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "06jSjpC81wzjoUoE61Fhdn",
+            "name": "NANAOAKARI",
+            "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+          }
+        ],
+        "url": "https://open.spotify.com/album/7DcfUaVT0xSAmFByPZUNIm",
+        "total_tracks": 1
+      },
+      "duration_ms": 189839,
+      "popularity": 39,
+      "url": "https://open.spotify.com/track/6ov7dWfxJsadTqkGZbmKOI"
+    },
+    {
+      "id": "5H5brHFXyjqtRW4ijludiU",
+      "name": "全部ホントで全部ウソ",
+      "artists": [
+        {
+          "id": "06jSjpC81wzjoUoE61Fhdn",
+          "name": "NANAOAKARI",
+          "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+        }
+      ],
+      "album": {
+        "id": "04IIWkL4c1GGMjuqYPrzdj",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273f764b72620e7118251de46ac",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02f764b72620e7118251de46ac",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851f764b72620e7118251de46ac",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "全部ホントで全部ウソ",
+        "release_date": "2022-03-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "06jSjpC81wzjoUoE61Fhdn",
+            "name": "NANAOAKARI",
+            "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+          }
+        ],
+        "url": "https://open.spotify.com/album/04IIWkL4c1GGMjuqYPrzdj",
+        "total_tracks": 1
+      },
+      "duration_ms": 209280,
+      "popularity": 28,
+      "url": "https://open.spotify.com/track/5H5brHFXyjqtRW4ijludiU"
+    },
+    {
+      "id": "1OnJWGEQbfCjUymF6zwfDx",
+      "name": "チューリングラブ",
+      "artists": [
+        {
+          "id": "06jSjpC81wzjoUoE61Fhdn",
+          "name": "NANAOAKARI",
+          "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+        },
+        {
+          "id": "04ZUR9nJSI7nr1ZrHKLGJ8",
+          "name": "Sou",
+          "url": "https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8"
+        }
+      ],
+      "album": {
+        "id": "5XCBoZz7YgJFqJvkX1wyHV",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273bdda816607b59354aa9063f7",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02bdda816607b59354aa9063f7",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851bdda816607b59354aa9063f7",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "チューリングラブ",
+        "release_date": "2020-01-18",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "06jSjpC81wzjoUoE61Fhdn",
+            "name": "NANAOAKARI",
+            "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5XCBoZz7YgJFqJvkX1wyHV",
+        "total_tracks": 1
+      },
+      "duration_ms": 220300,
+      "popularity": 41,
+      "url": "https://open.spotify.com/track/1OnJWGEQbfCjUymF6zwfDx"
+    },
+    {
+      "id": "1txJzekUoPwGP6JeEoKmHd",
+      "name": "19bitch",
+      "artists": [
+        {
+          "id": "06jSjpC81wzjoUoE61Fhdn",
+          "name": "NANAOAKARI",
+          "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+        }
+      ],
+      "album": {
+        "id": "77R8AHSWf5STZP7ZxJS0HA",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273afc41e13fb790c70dd402c8e",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02afc41e13fb790c70dd402c8e",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851afc41e13fb790c70dd402c8e",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "しあわせになりたい",
+        "release_date": "2016-09-22",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "06jSjpC81wzjoUoE61Fhdn",
+            "name": "NANAOAKARI",
+            "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+          }
+        ],
+        "url": "https://open.spotify.com/album/77R8AHSWf5STZP7ZxJS0HA",
+        "total_tracks": 6
+      },
+      "duration_ms": 241547,
+      "popularity": 9,
+      "url": "https://open.spotify.com/track/1txJzekUoPwGP6JeEoKmHd"
+    },
+    {
+      "id": "5pctuptl1LzRSVSeNI0A2Q",
+      "name": "ハッピーになりたい",
+      "artists": [
+        {
+          "id": "06jSjpC81wzjoUoE61Fhdn",
+          "name": "NANAOAKARI",
+          "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+        }
+      ],
+      "album": {
+        "id": "77R8AHSWf5STZP7ZxJS0HA",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273afc41e13fb790c70dd402c8e",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02afc41e13fb790c70dd402c8e",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851afc41e13fb790c70dd402c8e",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "しあわせになりたい",
+        "release_date": "2016-09-22",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "06jSjpC81wzjoUoE61Fhdn",
+            "name": "NANAOAKARI",
+            "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+          }
+        ],
+        "url": "https://open.spotify.com/album/77R8AHSWf5STZP7ZxJS0HA",
+        "total_tracks": 6
+      },
+      "duration_ms": 206285,
+      "popularity": 14,
+      "url": "https://open.spotify.com/track/5pctuptl1LzRSVSeNI0A2Q"
+    },
+    {
+      "id": "7DJWxtRq4jGcLBmqiqQTaf",
+      "name": "完全放棄宣言",
+      "artists": [
+        {
+          "id": "06jSjpC81wzjoUoE61Fhdn",
+          "name": "NANAOAKARI",
+          "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+        }
+      ],
+      "album": {
+        "id": "0aboQ4fkRs3gBVjUpDPR4d",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c0303ce2659477bcbebc1a57",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c0303ce2659477bcbebc1a57",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c0303ce2659477bcbebc1a57",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "完全放棄宣言",
+        "release_date": "2020-09-07",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "06jSjpC81wzjoUoE61Fhdn",
+            "name": "NANAOAKARI",
+            "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0aboQ4fkRs3gBVjUpDPR4d",
+        "total_tracks": 1
+      },
+      "duration_ms": 266842,
+      "popularity": 27,
+      "url": "https://open.spotify.com/track/7DJWxtRq4jGcLBmqiqQTaf"
+    },
+    {
+      "id": "2oRt9HVnW6bC7wIWQdTxDt",
+      "name": "ダダダダ天使",
+      "artists": [
+        {
+          "id": "06jSjpC81wzjoUoE61Fhdn",
+          "name": "NANAOAKARI",
+          "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+        }
+      ],
+      "album": {
+        "id": "6cuRTbjbuFqCYyFnRiFwJC",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734669f677e8be828652297606",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024669f677e8be828652297606",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514669f677e8be828652297606",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "フライングベスト〜知らないの？巷で噂のダメ天使〜",
+        "release_date": "2018-10-02",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "06jSjpC81wzjoUoE61Fhdn",
+            "name": "NANAOAKARI",
+            "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6cuRTbjbuFqCYyFnRiFwJC",
+        "total_tracks": 15
+      },
+      "duration_ms": 219000,
+      "popularity": 43,
+      "url": "https://open.spotify.com/track/2oRt9HVnW6bC7wIWQdTxDt"
+    },
+    {
+      "id": "6RPV2yiZXWxuHBeu1sNib7",
+      "name": "メルヘル小惑星",
+      "artists": [
+        {
+          "id": "06jSjpC81wzjoUoE61Fhdn",
+          "name": "NANAOAKARI",
+          "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+        }
+      ],
+      "album": {
+        "id": "2YqrbVcXlniP4Bs1iPJohT",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273955251947114efaaf90acd8c",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02955251947114efaaf90acd8c",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851955251947114efaaf90acd8c",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ネクラロイドのあいしかた",
+        "release_date": "2017-08-22",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "06jSjpC81wzjoUoE61Fhdn",
+            "name": "NANAOAKARI",
+            "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2YqrbVcXlniP4Bs1iPJohT",
+        "total_tracks": 6
+      },
+      "duration_ms": 210866,
+      "popularity": 10,
+      "url": "https://open.spotify.com/track/6RPV2yiZXWxuHBeu1sNib7"
+    },
+    {
+      "id": "2cdEPk71QNdkCLQcrQqXJf",
+      "name": "お釈迦になる",
+      "artists": [
+        {
+          "id": "06jSjpC81wzjoUoE61Fhdn",
+          "name": "NANAOAKARI",
+          "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+        }
+      ],
+      "album": {
+        "id": "6cuRTbjbuFqCYyFnRiFwJC",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734669f677e8be828652297606",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024669f677e8be828652297606",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514669f677e8be828652297606",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "フライングベスト〜知らないの？巷で噂のダメ天使〜",
+        "release_date": "2018-10-02",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "06jSjpC81wzjoUoE61Fhdn",
+            "name": "NANAOAKARI",
+            "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6cuRTbjbuFqCYyFnRiFwJC",
+        "total_tracks": 15
+      },
+      "duration_ms": 213000,
+      "popularity": 19,
+      "url": "https://open.spotify.com/track/2cdEPk71QNdkCLQcrQqXJf"
+    },
+    {
+      "id": "0SUiqAmebGBxtVyqSZns0v",
+      "name": "＄ラリ無双",
+      "artists": [
+        {
+          "id": "06jSjpC81wzjoUoE61Fhdn",
+          "name": "NANAOAKARI",
+          "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+        }
+      ],
+      "album": {
+        "id": "4HOmkUPEkkCs8tu24S6zY6",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2730f2ffbf1235c6ca9986c8dd3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e020f2ffbf1235c6ca9986c8dd3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048510f2ffbf1235c6ca9986c8dd3",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "DAMELEON",
+        "release_date": "2019-10-01",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "06jSjpC81wzjoUoE61Fhdn",
+            "name": "NANAOAKARI",
+            "url": "https://open.spotify.com/artist/06jSjpC81wzjoUoE61Fhdn"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4HOmkUPEkkCs8tu24S6zY6",
+        "total_tracks": 7
+      },
+      "duration_ms": 291560,
+      "popularity": 11,
+      "url": "https://open.spotify.com/track/0SUiqAmebGBxtVyqSZns0v"
+    }
+  ],
+  "description": "2024年11月12日(火) Zepp DiverCity (TOKYO)",
+  "name": "24.11.12 ナナヲアカリ「BLUE×PINK」 追加公演 セトリ",
+  "owner": {
+    "display_name": "502bg",
+    "url": "https://open.spotify.com/user/4woroafc3tx648l7zc8quofbf",
+    "id": "4woroafc3tx648l7zc8quofbf"
+  },
+  "url": "https://open.spotify.com/playlist/1yhzNXD7jViZg9r86N5Fcr"
+}

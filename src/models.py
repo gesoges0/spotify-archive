@@ -82,7 +82,7 @@ class Playlist:
             name = f"[{t.name}]({t.url})"
             artists = " & ".join(f"[{a.name}]({a.url})" for a in t.artists)
             album = f"[{t.album.name}]({t.album.url})"
-            duration = f"{t.min_and_sec[0]}:{t.min_and_sec[1]}"
+            duration = f"{t.min_and_sec[0]:02d}:{t.min_and_sec[1]:02d}"
             popularity = t.popularity
             trakcs.append(
                 f"| {i+1} | {name} | {artists} | {album} | {duration} | {popularity} |"
@@ -113,7 +113,7 @@ class Playlist:
 # Statistics
 num tracks: {len(self.tracks)}
 
-duration: {sum_duration_m}:{sum_duration_s}
+duration: {sum_duration_m:02d}:{sum_duration_s:02d}
 
 primary artists: {" & ".join(f"[{a.name}]({a.url})" for a in primary_artists)}
 

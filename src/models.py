@@ -20,6 +20,7 @@ class Playlist:
     # snapshot_id
     # type
     # ur
+    url: str
 
     @classmethod
     def from_playlist_dict(cls, playlist: dict):
@@ -30,6 +31,7 @@ class Playlist:
             name=playlist["name"],
             description=playlist["description"],
             tracks=tracks,
+            url=playlist["external_urls"]["spotify"],
         )
 
     @property
@@ -46,7 +48,7 @@ class Playlist:
             )
         traks_text = "\n".join(trakcs)
         title = f"# {self.name}" if not self.name.startswith("# ") else self.name
-        return f"""{title}
+        return f"""[{title}]()
 
 ## Description
 {self.description}

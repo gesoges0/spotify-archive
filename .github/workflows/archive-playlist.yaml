@@ -34,7 +34,7 @@ jobs:
 
       - name: Cache Value Set          
         run: |
-          echo "${{ secrets.SPOTIPY_CACHE_SECRET }}" > $HOME/.spotipy_cache
+          echo "${{ secrets.SPOTIPY_CACHE_SECRET }}" > "${HOME}/.spotipy_cache"
 
       - name: Archive playlist
         env:
@@ -42,7 +42,7 @@ jobs:
           CLIENT_ID: ${{ secrets.CLIENT_ID }}
           CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
           USER_ID: ${{ secrets.USER_ID }}
-          SPOTIPY_CACHE: $HOME/.spotipy_cache
+          SPOTIPY_CACHE: "${HOME}/.spotipy_cache"
         run: uv run src/archive.py archive-playlist --id $PLAYLIST_ID
 
       # git add, git commit

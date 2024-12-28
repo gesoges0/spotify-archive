@@ -40,7 +40,7 @@ jobs:
           USER_ID: ${{ github.event.inputs.user_id }}
           CLIENT_ID: ${{ secrets.CLIENT_ID }}
           CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
-        run: uv run src/archive.py archive-user-playlists --id $USER_ID
+        run: uv run src/archive.py archive-user --id $USER_ID
 
       - name: Set Branch Name
         run: echo "BRANCH=user-${{ github.event.inputs.user_id }}" >> $GITHUB_ENV

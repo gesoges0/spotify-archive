@@ -229,6 +229,19 @@ class MyPlaylist:
         self.user_id = os.environ.get("USER_ID")
 
     def import_playlist(self, playlist: dict):
+        # 既に自身のプレイリストに同じ名前のプレイリストがあったら何もしない
+        playlists = sp.current_user_playlists()
+        if not playlists:
+            print("failed to get playlists")
+            return
+        for p in playlists["items"]:
+            if p["name"] == playlist["name"]:
+                print(f"playlist {p['name']} already exists")
+                return
+            if p["id"] == playlist["id"]:
+                print(f"playlist {p['id']} already exists")
+                return
+
         new_playlist = sp.user_playlist_create(
             self.user_id, playlist["name"], public=False
         )

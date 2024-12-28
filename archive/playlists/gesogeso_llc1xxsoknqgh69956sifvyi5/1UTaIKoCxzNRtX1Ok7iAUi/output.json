@@ -1,0 +1,611 @@
+{
+  "id": "1UTaIKoCxzNRtX1Ok7iAUi",
+  "tracks": [
+    {
+      "id": "3cZwlMEtYsc2c3d6ABFyOz",
+      "name": "シンクロニシティ",
+      "artists": [
+        {
+          "id": "08lN7bm4Etec8ETFxaTUmq",
+          "name": "Nogizaka46",
+          "url": "https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq"
+        }
+      ],
+      "album": {
+        "id": "6kG2cUR1dGvardDnsY9Bpy",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273df4f7f5c2abda3acb71f5a33",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02df4f7f5c2abda3acb71f5a33",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851df4f7f5c2abda3acb71f5a33",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "シンクロニシティ (Special Edition)",
+        "release_date": "2018-04-18",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "08lN7bm4Etec8ETFxaTUmq",
+            "name": "Nogizaka46",
+            "url": "https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6kG2cUR1dGvardDnsY9Bpy",
+        "total_tracks": 7
+      },
+      "duration_ms": 254880,
+      "popularity": 49,
+      "url": "https://open.spotify.com/track/3cZwlMEtYsc2c3d6ABFyOz"
+    },
+    {
+      "id": "0PHEwJbhs3wte1vCsBI4LF",
+      "name": "インフルエンサー",
+      "artists": [
+        {
+          "id": "08lN7bm4Etec8ETFxaTUmq",
+          "name": "Nogizaka46",
+          "url": "https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq"
+        }
+      ],
+      "album": {
+        "id": "2DOlVrOCdY139TNstj7u2I",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273bd4d544c9b5c5bfe84bf3028",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02bd4d544c9b5c5bfe84bf3028",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851bd4d544c9b5c5bfe84bf3028",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "インフルエンサー(Special Edition)",
+        "release_date": "2017-03-15",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "08lN7bm4Etec8ETFxaTUmq",
+            "name": "Nogizaka46",
+            "url": "https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2DOlVrOCdY139TNstj7u2I",
+        "total_tracks": 7
+      },
+      "duration_ms": 270093,
+      "popularity": 49,
+      "url": "https://open.spotify.com/track/0PHEwJbhs3wte1vCsBI4LF"
+    },
+    {
+      "id": "4RWJxm0Vn83uE0TIhwnABv",
+      "name": "帰り道は遠回りしたくなる",
+      "artists": [
+        {
+          "id": "08lN7bm4Etec8ETFxaTUmq",
+          "name": "Nogizaka46",
+          "url": "https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq"
+        }
+      ],
+      "album": {
+        "id": "6JRJ7rS8nlHA2ZNZgznlEE",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273dde01fe5164226d815fa2f74",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02dde01fe5164226d815fa2f74",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851dde01fe5164226d815fa2f74",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "帰り道は遠回りしたくなる (Special Edition)",
+        "release_date": "2018-11-07",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "08lN7bm4Etec8ETFxaTUmq",
+            "name": "Nogizaka46",
+            "url": "https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6JRJ7rS8nlHA2ZNZgznlEE",
+        "total_tracks": 7
+      },
+      "duration_ms": 269706,
+      "popularity": 50,
+      "url": "https://open.spotify.com/track/4RWJxm0Vn83uE0TIhwnABv"
+    },
+    {
+      "id": "3sdIljU1Gej1Wry4dhqhEF",
+      "name": "Sing Out!",
+      "artists": [
+        {
+          "id": "08lN7bm4Etec8ETFxaTUmq",
+          "name": "Nogizaka46",
+          "url": "https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq"
+        }
+      ],
+      "album": {
+        "id": "3ThChGpRAJdED7DpEkSFDg",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ac6cf1f54f6288a7565e111d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ac6cf1f54f6288a7565e111d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ac6cf1f54f6288a7565e111d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Sing Out! (Special Edition)",
+        "release_date": "2019-05-22",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "08lN7bm4Etec8ETFxaTUmq",
+            "name": "Nogizaka46",
+            "url": "https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3ThChGpRAJdED7DpEkSFDg",
+        "total_tracks": 7
+      },
+      "duration_ms": 325560,
+      "popularity": 44,
+      "url": "https://open.spotify.com/track/3sdIljU1Gej1Wry4dhqhEF"
+    },
+    {
+      "id": "0lU7b9JpuI9RMVqqcJc5kd",
+      "name": "サヨナラの意味",
+      "artists": [
+        {
+          "id": "08lN7bm4Etec8ETFxaTUmq",
+          "name": "Nogizaka46",
+          "url": "https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq"
+        }
+      ],
+      "album": {
+        "id": "6h44qcqKe5voOXmriZOGNZ",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a2f759d60ac21bf0fb16a073",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a2f759d60ac21bf0fb16a073",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a2f759d60ac21bf0fb16a073",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "サヨナラの意味 (Special Edition)",
+        "release_date": "2016-11-02",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "08lN7bm4Etec8ETFxaTUmq",
+            "name": "Nogizaka46",
+            "url": "https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6h44qcqKe5voOXmriZOGNZ",
+        "total_tracks": 7
+      },
+      "duration_ms": 299040,
+      "popularity": 47,
+      "url": "https://open.spotify.com/track/0lU7b9JpuI9RMVqqcJc5kd"
+    },
+    {
+      "id": "3Tt2l5PZQMonMesad0GDu3",
+      "name": "ジコチューで行こう！",
+      "artists": [
+        {
+          "id": "08lN7bm4Etec8ETFxaTUmq",
+          "name": "Nogizaka46",
+          "url": "https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq"
+        }
+      ],
+      "album": {
+        "id": "0x9xjOtUFE908fC0a3pIja",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d0e9b7a71b025e632e81f196",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d0e9b7a71b025e632e81f196",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d0e9b7a71b025e632e81f196",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ジコチューで行こう！ (Special Edition)",
+        "release_date": "2018-08-01",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "08lN7bm4Etec8ETFxaTUmq",
+            "name": "Nogizaka46",
+            "url": "https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0x9xjOtUFE908fC0a3pIja",
+        "total_tracks": 7
+      },
+      "duration_ms": 249826,
+      "popularity": 42,
+      "url": "https://open.spotify.com/track/3Tt2l5PZQMonMesad0GDu3"
+    },
+    {
+      "id": "6MKeN3dmPLge6X2E2oUAkt",
+      "name": "月曜日の朝、スカートを切られた",
+      "artists": [
+        {
+          "id": "03E7w8NrBr4lNCK33TQyil",
+          "name": "Keyakizaka46",
+          "url": "https://open.spotify.com/artist/03E7w8NrBr4lNCK33TQyil"
+        }
+      ],
+      "album": {
+        "id": "7qPeOcSdZjHCaHcG5L6xPC",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273f30831f5c49d570b46ec8570",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02f30831f5c49d570b46ec8570",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851f30831f5c49d570b46ec8570",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "真っ白なものは汚したくなる (Complete Edition)",
+        "release_date": "2017-07-19",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "03E7w8NrBr4lNCK33TQyil",
+            "name": "Keyakizaka46",
+            "url": "https://open.spotify.com/artist/03E7w8NrBr4lNCK33TQyil"
+          }
+        ],
+        "url": "https://open.spotify.com/album/7qPeOcSdZjHCaHcG5L6xPC",
+        "total_tracks": 40
+      },
+      "duration_ms": 217520,
+      "popularity": 30,
+      "url": "https://open.spotify.com/track/6MKeN3dmPLge6X2E2oUAkt"
+    },
+    {
+      "id": "5i4PsR8i4Q9AoIGR7ttCP1",
+      "name": "エキセントリック",
+      "artists": [
+        {
+          "id": "03E7w8NrBr4lNCK33TQyil",
+          "name": "Keyakizaka46",
+          "url": "https://open.spotify.com/artist/03E7w8NrBr4lNCK33TQyil"
+        }
+      ],
+      "album": {
+        "id": "57WCr1bvHw1GZQL90tx7jo",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273381db4dcde64c91793b08349",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02381db4dcde64c91793b08349",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851381db4dcde64c91793b08349",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "不協和音 (Special Edition)",
+        "release_date": "2017-04-05",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "03E7w8NrBr4lNCK33TQyil",
+            "name": "Keyakizaka46",
+            "url": "https://open.spotify.com/artist/03E7w8NrBr4lNCK33TQyil"
+          }
+        ],
+        "url": "https://open.spotify.com/album/57WCr1bvHw1GZQL90tx7jo",
+        "total_tracks": 7
+      },
+      "duration_ms": 273040,
+      "popularity": 37,
+      "url": "https://open.spotify.com/track/5i4PsR8i4Q9AoIGR7ttCP1"
+    },
+    {
+      "id": "48ggu8qMnZep9jKRWB0dAL",
+      "name": "渋谷川",
+      "artists": [
+        {
+          "id": "03E7w8NrBr4lNCK33TQyil",
+          "name": "Keyakizaka46",
+          "url": "https://open.spotify.com/artist/03E7w8NrBr4lNCK33TQyil"
+        }
+      ],
+      "album": {
+        "id": "6xZd5BJe7tbIA9BT8WQpeu",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c66781ba81ec1477335e30b5",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c66781ba81ec1477335e30b5",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c66781ba81ec1477335e30b5",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "サイレントマジョリティー (Special Edition)",
+        "release_date": "2016-04-06",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "03E7w8NrBr4lNCK33TQyil",
+            "name": "Keyakizaka46",
+            "url": "https://open.spotify.com/artist/03E7w8NrBr4lNCK33TQyil"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6xZd5BJe7tbIA9BT8WQpeu",
+        "total_tracks": 6
+      },
+      "duration_ms": 292226,
+      "popularity": 20,
+      "url": "https://open.spotify.com/track/48ggu8qMnZep9jKRWB0dAL"
+    },
+    {
+      "id": "1lZyM0j1iFa4vB9xSkpjur",
+      "name": "ここにはないもの",
+      "artists": [
+        {
+          "id": "08lN7bm4Etec8ETFxaTUmq",
+          "name": "Nogizaka46",
+          "url": "https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq"
+        }
+      ],
+      "album": {
+        "id": "31Tl5tXrIOYl6zOH1t0uiM",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2735419a7aabb77112e20a55cfb",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e025419a7aabb77112e20a55cfb",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048515419a7aabb77112e20a55cfb",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ここにはないもの (Special Edition)",
+        "release_date": "2022-12-07",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "08lN7bm4Etec8ETFxaTUmq",
+            "name": "Nogizaka46",
+            "url": "https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq"
+          }
+        ],
+        "url": "https://open.spotify.com/album/31Tl5tXrIOYl6zOH1t0uiM",
+        "total_tracks": 7
+      },
+      "duration_ms": 311360,
+      "popularity": 47,
+      "url": "https://open.spotify.com/track/1lZyM0j1iFa4vB9xSkpjur"
+    },
+    {
+      "id": "7xHIsUSTQKXJTGiQL4CPq6",
+      "name": "ここにはないもの",
+      "artists": [
+        {
+          "id": "08lN7bm4Etec8ETFxaTUmq",
+          "name": "Nogizaka46",
+          "url": "https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq"
+        }
+      ],
+      "album": {
+        "id": "0df75UK0WtU2JFKrWlvf4v",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2735c772d4b83f1938f92ac5e67",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e025c772d4b83f1938f92ac5e67",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048515c772d4b83f1938f92ac5e67",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ここにはないもの",
+        "release_date": "2022-12-07",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "08lN7bm4Etec8ETFxaTUmq",
+            "name": "Nogizaka46",
+            "url": "https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0df75UK0WtU2JFKrWlvf4v",
+        "total_tracks": 6
+      },
+      "duration_ms": 311360,
+      "popularity": 25,
+      "url": "https://open.spotify.com/track/7xHIsUSTQKXJTGiQL4CPq6"
+    },
+    {
+      "id": "0cJ8TAagHiLE5Hir5eTzO0",
+      "name": "きっかけ",
+      "artists": [
+        {
+          "id": "08lN7bm4Etec8ETFxaTUmq",
+          "name": "Nogizaka46",
+          "url": "https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq"
+        }
+      ],
+      "album": {
+        "id": "11WqRoGaD4VOqMnHbU2qRd",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a5d3da533d774bbd2ba8b24f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a5d3da533d774bbd2ba8b24f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a5d3da533d774bbd2ba8b24f",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "それぞれの椅子 (Special Edition)",
+        "release_date": "2016-05-25",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "08lN7bm4Etec8ETFxaTUmq",
+            "name": "Nogizaka46",
+            "url": "https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq"
+          }
+        ],
+        "url": "https://open.spotify.com/album/11WqRoGaD4VOqMnHbU2qRd",
+        "total_tracks": 17
+      },
+      "duration_ms": 320093,
+      "popularity": 43,
+      "url": "https://open.spotify.com/track/0cJ8TAagHiLE5Hir5eTzO0"
+    },
+    {
+      "id": "0EhD7u3R0rsYl2rCRjmpXJ",
+      "name": "今、話したい誰かがいる",
+      "artists": [
+        {
+          "id": "08lN7bm4Etec8ETFxaTUmq",
+          "name": "Nogizaka46",
+          "url": "https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq"
+        }
+      ],
+      "album": {
+        "id": "6Z2tfiJbPMhwHoYno8Mjfr",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b27882af43be344d9e559008",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b27882af43be344d9e559008",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b27882af43be344d9e559008",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "今、話したい誰かがいる",
+        "release_date": "2016-03-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "08lN7bm4Etec8ETFxaTUmq",
+            "name": "Nogizaka46",
+            "url": "https://open.spotify.com/artist/08lN7bm4Etec8ETFxaTUmq"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6Z2tfiJbPMhwHoYno8Mjfr",
+        "total_tracks": 6
+      },
+      "duration_ms": 264080,
+      "popularity": 30,
+      "url": "https://open.spotify.com/track/0EhD7u3R0rsYl2rCRjmpXJ"
+    }
+  ],
+  "description": "",
+  "name": "乃木坂",
+  "owner": {
+    "display_name": "gesogeso",
+    "url": "https://open.spotify.com/user/llc1xxsoknqgh69956sifvyi5",
+    "id": "llc1xxsoknqgh69956sifvyi5"
+  },
+  "url": "https://open.spotify.com/playlist/1UTaIKoCxzNRtX1Ok7iAUi"
+}

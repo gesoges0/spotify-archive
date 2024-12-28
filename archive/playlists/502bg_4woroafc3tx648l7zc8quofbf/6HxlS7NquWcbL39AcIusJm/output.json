@@ -1,0 +1,948 @@
+{
+  "id": "6HxlS7NquWcbL39AcIusJm",
+  "tracks": [
+    {
+      "id": "02jSqGmyGxNRGBfqtH1NZS",
+      "name": "空奏列車",
+      "artists": [
+        {
+          "id": "420aixNZr4paRQmuRXz3DS",
+          "name": "Orangestar",
+          "url": "https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS"
+        }
+      ],
+      "album": {
+        "id": "4R1TGj5yvneO62MVUYUpXL",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273eb6f2ccb1d76a19760bf34f9",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02eb6f2ccb1d76a19760bf34f9",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851eb6f2ccb1d76a19760bf34f9",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "未完成エイトビーツ",
+        "release_date": "2015-04-22",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "420aixNZr4paRQmuRXz3DS",
+            "name": "Orangestar",
+            "url": "https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4R1TGj5yvneO62MVUYUpXL",
+        "total_tracks": 15
+      },
+      "duration_ms": 247440,
+      "popularity": 35,
+      "url": "https://open.spotify.com/track/02jSqGmyGxNRGBfqtH1NZS"
+    },
+    {
+      "id": "6W87BcsuhbxO839Yif1oib",
+      "name": "イヤホンと蝉時雨",
+      "artists": [
+        {
+          "id": "420aixNZr4paRQmuRXz3DS",
+          "name": "Orangestar",
+          "url": "https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS"
+        }
+      ],
+      "album": {
+        "id": "4R1TGj5yvneO62MVUYUpXL",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273eb6f2ccb1d76a19760bf34f9",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02eb6f2ccb1d76a19760bf34f9",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851eb6f2ccb1d76a19760bf34f9",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "未完成エイトビーツ",
+        "release_date": "2015-04-22",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "420aixNZr4paRQmuRXz3DS",
+            "name": "Orangestar",
+            "url": "https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4R1TGj5yvneO62MVUYUpXL",
+        "total_tracks": 15
+      },
+      "duration_ms": 259519,
+      "popularity": 28,
+      "url": "https://open.spotify.com/track/6W87BcsuhbxO839Yif1oib"
+    },
+    {
+      "id": "2KCFQSsGIGH79kKPBCNgEK",
+      "name": "夏色アンサー",
+      "artists": [
+        {
+          "id": "420aixNZr4paRQmuRXz3DS",
+          "name": "Orangestar",
+          "url": "https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS"
+        }
+      ],
+      "album": {
+        "id": "4R1TGj5yvneO62MVUYUpXL",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273eb6f2ccb1d76a19760bf34f9",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02eb6f2ccb1d76a19760bf34f9",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851eb6f2ccb1d76a19760bf34f9",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "未完成エイトビーツ",
+        "release_date": "2015-04-22",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "420aixNZr4paRQmuRXz3DS",
+            "name": "Orangestar",
+            "url": "https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4R1TGj5yvneO62MVUYUpXL",
+        "total_tracks": 15
+      },
+      "duration_ms": 194720,
+      "popularity": 23,
+      "url": "https://open.spotify.com/track/2KCFQSsGIGH79kKPBCNgEK"
+    },
+    {
+      "id": "75tQZI2X1VwNOPtOrOrdpl",
+      "name": "アスノヨゾラ哨戒班",
+      "artists": [
+        {
+          "id": "420aixNZr4paRQmuRXz3DS",
+          "name": "Orangestar",
+          "url": "https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS"
+        }
+      ],
+      "album": {
+        "id": "4R1TGj5yvneO62MVUYUpXL",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273eb6f2ccb1d76a19760bf34f9",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02eb6f2ccb1d76a19760bf34f9",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851eb6f2ccb1d76a19760bf34f9",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "未完成エイトビーツ",
+        "release_date": "2015-04-22",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "420aixNZr4paRQmuRXz3DS",
+            "name": "Orangestar",
+            "url": "https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4R1TGj5yvneO62MVUYUpXL",
+        "total_tracks": 15
+      },
+      "duration_ms": 177773,
+      "popularity": 47,
+      "url": "https://open.spotify.com/track/75tQZI2X1VwNOPtOrOrdpl"
+    },
+    {
+      "id": "2szSRhNbOiFlW91ywxLWAi",
+      "name": "未完成タイムリミッター",
+      "artists": [
+        {
+          "id": "420aixNZr4paRQmuRXz3DS",
+          "name": "Orangestar",
+          "url": "https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS"
+        }
+      ],
+      "album": {
+        "id": "4R1TGj5yvneO62MVUYUpXL",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273eb6f2ccb1d76a19760bf34f9",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02eb6f2ccb1d76a19760bf34f9",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851eb6f2ccb1d76a19760bf34f9",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "未完成エイトビーツ",
+        "release_date": "2015-04-22",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "420aixNZr4paRQmuRXz3DS",
+            "name": "Orangestar",
+            "url": "https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4R1TGj5yvneO62MVUYUpXL",
+        "total_tracks": 15
+      },
+      "duration_ms": 221706,
+      "popularity": 30,
+      "url": "https://open.spotify.com/track/2szSRhNbOiFlW91ywxLWAi"
+    },
+    {
+      "id": "7nSUnsyrjz9arJm6ZsbYb7",
+      "name": "CITRUS (feat. IA & ONE)",
+      "artists": [
+        {
+          "id": "420aixNZr4paRQmuRXz3DS",
+          "name": "Orangestar",
+          "url": "https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS"
+        },
+        {
+          "id": "1oz1HYOyJhjshPi5Nvs3MX",
+          "name": "IA",
+          "url": "https://open.spotify.com/artist/1oz1HYOyJhjshPi5Nvs3MX"
+        },
+        {
+          "id": "5wceSLAnLm0xK3RGoFFh7Y",
+          "name": "ONE",
+          "url": "https://open.spotify.com/artist/5wceSLAnLm0xK3RGoFFh7Y"
+        }
+      ],
+      "album": {
+        "id": "24XD9C0xbNFEhtSspI97KJ",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273aad39a57342506b1ad7ba67a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02aad39a57342506b1ad7ba67a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851aad39a57342506b1ad7ba67a",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "未収録OSC",
+        "release_date": "2016-11-05",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "420aixNZr4paRQmuRXz3DS",
+            "name": "Orangestar",
+            "url": "https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS"
+          }
+        ],
+        "url": "https://open.spotify.com/album/24XD9C0xbNFEhtSspI97KJ",
+        "total_tracks": 6
+      },
+      "duration_ms": 217500,
+      "popularity": 27,
+      "url": "https://open.spotify.com/track/7nSUnsyrjz9arJm6ZsbYb7"
+    },
+    {
+      "id": "2F8gqN4vQMlPnsRDsEwOTv",
+      "name": "新世界LIVE (feat. IA)",
+      "artists": [
+        {
+          "id": "420aixNZr4paRQmuRXz3DS",
+          "name": "Orangestar",
+          "url": "https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS"
+        },
+        {
+          "id": "1oz1HYOyJhjshPi5Nvs3MX",
+          "name": "IA",
+          "url": "https://open.spotify.com/artist/1oz1HYOyJhjshPi5Nvs3MX"
+        }
+      ],
+      "album": {
+        "id": "24XD9C0xbNFEhtSspI97KJ",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273aad39a57342506b1ad7ba67a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02aad39a57342506b1ad7ba67a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851aad39a57342506b1ad7ba67a",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "未収録OSC",
+        "release_date": "2016-11-05",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "420aixNZr4paRQmuRXz3DS",
+            "name": "Orangestar",
+            "url": "https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS"
+          }
+        ],
+        "url": "https://open.spotify.com/album/24XD9C0xbNFEhtSspI97KJ",
+        "total_tracks": 6
+      },
+      "duration_ms": 158239,
+      "popularity": 23,
+      "url": "https://open.spotify.com/track/2F8gqN4vQMlPnsRDsEwOTv"
+    },
+    {
+      "id": "4u4waEq8JvugyEW3rDTpKE",
+      "name": "Alice in 冷凍庫",
+      "artists": [
+        {
+          "id": "420aixNZr4paRQmuRXz3DS",
+          "name": "Orangestar",
+          "url": "https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS"
+        }
+      ],
+      "album": {
+        "id": "03GyEUfClHLpRVffentlxz",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27384bc7a264457b71836f93694",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0284bc7a264457b71836f93694",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485184bc7a264457b71836f93694",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "SEASIDE SOLILOQUIES",
+        "release_date": "2020-08-03",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "420aixNZr4paRQmuRXz3DS",
+            "name": "Orangestar",
+            "url": "https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS"
+          }
+        ],
+        "url": "https://open.spotify.com/album/03GyEUfClHLpRVffentlxz",
+        "total_tracks": 13
+      },
+      "duration_ms": 343301,
+      "popularity": 38,
+      "url": "https://open.spotify.com/track/4u4waEq8JvugyEW3rDTpKE"
+    },
+    {
+      "id": "52anAc1Jr1EMVlRyTVYJvS",
+      "name": "Uz",
+      "artists": [
+        {
+          "id": "420aixNZr4paRQmuRXz3DS",
+          "name": "Orangestar",
+          "url": "https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS"
+        }
+      ],
+      "album": {
+        "id": "03GyEUfClHLpRVffentlxz",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27384bc7a264457b71836f93694",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0284bc7a264457b71836f93694",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485184bc7a264457b71836f93694",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "SEASIDE SOLILOQUIES",
+        "release_date": "2020-08-03",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "420aixNZr4paRQmuRXz3DS",
+            "name": "Orangestar",
+            "url": "https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS"
+          }
+        ],
+        "url": "https://open.spotify.com/album/03GyEUfClHLpRVffentlxz",
+        "total_tracks": 13
+      },
+      "duration_ms": 232500,
+      "popularity": 32,
+      "url": "https://open.spotify.com/track/52anAc1Jr1EMVlRyTVYJvS"
+    },
+    {
+      "id": "6l7ZqYZEFACakrqrnnDGS5",
+      "name": "Trash Day",
+      "artists": [
+        {
+          "id": "420aixNZr4paRQmuRXz3DS",
+          "name": "Orangestar",
+          "url": "https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS"
+        }
+      ],
+      "album": {
+        "id": "03GyEUfClHLpRVffentlxz",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27384bc7a264457b71836f93694",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0284bc7a264457b71836f93694",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485184bc7a264457b71836f93694",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "SEASIDE SOLILOQUIES",
+        "release_date": "2020-08-03",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "420aixNZr4paRQmuRXz3DS",
+            "name": "Orangestar",
+            "url": "https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS"
+          }
+        ],
+        "url": "https://open.spotify.com/album/03GyEUfClHLpRVffentlxz",
+        "total_tracks": 13
+      },
+      "duration_ms": 132428,
+      "popularity": 22,
+      "url": "https://open.spotify.com/track/6l7ZqYZEFACakrqrnnDGS5"
+    },
+    {
+      "id": "75YCl9VcgGUKPmjrH5wWkp",
+      "name": "DAYBREAK FRONTLINE",
+      "artists": [
+        {
+          "id": "420aixNZr4paRQmuRXz3DS",
+          "name": "Orangestar",
+          "url": "https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS"
+        }
+      ],
+      "album": {
+        "id": "03GyEUfClHLpRVffentlxz",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27384bc7a264457b71836f93694",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0284bc7a264457b71836f93694",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485184bc7a264457b71836f93694",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "SEASIDE SOLILOQUIES",
+        "release_date": "2020-08-03",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "420aixNZr4paRQmuRXz3DS",
+            "name": "Orangestar",
+            "url": "https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS"
+          }
+        ],
+        "url": "https://open.spotify.com/album/03GyEUfClHLpRVffentlxz",
+        "total_tracks": 13
+      },
+      "duration_ms": 216617,
+      "popularity": 45,
+      "url": "https://open.spotify.com/track/75YCl9VcgGUKPmjrH5wWkp"
+    },
+    {
+      "id": "3jxOCAYFr7yfwVvtdVy8MU",
+      "name": "White Landscape",
+      "artists": [
+        {
+          "id": "420aixNZr4paRQmuRXz3DS",
+          "name": "Orangestar",
+          "url": "https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS"
+        }
+      ],
+      "album": {
+        "id": "03GyEUfClHLpRVffentlxz",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27384bc7a264457b71836f93694",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0284bc7a264457b71836f93694",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485184bc7a264457b71836f93694",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "SEASIDE SOLILOQUIES",
+        "release_date": "2020-08-03",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "420aixNZr4paRQmuRXz3DS",
+            "name": "Orangestar",
+            "url": "https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS"
+          }
+        ],
+        "url": "https://open.spotify.com/album/03GyEUfClHLpRVffentlxz",
+        "total_tracks": 13
+      },
+      "duration_ms": 215869,
+      "popularity": 21,
+      "url": "https://open.spotify.com/track/3jxOCAYFr7yfwVvtdVy8MU"
+    },
+    {
+      "id": "3Mx3bRcLoGJb7GvtaOXiaO",
+      "name": "サンダルリープ",
+      "artists": [
+        {
+          "id": "420aixNZr4paRQmuRXz3DS",
+          "name": "Orangestar",
+          "url": "https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS"
+        }
+      ],
+      "album": {
+        "id": "03GyEUfClHLpRVffentlxz",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27384bc7a264457b71836f93694",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0284bc7a264457b71836f93694",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485184bc7a264457b71836f93694",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "SEASIDE SOLILOQUIES",
+        "release_date": "2020-08-03",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "420aixNZr4paRQmuRXz3DS",
+            "name": "Orangestar",
+            "url": "https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS"
+          }
+        ],
+        "url": "https://open.spotify.com/album/03GyEUfClHLpRVffentlxz",
+        "total_tracks": 13
+      },
+      "duration_ms": 232216,
+      "popularity": 21,
+      "url": "https://open.spotify.com/track/3Mx3bRcLoGJb7GvtaOXiaO"
+    },
+    {
+      "id": "2qEjAi2IIV6BNX7OY3Z2Ma",
+      "name": "回る空うさぎ",
+      "artists": [
+        {
+          "id": "420aixNZr4paRQmuRXz3DS",
+          "name": "Orangestar",
+          "url": "https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS"
+        }
+      ],
+      "album": {
+        "id": "03GyEUfClHLpRVffentlxz",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27384bc7a264457b71836f93694",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0284bc7a264457b71836f93694",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485184bc7a264457b71836f93694",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "SEASIDE SOLILOQUIES",
+        "release_date": "2020-08-03",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "420aixNZr4paRQmuRXz3DS",
+            "name": "Orangestar",
+            "url": "https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS"
+          }
+        ],
+        "url": "https://open.spotify.com/album/03GyEUfClHLpRVffentlxz",
+        "total_tracks": 13
+      },
+      "duration_ms": 175000,
+      "popularity": 43,
+      "url": "https://open.spotify.com/track/2qEjAi2IIV6BNX7OY3Z2Ma"
+    },
+    {
+      "id": "7EMT9eDXYJmDA7Pu5fCcws",
+      "name": "Still-GATE",
+      "artists": [
+        {
+          "id": "420aixNZr4paRQmuRXz3DS",
+          "name": "Orangestar",
+          "url": "https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS"
+        }
+      ],
+      "album": {
+        "id": "03GyEUfClHLpRVffentlxz",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27384bc7a264457b71836f93694",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0284bc7a264457b71836f93694",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485184bc7a264457b71836f93694",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "SEASIDE SOLILOQUIES",
+        "release_date": "2020-08-03",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "420aixNZr4paRQmuRXz3DS",
+            "name": "Orangestar",
+            "url": "https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS"
+          }
+        ],
+        "url": "https://open.spotify.com/album/03GyEUfClHLpRVffentlxz",
+        "total_tracks": 13
+      },
+      "duration_ms": 275113,
+      "popularity": 22,
+      "url": "https://open.spotify.com/track/7EMT9eDXYJmDA7Pu5fCcws"
+    },
+    {
+      "id": "47FmfFr7Ro4c75zfGY1u3C",
+      "name": "Henceforth",
+      "artists": [
+        {
+          "id": "420aixNZr4paRQmuRXz3DS",
+          "name": "Orangestar",
+          "url": "https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS"
+        }
+      ],
+      "album": {
+        "id": "6zCec6zfYGM3ioT1XTPMtQ",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737fc09ee55fe7643ff7796a9d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027fc09ee55fe7643ff7796a9d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517fc09ee55fe7643ff7796a9d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "And So Henceforth,",
+        "release_date": "2023-08-30",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "420aixNZr4paRQmuRXz3DS",
+            "name": "Orangestar",
+            "url": "https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6zCec6zfYGM3ioT1XTPMtQ",
+        "total_tracks": 12
+      },
+      "duration_ms": 234181,
+      "popularity": 45,
+      "url": "https://open.spotify.com/track/47FmfFr7Ro4c75zfGY1u3C"
+    },
+    {
+      "id": "7bkEzRJeQ7Fi2EQ8xX3ZxY",
+      "name": "Surges",
+      "artists": [
+        {
+          "id": "420aixNZr4paRQmuRXz3DS",
+          "name": "Orangestar",
+          "url": "https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS"
+        }
+      ],
+      "album": {
+        "id": "6zCec6zfYGM3ioT1XTPMtQ",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737fc09ee55fe7643ff7796a9d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027fc09ee55fe7643ff7796a9d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517fc09ee55fe7643ff7796a9d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "And So Henceforth,",
+        "release_date": "2023-08-30",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "420aixNZr4paRQmuRXz3DS",
+            "name": "Orangestar",
+            "url": "https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6zCec6zfYGM3ioT1XTPMtQ",
+        "total_tracks": 12
+      },
+      "duration_ms": 146528,
+      "popularity": 36,
+      "url": "https://open.spotify.com/track/7bkEzRJeQ7Fi2EQ8xX3ZxY"
+    },
+    {
+      "id": "6pwysiLqF6HNFvvquj3hXW",
+      "name": "霽れを待つ",
+      "artists": [
+        {
+          "id": "420aixNZr4paRQmuRXz3DS",
+          "name": "Orangestar",
+          "url": "https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS"
+        }
+      ],
+      "album": {
+        "id": "6zCec6zfYGM3ioT1XTPMtQ",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737fc09ee55fe7643ff7796a9d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027fc09ee55fe7643ff7796a9d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517fc09ee55fe7643ff7796a9d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "And So Henceforth,",
+        "release_date": "2023-08-30",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "420aixNZr4paRQmuRXz3DS",
+            "name": "Orangestar",
+            "url": "https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6zCec6zfYGM3ioT1XTPMtQ",
+        "total_tracks": 12
+      },
+      "duration_ms": 251453,
+      "popularity": 20,
+      "url": "https://open.spotify.com/track/6pwysiLqF6HNFvvquj3hXW"
+    },
+    {
+      "id": "7BXs9CjeA6cJXuNMChwbYF",
+      "name": "Aloud - ASH ver.",
+      "artists": [
+        {
+          "id": "420aixNZr4paRQmuRXz3DS",
+          "name": "Orangestar",
+          "url": "https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS"
+        }
+      ],
+      "album": {
+        "id": "6zCec6zfYGM3ioT1XTPMtQ",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737fc09ee55fe7643ff7796a9d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027fc09ee55fe7643ff7796a9d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517fc09ee55fe7643ff7796a9d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "And So Henceforth,",
+        "release_date": "2023-08-30",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "420aixNZr4paRQmuRXz3DS",
+            "name": "Orangestar",
+            "url": "https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6zCec6zfYGM3ioT1XTPMtQ",
+        "total_tracks": 12
+      },
+      "duration_ms": 206343,
+      "popularity": 24,
+      "url": "https://open.spotify.com/track/7BXs9CjeA6cJXuNMChwbYF"
+    },
+    {
+      "id": "1BTHQeJTGb7NnsBnsgsbxQ",
+      "name": "快晴",
+      "artists": [
+        {
+          "id": "420aixNZr4paRQmuRXz3DS",
+          "name": "Orangestar",
+          "url": "https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS"
+        }
+      ],
+      "album": {
+        "id": "6zCec6zfYGM3ioT1XTPMtQ",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737fc09ee55fe7643ff7796a9d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027fc09ee55fe7643ff7796a9d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517fc09ee55fe7643ff7796a9d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "And So Henceforth,",
+        "release_date": "2023-08-30",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "420aixNZr4paRQmuRXz3DS",
+            "name": "Orangestar",
+            "url": "https://open.spotify.com/artist/420aixNZr4paRQmuRXz3DS"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6zCec6zfYGM3ioT1XTPMtQ",
+        "total_tracks": 12
+      },
+      "duration_ms": 263515,
+      "popularity": 34,
+      "url": "https://open.spotify.com/track/1BTHQeJTGb7NnsBnsgsbxQ"
+    }
+  ],
+  "description": "オタクセレクト",
+  "name": "Orangestar",
+  "owner": {
+    "display_name": "502bg",
+    "url": "https://open.spotify.com/user/4woroafc3tx648l7zc8quofbf",
+    "id": "4woroafc3tx648l7zc8quofbf"
+  },
+  "url": "https://open.spotify.com/playlist/6HxlS7NquWcbL39AcIusJm"
+}

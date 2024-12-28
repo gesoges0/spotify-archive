@@ -1,0 +1,335 @@
+{
+  "id": "2G8PzduEoYgQQ8QHpLBePP",
+  "tracks": [
+    {
+      "id": "65OwYQi9dHciQ3FNZlghwx",
+      "name": "I Say Yes (From \"Zero no Tsukaima\")",
+      "artists": [
+        {
+          "id": "4sf4DrAOkheqktxTyKm7tO",
+          "name": "AmaLee",
+          "url": "https://open.spotify.com/artist/4sf4DrAOkheqktxTyKm7tO"
+        }
+      ],
+      "album": {
+        "id": "6M74gHts55Eg6YEeSQnWSC",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27305dc38bbf5f1243e3a6ba31c",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0205dc38bbf5f1243e3a6ba31c",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485105dc38bbf5f1243e3a6ba31c",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Nostalgia III",
+        "release_date": "2018-01-18",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "4sf4DrAOkheqktxTyKm7tO",
+            "name": "AmaLee",
+            "url": "https://open.spotify.com/artist/4sf4DrAOkheqktxTyKm7tO"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6M74gHts55Eg6YEeSQnWSC",
+        "total_tracks": 12
+      },
+      "duration_ms": 228500,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/65OwYQi9dHciQ3FNZlghwx"
+    },
+    {
+      "id": "7n21jyNdNslrwViOFbajxI",
+      "name": "My Soul, Your Beats! (From \"Angel Beats\")",
+      "artists": [
+        {
+          "id": "4sf4DrAOkheqktxTyKm7tO",
+          "name": "AmaLee",
+          "url": "https://open.spotify.com/artist/4sf4DrAOkheqktxTyKm7tO"
+        }
+      ],
+      "album": {
+        "id": "6M74gHts55Eg6YEeSQnWSC",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27305dc38bbf5f1243e3a6ba31c",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0205dc38bbf5f1243e3a6ba31c",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485105dc38bbf5f1243e3a6ba31c",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Nostalgia III",
+        "release_date": "2018-01-18",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "4sf4DrAOkheqktxTyKm7tO",
+            "name": "AmaLee",
+            "url": "https://open.spotify.com/artist/4sf4DrAOkheqktxTyKm7tO"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6M74gHts55Eg6YEeSQnWSC",
+        "total_tracks": 12
+      },
+      "duration_ms": 277241,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/7n21jyNdNslrwViOFbajxI"
+    },
+    {
+      "id": "6JwrP1Oyic7hKsrja6yTWN",
+      "name": "Cruel Angel's Thesis (From \"Neon Genesis Evangelion\")",
+      "artists": [
+        {
+          "id": "4sf4DrAOkheqktxTyKm7tO",
+          "name": "AmaLee",
+          "url": "https://open.spotify.com/artist/4sf4DrAOkheqktxTyKm7tO"
+        }
+      ],
+      "album": {
+        "id": "3eNEffQtxXcpysALunZOB6",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2736f8300950420fc7ddb6a12bd",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e026f8300950420fc7ddb6a12bd",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048516f8300950420fc7ddb6a12bd",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Nostalgia",
+        "release_date": "2017-01-07",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "4sf4DrAOkheqktxTyKm7tO",
+            "name": "AmaLee",
+            "url": "https://open.spotify.com/artist/4sf4DrAOkheqktxTyKm7tO"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3eNEffQtxXcpysALunZOB6",
+        "total_tracks": 12
+      },
+      "duration_ms": 240937,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/6JwrP1Oyic7hKsrja6yTWN"
+    },
+    {
+      "id": "2xYPkynBY5QpC7KjkaMPLj",
+      "name": "This Game (From \"No Game No Life\")",
+      "artists": [
+        {
+          "id": "4sf4DrAOkheqktxTyKm7tO",
+          "name": "AmaLee",
+          "url": "https://open.spotify.com/artist/4sf4DrAOkheqktxTyKm7tO"
+        }
+      ],
+      "album": {
+        "id": "7sG8pnZfnq5HY4PA4zGeib",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e43c0ab9b1c3ae452140ac01",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e43c0ab9b1c3ae452140ac01",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e43c0ab9b1c3ae452140ac01",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Nostalgia VII",
+        "release_date": "2019",
+        "release_date_precision": "year",
+        "artists": [
+          {
+            "id": "4sf4DrAOkheqktxTyKm7tO",
+            "name": "AmaLee",
+            "url": "https://open.spotify.com/artist/4sf4DrAOkheqktxTyKm7tO"
+          }
+        ],
+        "url": "https://open.spotify.com/album/7sG8pnZfnq5HY4PA4zGeib",
+        "total_tracks": 12
+      },
+      "duration_ms": 281020,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/2xYPkynBY5QpC7KjkaMPLj"
+    },
+    {
+      "id": "0DvCbQSAmY3iUuzZ6NVMB0",
+      "name": "Silhouette (From \"Naruto Shippuden\")",
+      "artists": [
+        {
+          "id": "4sf4DrAOkheqktxTyKm7tO",
+          "name": "AmaLee",
+          "url": "https://open.spotify.com/artist/4sf4DrAOkheqktxTyKm7tO"
+        }
+      ],
+      "album": {
+        "id": "6SPwmYKcDeRuGfAOCjDwK3",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2730707ef193d03eab6915767cc",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e020707ef193d03eab6915767cc",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048510707ef193d03eab6915767cc",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Nostalgia V",
+        "release_date": "2018-09-08",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "4sf4DrAOkheqktxTyKm7tO",
+            "name": "AmaLee",
+            "url": "https://open.spotify.com/artist/4sf4DrAOkheqktxTyKm7tO"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6SPwmYKcDeRuGfAOCjDwK3",
+        "total_tracks": 12
+      },
+      "duration_ms": 237377,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/0DvCbQSAmY3iUuzZ6NVMB0"
+    },
+    {
+      "id": "1RlBvlJXD4HS8CFuFy8I5g",
+      "name": "Blue Bird (From \"Naruto Shippuden\")",
+      "artists": [
+        {
+          "id": "4sf4DrAOkheqktxTyKm7tO",
+          "name": "AmaLee",
+          "url": "https://open.spotify.com/artist/4sf4DrAOkheqktxTyKm7tO"
+        }
+      ],
+      "album": {
+        "id": "54WtwJssaYYyVvPfEM5FnJ",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27390276f38ccc4a9932ced818b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0290276f38ccc4a9932ced818b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485190276f38ccc4a9932ced818b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Nostalgia IV",
+        "release_date": "2018-04-24",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "4sf4DrAOkheqktxTyKm7tO",
+            "name": "AmaLee",
+            "url": "https://open.spotify.com/artist/4sf4DrAOkheqktxTyKm7tO"
+          }
+        ],
+        "url": "https://open.spotify.com/album/54WtwJssaYYyVvPfEM5FnJ",
+        "total_tracks": 12
+      },
+      "duration_ms": 213947,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/1RlBvlJXD4HS8CFuFy8I5g"
+    },
+    {
+      "id": "3SeTLr7u3ktxAnudJ5UpbD",
+      "name": "Crossing Field (From \"Sword Art Online\")",
+      "artists": [
+        {
+          "id": "4sf4DrAOkheqktxTyKm7tO",
+          "name": "AmaLee",
+          "url": "https://open.spotify.com/artist/4sf4DrAOkheqktxTyKm7tO"
+        }
+      ],
+      "album": {
+        "id": "22kcsXIM1n6Veqjx6aUSsA",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b8d49416392ab760f64fee58",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b8d49416392ab760f64fee58",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b8d49416392ab760f64fee58",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Link Start",
+        "release_date": "2016-03-30",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "4sf4DrAOkheqktxTyKm7tO",
+            "name": "AmaLee",
+            "url": "https://open.spotify.com/artist/4sf4DrAOkheqktxTyKm7tO"
+          }
+        ],
+        "url": "https://open.spotify.com/album/22kcsXIM1n6Veqjx6aUSsA",
+        "total_tracks": 5
+      },
+      "duration_ms": 245027,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/3SeTLr7u3ktxAnudJ5UpbD"
+    }
+  ],
+  "description": "",
+  "name": "アニソン（英語）",
+  "owner": {
+    "display_name": "gesogeso",
+    "url": "https://open.spotify.com/user/llc1xxsoknqgh69956sifvyi5",
+    "id": "llc1xxsoknqgh69956sifvyi5"
+  },
+  "url": "https://open.spotify.com/playlist/2G8PzduEoYgQQ8QHpLBePP"
+}

@@ -1,0 +1,334 @@
+{
+  "id": "1L0n8sv6gEFk8RKSPGw1HY",
+  "tracks": [
+    {
+      "id": "2hrUO4drrO63i7FYbCLBl2",
+      "name": "Rockabye (feat. Sean Paul & Anne-Marie)",
+      "artists": [
+        {
+          "id": "6MDME20pz9RveH9rEXvrOM",
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "id": "3Isy6kedDrgPYoTS1dazA9",
+          "name": "Sean Paul",
+          "url": "https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9"
+        },
+        {
+          "id": "1zNqDE7qDGCsyzJwohVaoX",
+          "name": "Anne-Marie",
+          "url": "https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX"
+        }
+      ],
+      "album": {
+        "id": "1MvF4ulZKH7SaDQs9rE5nc",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27337fb0680110fbb107740de5d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0237fb0680110fbb107740de5d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485137fb0680110fbb107740de5d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "What Is Love? (Deluxe Edition)",
+        "release_date": "2018-11-30",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6MDME20pz9RveH9rEXvrOM",
+            "name": "Clean Bandit",
+            "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc",
+        "total_tracks": 16
+      },
+      "duration_ms": 251173,
+      "popularity": 73,
+      "url": "https://open.spotify.com/track/2hrUO4drrO63i7FYbCLBl2"
+    },
+    {
+      "id": "72gv4zhNvRVdQA0eOenCal",
+      "name": "Symphony (feat. Zara Larsson)",
+      "artists": [
+        {
+          "id": "6MDME20pz9RveH9rEXvrOM",
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "id": "1Xylc3o4UrD53lo9CvFvVg",
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "album": {
+        "id": "1MvF4ulZKH7SaDQs9rE5nc",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27337fb0680110fbb107740de5d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0237fb0680110fbb107740de5d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485137fb0680110fbb107740de5d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "What Is Love? (Deluxe Edition)",
+        "release_date": "2018-11-30",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6MDME20pz9RveH9rEXvrOM",
+            "name": "Clean Bandit",
+            "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc",
+        "total_tracks": 16
+      },
+      "duration_ms": 212733,
+      "popularity": 75,
+      "url": "https://open.spotify.com/track/72gv4zhNvRVdQA0eOenCal"
+    },
+    {
+      "id": "3NuK5xMlSlB6K2Qp16zf3h",
+      "name": "Solo (feat. Demi Lovato)",
+      "artists": [
+        {
+          "id": "6MDME20pz9RveH9rEXvrOM",
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "id": "6S2OmqARrzebs0tKUEyXyp",
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "album": {
+        "id": "1MvF4ulZKH7SaDQs9rE5nc",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27337fb0680110fbb107740de5d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0237fb0680110fbb107740de5d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485137fb0680110fbb107740de5d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "What Is Love? (Deluxe Edition)",
+        "release_date": "2018-11-30",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6MDME20pz9RveH9rEXvrOM",
+            "name": "Clean Bandit",
+            "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1MvF4ulZKH7SaDQs9rE5nc",
+        "total_tracks": 16
+      },
+      "duration_ms": 222706,
+      "popularity": 68,
+      "url": "https://open.spotify.com/track/3NuK5xMlSlB6K2Qp16zf3h"
+    },
+    {
+      "id": "61dCUoMCg28qEBzrW6htYM",
+      "name": "Rather Be (feat. Jess Glynne)",
+      "artists": [
+        {
+          "id": "6MDME20pz9RveH9rEXvrOM",
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "id": "4ScCswdRlyA23odg9thgIO",
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+        }
+      ],
+      "album": {
+        "id": "0dNt3MfPrvj6mHmajSuahw",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2735ef315d54fd701725176292e",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e025ef315d54fd701725176292e",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048515ef315d54fd701725176292e",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "New Eyes",
+        "release_date": "2014-06-02",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6MDME20pz9RveH9rEXvrOM",
+            "name": "Clean Bandit",
+            "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0dNt3MfPrvj6mHmajSuahw",
+        "total_tracks": 16
+      },
+      "duration_ms": 227833,
+      "popularity": 74,
+      "url": "https://open.spotify.com/track/61dCUoMCg28qEBzrW6htYM"
+    },
+    {
+      "id": "3s4U7OHV7gnj42VV72eSZ6",
+      "name": "Rather Be (feat. Jess Glynne)",
+      "artists": [
+        {
+          "id": "6MDME20pz9RveH9rEXvrOM",
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "id": "4ScCswdRlyA23odg9thgIO",
+          "name": "Jess Glynne",
+          "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+        }
+      ],
+      "album": {
+        "id": "4UB0J5V3JsZZtNR360pZ6r",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737e519297d9876b6afff2ab7b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027e519297d9876b6afff2ab7b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517e519297d9876b6afff2ab7b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Rather Be (feat. Jess Glynne)",
+        "release_date": "2014-01-17",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6MDME20pz9RveH9rEXvrOM",
+            "name": "Clean Bandit",
+            "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+          },
+          {
+            "id": "4ScCswdRlyA23odg9thgIO",
+            "name": "Jess Glynne",
+            "url": "https://open.spotify.com/artist/4ScCswdRlyA23odg9thgIO"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4UB0J5V3JsZZtNR360pZ6r",
+        "total_tracks": 1
+      },
+      "duration_ms": 227833,
+      "popularity": 71,
+      "url": "https://open.spotify.com/track/3s4U7OHV7gnj42VV72eSZ6"
+    },
+    {
+      "id": "1x5sYLZiu9r5E43kMlt9f8",
+      "name": "Symphony (feat. Zara Larsson)",
+      "artists": [
+        {
+          "id": "6MDME20pz9RveH9rEXvrOM",
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "id": "1Xylc3o4UrD53lo9CvFvVg",
+          "name": "Zara Larsson",
+          "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+        }
+      ],
+      "album": {
+        "id": "4b13SJlne61y53KSEwuQtD",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2735b1130d050c4cd2295999d85",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e025b1130d050c4cd2295999d85",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048515b1130d050c4cd2295999d85",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Symphony (feat. Zara Larsson)",
+        "release_date": "2017-03-16",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6MDME20pz9RveH9rEXvrOM",
+            "name": "Clean Bandit",
+            "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+          },
+          {
+            "id": "1Xylc3o4UrD53lo9CvFvVg",
+            "name": "Zara Larsson",
+            "url": "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4b13SJlne61y53KSEwuQtD",
+        "total_tracks": 1
+      },
+      "duration_ms": 212459,
+      "popularity": 73,
+      "url": "https://open.spotify.com/track/1x5sYLZiu9r5E43kMlt9f8"
+    }
+  ],
+  "description": "",
+  "name": "Clean Banddit",
+  "owner": {
+    "display_name": "gesogeso",
+    "url": "https://open.spotify.com/user/llc1xxsoknqgh69956sifvyi5",
+    "id": "llc1xxsoknqgh69956sifvyi5"
+  },
+  "url": "https://open.spotify.com/playlist/1L0n8sv6gEFk8RKSPGw1HY"
+}

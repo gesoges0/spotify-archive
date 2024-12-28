@@ -1,0 +1,749 @@
+{
+  "id": "6kAIE02xmqiNQRQJAogZym",
+  "tracks": [
+    {
+      "id": "7jcaRVHtkL524NQHUnW6Lk",
+      "name": "劇場街",
+      "artists": [
+        {
+          "id": "0ouUO7PZ76vjBJytaT2Na0",
+          "name": "Hitorie",
+          "url": "https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0"
+        }
+      ],
+      "album": {
+        "id": "1dyW3HNUEiZ1B1dixKqEzx",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ac0de9c8091007d60d88ffe8",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ac0de9c8091007d60d88ffe8",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ac0de9c8091007d60d88ffe8",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "モノクロノ・エントランス",
+        "release_date": "2015-07-01",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ouUO7PZ76vjBJytaT2Na0",
+            "name": "Hitorie",
+            "url": "https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1dyW3HNUEiZ1B1dixKqEzx",
+        "total_tracks": 5
+      },
+      "duration_ms": 186426,
+      "popularity": 12,
+      "url": "https://open.spotify.com/track/7jcaRVHtkL524NQHUnW6Lk"
+    },
+    {
+      "id": "0Hd9ITdRKTDPVWZ1cAsn7M",
+      "name": "トーキーダンス",
+      "artists": [
+        {
+          "id": "0ouUO7PZ76vjBJytaT2Na0",
+          "name": "Hitorie",
+          "url": "https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0"
+        }
+      ],
+      "album": {
+        "id": "2iuMWTvNNkGiw7Trdj1NQ5",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2738a5f6d58f625f4f9328d0027",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e028a5f6d58f625f4f9328d0027",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048518a5f6d58f625f4f9328d0027",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "DEEPER",
+        "release_date": "2016-02-24",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ouUO7PZ76vjBJytaT2Na0",
+            "name": "Hitorie",
+            "url": "https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2iuMWTvNNkGiw7Trdj1NQ5",
+        "total_tracks": 10
+      },
+      "duration_ms": 259573,
+      "popularity": 28,
+      "url": "https://open.spotify.com/track/0Hd9ITdRKTDPVWZ1cAsn7M"
+    },
+    {
+      "id": "1HZHLKOBY1BMGztAB3Hhgp",
+      "name": "undo",
+      "artists": [
+        {
+          "id": "0ouUO7PZ76vjBJytaT2Na0",
+          "name": "Hitorie",
+          "url": "https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0"
+        }
+      ],
+      "album": {
+        "id": "3qvD2zpamvb44qTbD1Fjo5",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27396ade09ef5d4054296e7c3ce",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0296ade09ef5d4054296e7c3ce",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485196ade09ef5d4054296e7c3ce",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "風、花",
+        "release_date": "2022-05-25",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ouUO7PZ76vjBJytaT2Na0",
+            "name": "Hitorie",
+            "url": "https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3qvD2zpamvb44qTbD1Fjo5",
+        "total_tracks": 4
+      },
+      "duration_ms": 206333,
+      "popularity": 16,
+      "url": "https://open.spotify.com/track/1HZHLKOBY1BMGztAB3Hhgp"
+    },
+    {
+      "id": "3xoo8n9DMlbz6RJBift9wS",
+      "name": "イヴステッパー",
+      "artists": [
+        {
+          "id": "0ouUO7PZ76vjBJytaT2Na0",
+          "name": "Hitorie",
+          "url": "https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0"
+        }
+      ],
+      "album": {
+        "id": "1IruXI2vhhtgN7wAhFrehp",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2732e5341c30d9a9acde5ccf91c",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e022e5341c30d9a9acde5ccf91c",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048512e5341c30d9a9acde5ccf91c",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "IKI",
+        "release_date": "2016-12-07",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ouUO7PZ76vjBJytaT2Na0",
+            "name": "Hitorie",
+            "url": "https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1IruXI2vhhtgN7wAhFrehp",
+        "total_tracks": 10
+      },
+      "duration_ms": 221493,
+      "popularity": 28,
+      "url": "https://open.spotify.com/track/3xoo8n9DMlbz6RJBift9wS"
+    },
+    {
+      "id": "3b2NSzg02kcogFEWgTnjXf",
+      "name": "るらるら",
+      "artists": [
+        {
+          "id": "0ouUO7PZ76vjBJytaT2Na0",
+          "name": "Hitorie",
+          "url": "https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0"
+        }
+      ],
+      "album": {
+        "id": "3VBwycinByzu0vyuLWGOUU",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c659642b51f33218e4d932e8",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c659642b51f33218e4d932e8",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c659642b51f33218e4d932e8",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ルームシック・ガールズエスケープ",
+        "release_date": "2013-12-18",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ouUO7PZ76vjBJytaT2Na0",
+            "name": "Hitorie",
+            "url": "https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3VBwycinByzu0vyuLWGOUU",
+        "total_tracks": 7
+      },
+      "duration_ms": 200600,
+      "popularity": 17,
+      "url": "https://open.spotify.com/track/3b2NSzg02kcogFEWgTnjXf"
+    },
+    {
+      "id": "26InGOAkoqkdl9aItTvLcP",
+      "name": "うつつ",
+      "artists": [
+        {
+          "id": "0ouUO7PZ76vjBJytaT2Na0",
+          "name": "Hitorie",
+          "url": "https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0"
+        }
+      ],
+      "album": {
+        "id": "2DjQ2osfOKpLGy1yFwqpt5",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c43557f8cec071adab36d6e5",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c43557f8cec071adab36d6e5",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c43557f8cec071adab36d6e5",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "REAMP",
+        "release_date": "2021-02-17",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ouUO7PZ76vjBJytaT2Na0",
+            "name": "Hitorie",
+            "url": "https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2DjQ2osfOKpLGy1yFwqpt5",
+        "total_tracks": 10
+      },
+      "duration_ms": 350493,
+      "popularity": 12,
+      "url": "https://open.spotify.com/track/26InGOAkoqkdl9aItTvLcP"
+    },
+    {
+      "id": "5GbZxjLlmZd8e0woY7MiB6",
+      "name": "November",
+      "artists": [
+        {
+          "id": "0ouUO7PZ76vjBJytaT2Na0",
+          "name": "Hitorie",
+          "url": "https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0"
+        }
+      ],
+      "album": {
+        "id": "0F1nlZJYHYq53Z4GWsnn0L",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ddefb2955655bf6a69890af6",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ddefb2955655bf6a69890af6",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ddefb2955655bf6a69890af6",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "HOWLS",
+        "release_date": "2019-02-27",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ouUO7PZ76vjBJytaT2Na0",
+            "name": "Hitorie",
+            "url": "https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0F1nlZJYHYq53Z4GWsnn0L",
+        "total_tracks": 10
+      },
+      "duration_ms": 298933,
+      "popularity": 26,
+      "url": "https://open.spotify.com/track/5GbZxjLlmZd8e0woY7MiB6"
+    },
+    {
+      "id": "1nTm82atxufswTCvYlL5Ah",
+      "name": "(W)HERE",
+      "artists": [
+        {
+          "id": "0ouUO7PZ76vjBJytaT2Na0",
+          "name": "Hitorie",
+          "url": "https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0"
+        }
+      ],
+      "album": {
+        "id": "2SCIJtJODcTiU3tKXtPrTV",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2733f0dfad62be0620427f2ef9d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e023f0dfad62be0620427f2ef9d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048513f0dfad62be0620427f2ef9d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "イマジナリー・モノフィクション",
+        "release_date": "2014-02-19",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ouUO7PZ76vjBJytaT2Na0",
+            "name": "Hitorie",
+            "url": "https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2SCIJtJODcTiU3tKXtPrTV",
+        "total_tracks": 7
+      },
+      "duration_ms": 370800,
+      "popularity": 18,
+      "url": "https://open.spotify.com/track/1nTm82atxufswTCvYlL5Ah"
+    },
+    {
+      "id": "5wPW2TG7Pk3paFuG2NaJcn",
+      "name": "ジャガーノート",
+      "artists": [
+        {
+          "id": "0ouUO7PZ76vjBJytaT2Na0",
+          "name": "Hitorie",
+          "url": "https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0"
+        }
+      ],
+      "album": {
+        "id": "2TBNmBacaxlCcGZNAPdwhH",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273765066a7c1af84b33dda90ef",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02765066a7c1af84b33dda90ef",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851765066a7c1af84b33dda90ef",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ジャガーノート",
+        "release_date": "2023-11-08",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ouUO7PZ76vjBJytaT2Na0",
+            "name": "Hitorie",
+            "url": "https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2TBNmBacaxlCcGZNAPdwhH",
+        "total_tracks": 1
+      },
+      "duration_ms": 191509,
+      "popularity": 28,
+      "url": "https://open.spotify.com/track/5wPW2TG7Pk3paFuG2NaJcn"
+    },
+    {
+      "id": "1q16sYAJxMfkx2xFjVXMoc",
+      "name": "Idol Junkfeed",
+      "artists": [
+        {
+          "id": "0ouUO7PZ76vjBJytaT2Na0",
+          "name": "Hitorie",
+          "url": "https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0"
+        }
+      ],
+      "album": {
+        "id": "0F1nlZJYHYq53Z4GWsnn0L",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ddefb2955655bf6a69890af6",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ddefb2955655bf6a69890af6",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ddefb2955655bf6a69890af6",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "HOWLS",
+        "release_date": "2019-02-27",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ouUO7PZ76vjBJytaT2Na0",
+            "name": "Hitorie",
+            "url": "https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0F1nlZJYHYq53Z4GWsnn0L",
+        "total_tracks": 10
+      },
+      "duration_ms": 202426,
+      "popularity": 17,
+      "url": "https://open.spotify.com/track/1q16sYAJxMfkx2xFjVXMoc"
+    },
+    {
+      "id": "04rQMy0kPLdMyIeK5oyg1g",
+      "name": "3分29秒",
+      "artists": [
+        {
+          "id": "0ouUO7PZ76vjBJytaT2Na0",
+          "name": "Hitorie",
+          "url": "https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0"
+        }
+      ],
+      "album": {
+        "id": "0l0hLJxGeK6iCufmS9UQi3",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273cef5f5cb7103d5ad24e79c26",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02cef5f5cb7103d5ad24e79c26",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851cef5f5cb7103d5ad24e79c26",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "3分29秒",
+        "release_date": "2021-05-01",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ouUO7PZ76vjBJytaT2Na0",
+            "name": "Hitorie",
+            "url": "https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0l0hLJxGeK6iCufmS9UQi3",
+        "total_tracks": 1
+      },
+      "duration_ms": 210968,
+      "popularity": 43,
+      "url": "https://open.spotify.com/track/04rQMy0kPLdMyIeK5oyg1g"
+    },
+    {
+      "id": "6SAj7hyttV1vKAsFvAo3D1",
+      "name": "アンノウン・マザーグース",
+      "artists": [
+        {
+          "id": "0ouUO7PZ76vjBJytaT2Na0",
+          "name": "Hitorie",
+          "url": "https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0"
+        }
+      ],
+      "album": {
+        "id": "40Q5s7zMSDgetuOHOFmZAi",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a06de0d692757c2874d9c877",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a06de0d692757c2874d9c877",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a06de0d692757c2874d9c877",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "アンノウン・マザーグース",
+        "release_date": "2017-10-22",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ouUO7PZ76vjBJytaT2Na0",
+            "name": "Hitorie",
+            "url": "https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0"
+          }
+        ],
+        "url": "https://open.spotify.com/album/40Q5s7zMSDgetuOHOFmZAi",
+        "total_tracks": 1
+      },
+      "duration_ms": 284020,
+      "popularity": 45,
+      "url": "https://open.spotify.com/track/6SAj7hyttV1vKAsFvAo3D1"
+    },
+    {
+      "id": "59vFaUeArsWabxTg28eMoq",
+      "name": "センスレス・ワンダー",
+      "artists": [
+        {
+          "id": "0ouUO7PZ76vjBJytaT2Na0",
+          "name": "Hitorie",
+          "url": "https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0"
+        }
+      ],
+      "album": {
+        "id": "5xhRpjFCjsgyq2WAcj3V9t",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d1766c3f8c00c1e865528085",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d1766c3f8c00c1e865528085",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d1766c3f8c00c1e865528085",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "センスレス・ワンダー",
+        "release_date": "2014-01-22",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ouUO7PZ76vjBJytaT2Na0",
+            "name": "Hitorie",
+            "url": "https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5xhRpjFCjsgyq2WAcj3V9t",
+        "total_tracks": 3
+      },
+      "duration_ms": 257812,
+      "popularity": 11,
+      "url": "https://open.spotify.com/track/59vFaUeArsWabxTg28eMoq"
+    },
+    {
+      "id": "0gjRmPXSjKxELtUxP2FlA1",
+      "name": "ウィンドミル",
+      "artists": [
+        {
+          "id": "0ouUO7PZ76vjBJytaT2Na0",
+          "name": "Hitorie",
+          "url": "https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0"
+        }
+      ],
+      "album": {
+        "id": "0F1nlZJYHYq53Z4GWsnn0L",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ddefb2955655bf6a69890af6",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ddefb2955655bf6a69890af6",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ddefb2955655bf6a69890af6",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "HOWLS",
+        "release_date": "2019-02-27",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ouUO7PZ76vjBJytaT2Na0",
+            "name": "Hitorie",
+            "url": "https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0F1nlZJYHYq53Z4GWsnn0L",
+        "total_tracks": 10
+      },
+      "duration_ms": 258706,
+      "popularity": 17,
+      "url": "https://open.spotify.com/track/0gjRmPXSjKxELtUxP2FlA1"
+    },
+    {
+      "id": "3tZqgnt4lqxnxBmdrPtYFH",
+      "name": "カラノワレモノ",
+      "artists": [
+        {
+          "id": "0ouUO7PZ76vjBJytaT2Na0",
+          "name": "Hitorie",
+          "url": "https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0"
+        }
+      ],
+      "album": {
+        "id": "3VBwycinByzu0vyuLWGOUU",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c659642b51f33218e4d932e8",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c659642b51f33218e4d932e8",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c659642b51f33218e4d932e8",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ルームシック・ガールズエスケープ",
+        "release_date": "2013-12-18",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ouUO7PZ76vjBJytaT2Na0",
+            "name": "Hitorie",
+            "url": "https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3VBwycinByzu0vyuLWGOUU",
+        "total_tracks": 7
+      },
+      "duration_ms": 307040,
+      "popularity": 21,
+      "url": "https://open.spotify.com/track/3tZqgnt4lqxnxBmdrPtYFH"
+    },
+    {
+      "id": "0MRlL5yVs3XKybT3P99fte",
+      "name": "ステレオジュブナイル",
+      "artists": [
+        {
+          "id": "0ouUO7PZ76vjBJytaT2Na0",
+          "name": "Hitorie",
+          "url": "https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0"
+        }
+      ],
+      "album": {
+        "id": "39VkokwMddvZmgy7P8Ej4F",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273685598485761f44a1c5ee89f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02685598485761f44a1c5ee89f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851685598485761f44a1c5ee89f",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "PHARMACY",
+        "release_date": "2022-06-22",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ouUO7PZ76vjBJytaT2Na0",
+            "name": "Hitorie",
+            "url": "https://open.spotify.com/artist/0ouUO7PZ76vjBJytaT2Na0"
+          }
+        ],
+        "url": "https://open.spotify.com/album/39VkokwMddvZmgy7P8Ej4F",
+        "total_tracks": 10
+      },
+      "duration_ms": 206840,
+      "popularity": 13,
+      "url": "https://open.spotify.com/track/0MRlL5yVs3XKybT3P99fte"
+    }
+  ],
+  "description": "",
+  "name": "2023.12. 19 HITORI-ESCAPE TOUR 2023 愛知公演",
+  "owner": {
+    "display_name": "502bg",
+    "url": "https://open.spotify.com/user/4woroafc3tx648l7zc8quofbf",
+    "id": "4woroafc3tx648l7zc8quofbf"
+  },
+  "url": "https://open.spotify.com/playlist/6kAIE02xmqiNQRQJAogZym"
+}

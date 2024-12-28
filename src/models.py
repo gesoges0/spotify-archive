@@ -57,7 +57,6 @@ class Playlist:
         limit = 100
         tracks = []
         while True:
-            print(f"{offset=}")
             playlist_tracks = sp.playlist_tracks(
                 playlist_id, limit=limit, offset=offset
             )
@@ -72,7 +71,7 @@ class Playlist:
             name=playlist["name"],
             description=playlist["description"],
             tracks=tracks,
-            url=playlist["external_urls"]["spotify"],
+            url=playlist["external_urls"].get("spotify"),
         )
 
     @property
@@ -150,7 +149,7 @@ class Track:
             album=Album.from_dict(track["album"]),
             duration_ms=track["duration_ms"],
             popularity=track["popularity"],
-            url=track["external_urls"]["spotify"],
+            url=track["external_urls"].get("spotify"),  # ない場合がある
         )
 
     @property
@@ -167,7 +166,9 @@ class Artist:
     @classmethod
     def from_dict(cls, artist: dict):
         return cls(
-            id=artist["id"], name=artist["name"], url=artist["external_urls"]["spotify"]
+            id=artist["id"],
+            name=artist["name"],
+            url=artist["external_urls"].get("spotify"),  # ない場合がある
         )
 
 
@@ -193,8 +194,8 @@ class Album:
             release_date=album["release_date"],
             release_date_precision=album["release_date_precision"],
             artists=artists,
-            url=album["external_urls"]["spotify"],
-            total_tracks=album["total_tracks"],
+            url=album["external_urls"].get("spotify"),  # ない場合がある
+            total_tracks=album.get("total_tracks", 0),
         )
 
 
@@ -219,7 +220,7 @@ class Owner:
     def from_dict(cls, owner: dict):
         return cls(
             display_name=owner["display_name"],
-            url=owner["external_urls"]["spotify"],
+            url=owner["external_urls"].get("spotify"),
             id=owner["id"],
         )
 
@@ -257,3 +258,20 @@ class MyPlaylist:
                 new_playlist["id"],
                 chunk,
             )
+
+
+@dataclass(frozen=True)
+class UserPlaylist:
+    user_id: str
+    playlists: list[Playlist]
+
+    @classmethod
+    def from_user_id(cls, user_id: str):
+        playlists = sp.user_playlists(user_id)
+        if not playlists:
+            print("failed to get playlists")
+            return None
+        return cls(
+            user_id=user_id,
+            playlists=[Playlist.from_playlist_id(p["id"]) for p in playlists["items"]],
+        )

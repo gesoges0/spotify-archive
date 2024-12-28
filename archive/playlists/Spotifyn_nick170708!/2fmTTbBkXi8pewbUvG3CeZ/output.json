@@ -1,0 +1,5063 @@
+{
+  "id": "2fmTTbBkXi8pewbUvG3CeZ",
+  "tracks": [
+    {
+      "id": "0sf12qNH5qcw8qpgymFOqD",
+      "name": "Blinding Lights",
+      "artists": [
+        {
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "album": {
+        "id": "2ZfHkwHuoAZrlz7RMj0PDz",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c464fabb4e51b72d657f779a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c464fabb4e51b72d657f779a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c464fabb4e51b72d657f779a",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Blinding Lights",
+        "release_date": "2019-11-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+            "name": "The Weeknd",
+            "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2ZfHkwHuoAZrlz7RMj0PDz",
+        "total_tracks": 1
+      },
+      "duration_ms": 201573,
+      "popularity": 17,
+      "url": "https://open.spotify.com/track/0sf12qNH5qcw8qpgymFOqD"
+    },
+    {
+      "id": "0nbXyq5TXYPCO7pr3N8S4I",
+      "name": "The Box",
+      "artists": [
+        {
+          "id": "757aE44tKEUQEqRuT6GnEB",
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "album": {
+        "id": "52u4anZbHd6UInnmHRFzba",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273600adbc750285ea1a8da249f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02600adbc750285ea1a8da249f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851600adbc750285ea1a8da249f",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Please Excuse Me for Being Antisocial",
+        "release_date": "2019-12-06",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "757aE44tKEUQEqRuT6GnEB",
+            "name": "Roddy Ricch",
+            "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+          }
+        ],
+        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba",
+        "total_tracks": 16
+      },
+      "duration_ms": 196652,
+      "popularity": 80,
+      "url": "https://open.spotify.com/track/0nbXyq5TXYPCO7pr3N8S4I"
+    },
+    {
+      "id": "7igeByaBM0MgGsgXtNxDJ7",
+      "name": "positions",
+      "artists": [
+        {
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "album": {
+        "id": "3jqEvfiu2ENgmgzZq27zbi",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737368325f5998ef48d4fb5401",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027368325f5998ef48d4fb5401",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517368325f5998ef48d4fb5401",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "positions",
+        "release_date": "2020-10-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "66CXWjxzNUsdJxJ2JdwvnR",
+            "name": "Ariana Grande",
+            "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3jqEvfiu2ENgmgzZq27zbi",
+        "total_tracks": 1
+      },
+      "duration_ms": 172324,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/7igeByaBM0MgGsgXtNxDJ7"
+    },
+    {
+      "id": "6UelLqGlWMcVH1E5c4H7lY",
+      "name": "Watermelon Sugar",
+      "artists": [
+        {
+          "id": "6KImCVD70vtIoJWnq6nGn3",
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "album": {
+        "id": "7xV2TzoaVc0ycW7fwBwAml",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0277fdcfda6535601aff081b6a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485177fdcfda6535601aff081b6a",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Fine Line",
+        "release_date": "2019-12-13",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6KImCVD70vtIoJWnq6nGn3",
+            "name": "Harry Styles",
+            "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          }
+        ],
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml",
+        "total_tracks": 12
+      },
+      "duration_ms": 174000,
+      "popularity": 81,
+      "url": "https://open.spotify.com/track/6UelLqGlWMcVH1E5c4H7lY"
+    },
+    {
+      "id": "3Dv1eDb0MEgF93GpLXlucZ",
+      "name": "Say So",
+      "artists": [
+        {
+          "id": "5cj0lLjcoR7YOSnhnX0Po5",
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "album": {
+        "id": "1MmVkhiwTH0BkNOU3nw5d3",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273f14aa81116510d3a6df8432b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02f14aa81116510d3a6df8432b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851f14aa81116510d3a6df8432b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Hot Pink",
+        "release_date": "2019-11-07",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "5cj0lLjcoR7YOSnhnX0Po5",
+            "name": "Doja Cat",
+            "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1MmVkhiwTH0BkNOU3nw5d3",
+        "total_tracks": 12
+      },
+      "duration_ms": 237893,
+      "popularity": 73,
+      "url": "https://open.spotify.com/track/3Dv1eDb0MEgF93GpLXlucZ"
+    },
+    {
+      "id": "4LEK9rD7TWIG4FCL1s27XC",
+      "name": "cardigan",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "album": {
+        "id": "0xS0iOtxQRoJvfcFcJA5Gv",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ca0e5b2eeeedc77e6acd4cd0",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ca0e5b2eeeedc77e6acd4cd0",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ca0e5b2eeeedc77e6acd4cd0",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "folklore",
+        "release_date": "2020-07-24",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift",
+            "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0xS0iOtxQRoJvfcFcJA5Gv",
+        "total_tracks": 16
+      },
+      "duration_ms": 239560,
+      "popularity": 45,
+      "url": "https://open.spotify.com/track/4LEK9rD7TWIG4FCL1s27XC"
+    },
+    {
+      "id": "696DnlkuDOXcMAnKlTgXXK",
+      "name": "ROXANNE",
+      "artists": [
+        {
+          "id": "0vRvGUQVUjytro0xpb26bs",
+          "name": "Arizona Zervas",
+          "url": "https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs"
+        }
+      ],
+      "album": {
+        "id": "6HJDrXs0hpebaRFKA1sF90",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273069a93617a916760ab88ffea",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02069a93617a916760ab88ffea",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851069a93617a916760ab88ffea",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ROXANNE",
+        "release_date": "2019-10-10",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0vRvGUQVUjytro0xpb26bs",
+            "name": "Arizona Zervas",
+            "url": "https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6HJDrXs0hpebaRFKA1sF90",
+        "total_tracks": 1
+      },
+      "duration_ms": 163636,
+      "popularity": 72,
+      "url": "https://open.spotify.com/track/696DnlkuDOXcMAnKlTgXXK"
+    },
+    {
+      "id": "7eJMfftS33KTjuF7lTsMCx",
+      "name": "death bed (coffee for your head)",
+      "artists": [
+        {
+          "id": "6bmlMHgSheBauioMgKv2tn",
+          "name": "Powfu",
+          "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+        },
+        {
+          "id": "35l9BRT7MXmM8bv2WDQiyB",
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "album": {
+        "id": "2p9gK2BcdrloHNJwarc9gc",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273bf01fd0986a195d485922167",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02bf01fd0986a195d485922167",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851bf01fd0986a195d485922167",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "death bed (coffee for your head)",
+        "release_date": "2020-02-08",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6bmlMHgSheBauioMgKv2tn",
+            "name": "Powfu",
+            "url": "https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn"
+          },
+          {
+            "id": "35l9BRT7MXmM8bv2WDQiyB",
+            "name": "beabadoobee",
+            "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2p9gK2BcdrloHNJwarc9gc",
+        "total_tracks": 1
+      },
+      "duration_ms": 173333,
+      "popularity": 78,
+      "url": "https://open.spotify.com/track/7eJMfftS33KTjuF7lTsMCx"
+    },
+    {
+      "id": "1daDRI9ahBonbWD8YcxOIB",
+      "name": "Angels Like You",
+      "artists": [
+        {
+          "id": "5YGY8feqx7naU7z4HrwZM6",
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "album": {
+        "id": "5BRhg6NSEZOj0BR6Iz56fR",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2738cffb7c6c40759eaf8a5a142",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e028cffb7c6c40759eaf8a5a142",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048518cffb7c6c40759eaf8a5a142",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Plastic Hearts",
+        "release_date": "2020-11-27",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "5YGY8feqx7naU7z4HrwZM6",
+            "name": "Miley Cyrus",
+            "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR",
+        "total_tracks": 15
+      },
+      "duration_ms": 196453,
+      "popularity": 78,
+      "url": "https://open.spotify.com/track/1daDRI9ahBonbWD8YcxOIB"
+    },
+    {
+      "id": "1tkg4EHVoqnhR6iFEXb60y",
+      "name": "What You Know Bout Love",
+      "artists": [
+        {
+          "id": "0eDvMgVFoNV3TpwtrVCoTj",
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        }
+      ],
+      "album": {
+        "id": "7e7t0MCrNDcJZsPwUKjmOc",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27377ada0863603903f57b34369",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0277ada0863603903f57b34369",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485177ada0863603903f57b34369",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Shoot For The Stars Aim For The Moon",
+        "release_date": "2020-07-03",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0eDvMgVFoNV3TpwtrVCoTj",
+            "name": "Pop Smoke",
+            "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+          }
+        ],
+        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc",
+        "total_tracks": 19
+      },
+      "duration_ms": 160000,
+      "popularity": 77,
+      "url": "https://open.spotify.com/track/1tkg4EHVoqnhR6iFEXb60y"
+    },
+    {
+      "id": "47EiUVwUp4C9fGccaPuUCS",
+      "name": "DÁKITI",
+      "artists": [
+        {
+          "id": "4q3ewBCX7sLwd24euuV69X",
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "id": "6nVcHLIgY5pE2YCl8ubca1",
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "album": {
+        "id": "43dl8hP5uNN9s6YeeJA5fv",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27334c8199b0b3b3fb42b8a98a8",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0234c8199b0b3b3fb42b8a98a8",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485134c8199b0b3b3fb42b8a98a8",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "DÁKITI",
+        "release_date": "2020-10-30",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "4q3ewBCX7sLwd24euuV69X",
+            "name": "Bad Bunny",
+            "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          },
+          {
+            "id": "6nVcHLIgY5pE2YCl8ubca1",
+            "name": "JHAYCO",
+            "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+          }
+        ],
+        "url": "https://open.spotify.com/album/43dl8hP5uNN9s6YeeJA5fv",
+        "total_tracks": 1
+      },
+      "duration_ms": 205090,
+      "popularity": 74,
+      "url": "https://open.spotify.com/track/47EiUVwUp4C9fGccaPuUCS"
+    },
+    {
+      "id": "4Oun2ylbjFKMPTiaSbbCih",
+      "name": "WAP (feat. Megan Thee Stallion)",
+      "artists": [
+        {
+          "id": "4kYSro6naA4h99UJvo89HB",
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        },
+        {
+          "id": "181bsRPaVXVlUKXrxwZfHK",
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        }
+      ],
+      "album": {
+        "id": "2ogiazbrNEx0kQHGl5ZBTQ",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c450c89d3eb750d3535b0a0c",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c450c89d3eb750d3535b0a0c",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c450c89d3eb750d3535b0a0c",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "WAP (feat. Megan Thee Stallion)",
+        "release_date": "2020-08-07",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "4kYSro6naA4h99UJvo89HB",
+            "name": "Cardi B",
+            "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+          },
+          {
+            "id": "181bsRPaVXVlUKXrxwZfHK",
+            "name": "Megan Thee Stallion",
+            "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2ogiazbrNEx0kQHGl5ZBTQ",
+        "total_tracks": 1
+      },
+      "duration_ms": 187541,
+      "popularity": 74,
+      "url": "https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih"
+    },
+    {
+      "id": "7ytR5pFWmSjzHJIeQkgog4",
+      "name": "ROCKSTAR (feat. Roddy Ricch)",
+      "artists": [
+        {
+          "id": "4r63FhuTkUYltbVAg5TQnk",
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "id": "757aE44tKEUQEqRuT6GnEB",
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        }
+      ],
+      "album": {
+        "id": "623PL2MBg50Br5dLXC9E9e",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27320e08c8cc23f404d723b5647",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0220e08c8cc23f404d723b5647",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485120e08c8cc23f404d723b5647",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "BLAME IT ON BABY",
+        "release_date": "2020-04-17",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "4r63FhuTkUYltbVAg5TQnk",
+            "name": "DaBaby",
+            "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+          }
+        ],
+        "url": "https://open.spotify.com/album/623PL2MBg50Br5dLXC9E9e",
+        "total_tracks": 13
+      },
+      "duration_ms": 181733,
+      "popularity": 73,
+      "url": "https://open.spotify.com/track/7ytR5pFWmSjzHJIeQkgog4"
+    },
+    {
+      "id": "22LAwLoDA5b4AaGSkg6bKW",
+      "name": "Blueberry Faygo",
+      "artists": [
+        {
+          "id": "5zctI4wO9XSKS8XwcnqEHk",
+          "name": "Lil Mosey",
+          "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
+        }
+      ],
+      "album": {
+        "id": "2a1AHCq835BXUcX1aTTWqQ",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2730824105a6282782aaabb0584",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e020824105a6282782aaabb0584",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048510824105a6282782aaabb0584",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Certified Hitmaker",
+        "release_date": "2020-02-06",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "5zctI4wO9XSKS8XwcnqEHk",
+            "name": "Lil Mosey",
+            "url": "https://open.spotify.com/artist/5zctI4wO9XSKS8XwcnqEHk"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2a1AHCq835BXUcX1aTTWqQ",
+        "total_tracks": 15
+      },
+      "duration_ms": 162546,
+      "popularity": 72,
+      "url": "https://open.spotify.com/track/22LAwLoDA5b4AaGSkg6bKW"
+    },
+    {
+      "id": "6WrI0LAC5M1Rw2MnX2ZvEg",
+      "name": "Don't Start Now",
+      "artists": [
+        {
+          "id": "6M2wZ9GZgrQXHCFfjv46we",
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "album": {
+        "id": "0ix3XtPV1LwmZADsprKxcp",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c35ea649223a519a9ad51ccf",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c35ea649223a519a9ad51ccf",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c35ea649223a519a9ad51ccf",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Don't Start Now",
+        "release_date": "2019-10-31",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6M2wZ9GZgrQXHCFfjv46we",
+            "name": "Dua Lipa",
+            "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0ix3XtPV1LwmZADsprKxcp",
+        "total_tracks": 1
+      },
+      "duration_ms": 183290,
+      "popularity": 70,
+      "url": "https://open.spotify.com/track/6WrI0LAC5M1Rw2MnX2ZvEg"
+    },
+    {
+      "id": "0v1x6rN6JHRapa03JElljE",
+      "name": "Dynamite",
+      "artists": [
+        {
+          "id": "3Nrfpe0tUJi4K4DXYWgMUX",
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "album": {
+        "id": "3zWmE5c3alhuoPLphxjMVd",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2732f86d9710377e63bfbc82ba8",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e022f86d9710377e63bfbc82ba8",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048512f86d9710377e63bfbc82ba8",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Dynamite",
+        "release_date": "2020-08-21",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "3Nrfpe0tUJi4K4DXYWgMUX",
+            "name": "BTS",
+            "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3zWmE5c3alhuoPLphxjMVd",
+        "total_tracks": 2
+      },
+      "duration_ms": 199053,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/0v1x6rN6JHRapa03JElljE"
+    },
+    {
+      "id": "3tjFYV6RSFtuktYl3ZtYcq",
+      "name": "Mood (feat. iann dior)",
+      "artists": [
+        {
+          "id": "6fWVd57NKTalqvmjRd2t8Z",
+          "name": "24kGoldn",
+          "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+        },
+        {
+          "id": "6ASri4ePR7RlsvIQgWPJpS",
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "album": {
+        "id": "4YMnOf4a7obOcN1Gy2QEuM",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ff8c985ecb3b7c5f847be357",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ff8c985ecb3b7c5f847be357",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ff8c985ecb3b7c5f847be357",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Mood (feat. iann dior)",
+        "release_date": "2020-07-24",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6fWVd57NKTalqvmjRd2t8Z",
+            "name": "24kGoldn",
+            "url": "https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z"
+          },
+          {
+            "id": "6ASri4ePR7RlsvIQgWPJpS",
+            "name": "iann dior",
+            "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4YMnOf4a7obOcN1Gy2QEuM",
+        "total_tracks": 1
+      },
+      "duration_ms": 140525,
+      "popularity": 4,
+      "url": "https://open.spotify.com/track/3tjFYV6RSFtuktYl3ZtYcq"
+    },
+    {
+      "id": "3jjujdWJ72nww5eGnfs2E7",
+      "name": "Adore You",
+      "artists": [
+        {
+          "id": "6KImCVD70vtIoJWnq6nGn3",
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "album": {
+        "id": "7xV2TzoaVc0ycW7fwBwAml",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0277fdcfda6535601aff081b6a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485177fdcfda6535601aff081b6a",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Fine Line",
+        "release_date": "2019-12-13",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6KImCVD70vtIoJWnq6nGn3",
+            "name": "Harry Styles",
+            "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          }
+        ],
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml",
+        "total_tracks": 12
+      },
+      "duration_ms": 207133,
+      "popularity": 79,
+      "url": "https://open.spotify.com/track/3jjujdWJ72nww5eGnfs2E7"
+    },
+    {
+      "id": "26XaOsDMbl0e1cVKYfkz6w",
+      "name": "Falling",
+      "artists": [
+        {
+          "id": "7uaIm6Pw7xplS8Dy06V6pT",
+          "name": "Trevor Daniel",
+          "url": "https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT"
+        }
+      ],
+      "album": {
+        "id": "4G213yPh3BOt160iYP4ZsV",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273f3508855e1fd44d447a3413b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02f3508855e1fd44d447a3413b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851f3508855e1fd44d447a3413b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Falling",
+        "release_date": "2018-10-05",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "7uaIm6Pw7xplS8Dy06V6pT",
+            "name": "Trevor Daniel",
+            "url": "https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4G213yPh3BOt160iYP4ZsV",
+        "total_tracks": 1
+      },
+      "duration_ms": 159381,
+      "popularity": 67,
+      "url": "https://open.spotify.com/track/26XaOsDMbl0e1cVKYfkz6w"
+    },
+    {
+      "id": "3ZCTVFBt2Brf31RLEnCkWJ",
+      "name": "everything i wanted",
+      "artists": [
+        {
+          "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "album": {
+        "id": "4i3rAwPw7Ln2YrKDusaWyT",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273f2248cf6dad1d6c062587249",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02f2248cf6dad1d6c062587249",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851f2248cf6dad1d6c062587249",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "everything i wanted",
+        "release_date": "2019-11-13",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+            "name": "Billie Eilish",
+            "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4i3rAwPw7Ln2YrKDusaWyT",
+        "total_tracks": 1
+      },
+      "duration_ms": 245425,
+      "popularity": 81,
+      "url": "https://open.spotify.com/track/3ZCTVFBt2Brf31RLEnCkWJ"
+    },
+    {
+      "id": "3hUxzQpSfdDqwM3ZTFQY0K",
+      "name": "august",
+      "artists": [
+        {
+          "id": "06HL4z0CvFAxyc27GXpf02",
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "album": {
+        "id": "2fenSS68JI1h4Fo296JfGr",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27395f754318336a07e85ec59bc",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0295f754318336a07e85ec59bc",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485195f754318336a07e85ec59bc",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "folklore",
+        "release_date": "2020-07-24",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "06HL4z0CvFAxyc27GXpf02",
+            "name": "Taylor Swift",
+            "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr",
+        "total_tracks": 16
+      },
+      "duration_ms": 261922,
+      "popularity": 82,
+      "url": "https://open.spotify.com/track/3hUxzQpSfdDqwM3ZTFQY0K"
+    },
+    {
+      "id": "2DQNYMRjisN3KAPj1bEwOI",
+      "name": "Lemonade (feat. Gunna, Don Toliver & NAV)",
+      "artists": [
+        {
+          "id": "6MPCFvOQv5cIGfw3jODMF0",
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        },
+        {
+          "id": "2hlmm7s2ICUX0LVIhVFlZQ",
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "id": "4Gso3d4CscCijv0lmajZWs",
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        },
+        {
+          "id": "7rkW85dBwwrJtlHRDkJDAC",
+          "name": "NAV",
+          "url": "https://open.spotify.com/artist/7rkW85dBwwrJtlHRDkJDAC"
+        }
+      ],
+      "album": {
+        "id": "6U5j597olXfdjtd6wHd3Cu",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2738de76cfb913ec21e57ed0dee",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e028de76cfb913ec21e57ed0dee",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048518de76cfb913ec21e57ed0dee",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "B4 The Storm",
+        "release_date": "2020-08-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6MPCFvOQv5cIGfw3jODMF0",
+            "name": "Internet Money",
+            "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6U5j597olXfdjtd6wHd3Cu",
+        "total_tracks": 17
+      },
+      "duration_ms": 195428,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/2DQNYMRjisN3KAPj1bEwOI"
+    },
+    {
+      "id": "6jRq8gaZhMUyy5RclRPcAf",
+      "name": "hot girl bummer",
+      "artists": [
+        {
+          "id": "2cFrymmkijnjDg9SS92EPM",
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "album": {
+        "id": "4UxlLk460BnmQlRV3WiORh",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e9b6f26ff354f4d70847f02d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e9b6f26ff354f4d70847f02d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e9b6f26ff354f4d70847f02d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "everything means nothing",
+        "release_date": "2020-08-21",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "2cFrymmkijnjDg9SS92EPM",
+            "name": "blackbear",
+            "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4UxlLk460BnmQlRV3WiORh",
+        "total_tracks": 12
+      },
+      "duration_ms": 188343,
+      "popularity": 73,
+      "url": "https://open.spotify.com/track/6jRq8gaZhMUyy5RclRPcAf"
+    },
+    {
+      "id": "6bnF93Rx87YqUBLSgjiMU8",
+      "name": "Heartless",
+      "artists": [
+        {
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "album": {
+        "id": "4yP0hdKOZPNshxUOjY0cZj",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e028863bc11d2aa12b54f5aeb36",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048518863bc11d2aa12b54f5aeb36",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "After Hours",
+        "release_date": "2020-03-20",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+            "name": "The Weeknd",
+            "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj",
+        "total_tracks": 14
+      },
+      "duration_ms": 198266,
+      "popularity": 76,
+      "url": "https://open.spotify.com/track/6bnF93Rx87YqUBLSgjiMU8"
+    },
+    {
+      "id": "127QTOFJsJQp5LbJbu3A1y",
+      "name": "Toosie Slide",
+      "artists": [
+        {
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "album": {
+        "id": "3xIwVbGJuAcovYIhzbLO3J",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2736443676b54522a86f6323e65",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e026443676b54522a86f6323e65",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048516443676b54522a86f6323e65",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Toosie Slide",
+        "release_date": "2020-04-03",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "3TVXtAsR1Inumwj472S9r4",
+            "name": "Drake",
+            "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3xIwVbGJuAcovYIhzbLO3J",
+        "total_tracks": 1
+      },
+      "duration_ms": 247058,
+      "popularity": 68,
+      "url": "https://open.spotify.com/track/127QTOFJsJQp5LbJbu3A1y"
+    },
+    {
+      "id": "5RqR4ZCCKJDcBLIn4sih9l",
+      "name": "Party Girl",
+      "artists": [
+        {
+          "id": "1XLWox9w1Yvbodui0SRhUQ",
+          "name": "StaySolidRocky",
+          "url": "https://open.spotify.com/artist/1XLWox9w1Yvbodui0SRhUQ"
+        }
+      ],
+      "album": {
+        "id": "4NPX54YtocHqTOq6yXDEFM",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273f3fb166b5515fb19b070773c",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02f3fb166b5515fb19b070773c",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851f3fb166b5515fb19b070773c",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Party Girl",
+        "release_date": "2020-04-21",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1XLWox9w1Yvbodui0SRhUQ",
+            "name": "StaySolidRocky",
+            "url": "https://open.spotify.com/artist/1XLWox9w1Yvbodui0SRhUQ"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4NPX54YtocHqTOq6yXDEFM",
+        "total_tracks": 1
+      },
+      "duration_ms": 147800,
+      "popularity": 68,
+      "url": "https://open.spotify.com/track/5RqR4ZCCKJDcBLIn4sih9l"
+    },
+    {
+      "id": "2b8fOow8UzyDFAE27YhOZM",
+      "name": "Memories",
+      "artists": [
+        {
+          "id": "04gDigrS5kc9YWfZHwBETP",
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "album": {
+        "id": "3nR9B40hYLKLcR0Eph3Goc",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b8c0135a218de2d10a8435f5",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b8c0135a218de2d10a8435f5",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b8c0135a218de2d10a8435f5",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Memories",
+        "release_date": "2019-09-20",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "04gDigrS5kc9YWfZHwBETP",
+            "name": "Maroon 5",
+            "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3nR9B40hYLKLcR0Eph3Goc",
+        "total_tracks": 1
+      },
+      "duration_ms": 189486,
+      "popularity": 26,
+      "url": "https://open.spotify.com/track/2b8fOow8UzyDFAE27YhOZM"
+    },
+    {
+      "id": "4HBZA5flZLE435QTztThqH",
+      "name": "Stuck with U (with Justin Bieber)",
+      "artists": [
+        {
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "id": "1uNFoZAHBGtllmzznpCI3s",
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "album": {
+        "id": "5mUdh6YWnUvf0MfklEk1oi",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2732babb9dbd8f5146112f1bf86",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e022babb9dbd8f5146112f1bf86",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048512babb9dbd8f5146112f1bf86",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Stuck with U",
+        "release_date": "2020-05-08",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "66CXWjxzNUsdJxJ2JdwvnR",
+            "name": "Ariana Grande",
+            "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          },
+          {
+            "id": "1uNFoZAHBGtllmzznpCI3s",
+            "name": "Justin Bieber",
+            "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5mUdh6YWnUvf0MfklEk1oi",
+        "total_tracks": 1
+      },
+      "duration_ms": 228482,
+      "popularity": 77,
+      "url": "https://open.spotify.com/track/4HBZA5flZLE435QTztThqH"
+    },
+    {
+      "id": "4xqrdfXkTW4T0RauPLv3WA",
+      "name": "Heather",
+      "artists": [
+        {
+          "id": "4Uc8Dsxct0oMqx0P6i60ea",
+          "name": "Conan Gray",
+          "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+        }
+      ],
+      "album": {
+        "id": "2CMlkzFI2oDAy5MbyV7OV5",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27388e3cda6d29b2552d4d6bc43",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0288e3cda6d29b2552d4d6bc43",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485188e3cda6d29b2552d4d6bc43",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Kid Krow",
+        "release_date": "2020-03-20",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "4Uc8Dsxct0oMqx0P6i60ea",
+            "name": "Conan Gray",
+            "url": "https://open.spotify.com/artist/4Uc8Dsxct0oMqx0P6i60ea"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2CMlkzFI2oDAy5MbyV7OV5",
+        "total_tracks": 12
+      },
+      "duration_ms": 198040,
+      "popularity": 84,
+      "url": "https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA"
+    },
+    {
+      "id": "4umIPjkehX1r7uhmGvXiSV",
+      "name": "Intentions (feat. Quavo)",
+      "artists": [
+        {
+          "id": "1uNFoZAHBGtllmzznpCI3s",
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "id": "0VRj0yCOv2FXJNP47XQnx5",
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        }
+      ],
+      "album": {
+        "id": "63iWSELt9V1kV6RSMxN7Ii",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737fe4a82a08c4f0decbeddbc6",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027fe4a82a08c4f0decbeddbc6",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517fe4a82a08c4f0decbeddbc6",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Changes",
+        "release_date": "2020-02-14",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1uNFoZAHBGtllmzznpCI3s",
+            "name": "Justin Bieber",
+            "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          }
+        ],
+        "url": "https://open.spotify.com/album/63iWSELt9V1kV6RSMxN7Ii",
+        "total_tracks": 17
+      },
+      "duration_ms": 212866,
+      "popularity": 73,
+      "url": "https://open.spotify.com/track/4umIPjkehX1r7uhmGvXiSV"
+    },
+    {
+      "id": "3VyjsVV24RmBIbWJAeUJNu",
+      "name": "No Idea",
+      "artists": [
+        {
+          "id": "4Gso3d4CscCijv0lmajZWs",
+          "name": "Don Toliver",
+          "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+        }
+      ],
+      "album": {
+        "id": "1jAxVdQ2FFtbHu6kLNM0au",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273dcaa0db093e411c5c088107a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02dcaa0db093e411c5c088107a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851dcaa0db093e411c5c088107a",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "No Idea",
+        "release_date": "2019-05-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "4Gso3d4CscCijv0lmajZWs",
+            "name": "Don Toliver",
+            "url": "https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1jAxVdQ2FFtbHu6kLNM0au",
+        "total_tracks": 1
+      },
+      "duration_ms": 154424,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/3VyjsVV24RmBIbWJAeUJNu"
+    },
+    {
+      "id": "5yY9lUy8nbvjM1Uyo1Uqoc",
+      "name": "Life Is Good (feat. Drake)",
+      "artists": [
+        {
+          "id": "1RyvyyTE3xzB2ZywiAwp0i",
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "album": {
+        "id": "5uCEoLCj3ZZZ1EtzQdQWVl",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2738a01c7b77a34378a62f46402",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e028a01c7b77a34378a62f46402",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048518a01c7b77a34378a62f46402",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Life Is Good (feat. Drake)",
+        "release_date": "2020-01-10",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1RyvyyTE3xzB2ZywiAwp0i",
+            "name": "Future",
+            "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+          },
+          {
+            "id": "3TVXtAsR1Inumwj472S9r4",
+            "name": "Drake",
+            "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5uCEoLCj3ZZZ1EtzQdQWVl",
+        "total_tracks": 1
+      },
+      "duration_ms": 237735,
+      "popularity": 70,
+      "url": "https://open.spotify.com/track/5yY9lUy8nbvjM1Uyo1Uqoc"
+    },
+    {
+      "id": "3eekarcy7kvN4yt5ZFzltW",
+      "name": "HIGHEST IN THE ROOM",
+      "artists": [
+        {
+          "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "album": {
+        "id": "2uDTi1PlpSpvAv7IRAoAEU",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e42b5fea4ac4c3d6328b622b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e42b5fea4ac4c3d6328b622b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e42b5fea4ac4c3d6328b622b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "HIGHEST IN THE ROOM",
+        "release_date": "2019-10-04",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+            "name": "Travis Scott",
+            "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2uDTi1PlpSpvAv7IRAoAEU",
+        "total_tracks": 1
+      },
+      "duration_ms": 175720,
+      "popularity": 84,
+      "url": "https://open.spotify.com/track/3eekarcy7kvN4yt5ZFzltW"
+    },
+    {
+      "id": "2Wo6QQD1KMDWeFkkjLqwx5",
+      "name": "Roses - Imanbek Remix",
+      "artists": [
+        {
+          "id": "0H39MdGGX6dbnnQPt6NQkZ",
+          "name": "SAINt JHN",
+          "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+        },
+        {
+          "id": "5rGrDvrLOV2VV8SCFVGWlj",
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        }
+      ],
+      "album": {
+        "id": "6XcYTEonLIpg9NpAbJnqrC",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27369450869a3ffaf23bc3898bf",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0269450869a3ffaf23bc3898bf",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485169450869a3ffaf23bc3898bf",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Roses (Imanbek Remix)",
+        "release_date": "2019-09-13",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0H39MdGGX6dbnnQPt6NQkZ",
+            "name": "SAINt JHN",
+            "url": "https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ"
+          },
+          {
+            "id": "5rGrDvrLOV2VV8SCFVGWlj",
+            "name": "Imanbek",
+            "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6XcYTEonLIpg9NpAbJnqrC",
+        "total_tracks": 1
+      },
+      "duration_ms": 176218,
+      "popularity": 5,
+      "url": "https://open.spotify.com/track/2Wo6QQD1KMDWeFkkjLqwx5"
+    },
+    {
+      "id": "24ySl2hOPGCDcxBxFIqWBu",
+      "name": "Rain On Me (with Ariana Grande)",
+      "artists": [
+        {
+          "id": "1HY2Jd0NmPuamShAr6KMms",
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
+        {
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "album": {
+        "id": "4TqgXMSSTwP3RCo3MMSR6t",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c8583f0bd97d3042d4971acf",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c8583f0bd97d3042d4971acf",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c8583f0bd97d3042d4971acf",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Rain On Me (with Ariana Grande)",
+        "release_date": "2020-05-22",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1HY2Jd0NmPuamShAr6KMms",
+            "name": "Lady Gaga",
+            "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+          },
+          {
+            "id": "66CXWjxzNUsdJxJ2JdwvnR",
+            "name": "Ariana Grande",
+            "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4TqgXMSSTwP3RCo3MMSR6t",
+        "total_tracks": 1
+      },
+      "duration_ms": 182200,
+      "popularity": 66,
+      "url": "https://open.spotify.com/track/24ySl2hOPGCDcxBxFIqWBu"
+    },
+    {
+      "id": "45bE4HXI0AwGZXfZtMp8JR",
+      "name": "you broke me first",
+      "artists": [
+        {
+          "id": "45dkTj5sMRSjrmBSBeiHym",
+          "name": "Tate McRae",
+          "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+        }
+      ],
+      "album": {
+        "id": "1RWiRfdNZKDe8VXzzf2VEc",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2730c2c97099fd6a637ed0aa4a4",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e020c2c97099fd6a637ed0aa4a4",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048510c2c97099fd6a637ed0aa4a4",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "you broke me first",
+        "release_date": "2020-04-17",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "45dkTj5sMRSjrmBSBeiHym",
+            "name": "Tate McRae",
+            "url": "https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1RWiRfdNZKDe8VXzzf2VEc",
+        "total_tracks": 1
+      },
+      "duration_ms": 169265,
+      "popularity": 18,
+      "url": "https://open.spotify.com/track/45bE4HXI0AwGZXfZtMp8JR"
+    },
+    {
+      "id": "1Cv1YLb4q0RzL6pybtaMLo",
+      "name": "Sunday Best",
+      "artists": [
+        {
+          "id": "4ETSs924pXMzjIeD6E9b4u",
+          "name": "Surfaces",
+          "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+        }
+      ],
+      "album": {
+        "id": "3mMWlBGocBwsS1Q0o9wvlc",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2733667dc27da7b24360d6050d0",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e023667dc27da7b24360d6050d0",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048513667dc27da7b24360d6050d0",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Where the Light Is",
+        "release_date": "2019-01-06",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "4ETSs924pXMzjIeD6E9b4u",
+            "name": "Surfaces",
+            "url": "https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3mMWlBGocBwsS1Q0o9wvlc",
+        "total_tracks": 10
+      },
+      "duration_ms": 158571,
+      "popularity": 7,
+      "url": "https://open.spotify.com/track/1Cv1YLb4q0RzL6pybtaMLo"
+    },
+    {
+      "id": "3hxIUxnT27p5WcmjGUXNwx",
+      "name": "Shut up My Moms Calling",
+      "artists": [
+        {
+          "id": "35WVTyRnKAoaGExqgktVyb",
+          "name": "Hotel Ugly",
+          "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
+        }
+      ],
+      "album": {
+        "id": "4qVzNqB4cskFInYfrC7P0S",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273350ab7a839c04bfd5225a9f5",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02350ab7a839c04bfd5225a9f5",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851350ab7a839c04bfd5225a9f5",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Shut up My Moms Calling",
+        "release_date": "2020-02-10",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "35WVTyRnKAoaGExqgktVyb",
+            "name": "Hotel Ugly",
+            "url": "https://open.spotify.com/artist/35WVTyRnKAoaGExqgktVyb"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4qVzNqB4cskFInYfrC7P0S",
+        "total_tracks": 1
+      },
+      "duration_ms": 164571,
+      "popularity": 86,
+      "url": "https://open.spotify.com/track/3hxIUxnT27p5WcmjGUXNwx"
+    },
+    {
+      "id": "41L3O37CECZt3N7ziG2z7l",
+      "name": "Yummy",
+      "artists": [
+        {
+          "id": "1uNFoZAHBGtllmzznpCI3s",
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "album": {
+        "id": "1SN6N3fNkZk5oXQ9X46QZ3",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27360eec5a0953d4a33d77ed71d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0260eec5a0953d4a33d77ed71d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485160eec5a0953d4a33d77ed71d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Yummy",
+        "release_date": "2020-01-03",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1uNFoZAHBGtllmzznpCI3s",
+            "name": "Justin Bieber",
+            "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1SN6N3fNkZk5oXQ9X46QZ3",
+        "total_tracks": 1
+      },
+      "duration_ms": 210426,
+      "popularity": 63,
+      "url": "https://open.spotify.com/track/41L3O37CECZt3N7ziG2z7l"
+    },
+    {
+      "id": "5v4GgrXPMghOnBBLmveLac",
+      "name": "Savage Remix (feat. Beyoncé)",
+      "artists": [
+        {
+          "id": "181bsRPaVXVlUKXrxwZfHK",
+          "name": "Megan Thee Stallion",
+          "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+        },
+        {
+          "id": "6vWDO969PvNqNYHIOW5v0m",
+          "name": "Beyoncé",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "album": {
+        "id": "6M4VOF1ExBRii1x20Pk0GR",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273cd613f53a22b92b14694943c",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02cd613f53a22b92b14694943c",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851cd613f53a22b92b14694943c",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Savage Remix (feat. Beyoncé)",
+        "release_date": "2020-04-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "181bsRPaVXVlUKXrxwZfHK",
+            "name": "Megan Thee Stallion",
+            "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
+          },
+          {
+            "id": "6vWDO969PvNqNYHIOW5v0m",
+            "name": "Beyoncé",
+            "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6M4VOF1ExBRii1x20Pk0GR",
+        "total_tracks": 1
+      },
+      "duration_ms": 242000,
+      "popularity": 58,
+      "url": "https://open.spotify.com/track/5v4GgrXPMghOnBBLmveLac"
+    },
+    {
+      "id": "3vAn0qZzdyuHamcrpkfiX3",
+      "name": "How You Like That",
+      "artists": [
+        {
+          "id": "41MozSoPIsD1dJM0CLPjZF",
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        }
+      ],
+      "album": {
+        "id": "19LMUlWN7xU2NW80pZSeuH",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273310b505203a3fc8a952ed010",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02310b505203a3fc8a952ed010",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851310b505203a3fc8a952ed010",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "How You Like That",
+        "release_date": "2020-06-26",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "41MozSoPIsD1dJM0CLPjZF",
+            "name": "BLACKPINK",
+            "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+          }
+        ],
+        "url": "https://open.spotify.com/album/19LMUlWN7xU2NW80pZSeuH",
+        "total_tracks": 1
+      },
+      "duration_ms": 181263,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/3vAn0qZzdyuHamcrpkfiX3"
+    },
+    {
+      "id": "5GkQIP5mWPi4KZLLXeuFTT",
+      "name": "motive (with Doja Cat)",
+      "artists": [
+        {
+          "id": "66CXWjxzNUsdJxJ2JdwvnR",
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "id": "5cj0lLjcoR7YOSnhnX0Po5",
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "album": {
+        "id": "3euz4vS7ezKGnNSwgyvKcd",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2735ef878a782c987d38d82b605",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e025ef878a782c987d38d82b605",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048515ef878a782c987d38d82b605",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Positions",
+        "release_date": "2020-10-30",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "66CXWjxzNUsdJxJ2JdwvnR",
+            "name": "Ariana Grande",
+            "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3euz4vS7ezKGnNSwgyvKcd",
+        "total_tracks": 14
+      },
+      "duration_ms": 167989,
+      "popularity": 71,
+      "url": "https://open.spotify.com/track/5GkQIP5mWPi4KZLLXeuFTT"
+    },
+    {
+      "id": "2Z8yfpFX0ZMavHkcIeHiO1",
+      "name": "Monster (Shawn Mendes & Justin Bieber)",
+      "artists": [
+        {
+          "id": "7n2wHs1TKAczGzO7Dd2rGr",
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        },
+        {
+          "id": "1uNFoZAHBGtllmzznpCI3s",
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "album": {
+        "id": "3yVVL2EYLp8g7gT08VvYKy",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27312e57573cbc551c187a96107",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0212e57573cbc551c187a96107",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485112e57573cbc551c187a96107",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Monster",
+        "release_date": "2020-11-20",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "7n2wHs1TKAczGzO7Dd2rGr",
+            "name": "Shawn Mendes",
+            "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+          },
+          {
+            "id": "1uNFoZAHBGtllmzznpCI3s",
+            "name": "Justin Bieber",
+            "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3yVVL2EYLp8g7gT08VvYKy",
+        "total_tracks": 1
+      },
+      "duration_ms": 178994,
+      "popularity": 65,
+      "url": "https://open.spotify.com/track/2Z8yfpFX0ZMavHkcIeHiO1"
+    },
+    {
+      "id": "017PF4Q3l4DBUiWoXk4OWT",
+      "name": "Break My Heart",
+      "artists": [
+        {
+          "id": "6M2wZ9GZgrQXHCFfjv46we",
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "album": {
+        "id": "7fJJK56U9fHixgO0HQkhtI",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734bc66095f8a70bc4e6593f4f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024bc66095f8a70bc4e6593f4f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514bc66095f8a70bc4e6593f4f",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Future Nostalgia",
+        "release_date": "2020-03-27",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6M2wZ9GZgrQXHCFfjv46we",
+            "name": "Dua Lipa",
+            "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          }
+        ],
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI",
+        "total_tracks": 11
+      },
+      "duration_ms": 221820,
+      "popularity": 73,
+      "url": "https://open.spotify.com/track/017PF4Q3l4DBUiWoXk4OWT"
+    },
+    {
+      "id": "7k4t7uLgtOxPwTpFmtJNTY",
+      "name": "Tusa",
+      "artists": [
+        {
+          "id": "790FomKkXshlbRYZFtlgla",
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        },
+        {
+          "id": "0hCNtLu0JehylgoiP8L4Gh",
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "album": {
+        "id": "7mKevNHhVnZER3BLgI8O4F",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ddd3154c58e15a8bdb63bbcc",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ddd3154c58e15a8bdb63bbcc",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ddd3154c58e15a8bdb63bbcc",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Tusa",
+        "release_date": "2019-11-07",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "790FomKkXshlbRYZFtlgla",
+            "name": "KAROL G",
+            "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+          },
+          {
+            "id": "0hCNtLu0JehylgoiP8L4Gh",
+            "name": "Nicki Minaj",
+            "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+          }
+        ],
+        "url": "https://open.spotify.com/album/7mKevNHhVnZER3BLgI8O4F",
+        "total_tracks": 1
+      },
+      "duration_ms": 200960,
+      "popularity": 71,
+      "url": "https://open.spotify.com/track/7k4t7uLgtOxPwTpFmtJNTY"
+    },
+    {
+      "id": "1yoMvmasuxZfqHEipJhRbp",
+      "name": "Hawái",
+      "artists": [
+        {
+          "id": "1r4hJ1h58CWwUQe3MxPuau",
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "album": {
+        "id": "0p2yf6DucEgvj8Uk8KXJJv",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27387d15f78ec75621d40028baf",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0287d15f78ec75621d40028baf",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485187d15f78ec75621d40028baf",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "PAPI JUANCHO",
+        "release_date": "2020-08-21",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1r4hJ1h58CWwUQe3MxPuau",
+            "name": "Maluma",
+            "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0p2yf6DucEgvj8Uk8KXJJv",
+        "total_tracks": 22
+      },
+      "duration_ms": 199112,
+      "popularity": 79,
+      "url": "https://open.spotify.com/track/1yoMvmasuxZfqHEipJhRbp"
+    },
+    {
+      "id": "0EhpEsp4L0oRGM0vmeaN5e",
+      "name": "UN DIA (ONE DAY) (Feat. Tainy)",
+      "artists": [
+        {
+          "id": "1vyhD5VmyZ7KMfW5gqLgo5",
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "id": "6M2wZ9GZgrQXHCFfjv46we",
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        },
+        {
+          "id": "4q3ewBCX7sLwd24euuV69X",
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "id": "0GM7qgcRCORpGnfcN2tCiB",
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        }
+      ],
+      "album": {
+        "id": "6aqSlutLYNpzSsK4dV5jTr",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273312bd86cc2db22fde885ee73",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02312bd86cc2db22fde885ee73",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851312bd86cc2db22fde885ee73",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "UN DIA (ONE DAY) (Feat. Tainy)",
+        "release_date": "2020-07-24",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1vyhD5VmyZ7KMfW5gqLgo5",
+            "name": "J Balvin",
+            "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+          },
+          {
+            "id": "6M2wZ9GZgrQXHCFfjv46we",
+            "name": "Dua Lipa",
+            "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          },
+          {
+            "id": "4q3ewBCX7sLwd24euuV69X",
+            "name": "Bad Bunny",
+            "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6aqSlutLYNpzSsK4dV5jTr",
+        "total_tracks": 1
+      },
+      "duration_ms": 232253,
+      "popularity": 67,
+      "url": "https://open.spotify.com/track/0EhpEsp4L0oRGM0vmeaN5e"
+    },
+    {
+      "id": "6J2LdBN97cDWn0MLxYh9HB",
+      "name": "July",
+      "artists": [
+        {
+          "id": "55fhWPvDiMpLnE4ZzNXZyW",
+          "name": "Noah Cyrus",
+          "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+        }
+      ],
+      "album": {
+        "id": "5Gn3fFzlWL89j0hGumtXb5",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737f66b73bd6e86f4c8d2a7692",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027f66b73bd6e86f4c8d2a7692",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517f66b73bd6e86f4c8d2a7692",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "THE END OF EVERYTHING",
+        "release_date": "2020-05-15",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "55fhWPvDiMpLnE4ZzNXZyW",
+            "name": "Noah Cyrus",
+            "url": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5Gn3fFzlWL89j0hGumtXb5",
+        "total_tracks": 8
+      },
+      "duration_ms": 156106,
+      "popularity": 81,
+      "url": "https://open.spotify.com/track/6J2LdBN97cDWn0MLxYh9HB"
+    },
+    {
+      "id": "2gMXnyrvIjhVBUZwvLZDMP",
+      "name": "Before You Go",
+      "artists": [
+        {
+          "id": "4GNC7GD6oZMSxPGyXy4MNB",
+          "name": "Lewis Capaldi",
+          "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+        }
+      ],
+      "album": {
+        "id": "2wiPF3m0ylst0JSk1IvZL8",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737b9639babbe96e25071ec1d4",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027b9639babbe96e25071ec1d4",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517b9639babbe96e25071ec1d4",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Divinely Uninspired To A Hellish Extent (Extended Edition)",
+        "release_date": "2019-11-22",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "4GNC7GD6oZMSxPGyXy4MNB",
+            "name": "Lewis Capaldi",
+            "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2wiPF3m0ylst0JSk1IvZL8",
+        "total_tracks": 15
+      },
+      "duration_ms": 215106,
+      "popularity": 80,
+      "url": "https://open.spotify.com/track/2gMXnyrvIjhVBUZwvLZDMP"
+    },
+    {
+      "id": "2SAqBLGA283SUiwJ3xOUVI",
+      "name": "Laugh Now Cry Later (feat. Lil Durk)",
+      "artists": [
+        {
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        },
+        {
+          "id": "3hcs9uc56yIGFCSy9leWe7",
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "album": {
+        "id": "0qGdc7fNq9RNIPEzZufa43",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27352c75ed37313b889447011ef",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0252c75ed37313b889447011ef",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485152c75ed37313b889447011ef",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Laugh Now Cry Later (feat. Lil Durk)",
+        "release_date": "2020-08-14",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "3TVXtAsR1Inumwj472S9r4",
+            "name": "Drake",
+            "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          },
+          {
+            "id": "3hcs9uc56yIGFCSy9leWe7",
+            "name": "Lil Durk",
+            "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0qGdc7fNq9RNIPEzZufa43",
+        "total_tracks": 1
+      },
+      "duration_ms": 261492,
+      "popularity": 73,
+      "url": "https://open.spotify.com/track/2SAqBLGA283SUiwJ3xOUVI"
+    },
+    {
+      "id": "7FIWs0pqAYbP91WWM0vlTQ",
+      "name": "Godzilla (feat. Juice WRLD)",
+      "artists": [
+        {
+          "id": "7dGJo4pcD2V6oG8kP0tJRR",
+          "name": "Eminem",
+          "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+        },
+        {
+          "id": "4MCBfE4596Uoi2O4DtmEMz",
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "album": {
+        "id": "4otkd9As6YaxxEkIjXPiZ6",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2732f44aec83b20e40f3baef73c",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e022f44aec83b20e40f3baef73c",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048512f44aec83b20e40f3baef73c",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Music To Be Murdered By",
+        "release_date": "2020-01-17",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "7dGJo4pcD2V6oG8kP0tJRR",
+            "name": "Eminem",
+            "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4otkd9As6YaxxEkIjXPiZ6",
+        "total_tracks": 20
+      },
+      "duration_ms": 210800,
+      "popularity": 83,
+      "url": "https://open.spotify.com/track/7FIWs0pqAYbP91WWM0vlTQ"
+    },
+    {
+      "id": "0PvFJmanyNQMseIFrU708S",
+      "name": "For The Night (feat. Lil Baby & DaBaby)",
+      "artists": [
+        {
+          "id": "0eDvMgVFoNV3TpwtrVCoTj",
+          "name": "Pop Smoke",
+          "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+        },
+        {
+          "id": "5f7VJjfbwm532GiveGC0ZK",
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "id": "4r63FhuTkUYltbVAg5TQnk",
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "album": {
+        "id": "7e7t0MCrNDcJZsPwUKjmOc",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27377ada0863603903f57b34369",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0277ada0863603903f57b34369",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485177ada0863603903f57b34369",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Shoot For The Stars Aim For The Moon",
+        "release_date": "2020-07-03",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0eDvMgVFoNV3TpwtrVCoTj",
+            "name": "Pop Smoke",
+            "url": "https://open.spotify.com/artist/0eDvMgVFoNV3TpwtrVCoTj"
+          }
+        ],
+        "url": "https://open.spotify.com/album/7e7t0MCrNDcJZsPwUKjmOc",
+        "total_tracks": 19
+      },
+      "duration_ms": 190476,
+      "popularity": 73,
+      "url": "https://open.spotify.com/track/0PvFJmanyNQMseIFrU708S"
+    },
+    {
+      "id": "2p8IUWQDrpjuFltbdgLOag",
+      "name": "After Hours",
+      "artists": [
+        {
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "album": {
+        "id": "4yP0hdKOZPNshxUOjY0cZj",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e028863bc11d2aa12b54f5aeb36",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048518863bc11d2aa12b54f5aeb36",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "After Hours",
+        "release_date": "2020-03-20",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+            "name": "The Weeknd",
+            "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj",
+        "total_tracks": 14
+      },
+      "duration_ms": 361026,
+      "popularity": 79,
+      "url": "https://open.spotify.com/track/2p8IUWQDrpjuFltbdgLOag"
+    },
+    {
+      "id": "2kJwzbxV2ppxnQoYw4GLBZ",
+      "name": "If the World Was Ending (feat. Julia Michaels)",
+      "artists": [
+        {
+          "id": "66W9LaWS0DPdL7Sz8iYGYe",
+          "name": "JP Saxe",
+          "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+        },
+        {
+          "id": "0ZED1XzwlLHW4ZaG4lOT6m",
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "album": {
+        "id": "7BrlhEO8dHiNmU8A1Ep9RZ",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273dedbec8cca43642f06533476",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02dedbec8cca43642f06533476",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851dedbec8cca43642f06533476",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "If the World Was Ending (feat. Julia Michaels)",
+        "release_date": "2019-10-17",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "66W9LaWS0DPdL7Sz8iYGYe",
+            "name": "JP Saxe",
+            "url": "https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe"
+          },
+          {
+            "id": "0ZED1XzwlLHW4ZaG4lOT6m",
+            "name": "Julia Michaels",
+            "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+          }
+        ],
+        "url": "https://open.spotify.com/album/7BrlhEO8dHiNmU8A1Ep9RZ",
+        "total_tracks": 1
+      },
+      "duration_ms": 208687,
+      "popularity": 71,
+      "url": "https://open.spotify.com/track/2kJwzbxV2ppxnQoYw4GLBZ"
+    },
+    {
+      "id": "2MbdDtCv5LUVjYy9RuGTgC",
+      "name": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) - Remix",
+      "artists": [
+        {
+          "id": "2LIk90788K0zvyj2JJVwkJ",
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "id": "2jku7tDXc6XoB6MO2hFuqg",
+          "name": "Tory Lanez",
+          "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+        },
+        {
+          "id": "4r63FhuTkUYltbVAg5TQnk",
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        },
+        {
+          "id": "55Aa2cqylxrFIXC767Z865",
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        }
+      ],
+      "album": {
+        "id": "36jrqYRpGVpJqztuqCii22",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b5f0a8d46cef9647548c64dc",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b5f0a8d46cef9647548c64dc",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b5f0a8d46cef9647548c64dc",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "WHATS POPPIN (feat. DaBaby, Tory Lanez & Lil Wayne) [Remix]",
+        "release_date": "2020-06-24",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "2LIk90788K0zvyj2JJVwkJ",
+            "name": "Jack Harlow",
+            "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+          },
+          {
+            "id": "2jku7tDXc6XoB6MO2hFuqg",
+            "name": "Tory Lanez",
+            "url": "https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg"
+          }
+        ],
+        "url": "https://open.spotify.com/album/36jrqYRpGVpJqztuqCii22",
+        "total_tracks": 1
+      },
+      "duration_ms": 227478,
+      "popularity": 64,
+      "url": "https://open.spotify.com/track/2MbdDtCv5LUVjYy9RuGTgC"
+    },
+    {
+      "id": "6NfrH0ANGmgBXyxgV2PeXt",
+      "name": "La Difícil",
+      "artists": [
+        {
+          "id": "4q3ewBCX7sLwd24euuV69X",
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "album": {
+        "id": "5lJqux7orBlA1QzyiBGti1",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273548f7ec52da7313de0c5e4a0",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02548f7ec52da7313de0c5e4a0",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851548f7ec52da7313de0c5e4a0",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "YHLQMDLG",
+        "release_date": "2020-02-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "4q3ewBCX7sLwd24euuV69X",
+            "name": "Bad Bunny",
+            "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1",
+        "total_tracks": 20
+      },
+      "duration_ms": 163084,
+      "popularity": 70,
+      "url": "https://open.spotify.com/track/6NfrH0ANGmgBXyxgV2PeXt"
+    },
+    {
+      "id": "7szuecWAPwGoV1e5vGu8tl",
+      "name": "In Your Eyes",
+      "artists": [
+        {
+          "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        }
+      ],
+      "album": {
+        "id": "4yP0hdKOZPNshxUOjY0cZj",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2738863bc11d2aa12b54f5aeb36",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e028863bc11d2aa12b54f5aeb36",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048518863bc11d2aa12b54f5aeb36",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "After Hours",
+        "release_date": "2020-03-20",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1Xyo4u8uXC1ZmMpatF05PJ",
+            "name": "The Weeknd",
+            "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4yP0hdKOZPNshxUOjY0cZj",
+        "total_tracks": 14
+      },
+      "duration_ms": 237520,
+      "popularity": 74,
+      "url": "https://open.spotify.com/track/7szuecWAPwGoV1e5vGu8tl"
+    },
+    {
+      "id": "5JqZ3oqF00jkT81foAFvqg",
+      "name": "Prisoner (feat. Dua Lipa)",
+      "artists": [
+        {
+          "id": "5YGY8feqx7naU7z4HrwZM6",
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        },
+        {
+          "id": "6M2wZ9GZgrQXHCFfjv46we",
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "album": {
+        "id": "3hUh17FzYZwwZyNjU9B3vL",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2733797253ef8b94a9e35e1b7c6",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e023797253ef8b94a9e35e1b7c6",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048513797253ef8b94a9e35e1b7c6",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Prisoner (feat. Dua Lipa)",
+        "release_date": "2020-11-20",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "5YGY8feqx7naU7z4HrwZM6",
+            "name": "Miley Cyrus",
+            "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+          },
+          {
+            "id": "6M2wZ9GZgrQXHCFfjv46we",
+            "name": "Dua Lipa",
+            "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3hUh17FzYZwwZyNjU9B3vL",
+        "total_tracks": 1
+      },
+      "duration_ms": 169333,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/5JqZ3oqF00jkT81foAFvqg"
+    },
+    {
+      "id": "45S5WTQEGOB1VHr1Q4FuPl",
+      "name": "Golden",
+      "artists": [
+        {
+          "id": "6KImCVD70vtIoJWnq6nGn3",
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "album": {
+        "id": "7xV2TzoaVc0ycW7fwBwAml",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27377fdcfda6535601aff081b6a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0277fdcfda6535601aff081b6a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485177fdcfda6535601aff081b6a",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Fine Line",
+        "release_date": "2019-12-13",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6KImCVD70vtIoJWnq6nGn3",
+            "name": "Harry Styles",
+            "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+          }
+        ],
+        "url": "https://open.spotify.com/album/7xV2TzoaVc0ycW7fwBwAml",
+        "total_tracks": 12
+      },
+      "duration_ms": 208906,
+      "popularity": 72,
+      "url": "https://open.spotify.com/track/45S5WTQEGOB1VHr1Q4FuPl"
+    },
+    {
+      "id": "4Lxseh0wN7N0ljiOh8KwbU",
+      "name": "Come & Go (with Marshmello)",
+      "artists": [
+        {
+          "id": "4MCBfE4596Uoi2O4DtmEMz",
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        },
+        {
+          "id": "64KEffDW9EtZ1y2vBYgq8T",
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        }
+      ],
+      "album": {
+        "id": "5Cje8lHuyJG88V5Rvx21mm",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273791d4db595cbe7848adfe74a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02791d4db595cbe7848adfe74a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851791d4db595cbe7848adfe74a",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Come & Go (with Marshmello)",
+        "release_date": "2020-07-09",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "4MCBfE4596Uoi2O4DtmEMz",
+            "name": "Juice WRLD",
+            "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+          },
+          {
+            "id": "64KEffDW9EtZ1y2vBYgq8T",
+            "name": "Marshmello",
+            "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5Cje8lHuyJG88V5Rvx21mm",
+        "total_tracks": 1
+      },
+      "duration_ms": 205484,
+      "popularity": 57,
+      "url": "https://open.spotify.com/track/4Lxseh0wN7N0ljiOh8KwbU"
+    },
+    {
+      "id": "3GZoWLVbmxcBys6g0DLFLf",
+      "name": "Supalonely (feat. Gus Dapperton)",
+      "artists": [
+        {
+          "id": "0Cp8WN4V8Tu4QJQwCN5Md4",
+          "name": "BENEE",
+          "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+        },
+        {
+          "id": "6sHCvZe1PHrOAuYlwTLNH4",
+          "name": "Gus Dapperton",
+          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
+        }
+      ],
+      "album": {
+        "id": "4KKRAmQ0ksj32l7mrgLOcF",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734bd20e01d00de4b35b61f5f7",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024bd20e01d00de4b35b61f5f7",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514bd20e01d00de4b35b61f5f7",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Hey u x",
+        "release_date": "2020-11-13",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0Cp8WN4V8Tu4QJQwCN5Md4",
+            "name": "BENEE",
+            "url": "https://open.spotify.com/artist/0Cp8WN4V8Tu4QJQwCN5Md4"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4KKRAmQ0ksj32l7mrgLOcF",
+        "total_tracks": 13
+      },
+      "duration_ms": 223488,
+      "popularity": 57,
+      "url": "https://open.spotify.com/track/3GZoWLVbmxcBys6g0DLFLf"
+    },
+    {
+      "id": "2J4P46vCFm1rPkNkp9pZWX",
+      "name": "Ice Cream (with Selena Gomez)",
+      "artists": [
+        {
+          "id": "41MozSoPIsD1dJM0CLPjZF",
+          "name": "BLACKPINK",
+          "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+        },
+        {
+          "id": "0C8ZW7ezQVs4URX5aX7Kqx",
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "album": {
+        "id": "2VBb4LRcRSACOfJWRUgVZl",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2733709f2400b95a7c6f22a7ee0",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e023709f2400b95a7c6f22a7ee0",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048513709f2400b95a7c6f22a7ee0",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Ice Cream (with Selena Gomez)",
+        "release_date": "2020-08-28",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "41MozSoPIsD1dJM0CLPjZF",
+            "name": "BLACKPINK",
+            "url": "https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF"
+          },
+          {
+            "id": "0C8ZW7ezQVs4URX5aX7Kqx",
+            "name": "Selena Gomez",
+            "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2VBb4LRcRSACOfJWRUgVZl",
+        "total_tracks": 1
+      },
+      "duration_ms": 175813,
+      "popularity": 57,
+      "url": "https://open.spotify.com/track/2J4P46vCFm1rPkNkp9pZWX"
+    },
+    {
+      "id": "62aP9fBQKYKxi7PDXwcUAS",
+      "name": "ily (i love you baby) (feat. Emilee)",
+      "artists": [
+        {
+          "id": "1lmU3giNF3CSbkVSQmLpHQ",
+          "name": "Surf Mesa",
+          "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+        },
+        {
+          "id": "4ArPQ1Opcksbbf3CPwEjWE",
+          "name": "Emilee",
+          "url": "https://open.spotify.com/artist/4ArPQ1Opcksbbf3CPwEjWE"
+        }
+      ],
+      "album": {
+        "id": "4MHHajvRTUHItDsvfdIC8B",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b3de5764cc02f94714487c86",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b3de5764cc02f94714487c86",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b3de5764cc02f94714487c86",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ily (i love you baby) (feat. Emilee)",
+        "release_date": "2019-11-26",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1lmU3giNF3CSbkVSQmLpHQ",
+            "name": "Surf Mesa",
+            "url": "https://open.spotify.com/artist/1lmU3giNF3CSbkVSQmLpHQ"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4MHHajvRTUHItDsvfdIC8B",
+        "total_tracks": 1
+      },
+      "duration_ms": 176546,
+      "popularity": 72,
+      "url": "https://open.spotify.com/track/62aP9fBQKYKxi7PDXwcUAS"
+    },
+    {
+      "id": "3H7ihDc1dqLriiWXwsc2po",
+      "name": "Breaking Me",
+      "artists": [
+        {
+          "id": "0u6GtibW46tFX7koQ6uNJZ",
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "id": "5Wg2b4Mp42gicxEeDNawf7",
+          "name": "A7S",
+          "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+        }
+      ],
+      "album": {
+        "id": "3nBQlhUvErkw8DVpF47WAn",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ca801dab96017456b9847ac2",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ca801dab96017456b9847ac2",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ca801dab96017456b9847ac2",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Breaking Me",
+        "release_date": "2019-12-19",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0u6GtibW46tFX7koQ6uNJZ",
+            "name": "Topic",
+            "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+          },
+          {
+            "id": "5Wg2b4Mp42gicxEeDNawf7",
+            "name": "A7S",
+            "url": "https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn",
+        "total_tracks": 1
+      },
+      "duration_ms": 166793,
+      "popularity": 72,
+      "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
+    },
+    {
+      "id": "3Z8FwOEN59mRMxDCtb8N0A",
+      "name": "Be Kind (with Halsey)",
+      "artists": [
+        {
+          "id": "64KEffDW9EtZ1y2vBYgq8T",
+          "name": "Marshmello",
+          "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+        },
+        {
+          "id": "26VFTg2z8YR0cCuwLzESi2",
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "album": {
+        "id": "1eleCBhP2R8TXEDquvybwC",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273fdf2e993e10e67396b3bf759",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02fdf2e993e10e67396b3bf759",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851fdf2e993e10e67396b3bf759",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Be Kind (with Halsey)",
+        "release_date": "2020-05-01",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "64KEffDW9EtZ1y2vBYgq8T",
+            "name": "Marshmello",
+            "url": "https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T"
+          },
+          {
+            "id": "26VFTg2z8YR0cCuwLzESi2",
+            "name": "Halsey",
+            "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1eleCBhP2R8TXEDquvybwC",
+        "total_tracks": 1
+      },
+      "duration_ms": 172761,
+      "popularity": 69,
+      "url": "https://open.spotify.com/track/3Z8FwOEN59mRMxDCtb8N0A"
+    },
+    {
+      "id": "1DWZUa5Mzf2BwzpHtgbHPY",
+      "name": "Good News",
+      "artists": [
+        {
+          "id": "4LLpKhyESsyAXpc4laK94U",
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "album": {
+        "id": "5sY6UIQ32GqwMLAfSNEaXb",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27326b7dd89810cc1a40ada642c",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0226b7dd89810cc1a40ada642c",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485126b7dd89810cc1a40ada642c",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Circles",
+        "release_date": "2020-01-17",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "4LLpKhyESsyAXpc4laK94U",
+            "name": "Mac Miller",
+            "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb",
+        "total_tracks": 12
+      },
+      "duration_ms": 342040,
+      "popularity": 68,
+      "url": "https://open.spotify.com/track/1DWZUa5Mzf2BwzpHtgbHPY"
+    },
+    {
+      "id": "54bFM56PmE4YLRnqpW6Tha",
+      "name": "Therefore I Am",
+      "artists": [
+        {
+          "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "album": {
+        "id": "5G58VVE9ub1KE01Mvbd8XM",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737a152619a7b55bc621d07901",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027a152619a7b55bc621d07901",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517a152619a7b55bc621d07901",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Therefore I Am",
+        "release_date": "2020-11-12",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+            "name": "Billie Eilish",
+            "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5G58VVE9ub1KE01Mvbd8XM",
+        "total_tracks": 1
+      },
+      "duration_ms": 174321,
+      "popularity": 68,
+      "url": "https://open.spotify.com/track/54bFM56PmE4YLRnqpW6Tha"
+    },
+    {
+      "id": "7HMmFQsKsljwTw8bS7lu19",
+      "name": "Rare",
+      "artists": [
+        {
+          "id": "0C8ZW7ezQVs4URX5aX7Kqx",
+          "name": "Selena Gomez",
+          "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+        }
+      ],
+      "album": {
+        "id": "3YPFaTR7WMi1Hd4NVKdCJx",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2732abcc266597eb46f897a8666",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e022abcc266597eb46f897a8666",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048512abcc266597eb46f897a8666",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Rare",
+        "release_date": "2020-01-10",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0C8ZW7ezQVs4URX5aX7Kqx",
+            "name": "Selena Gomez",
+            "url": "https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx",
+        "total_tracks": 13
+      },
+      "duration_ms": 220589,
+      "popularity": 57,
+      "url": "https://open.spotify.com/track/7HMmFQsKsljwTw8bS7lu19"
+    },
+    {
+      "id": "6AGOKlMZWLCaEJGnaROtF9",
+      "name": "Put Your Records On",
+      "artists": [
+        {
+          "id": "7MPGCB854Qo4alYMOPkBka",
+          "name": "Ritt Momney",
+          "url": "https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka"
+        }
+      ],
+      "album": {
+        "id": "6K7559pAYrNCJwsv1uIIK7",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d52d8eb3be188231e120dbbd",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d52d8eb3be188231e120dbbd",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d52d8eb3be188231e120dbbd",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Put Your Records On",
+        "release_date": "2020-04-24",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "7MPGCB854Qo4alYMOPkBka",
+            "name": "Ritt Momney",
+            "url": "https://open.spotify.com/artist/7MPGCB854Qo4alYMOPkBka"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6K7559pAYrNCJwsv1uIIK7",
+        "total_tracks": 1
+      },
+      "duration_ms": 210463,
+      "popularity": 66,
+      "url": "https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9"
+    },
+    {
+      "id": "5u1n1kITHCxxp8twBcZxWy",
+      "name": "Holy (feat. Chance The Rapper)",
+      "artists": [
+        {
+          "id": "1uNFoZAHBGtllmzznpCI3s",
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "id": "1anyVhU62p31KFi8MEzkbf",
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "album": {
+        "id": "4hR7jjsPvRwwcHx8ntJSQS",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273572c68f79b356c21202e248c",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02572c68f79b356c21202e248c",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851572c68f79b356c21202e248c",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Holy",
+        "release_date": "2020-09-18",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1uNFoZAHBGtllmzznpCI3s",
+            "name": "Justin Bieber",
+            "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          },
+          {
+            "id": "1anyVhU62p31KFi8MEzkbf",
+            "name": "Chance the Rapper",
+            "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4hR7jjsPvRwwcHx8ntJSQS",
+        "total_tracks": 1
+      },
+      "duration_ms": 212093,
+      "popularity": 65,
+      "url": "https://open.spotify.com/track/5u1n1kITHCxxp8twBcZxWy"
+    },
+    {
+      "id": "5KCbr5ndeby4y4ggthdiAb",
+      "name": "Wonder",
+      "artists": [
+        {
+          "id": "7n2wHs1TKAczGzO7Dd2rGr",
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "album": {
+        "id": "7vif3nVzXURIrjGjHeHytB",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2733d9621bb2904dc57a60a6b36",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e023d9621bb2904dc57a60a6b36",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048513d9621bb2904dc57a60a6b36",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Wonder",
+        "release_date": "2020-10-02",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "7n2wHs1TKAczGzO7Dd2rGr",
+            "name": "Shawn Mendes",
+            "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+          }
+        ],
+        "url": "https://open.spotify.com/album/7vif3nVzXURIrjGjHeHytB",
+        "total_tracks": 1
+      },
+      "duration_ms": 172692,
+      "popularity": 63,
+      "url": "https://open.spotify.com/track/5KCbr5ndeby4y4ggthdiAb"
+    },
+    {
+      "id": "1xQ6trAsedVPCdbtDAmk0c",
+      "name": "Savage Love (Laxed - Siren Beat)",
+      "artists": [
+        {
+          "id": "56mfhUDKa1vec6rSLZV5Eg",
+          "name": "Jawsh 685",
+          "url": "https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg"
+        },
+        {
+          "id": "07YZf4WDAMNwqr4jfgOZ8y",
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "album": {
+        "id": "1XMw3pBrYeXzNXZXc84DNw",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2730f619e50cfa37c94e3f8300e",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e020f619e50cfa37c94e3f8300e",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048510f619e50cfa37c94e3f8300e",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Savage Love (Laxed - Siren Beat)",
+        "release_date": "2020-06-11",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "56mfhUDKa1vec6rSLZV5Eg",
+            "name": "Jawsh 685",
+            "url": "https://open.spotify.com/artist/56mfhUDKa1vec6rSLZV5Eg"
+          },
+          {
+            "id": "07YZf4WDAMNwqr4jfgOZ8y",
+            "name": "Jason Derulo",
+            "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1XMw3pBrYeXzNXZXc84DNw",
+        "total_tracks": 1
+      },
+      "duration_ms": 171374,
+      "popularity": 69,
+      "url": "https://open.spotify.com/track/1xQ6trAsedVPCdbtDAmk0c"
+    },
+    {
+      "id": "70rFIfYN7lU6iTgUIVP42w",
+      "name": "my ex's best friend (with blackbear)",
+      "artists": [
+        {
+          "id": "6TIYQ3jFPwQSRmorSezPxX",
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "id": "2cFrymmkijnjDg9SS92EPM",
+          "name": "blackbear",
+          "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+        }
+      ],
+      "album": {
+        "id": "0wypXkbH1LkcVRhlB9gvn5",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273364778383730b88ff4baf4ee",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02364778383730b88ff4baf4ee",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851364778383730b88ff4baf4ee",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "my ex's best friend (with blackbear)",
+        "release_date": "2020-08-07",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6TIYQ3jFPwQSRmorSezPxX",
+            "name": "mgk",
+            "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+          },
+          {
+            "id": "2cFrymmkijnjDg9SS92EPM",
+            "name": "blackbear",
+            "url": "https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0wypXkbH1LkcVRhlB9gvn5",
+        "total_tracks": 1
+      },
+      "duration_ms": 138970,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/70rFIfYN7lU6iTgUIVP42w"
+    },
+    {
+      "id": "27ycaQnQAxaPiyeg3nr2aB",
+      "name": "Midnight Sky",
+      "artists": [
+        {
+          "id": "5YGY8feqx7naU7z4HrwZM6",
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "album": {
+        "id": "7z5fmW3FDD6jlpJtwMXV51",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d59c3c489691c8b41043cab2",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d59c3c489691c8b41043cab2",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d59c3c489691c8b41043cab2",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Midnight Sky",
+        "release_date": "2020-08-14",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "5YGY8feqx7naU7z4HrwZM6",
+            "name": "Miley Cyrus",
+            "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+          }
+        ],
+        "url": "https://open.spotify.com/album/7z5fmW3FDD6jlpJtwMXV51",
+        "total_tracks": 1
+      },
+      "duration_ms": 223279,
+      "popularity": 2,
+      "url": "https://open.spotify.com/track/27ycaQnQAxaPiyeg3nr2aB"
+    },
+    {
+      "id": "4NCsrTzgVfsDo8nWyP8PPc",
+      "name": "RITMO (Bad Boys For Life)",
+      "artists": [
+        {
+          "id": "1yxSLGMDHlW21z4YXirZDS",
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "id": "1vyhD5VmyZ7KMfW5gqLgo5",
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "album": {
+        "id": "2eORe6u9TPXYisYshyXVeH",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d459374a978da728adea3f38",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d459374a978da728adea3f38",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d459374a978da728adea3f38",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Translation",
+        "release_date": "2020-06-18",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1yxSLGMDHlW21z4YXirZDS",
+            "name": "Black Eyed Peas",
+            "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2eORe6u9TPXYisYshyXVeH",
+        "total_tracks": 15
+      },
+      "duration_ms": 214934,
+      "popularity": 42,
+      "url": "https://open.spotify.com/track/4NCsrTzgVfsDo8nWyP8PPc"
+    },
+    {
+      "id": "6EDO9iiTtwNv6waLwa1UUq",
+      "name": "POPSTAR (feat. Drake)",
+      "artists": [
+        {
+          "id": "0QHgL1lAIqAw0HtD7YldmP",
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "id": "3TVXtAsR1Inumwj472S9r4",
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "album": {
+        "id": "5nNtpPsSUgb9Hlb3dF1gXa",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273efaecb4b9cbae7c120d14617",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02efaecb4b9cbae7c120d14617",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851efaecb4b9cbae7c120d14617",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "POPSTAR (feat. Drake)",
+        "release_date": "2020-07-17",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0QHgL1lAIqAw0HtD7YldmP",
+            "name": "DJ Khaled",
+            "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+          },
+          {
+            "id": "3TVXtAsR1Inumwj472S9r4",
+            "name": "Drake",
+            "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa",
+        "total_tracks": 1
+      },
+      "duration_ms": 200221,
+      "popularity": 64,
+      "url": "https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq"
+    },
+    {
+      "id": "39Yp9wwQiSRIDOvrVg7mbk",
+      "name": "THE SCOTTS",
+      "artists": [
+        {
+          "id": "2PaZWGu5T5nHjY2xxAkFsT",
+          "name": "THE SCOTTS",
+          "url": "https://open.spotify.com/artist/2PaZWGu5T5nHjY2xxAkFsT"
+        },
+        {
+          "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "id": "0fA0VVWsXO9YnASrzqfmYu",
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        }
+      ],
+      "album": {
+        "id": "7q6zjWaLw8bN5nYiBWjrus",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27311d6f8c713ef93a9bb64ddfe",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0211d6f8c713ef93a9bb64ddfe",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485111d6f8c713ef93a9bb64ddfe",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "THE SCOTTS",
+        "release_date": "2020-04-24",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "2PaZWGu5T5nHjY2xxAkFsT",
+            "name": "THE SCOTTS",
+            "url": "https://open.spotify.com/artist/2PaZWGu5T5nHjY2xxAkFsT"
+          },
+          {
+            "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+            "name": "Travis Scott",
+            "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          },
+          {
+            "id": "0fA0VVWsXO9YnASrzqfmYu",
+            "name": "Kid Cudi",
+            "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+          }
+        ],
+        "url": "https://open.spotify.com/album/7q6zjWaLw8bN5nYiBWjrus",
+        "total_tracks": 1
+      },
+      "duration_ms": 165977,
+      "popularity": 71,
+      "url": "https://open.spotify.com/track/39Yp9wwQiSRIDOvrVg7mbk"
+    },
+    {
+      "id": "07KXEDMj78x68D884wgVEm",
+      "name": "High Fashion (feat. Mustard)",
+      "artists": [
+        {
+          "id": "757aE44tKEUQEqRuT6GnEB",
+          "name": "Roddy Ricch",
+          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+        },
+        {
+          "id": "0YinUQ50QDB7ZxSCLyQ40k",
+          "name": "Mustard",
+          "url": "https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k"
+        }
+      ],
+      "album": {
+        "id": "52u4anZbHd6UInnmHRFzba",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273600adbc750285ea1a8da249f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02600adbc750285ea1a8da249f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851600adbc750285ea1a8da249f",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Please Excuse Me for Being Antisocial",
+        "release_date": "2019-12-06",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "757aE44tKEUQEqRuT6GnEB",
+            "name": "Roddy Ricch",
+            "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
+          }
+        ],
+        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba",
+        "total_tracks": 16
+      },
+      "duration_ms": 220486,
+      "popularity": 68,
+      "url": "https://open.spotify.com/track/07KXEDMj78x68D884wgVEm"
+    },
+    {
+      "id": "2DEZmgHKAvm41k4J3R2E9Y",
+      "name": "Safaera",
+      "artists": [
+        {
+          "id": "4q3ewBCX7sLwd24euuV69X",
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        },
+        {
+          "id": "4IMAo2UQchVFyPH24PAjUs",
+          "name": "Jowell & Randy",
+          "url": "https://open.spotify.com/artist/4IMAo2UQchVFyPH24PAjUs"
+        },
+        {
+          "id": "12vb80Km0Ew53ABfJOepVz",
+          "name": "Ñengo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "album": {
+        "id": "5lJqux7orBlA1QzyiBGti1",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273548f7ec52da7313de0c5e4a0",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02548f7ec52da7313de0c5e4a0",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851548f7ec52da7313de0c5e4a0",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "YHLQMDLG",
+        "release_date": "2020-02-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "4q3ewBCX7sLwd24euuV69X",
+            "name": "Bad Bunny",
+            "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5lJqux7orBlA1QzyiBGti1",
+        "total_tracks": 20
+      },
+      "duration_ms": 295176,
+      "popularity": 71,
+      "url": "https://open.spotify.com/track/2DEZmgHKAvm41k4J3R2E9Y"
+    },
+    {
+      "id": "78qd8dvwea0Gosb6Fe6j3k",
+      "name": "Boss Bitch",
+      "artists": [
+        {
+          "id": "5cj0lLjcoR7YOSnhnX0Po5",
+          "name": "Doja Cat",
+          "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+        }
+      ],
+      "album": {
+        "id": "4pmyFpGicLLIgNPc1TQXKc",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27310356a0e81371e6644cb1371",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0210356a0e81371e6644cb1371",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485110356a0e81371e6644cb1371",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Boss Bitch",
+        "release_date": "2020-01-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "5cj0lLjcoR7YOSnhnX0Po5",
+            "name": "Doja Cat",
+            "url": "https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4pmyFpGicLLIgNPc1TQXKc",
+        "total_tracks": 1
+      },
+      "duration_ms": 134239,
+      "popularity": 74,
+      "url": "https://open.spotify.com/track/78qd8dvwea0Gosb6Fe6j3k"
+    },
+    {
+      "id": "3AzjcOeAmA57TIOr9zF1ZW",
+      "name": "Physical",
+      "artists": [
+        {
+          "id": "6M2wZ9GZgrQXHCFfjv46we",
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "album": {
+        "id": "7fJJK56U9fHixgO0HQkhtI",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734bc66095f8a70bc4e6593f4f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024bc66095f8a70bc4e6593f4f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514bc66095f8a70bc4e6593f4f",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Future Nostalgia",
+        "release_date": "2020-03-27",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6M2wZ9GZgrQXHCFfjv46we",
+            "name": "Dua Lipa",
+            "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+          }
+        ],
+        "url": "https://open.spotify.com/album/7fJJK56U9fHixgO0HQkhtI",
+        "total_tracks": 11
+      },
+      "duration_ms": 193829,
+      "popularity": 73,
+      "url": "https://open.spotify.com/track/3AzjcOeAmA57TIOr9zF1ZW"
+    },
+    {
+      "id": "6cx06DFPPHchuUAcTxznu9",
+      "name": "Head & Heart (feat. MNEK)",
+      "artists": [
+        {
+          "id": "6DgP9otnZw5z6daOntINxp",
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        },
+        {
+          "id": "7uMh23xWiuR7zsNkuNcm2G",
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "album": {
+        "id": "5glfCPECXSHzidU6exW8wO",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27391e93c59bacfe819db9601eb",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0291e93c59bacfe819db9601eb",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485191e93c59bacfe819db9601eb",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Head & Heart (feat. MNEK)",
+        "release_date": "2020-07-03",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6DgP9otnZw5z6daOntINxp",
+            "name": "Joel Corry",
+            "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+          },
+          {
+            "id": "7uMh23xWiuR7zsNkuNcm2G",
+            "name": "MNEK",
+            "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5glfCPECXSHzidU6exW8wO",
+        "total_tracks": 1
+      },
+      "duration_ms": 166028,
+      "popularity": 73,
+      "url": "https://open.spotify.com/track/6cx06DFPPHchuUAcTxznu9"
+    },
+    {
+      "id": "7lidXGPXPYLNThITAOTlkK",
+      "name": "You should be sad",
+      "artists": [
+        {
+          "id": "26VFTg2z8YR0cCuwLzESi2",
+          "name": "Halsey",
+          "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+        }
+      ],
+      "album": {
+        "id": "68enXe5XcJdciSDAZr0Alr",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737636e1c9e67eaafc9f49aefd",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027636e1c9e67eaafc9f49aefd",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517636e1c9e67eaafc9f49aefd",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Manic",
+        "release_date": "2020-01-17",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "26VFTg2z8YR0cCuwLzESi2",
+            "name": "Halsey",
+            "url": "https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2"
+          }
+        ],
+        "url": "https://open.spotify.com/album/68enXe5XcJdciSDAZr0Alr",
+        "total_tracks": 16
+      },
+      "duration_ms": 205473,
+      "popularity": 66,
+      "url": "https://open.spotify.com/track/7lidXGPXPYLNThITAOTlkK"
+    },
+    {
+      "id": "73SpzrcaHk0RQPFP73vqVR",
+      "name": "No Time To Die",
+      "artists": [
+        {
+          "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "album": {
+        "id": "5sXSHscDjBez8VF20cSyad",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273f7b7174bef6f3fbfda3a0bb7",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02f7b7174bef6f3fbfda3a0bb7",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851f7b7174bef6f3fbfda3a0bb7",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "No Time To Die",
+        "release_date": "2020-02-13",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+            "name": "Billie Eilish",
+            "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5sXSHscDjBez8VF20cSyad",
+        "total_tracks": 1
+      },
+      "duration_ms": 242265,
+      "popularity": 74,
+      "url": "https://open.spotify.com/track/73SpzrcaHk0RQPFP73vqVR"
+    },
+    {
+      "id": "4y4spB9m0Q6026KfkAvy9Q",
+      "name": "Lonely (with benny blanco)",
+      "artists": [
+        {
+          "id": "1uNFoZAHBGtllmzznpCI3s",
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        },
+        {
+          "id": "5CiGnKThu5ctn9pBxv7DGa",
+          "name": "benny blanco",
+          "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+        }
+      ],
+      "album": {
+        "id": "3P5WIUJO0Ots1lQx09TOxk",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27383b22beb73e2014b20159685",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0283b22beb73e2014b20159685",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485183b22beb73e2014b20159685",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Lonely (with benny blanco)",
+        "release_date": "2020-10-16",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1uNFoZAHBGtllmzznpCI3s",
+            "name": "Justin Bieber",
+            "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+          },
+          {
+            "id": "5CiGnKThu5ctn9pBxv7DGa",
+            "name": "benny blanco",
+            "url": "https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3P5WIUJO0Ots1lQx09TOxk",
+        "total_tracks": 1
+      },
+      "duration_ms": 149297,
+      "popularity": 65,
+      "url": "https://open.spotify.com/track/4y4spB9m0Q6026KfkAvy9Q"
+    },
+    {
+      "id": "2ygvZOXrIeVL4xZmAWJT2C",
+      "name": "my future",
+      "artists": [
+        {
+          "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "album": {
+        "id": "3oxhQpF3Twbkl18oQYfnh5",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273954fe13f7c5f4b2f18d066b8",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02954fe13f7c5f4b2f18d066b8",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851954fe13f7c5f4b2f18d066b8",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "my future",
+        "release_date": "2020-07-30",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6qqNVTkY8uBg9cP3Jd7DAH",
+            "name": "Billie Eilish",
+            "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3oxhQpF3Twbkl18oQYfnh5",
+        "total_tracks": 1
+      },
+      "duration_ms": 208155,
+      "popularity": 67,
+      "url": "https://open.spotify.com/track/2ygvZOXrIeVL4xZmAWJT2C"
+    },
+    {
+      "id": "2nC3QhMI9reBIOWutbU3Tj",
+      "name": "Moral of the Story",
+      "artists": [
+        {
+          "id": "6P5NO5hzJbuOqSdyPB7SJM",
+          "name": "Ashe",
+          "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+        }
+      ],
+      "album": {
+        "id": "4yKwChgdGpJzf2nn3nPHfP",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273aea0d98794e91056c608e069",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02aea0d98794e91056c608e069",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851aea0d98794e91056c608e069",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Moral of the Story",
+        "release_date": "2019-02-14",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6P5NO5hzJbuOqSdyPB7SJM",
+            "name": "Ashe",
+            "url": "https://open.spotify.com/artist/6P5NO5hzJbuOqSdyPB7SJM"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4yKwChgdGpJzf2nn3nPHfP",
+        "total_tracks": 1
+      },
+      "duration_ms": 201083,
+      "popularity": 70,
+      "url": "https://open.spotify.com/track/2nC3QhMI9reBIOWutbU3Tj"
+    },
+    {
+      "id": "4HDCLYli2SUdkq9OjmvhSD",
+      "name": "BELIEVE IT",
+      "artists": [
+        {
+          "id": "2HPaUgqeutzr3jx5a9WyDV",
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "id": "5pKCCKE2ajJHZ9KAiaK11H",
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "album": {
+        "id": "2T8UlI17u5hwTqu6zkpkW7",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d8082097058d4c44739b17dd",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d8082097058d4c44739b17dd",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d8082097058d4c44739b17dd",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "PARTYMOBILE",
+        "release_date": "2020-03-27",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "2HPaUgqeutzr3jx5a9WyDV",
+            "name": "PARTYNEXTDOOR",
+            "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2T8UlI17u5hwTqu6zkpkW7",
+        "total_tracks": 15
+      },
+      "duration_ms": 183219,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/4HDCLYli2SUdkq9OjmvhSD"
+    },
+    {
+      "id": "6xZ4Q2k2ompmDppyeESIY8",
+      "name": "Level of Concern",
+      "artists": [
+        {
+          "id": "3YQKmKGau1PzlVlkL1iodx",
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "album": {
+        "id": "4h3HXlnt6lryGzGbWmcFuY",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ab2f8973949159695f65df7b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ab2f8973949159695f65df7b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ab2f8973949159695f65df7b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Level of Concern",
+        "release_date": "2020-04-09",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "3YQKmKGau1PzlVlkL1iodx",
+            "name": "Twenty One Pilots",
+            "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4h3HXlnt6lryGzGbWmcFuY",
+        "total_tracks": 1
+      },
+      "duration_ms": 220051,
+      "popularity": 61,
+      "url": "https://open.spotify.com/track/6xZ4Q2k2ompmDppyeESIY8"
+    },
+    {
+      "id": "3IB5qOeMayvpOdHxYCL5tZ",
+      "name": "ON (Feat. Sia)",
+      "artists": [
+        {
+          "id": "3Nrfpe0tUJi4K4DXYWgMUX",
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        },
+        {
+          "id": "5WUlDfRSoLAfcVSX1WnrxN",
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "album": {
+        "id": "6mJZTV8lCqnwftYZa94bXS",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2738afcb7dd182cffe8d53b781e",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e028afcb7dd182cffe8d53b781e",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048518afcb7dd182cffe8d53b781e",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "MAP OF THE SOUL : 7",
+        "release_date": "2020-02-21",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "3Nrfpe0tUJi4K4DXYWgMUX",
+            "name": "BTS",
+            "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6mJZTV8lCqnwftYZa94bXS",
+        "total_tracks": 20
+      },
+      "duration_ms": 246816,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/3IB5qOeMayvpOdHxYCL5tZ"
+    },
+    {
+      "id": "4w47S36wQGBhGg073q3nt7",
+      "name": "TKN (feat. Travis Scott)",
+      "artists": [
+        {
+          "id": "7ltDVBr6mKbRvohxheJ9h1",
+          "name": "ROSALÍA",
+          "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+        },
+        {
+          "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        }
+      ],
+      "album": {
+        "id": "4KEOAWBMpvJrIZ7tQfx44i",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2732a3d01289b78099e4508ba0e",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e022a3d01289b78099e4508ba0e",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048512a3d01289b78099e4508ba0e",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "TKN (feat. Travis Scott)",
+        "release_date": "2020-05-28",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "7ltDVBr6mKbRvohxheJ9h1",
+            "name": "ROSALÍA",
+            "url": "https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1"
+          },
+          {
+            "id": "0Y5tJX1MQlPlqiwlOH1tJY",
+            "name": "Travis Scott",
+            "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4KEOAWBMpvJrIZ7tQfx44i",
+        "total_tracks": 1
+      },
+      "duration_ms": 129370,
+      "popularity": 66,
+      "url": "https://open.spotify.com/track/4w47S36wQGBhGg073q3nt7"
+    },
+    {
+      "id": "1IIKrJVP1C9N7iPtG6eOsK",
+      "name": "Go Crazy",
+      "artists": [
+        {
+          "id": "7bXgB6jMjp9ATFy66eO08Z",
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "id": "50co4Is1HCEo8bhOyUWKpn",
+          "name": "Young Thug",
+          "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+        }
+      ],
+      "album": {
+        "id": "7fZKtzZAsfH0kzeTivu5TG",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27363e0ddbb488d0eeec0e738fc",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0263e0ddbb488d0eeec0e738fc",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485163e0ddbb488d0eeec0e738fc",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Slime & B",
+        "release_date": "2020-05-08",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "7bXgB6jMjp9ATFy66eO08Z",
+            "name": "Chris Brown",
+            "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+          },
+          {
+            "id": "50co4Is1HCEo8bhOyUWKpn",
+            "name": "Young Thug",
+            "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
+          }
+        ],
+        "url": "https://open.spotify.com/album/7fZKtzZAsfH0kzeTivu5TG",
+        "total_tracks": 13
+      },
+      "duration_ms": 176960,
+      "popularity": 71,
+      "url": "https://open.spotify.com/track/1IIKrJVP1C9N7iPtG6eOsK"
+    },
+    {
+      "id": "6o3QUC5oAE4g6WxRIFcZtb",
+      "name": "Wishing Well",
+      "artists": [
+        {
+          "id": "4MCBfE4596Uoi2O4DtmEMz",
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "album": {
+        "id": "1R6vbGGXSEZZmTGn7ewwRL",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273f09d6c6466f2c3cbc4271b28",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02f09d6c6466f2c3cbc4271b28",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851f09d6c6466f2c3cbc4271b28",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Legends Never Die",
+        "release_date": "2020-07-10",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "4MCBfE4596Uoi2O4DtmEMz",
+            "name": "Juice WRLD",
+            "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1R6vbGGXSEZZmTGn7ewwRL",
+        "total_tracks": 21
+      },
+      "duration_ms": 194621,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/6o3QUC5oAE4g6WxRIFcZtb"
+    },
+    {
+      "id": "4wNIkl5XGiAACjFBlDWuSd",
+      "name": "What A Man Gotta Do",
+      "artists": [
+        {
+          "id": "7gOdHgIoIKoe4i9Tta6qdD",
+          "name": "Jonas Brothers",
+          "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+        }
+      ],
+      "album": {
+        "id": "3SgvmlSsTrMuqICaOTlo0p",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737a73cc006248544e1a9882ea",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027a73cc006248544e1a9882ea",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517a73cc006248544e1a9882ea",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "What A Man Gotta Do",
+        "release_date": "2020-01-17",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "7gOdHgIoIKoe4i9Tta6qdD",
+            "name": "Jonas Brothers",
+            "url": "https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3SgvmlSsTrMuqICaOTlo0p",
+        "total_tracks": 1
+      },
+      "duration_ms": 180644,
+      "popularity": 66,
+      "url": "https://open.spotify.com/track/4wNIkl5XGiAACjFBlDWuSd"
+    },
+    {
+      "id": "4DpNNXFMMxQEKl7r0ykkWA",
+      "name": "Play Date",
+      "artists": [
+        {
+          "id": "63yrD80RY3RNEM2YDpUpO8",
+          "name": "Melanie Martinez",
+          "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+        }
+      ],
+      "album": {
+        "id": "5JpH5T1sCYnUyZD6TM0QaY",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2733899712512f50a8d9e01e951",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e023899712512f50a8d9e01e951",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048513899712512f50a8d9e01e951",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Cry Baby (Deluxe Edition)",
+        "release_date": "2015-08-14",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "63yrD80RY3RNEM2YDpUpO8",
+            "name": "Melanie Martinez",
+            "url": "https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5JpH5T1sCYnUyZD6TM0QaY",
+        "total_tracks": 16
+      },
+      "duration_ms": 179867,
+      "popularity": 73,
+      "url": "https://open.spotify.com/track/4DpNNXFMMxQEKl7r0ykkWA"
+    },
+    {
+      "id": "59qrUpoplZxbIZxk6X0Bm3",
+      "name": "Take You Dancing",
+      "artists": [
+        {
+          "id": "07YZf4WDAMNwqr4jfgOZ8y",
+          "name": "Jason Derulo",
+          "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+        }
+      ],
+      "album": {
+        "id": "3II80i5KpS38r0QjNzu8ly",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d9ddaea6ccea73f812f8afbc",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d9ddaea6ccea73f812f8afbc",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d9ddaea6ccea73f812f8afbc",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Take You Dancing",
+        "release_date": "2020-07-22",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "07YZf4WDAMNwqr4jfgOZ8y",
+            "name": "Jason Derulo",
+            "url": "https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3II80i5KpS38r0QjNzu8ly",
+        "total_tracks": 1
+      },
+      "duration_ms": 190306,
+      "popularity": 67,
+      "url": "https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3"
+    },
+    {
+      "id": "14wf185UxfNbSy8dwt4r4q",
+      "name": "MAMACITA",
+      "artists": [
+        {
+          "id": "1yxSLGMDHlW21z4YXirZDS",
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        },
+        {
+          "id": "1i8SpTcr7yvPOmcqrbnVXY",
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        },
+        {
+          "id": "1OB278sOZVSFx5vXqYha83",
+          "name": "J. Rey Soul",
+          "url": "https://open.spotify.com/artist/1OB278sOZVSFx5vXqYha83"
+        }
+      ],
+      "album": {
+        "id": "39kXbkUjh0IIyoGBnlGX9V",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739d15726502d4c533bbc3f308",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029d15726502d4c533bbc3f308",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519d15726502d4c533bbc3f308",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "MAMACITA",
+        "release_date": "2020-04-10",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1yxSLGMDHlW21z4YXirZDS",
+            "name": "Black Eyed Peas",
+            "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+          },
+          {
+            "id": "1i8SpTcr7yvPOmcqrbnVXY",
+            "name": "Ozuna",
+            "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+          },
+          {
+            "id": "1OB278sOZVSFx5vXqYha83",
+            "name": "J. Rey Soul",
+            "url": "https://open.spotify.com/artist/1OB278sOZVSFx5vXqYha83"
+          }
+        ],
+        "url": "https://open.spotify.com/album/39kXbkUjh0IIyoGBnlGX9V",
+        "total_tracks": 1
+      },
+      "duration_ms": 249142,
+      "popularity": 60,
+      "url": "https://open.spotify.com/track/14wf185UxfNbSy8dwt4r4q"
+    },
+    {
+      "id": "5SWnsxjhdcEDc7LJjq9UHk",
+      "name": "Runnin",
+      "artists": [
+        {
+          "id": "1URnnhqYAYcrqrcwql10ft",
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        },
+        {
+          "id": "0iEtIxbK0KxaSlF7G42ZOp",
+          "name": "Metro Boomin",
+          "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+        }
+      ],
+      "album": {
+        "id": "6wTyGUWGCilBFZ837k5aRi",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273aa57907bf0cb2ca0c8cc74bc",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02aa57907bf0cb2ca0c8cc74bc",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851aa57907bf0cb2ca0c8cc74bc",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "SAVAGE MODE II",
+        "release_date": "2020-10-02",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1URnnhqYAYcrqrcwql10ft",
+            "name": "21 Savage",
+            "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+          },
+          {
+            "id": "0iEtIxbK0KxaSlF7G42ZOp",
+            "name": "Metro Boomin",
+            "url": "https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6wTyGUWGCilBFZ837k5aRi",
+        "total_tracks": 15
+      },
+      "duration_ms": 195906,
+      "popularity": 77,
+      "url": "https://open.spotify.com/track/5SWnsxjhdcEDc7LJjq9UHk"
+    },
+    {
+      "id": "6AzKhCHOms83jvNVLsz0Bt",
+      "name": "Djadja (feat. Maluma) - Remix",
+      "artists": [
+        {
+          "id": "7IlRNXHjoOCgEAWN5qYksg",
+          "name": "Aya Nakamura",
+          "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+        },
+        {
+          "id": "1r4hJ1h58CWwUQe3MxPuau",
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        }
+      ],
+      "album": {
+        "id": "0hUQJNECak9L5Baf75HfeV",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734ec452efed595a418b746ce8",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024ec452efed595a418b746ce8",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514ec452efed595a418b746ce8",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Djadja (feat. Maluma) [Remix]",
+        "release_date": "2020-06-12",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "7IlRNXHjoOCgEAWN5qYksg",
+            "name": "Aya Nakamura",
+            "url": "https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0hUQJNECak9L5Baf75HfeV",
+        "total_tracks": 1
+      },
+      "duration_ms": 166850,
+      "popularity": 57,
+      "url": "https://open.spotify.com/track/6AzKhCHOms83jvNVLsz0Bt"
+    },
+    {
+      "id": "3yOlyBJuViE2YSGn3nVE1K",
+      "name": "My Oh My (feat. DaBaby)",
+      "artists": [
+        {
+          "id": "4nDoRrQiYLoBzwC5BhVJzF",
+          "name": "Camila Cabello",
+          "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+        },
+        {
+          "id": "4r63FhuTkUYltbVAg5TQnk",
+          "name": "DaBaby",
+          "url": "https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk"
+        }
+      ],
+      "album": {
+        "id": "3Vsbl0diFGw8HNSjG8ue9m",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2735f53c0dbe5190a0af0fa28f3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e025f53c0dbe5190a0af0fa28f3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048515f53c0dbe5190a0af0fa28f3",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Romance",
+        "release_date": "2019-12-06",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "4nDoRrQiYLoBzwC5BhVJzF",
+            "name": "Camila Cabello",
+            "url": "https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3Vsbl0diFGw8HNSjG8ue9m",
+        "total_tracks": 14
+      },
+      "duration_ms": 170746,
+      "popularity": 71,
+      "url": "https://open.spotify.com/track/3yOlyBJuViE2YSGn3nVE1K"
+    }
+  ],
+  "description": "Rewind and rediscover big songs of 2020. Cover: The Weeknd",
+  "name": "Top Hits of 2020",
+  "owner": {
+    "display_name": "Spotifyn",
+    "url": "https://open.spotify.com/user/nick170708!",
+    "id": "nick170708!"
+  },
+  "url": "https://open.spotify.com/playlist/2fmTTbBkXi8pewbUvG3CeZ"
+}

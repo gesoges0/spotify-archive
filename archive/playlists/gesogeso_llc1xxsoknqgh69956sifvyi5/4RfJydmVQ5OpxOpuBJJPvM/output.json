@@ -1,0 +1,473 @@
+{
+  "id": "4RfJydmVQ5OpxOpuBJJPvM",
+  "tracks": [
+    {
+      "id": "0sVnyL71jTOuMt9TZ59bws",
+      "name": "ロビンソン",
+      "artists": [
+        {
+          "id": "5kjGRHClVacSyllOUqU1S0",
+          "name": "SPITZ",
+          "url": "https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0"
+        }
+      ],
+      "album": {
+        "id": "4mz1WjnsW88FxFfvtrfIAd",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27316aeaa20fccbe7ef8e32f876",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0216aeaa20fccbe7ef8e32f876",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485116aeaa20fccbe7ef8e32f876",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ハチミツ",
+        "release_date": "1995",
+        "release_date_precision": "year",
+        "artists": [
+          {
+            "id": "5kjGRHClVacSyllOUqU1S0",
+            "name": "SPITZ",
+            "url": "https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4mz1WjnsW88FxFfvtrfIAd",
+        "total_tracks": 11
+      },
+      "duration_ms": 260133,
+      "popularity": 61,
+      "url": "https://open.spotify.com/track/0sVnyL71jTOuMt9TZ59bws"
+    },
+    {
+      "id": "3P2aSkjcbUYbcYr13EFE8n",
+      "name": "空も飛べるはず",
+      "artists": [
+        {
+          "id": "5kjGRHClVacSyllOUqU1S0",
+          "name": "SPITZ",
+          "url": "https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0"
+        }
+      ],
+      "album": {
+        "id": "3NeCEuCl6zGwSVrM7X5JVZ",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27343a4feca9399f68cc2ba1200",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0243a4feca9399f68cc2ba1200",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485143a4feca9399f68cc2ba1200",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "CYCLE HIT 1991-1997 Spitz Complete Single Collection",
+        "release_date": "2006-03-25",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "5kjGRHClVacSyllOUqU1S0",
+            "name": "SPITZ",
+            "url": "https://open.spotify.com/artist/5kjGRHClVacSyllOUqU1S0"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3NeCEuCl6zGwSVrM7X5JVZ",
+        "total_tracks": 15
+      },
+      "duration_ms": 271400,
+      "popularity": 63,
+      "url": "https://open.spotify.com/track/3P2aSkjcbUYbcYr13EFE8n"
+    },
+    {
+      "id": "72t8Apk92BNOE9iWiVfRG9",
+      "name": "ボクノート",
+      "artists": [
+        {
+          "id": "0wRzWf3I4lUl9hdFF5uL0m",
+          "name": "Sukima Switch",
+          "url": "https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m"
+        }
+      ],
+      "album": {
+        "id": "1augQyrMkhybkaINaxUyVL",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273078223e63b7f85150a68ee33",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02078223e63b7f85150a68ee33",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851078223e63b7f85150a68ee33",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "夕風ブレンド",
+        "release_date": "2006-11-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0wRzWf3I4lUl9hdFF5uL0m",
+            "name": "Sukima Switch",
+            "url": "https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1augQyrMkhybkaINaxUyVL",
+        "total_tracks": 13
+      },
+      "duration_ms": 336880,
+      "popularity": 55,
+      "url": "https://open.spotify.com/track/72t8Apk92BNOE9iWiVfRG9"
+    },
+    {
+      "id": "5RbMlPFL4gVyEHW2lEOuzG",
+      "name": "奏(かなで)",
+      "artists": [
+        {
+          "id": "0wRzWf3I4lUl9hdFF5uL0m",
+          "name": "Sukima Switch",
+          "url": "https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m"
+        }
+      ],
+      "album": {
+        "id": "3YV5ztLRDjPYgtVvu8LswR",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a716d5aa6f08492ad5bdae37",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a716d5aa6f08492ad5bdae37",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a716d5aa6f08492ad5bdae37",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "夏雲ノイズ",
+        "release_date": "2004-06-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0wRzWf3I4lUl9hdFF5uL0m",
+            "name": "Sukima Switch",
+            "url": "https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3YV5ztLRDjPYgtVvu8LswR",
+        "total_tracks": 12
+      },
+      "duration_ms": 328626,
+      "popularity": 65,
+      "url": "https://open.spotify.com/track/5RbMlPFL4gVyEHW2lEOuzG"
+    },
+    {
+      "id": "72hNepjvepk9pKEcnGOs2f",
+      "name": "ここにしか咲かない花",
+      "artists": [
+        {
+          "id": "0llYwFIMgF9Jzmp4ZY7wbr",
+          "name": "KOBUKURO",
+          "url": "https://open.spotify.com/artist/0llYwFIMgF9Jzmp4ZY7wbr"
+        }
+      ],
+      "album": {
+        "id": "4aD2P4IT3O69rPMMKDpb51",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273584f8b783934669d26a7891f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02584f8b783934669d26a7891f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851584f8b783934669d26a7891f",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "NAMELESS　WORLD",
+        "release_date": "2005-05-11",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0llYwFIMgF9Jzmp4ZY7wbr",
+            "name": "KOBUKURO",
+            "url": "https://open.spotify.com/artist/0llYwFIMgF9Jzmp4ZY7wbr"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4aD2P4IT3O69rPMMKDpb51",
+        "total_tracks": 12
+      },
+      "duration_ms": 373693,
+      "popularity": 49,
+      "url": "https://open.spotify.com/track/72hNepjvepk9pKEcnGOs2f"
+    },
+    {
+      "id": "6HN2uyyO6Wlbyp5qnooNpn",
+      "name": "君という名の翼",
+      "artists": [
+        {
+          "id": "0llYwFIMgF9Jzmp4ZY7wbr",
+          "name": "KOBUKURO",
+          "url": "https://open.spotify.com/artist/0llYwFIMgF9Jzmp4ZY7wbr"
+        }
+      ],
+      "album": {
+        "id": "5SYDyo0kGTuBJ9FJoBhmNn",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273f399070721f3bb83303138c0",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02f399070721f3bb83303138c0",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851f399070721f3bb83303138c0",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "5296",
+        "release_date": "2007-11-07",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0llYwFIMgF9Jzmp4ZY7wbr",
+            "name": "KOBUKURO",
+            "url": "https://open.spotify.com/artist/0llYwFIMgF9Jzmp4ZY7wbr"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5SYDyo0kGTuBJ9FJoBhmNn",
+        "total_tracks": 13
+      },
+      "duration_ms": 303813,
+      "popularity": 45,
+      "url": "https://open.spotify.com/track/6HN2uyyO6Wlbyp5qnooNpn"
+    },
+    {
+      "id": "1MbgBrof1GjPcylNJeeO1x",
+      "name": "innocent world",
+      "artists": [
+        {
+          "id": "1qma7XhwZotCAucL7NHVLY",
+          "name": "Mr.Children",
+          "url": "https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY"
+        }
+      ],
+      "album": {
+        "id": "0npXn8M40TePq8vC3uwS2z",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737c456f5ba98ac8ed87728bb7",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027c456f5ba98ac8ed87728bb7",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517c456f5ba98ac8ed87728bb7",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Atomic Heart",
+        "release_date": "1994-09-01",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1qma7XhwZotCAucL7NHVLY",
+            "name": "Mr.Children",
+            "url": "https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0npXn8M40TePq8vC3uwS2z",
+        "total_tracks": 12
+      },
+      "duration_ms": 344906,
+      "popularity": 57,
+      "url": "https://open.spotify.com/track/1MbgBrof1GjPcylNJeeO1x"
+    },
+    {
+      "id": "4zSHsM9GgLw5kJ5c88WOxr",
+      "name": "くるみ",
+      "artists": [
+        {
+          "id": "1qma7XhwZotCAucL7NHVLY",
+          "name": "Mr.Children",
+          "url": "https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY"
+        }
+      ],
+      "album": {
+        "id": "3NVHzEmbCyIfyErbNROeAz",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273631f436a87dec831fe3bf34d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02631f436a87dec831fe3bf34d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851631f436a87dec831fe3bf34d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "シフクノオト",
+        "release_date": "2004-04-07",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1qma7XhwZotCAucL7NHVLY",
+            "name": "Mr.Children",
+            "url": "https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3NVHzEmbCyIfyErbNROeAz",
+        "total_tracks": 12
+      },
+      "duration_ms": 330306,
+      "popularity": 49,
+      "url": "https://open.spotify.com/track/4zSHsM9GgLw5kJ5c88WOxr"
+    },
+    {
+      "id": "4IubwxgmXeZtDtYjTaT9gN",
+      "name": "鱗(うろこ)",
+      "artists": [
+        {
+          "id": "706WzkJEacBrtkHKRpBU2q",
+          "name": "Motohiro Hata",
+          "url": "https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q"
+        }
+      ],
+      "album": {
+        "id": "3zQQfkeOgbjCwjA2585J0P",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c993f5f203f9e189ccf62f40",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c993f5f203f9e189ccf62f40",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c993f5f203f9e189ccf62f40",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "コントラスト",
+        "release_date": "2007-09-26",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "706WzkJEacBrtkHKRpBU2q",
+            "name": "Motohiro Hata",
+            "url": "https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3zQQfkeOgbjCwjA2585J0P",
+        "total_tracks": 12
+      },
+      "duration_ms": 324053,
+      "popularity": 58,
+      "url": "https://open.spotify.com/track/4IubwxgmXeZtDtYjTaT9gN"
+    },
+    {
+      "id": "5uahx7d4O9N8Si9TFTuIMj",
+      "name": "恋心",
+      "artists": [
+        {
+          "id": "2RNdF99wgP5ikh7fIJ0DIk",
+          "name": "Nanase Aikawa",
+          "url": "https://open.spotify.com/artist/2RNdF99wgP5ikh7fIJ0DIk"
+        }
+      ],
+      "album": {
+        "id": "5zTUmtgNx0NSc4Ys76oo42",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27360c0d5b55043998122b07e0b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0260c0d5b55043998122b07e0b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485160c0d5b55043998122b07e0b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "paradox",
+        "release_date": "1997-07-02",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "2RNdF99wgP5ikh7fIJ0DIk",
+            "name": "Nanase Aikawa",
+            "url": "https://open.spotify.com/artist/2RNdF99wgP5ikh7fIJ0DIk"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5zTUmtgNx0NSc4Ys76oo42",
+        "total_tracks": 11
+      },
+      "duration_ms": 240233,
+      "popularity": 53,
+      "url": "https://open.spotify.com/track/5uahx7d4O9N8Si9TFTuIMj"
+    }
+  ],
+  "description": "",
+  "name": "車_邦楽",
+  "owner": {
+    "display_name": "gesogeso",
+    "url": "https://open.spotify.com/user/llc1xxsoknqgh69956sifvyi5",
+    "id": "llc1xxsoknqgh69956sifvyi5"
+  },
+  "url": "https://open.spotify.com/playlist/4RfJydmVQ5OpxOpuBJJPvM"
+}

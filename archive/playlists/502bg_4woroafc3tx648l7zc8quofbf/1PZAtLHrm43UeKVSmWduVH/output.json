@@ -1,0 +1,508 @@
+{
+  "id": "1PZAtLHrm43UeKVSmWduVH",
+  "tracks": [
+    {
+      "id": "2obZbmqYaVkPpZPimwKCBW",
+      "name": "ストラゴヴィゴス",
+      "artists": [
+        {
+          "id": "1ppZuEdue8Q5RV6jDiXQ7t",
+          "name": "棗いつき",
+          "url": "https://open.spotify.com/artist/1ppZuEdue8Q5RV6jDiXQ7t"
+        }
+      ],
+      "album": {
+        "id": "0sKyREt8Mg9VJW0s0vwmWB",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737f236d10221c7b4f990a882e",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027f236d10221c7b4f990a882e",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517f236d10221c7b4f990a882e",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ストラゴヴィゴス",
+        "release_date": "2024-01-27",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1ppZuEdue8Q5RV6jDiXQ7t",
+            "name": "棗いつき",
+            "url": "https://open.spotify.com/artist/1ppZuEdue8Q5RV6jDiXQ7t"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0sKyREt8Mg9VJW0s0vwmWB",
+        "total_tracks": 3
+      },
+      "duration_ms": 215133,
+      "popularity": 14,
+      "url": "https://open.spotify.com/track/2obZbmqYaVkPpZPimwKCBW"
+    },
+    {
+      "id": "5IJab9bnE4L8r0azXZUUSD",
+      "name": "ANAMNESIS",
+      "artists": [
+        {
+          "id": "1ppZuEdue8Q5RV6jDiXQ7t",
+          "name": "棗いつき",
+          "url": "https://open.spotify.com/artist/1ppZuEdue8Q5RV6jDiXQ7t"
+        }
+      ],
+      "album": {
+        "id": "4SpMO3RF0ITtNCkGyqvC4Q",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739ea1a1a9447fe0791e27047e",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029ea1a1a9447fe0791e27047e",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519ea1a1a9447fe0791e27047e",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ANAMNESIS",
+        "release_date": "2023-04-30",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1ppZuEdue8Q5RV6jDiXQ7t",
+            "name": "棗いつき",
+            "url": "https://open.spotify.com/artist/1ppZuEdue8Q5RV6jDiXQ7t"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4SpMO3RF0ITtNCkGyqvC4Q",
+        "total_tracks": 6
+      },
+      "duration_ms": 214226,
+      "popularity": 6,
+      "url": "https://open.spotify.com/track/5IJab9bnE4L8r0azXZUUSD"
+    },
+    {
+      "id": "5rQbIByrU5yBUPYSVhOwXs",
+      "name": "アンダーテイカー",
+      "artists": [
+        {
+          "id": "1ppZuEdue8Q5RV6jDiXQ7t",
+          "name": "棗いつき",
+          "url": "https://open.spotify.com/artist/1ppZuEdue8Q5RV6jDiXQ7t"
+        }
+      ],
+      "album": {
+        "id": "6xnfVAr82M23QdDrNeBmem",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2730dfdd0b870bf5ecb2bdd3a65",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e020dfdd0b870bf5ecb2bdd3a65",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048510dfdd0b870bf5ecb2bdd3a65",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "UNDERTAKER",
+        "release_date": "2022-10-30",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1ppZuEdue8Q5RV6jDiXQ7t",
+            "name": "棗いつき",
+            "url": "https://open.spotify.com/artist/1ppZuEdue8Q5RV6jDiXQ7t"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6xnfVAr82M23QdDrNeBmem",
+        "total_tracks": 6
+      },
+      "duration_ms": 238115,
+      "popularity": 11,
+      "url": "https://open.spotify.com/track/5rQbIByrU5yBUPYSVhOwXs"
+    },
+    {
+      "id": "5XPdYgXoOkGujyA3UtPHUI",
+      "name": "インドアアドベンチャー",
+      "artists": [
+        {
+          "id": "1ppZuEdue8Q5RV6jDiXQ7t",
+          "name": "棗いつき",
+          "url": "https://open.spotify.com/artist/1ppZuEdue8Q5RV6jDiXQ7t"
+        }
+      ],
+      "album": {
+        "id": "77p2FUr3PH40LCdRSz79g1",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273257bb487abdb39e3c84d6bae",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02257bb487abdb39e3c84d6bae",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851257bb487abdb39e3c84d6bae",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "PERSONA",
+        "release_date": "2023-04-30",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1ppZuEdue8Q5RV6jDiXQ7t",
+            "name": "棗いつき",
+            "url": "https://open.spotify.com/artist/1ppZuEdue8Q5RV6jDiXQ7t"
+          }
+        ],
+        "url": "https://open.spotify.com/album/77p2FUr3PH40LCdRSz79g1",
+        "total_tracks": 6
+      },
+      "duration_ms": 227746,
+      "popularity": 3,
+      "url": "https://open.spotify.com/track/5XPdYgXoOkGujyA3UtPHUI"
+    },
+    {
+      "id": "3ZGI1s7g9yEmFRwoPnhHSC",
+      "name": "叛逆のキャスタウェイ",
+      "artists": [
+        {
+          "id": "1ppZuEdue8Q5RV6jDiXQ7t",
+          "name": "棗いつき",
+          "url": "https://open.spotify.com/artist/1ppZuEdue8Q5RV6jDiXQ7t"
+        }
+      ],
+      "album": {
+        "id": "3K9bsEB1T0UNSCZYmXwgT5",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273f5c11c006f8785a05f45ed34",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02f5c11c006f8785a05f45ed34",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851f5c11c006f8785a05f45ed34",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "覚醒",
+        "release_date": "2022-04-24",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1ppZuEdue8Q5RV6jDiXQ7t",
+            "name": "棗いつき",
+            "url": "https://open.spotify.com/artist/1ppZuEdue8Q5RV6jDiXQ7t"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3K9bsEB1T0UNSCZYmXwgT5",
+        "total_tracks": 6
+      },
+      "duration_ms": 263893,
+      "popularity": 11,
+      "url": "https://open.spotify.com/track/3ZGI1s7g9yEmFRwoPnhHSC"
+    },
+    {
+      "id": "7fDdcq8GVkN1StJsTi1kIE",
+      "name": "Limitless",
+      "artists": [
+        {
+          "id": "1ppZuEdue8Q5RV6jDiXQ7t",
+          "name": "棗いつき",
+          "url": "https://open.spotify.com/artist/1ppZuEdue8Q5RV6jDiXQ7t"
+        }
+      ],
+      "album": {
+        "id": "3K9bsEB1T0UNSCZYmXwgT5",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273f5c11c006f8785a05f45ed34",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02f5c11c006f8785a05f45ed34",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851f5c11c006f8785a05f45ed34",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "覚醒",
+        "release_date": "2022-04-24",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1ppZuEdue8Q5RV6jDiXQ7t",
+            "name": "棗いつき",
+            "url": "https://open.spotify.com/artist/1ppZuEdue8Q5RV6jDiXQ7t"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3K9bsEB1T0UNSCZYmXwgT5",
+        "total_tracks": 6
+      },
+      "duration_ms": 250307,
+      "popularity": 13,
+      "url": "https://open.spotify.com/track/7fDdcq8GVkN1StJsTi1kIE"
+    },
+    {
+      "id": "3GhIOCPVcTnhKfxEl4qFEp",
+      "name": "LOVETOXIN",
+      "artists": [
+        {
+          "id": "6CxEczBOcny5WD1BpL0sX8",
+          "name": "メガミノウタゲ",
+          "url": "https://open.spotify.com/artist/6CxEczBOcny5WD1BpL0sX8"
+        },
+        {
+          "id": "3wzLoR43XSiPV1smicPd8p",
+          "name": "Nor",
+          "url": "https://open.spotify.com/artist/3wzLoR43XSiPV1smicPd8p"
+        },
+        {
+          "id": "1ppZuEdue8Q5RV6jDiXQ7t",
+          "name": "棗いつき",
+          "url": "https://open.spotify.com/artist/1ppZuEdue8Q5RV6jDiXQ7t"
+        }
+      ],
+      "album": {
+        "id": "1rIO0ysE6AOI2bzE739qiC",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731d9daae40cbeb7cbfd27ad8b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021d9daae40cbeb7cbfd27ad8b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511d9daae40cbeb7cbfd27ad8b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "LOVETOXIN",
+        "release_date": "2023-09-21",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6CxEczBOcny5WD1BpL0sX8",
+            "name": "メガミノウタゲ",
+            "url": "https://open.spotify.com/artist/6CxEczBOcny5WD1BpL0sX8"
+          },
+          {
+            "id": "3wzLoR43XSiPV1smicPd8p",
+            "name": "Nor",
+            "url": "https://open.spotify.com/artist/3wzLoR43XSiPV1smicPd8p"
+          },
+          {
+            "id": "1ppZuEdue8Q5RV6jDiXQ7t",
+            "name": "棗いつき",
+            "url": "https://open.spotify.com/artist/1ppZuEdue8Q5RV6jDiXQ7t"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1rIO0ysE6AOI2bzE739qiC",
+        "total_tracks": 1
+      },
+      "duration_ms": 178764,
+      "popularity": 23,
+      "url": "https://open.spotify.com/track/3GhIOCPVcTnhKfxEl4qFEp"
+    },
+    {
+      "id": "4ZntqYG5uHShSeyt31OTi5",
+      "name": "蒼淵のフロンティア",
+      "artists": [
+        {
+          "id": "1ppZuEdue8Q5RV6jDiXQ7t",
+          "name": "棗いつき",
+          "url": "https://open.spotify.com/artist/1ppZuEdue8Q5RV6jDiXQ7t"
+        },
+        {
+          "id": "76jymFPvOx0wxV8nEEewSq",
+          "name": "藍月なくる",
+          "url": "https://open.spotify.com/artist/76jymFPvOx0wxV8nEEewSq"
+        }
+      ],
+      "album": {
+        "id": "3ap36JUtoFwuxPyMsYfb2K",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2733ba2955b6101095ccfe5096e",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e023ba2955b6101095ccfe5096e",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048513ba2955b6101095ccfe5096e",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "SEEK for MYSELF",
+        "release_date": "2023-06-11",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1ppZuEdue8Q5RV6jDiXQ7t",
+            "name": "棗いつき",
+            "url": "https://open.spotify.com/artist/1ppZuEdue8Q5RV6jDiXQ7t"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3ap36JUtoFwuxPyMsYfb2K",
+        "total_tracks": 4
+      },
+      "duration_ms": 244333,
+      "popularity": 13,
+      "url": "https://open.spotify.com/track/4ZntqYG5uHShSeyt31OTi5"
+    },
+    {
+      "id": "1LMImXP0dqaKMmbbyCtwnr",
+      "name": "プロパガンダ",
+      "artists": [
+        {
+          "id": "1ppZuEdue8Q5RV6jDiXQ7t",
+          "name": "棗いつき",
+          "url": "https://open.spotify.com/artist/1ppZuEdue8Q5RV6jDiXQ7t"
+        }
+      ],
+      "album": {
+        "id": "1zvKmIhu8eQBw8t7veIKWW",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27310bca235b873a97064d6b981",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0210bca235b873a97064d6b981",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485110bca235b873a97064d6b981",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "HAPPY ENFORCER",
+        "release_date": "2021-10-31",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1ppZuEdue8Q5RV6jDiXQ7t",
+            "name": "棗いつき",
+            "url": "https://open.spotify.com/artist/1ppZuEdue8Q5RV6jDiXQ7t"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1zvKmIhu8eQBw8t7veIKWW",
+        "total_tracks": 7
+      },
+      "duration_ms": 229929,
+      "popularity": 9,
+      "url": "https://open.spotify.com/track/1LMImXP0dqaKMmbbyCtwnr"
+    },
+    {
+      "id": "7blNHHJXngC6t2QEiwaeB2",
+      "name": "いざ、参ります",
+      "artists": [
+        {
+          "id": "1gPdKqsIk5gfb2FvfFlq64",
+          "name": "U-ske",
+          "url": "https://open.spotify.com/artist/1gPdKqsIk5gfb2FvfFlq64"
+        },
+        {
+          "id": "1ppZuEdue8Q5RV6jDiXQ7t",
+          "name": "棗いつき",
+          "url": "https://open.spotify.com/artist/1ppZuEdue8Q5RV6jDiXQ7t"
+        }
+      ],
+      "album": {
+        "id": "3ftugaxHUSkhFsFb9Riatm",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273de4a7efd0e3d8835bd475908",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02de4a7efd0e3d8835bd475908",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851de4a7efd0e3d8835bd475908",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "いざ、参ります",
+        "release_date": "2022-07-03",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1gPdKqsIk5gfb2FvfFlq64",
+            "name": "U-ske",
+            "url": "https://open.spotify.com/artist/1gPdKqsIk5gfb2FvfFlq64"
+          },
+          {
+            "id": "1ppZuEdue8Q5RV6jDiXQ7t",
+            "name": "棗いつき",
+            "url": "https://open.spotify.com/artist/1ppZuEdue8Q5RV6jDiXQ7t"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3ftugaxHUSkhFsFb9Riatm",
+        "total_tracks": 1
+      },
+      "duration_ms": 102765,
+      "popularity": 15,
+      "url": "https://open.spotify.com/track/7blNHHJXngC6t2QEiwaeB2"
+    }
+  ],
+  "description": "オタクセレクト",
+  "name": "棗いつき オタクセレクト",
+  "owner": {
+    "display_name": "502bg",
+    "url": "https://open.spotify.com/user/4woroafc3tx648l7zc8quofbf",
+    "id": "4woroafc3tx648l7zc8quofbf"
+  },
+  "url": "https://open.spotify.com/playlist/1PZAtLHrm43UeKVSmWduVH"
+}

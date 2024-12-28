@@ -1,0 +1,1301 @@
+{
+  "id": "60e5mzqeQKFxUJlHG6JPf5",
+  "tracks": [
+    {
+      "id": "7xIM7lWmXPgRhPAGLAKxLv",
+      "name": "KAGAYAKI Don't forget!",
+      "artists": [
+        {
+          "id": "6xWuh7ypIYMh9BhqfHtQN1",
+          "name": "Nijigasaki High School Idol Club",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "album": {
+        "id": "2WVIL84aMGYGuin5KWD2yE",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273fea79e9002e90c501bbb7b50",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02fea79e9002e90c501bbb7b50",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851fea79e9002e90c501bbb7b50",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "KAGAYAKI Don't forget!",
+        "release_date": "2023-06-07",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6xWuh7ypIYMh9BhqfHtQN1",
+            "name": "Nijigasaki High School Idol Club",
+            "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2WVIL84aMGYGuin5KWD2yE",
+        "total_tracks": 4
+      },
+      "duration_ms": 256306,
+      "popularity": 4,
+      "url": "https://open.spotify.com/track/7xIM7lWmXPgRhPAGLAKxLv"
+    },
+    {
+      "id": "6DbO0dZhUdgeSjr4q79T6d",
+      "name": "チェリーボム",
+      "artists": [
+        {
+          "id": "5BkAdBE9lBB9aFtcx9ToA1",
+          "name": "優木せつ菜 (CV.林 鼓子)",
+          "url": "https://open.spotify.com/artist/5BkAdBE9lBB9aFtcx9ToA1"
+        }
+      ],
+      "album": {
+        "id": "2cXKyTqIVyCOCtbEFNU0OA",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d9ead9bce0d5331ef3bc753a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d9ead9bce0d5331ef3bc753a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d9ead9bce0d5331ef3bc753a",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Fly with You!!",
+        "release_date": "2023-10-04",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6xWuh7ypIYMh9BhqfHtQN1",
+            "name": "Nijigasaki High School Idol Club",
+            "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2cXKyTqIVyCOCtbEFNU0OA",
+        "total_tracks": 13
+      },
+      "duration_ms": 219840,
+      "popularity": 3,
+      "url": "https://open.spotify.com/track/6DbO0dZhUdgeSjr4q79T6d"
+    },
+    {
+      "id": "2Zgn8kJBLBMqCU1qItFSnl",
+      "name": "Cooking with Love",
+      "artists": [
+        {
+          "id": "2SX8w3DHQPTBtQPMnFw0QI",
+          "name": "近江彼方 (CV.鬼頭明里)",
+          "url": "https://open.spotify.com/artist/2SX8w3DHQPTBtQPMnFw0QI"
+        }
+      ],
+      "album": {
+        "id": "2cXKyTqIVyCOCtbEFNU0OA",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d9ead9bce0d5331ef3bc753a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d9ead9bce0d5331ef3bc753a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d9ead9bce0d5331ef3bc753a",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Fly with You!!",
+        "release_date": "2023-10-04",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6xWuh7ypIYMh9BhqfHtQN1",
+            "name": "Nijigasaki High School Idol Club",
+            "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2cXKyTqIVyCOCtbEFNU0OA",
+        "total_tracks": 13
+      },
+      "duration_ms": 231666,
+      "popularity": 2,
+      "url": "https://open.spotify.com/track/2Zgn8kJBLBMqCU1qItFSnl"
+    },
+    {
+      "id": "6ysRCt4Ow6v0CYPpHRYiFk",
+      "name": "My Shadow",
+      "artists": [
+        {
+          "id": "6mGi9UIrYgzUrcrgBGQFku",
+          "name": "朝香果林 (CV.久保田未夢)",
+          "url": "https://open.spotify.com/artist/6mGi9UIrYgzUrcrgBGQFku"
+        }
+      ],
+      "album": {
+        "id": "2cXKyTqIVyCOCtbEFNU0OA",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d9ead9bce0d5331ef3bc753a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d9ead9bce0d5331ef3bc753a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d9ead9bce0d5331ef3bc753a",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Fly with You!!",
+        "release_date": "2023-10-04",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6xWuh7ypIYMh9BhqfHtQN1",
+            "name": "Nijigasaki High School Idol Club",
+            "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2cXKyTqIVyCOCtbEFNU0OA",
+        "total_tracks": 13
+      },
+      "duration_ms": 225266,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/6ysRCt4Ow6v0CYPpHRYiFk"
+    },
+    {
+      "id": "1Xwd04G30VxU0WszLqIjMa",
+      "name": "5201314",
+      "artists": [
+        {
+          "id": "1btXM114txUV2HtiylRvoK",
+          "name": "鐘 嵐珠 (CV.法元明菜)",
+          "url": "https://open.spotify.com/artist/1btXM114txUV2HtiylRvoK"
+        }
+      ],
+      "album": {
+        "id": "2cXKyTqIVyCOCtbEFNU0OA",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d9ead9bce0d5331ef3bc753a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d9ead9bce0d5331ef3bc753a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d9ead9bce0d5331ef3bc753a",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Fly with You!!",
+        "release_date": "2023-10-04",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6xWuh7ypIYMh9BhqfHtQN1",
+            "name": "Nijigasaki High School Idol Club",
+            "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2cXKyTqIVyCOCtbEFNU0OA",
+        "total_tracks": 13
+      },
+      "duration_ms": 237813,
+      "popularity": 3,
+      "url": "https://open.spotify.com/track/1Xwd04G30VxU0WszLqIjMa"
+    },
+    {
+      "id": "30VacTz7eoMVKiD1AO9TUE",
+      "name": "恋するSunflower",
+      "artists": [
+        {
+          "id": "23JZudIPdcNEhcV5DfDq5M",
+          "name": "エマ・ヴェルデ (CV.指出毬亜)",
+          "url": "https://open.spotify.com/artist/23JZudIPdcNEhcV5DfDq5M"
+        }
+      ],
+      "album": {
+        "id": "2cXKyTqIVyCOCtbEFNU0OA",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d9ead9bce0d5331ef3bc753a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d9ead9bce0d5331ef3bc753a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d9ead9bce0d5331ef3bc753a",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Fly with You!!",
+        "release_date": "2023-10-04",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6xWuh7ypIYMh9BhqfHtQN1",
+            "name": "Nijigasaki High School Idol Club",
+            "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2cXKyTqIVyCOCtbEFNU0OA",
+        "total_tracks": 13
+      },
+      "duration_ms": 267226,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/30VacTz7eoMVKiD1AO9TUE"
+    },
+    {
+      "id": "0xaf9m77dTO78M96KWBMvm",
+      "name": "Request for U",
+      "artists": [
+        {
+          "id": "19W707ZUq5jEr0NBWCaS01",
+          "name": "宮下 愛 (CV.村上奈津実)",
+          "url": "https://open.spotify.com/artist/19W707ZUq5jEr0NBWCaS01"
+        }
+      ],
+      "album": {
+        "id": "2cXKyTqIVyCOCtbEFNU0OA",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d9ead9bce0d5331ef3bc753a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d9ead9bce0d5331ef3bc753a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d9ead9bce0d5331ef3bc753a",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Fly with You!!",
+        "release_date": "2023-10-04",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6xWuh7ypIYMh9BhqfHtQN1",
+            "name": "Nijigasaki High School Idol Club",
+            "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2cXKyTqIVyCOCtbEFNU0OA",
+        "total_tracks": 13
+      },
+      "duration_ms": 253893,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/0xaf9m77dTO78M96KWBMvm"
+    },
+    {
+      "id": "0aChBXqRNgmM0Y5otTWiky",
+      "name": "背伸びしたって",
+      "artists": [
+        {
+          "id": "690QfHJEGFsAryHLPVvzqA",
+          "name": "中須かすみ (CV.相良茉優)",
+          "url": "https://open.spotify.com/artist/690QfHJEGFsAryHLPVvzqA"
+        }
+      ],
+      "album": {
+        "id": "2cXKyTqIVyCOCtbEFNU0OA",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d9ead9bce0d5331ef3bc753a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d9ead9bce0d5331ef3bc753a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d9ead9bce0d5331ef3bc753a",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Fly with You!!",
+        "release_date": "2023-10-04",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6xWuh7ypIYMh9BhqfHtQN1",
+            "name": "Nijigasaki High School Idol Club",
+            "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2cXKyTqIVyCOCtbEFNU0OA",
+        "total_tracks": 13
+      },
+      "duration_ms": 251320,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/0aChBXqRNgmM0Y5otTWiky"
+    },
+    {
+      "id": "6IaZ86hxYcbbkyBnF8zN19",
+      "name": "Feel Alive",
+      "artists": [
+        {
+          "id": "2xg4mnz8QOKejta6NzNCeG",
+          "name": "R3BIRTH",
+          "url": "https://open.spotify.com/artist/2xg4mnz8QOKejta6NzNCeG"
+        }
+      ],
+      "album": {
+        "id": "3URTuaSBGB0HUlXCo9mmEp",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b2ec8276eafa1ca7dbd2fd2a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b2ec8276eafa1ca7dbd2fd2a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b2ec8276eafa1ca7dbd2fd2a",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Feel Alive / Go Our Way!",
+        "release_date": "2023-06-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6xWuh7ypIYMh9BhqfHtQN1",
+            "name": "Nijigasaki High School Idol Club",
+            "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3URTuaSBGB0HUlXCo9mmEp",
+        "total_tracks": 4
+      },
+      "duration_ms": 199866,
+      "popularity": 5,
+      "url": "https://open.spotify.com/track/6IaZ86hxYcbbkyBnF8zN19"
+    },
+    {
+      "id": "78UwNW14dtV4ppKLIIff0n",
+      "name": "Walking Dream",
+      "artists": [
+        {
+          "id": "7it8CXxJEe5Rn1fSl34ugQ",
+          "name": "上原歩夢 (CV.大西亜玖璃)",
+          "url": "https://open.spotify.com/artist/7it8CXxJEe5Rn1fSl34ugQ"
+        }
+      ],
+      "album": {
+        "id": "2cXKyTqIVyCOCtbEFNU0OA",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d9ead9bce0d5331ef3bc753a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d9ead9bce0d5331ef3bc753a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d9ead9bce0d5331ef3bc753a",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Fly with You!!",
+        "release_date": "2023-10-04",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6xWuh7ypIYMh9BhqfHtQN1",
+            "name": "Nijigasaki High School Idol Club",
+            "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2cXKyTqIVyCOCtbEFNU0OA",
+        "total_tracks": 13
+      },
+      "duration_ms": 276706,
+      "popularity": 2,
+      "url": "https://open.spotify.com/track/78UwNW14dtV4ppKLIIff0n"
+    },
+    {
+      "id": "3KQ5U9X6tnXUTmCeRTCIZt",
+      "name": "私はマグネット",
+      "artists": [
+        {
+          "id": "1bNt2NaGReLx58RaBpKuk3",
+          "name": "天王寺璃奈 (CV.田中ちえ美)",
+          "url": "https://open.spotify.com/artist/1bNt2NaGReLx58RaBpKuk3"
+        }
+      ],
+      "album": {
+        "id": "2cXKyTqIVyCOCtbEFNU0OA",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d9ead9bce0d5331ef3bc753a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d9ead9bce0d5331ef3bc753a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d9ead9bce0d5331ef3bc753a",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Fly with You!!",
+        "release_date": "2023-10-04",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6xWuh7ypIYMh9BhqfHtQN1",
+            "name": "Nijigasaki High School Idol Club",
+            "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2cXKyTqIVyCOCtbEFNU0OA",
+        "total_tracks": 13
+      },
+      "duration_ms": 233960,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/3KQ5U9X6tnXUTmCeRTCIZt"
+    },
+    {
+      "id": "6gnQVlXaS4yB1D4VC1owLP",
+      "name": "小悪魔LOVE♡",
+      "artists": [
+        {
+          "id": "6csqZOVRUvmw9RnBjb0daq",
+          "name": "桜坂しずく (CV.前田佳織里)",
+          "url": "https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq"
+        }
+      ],
+      "album": {
+        "id": "2cXKyTqIVyCOCtbEFNU0OA",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d9ead9bce0d5331ef3bc753a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d9ead9bce0d5331ef3bc753a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d9ead9bce0d5331ef3bc753a",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Fly with You!!",
+        "release_date": "2023-10-04",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6xWuh7ypIYMh9BhqfHtQN1",
+            "name": "Nijigasaki High School Idol Club",
+            "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2cXKyTqIVyCOCtbEFNU0OA",
+        "total_tracks": 13
+      },
+      "duration_ms": 242933,
+      "popularity": 3,
+      "url": "https://open.spotify.com/track/6gnQVlXaS4yB1D4VC1owLP"
+    },
+    {
+      "id": "10HMRPxBuSUGWBrRTBpdh2",
+      "name": "Lemonade",
+      "artists": [
+        {
+          "id": "54hnRUYsDChS7pkIRHiz5P",
+          "name": "ミア・テイラー (CV.内田 秀)",
+          "url": "https://open.spotify.com/artist/54hnRUYsDChS7pkIRHiz5P"
+        }
+      ],
+      "album": {
+        "id": "2cXKyTqIVyCOCtbEFNU0OA",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d9ead9bce0d5331ef3bc753a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d9ead9bce0d5331ef3bc753a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d9ead9bce0d5331ef3bc753a",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Fly with You!!",
+        "release_date": "2023-10-04",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6xWuh7ypIYMh9BhqfHtQN1",
+            "name": "Nijigasaki High School Idol Club",
+            "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2cXKyTqIVyCOCtbEFNU0OA",
+        "total_tracks": 13
+      },
+      "duration_ms": 238986,
+      "popularity": 2,
+      "url": "https://open.spotify.com/track/10HMRPxBuSUGWBrRTBpdh2"
+    },
+    {
+      "id": "4Bixs92CbPwoLKFhL8nYcs",
+      "name": "咬福論",
+      "artists": [
+        {
+          "id": "2wFPTxM1Xl1f5vUk1jPY3d",
+          "name": "三船栞子 (CV.小泉萌香)",
+          "url": "https://open.spotify.com/artist/2wFPTxM1Xl1f5vUk1jPY3d"
+        }
+      ],
+      "album": {
+        "id": "2cXKyTqIVyCOCtbEFNU0OA",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d9ead9bce0d5331ef3bc753a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d9ead9bce0d5331ef3bc753a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d9ead9bce0d5331ef3bc753a",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Fly with You!!",
+        "release_date": "2023-10-04",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6xWuh7ypIYMh9BhqfHtQN1",
+            "name": "Nijigasaki High School Idol Club",
+            "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2cXKyTqIVyCOCtbEFNU0OA",
+        "total_tracks": 13
+      },
+      "duration_ms": 260252,
+      "popularity": 3,
+      "url": "https://open.spotify.com/track/4Bixs92CbPwoLKFhL8nYcs"
+    },
+    {
+      "id": "6ldZaRUFcKh908SJXwdbZj",
+      "name": "Twinkle Town",
+      "artists": [
+        {
+          "id": "2glYsWdZ2iBS2IhjopVcBK",
+          "name": "QU4RTZ",
+          "url": "https://open.spotify.com/artist/2glYsWdZ2iBS2IhjopVcBK"
+        }
+      ],
+      "album": {
+        "id": "3VT9YmkMSR6dFaM7J3PwGn",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a3c7be279f34ba74f9649571",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a3c7be279f34ba74f9649571",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a3c7be279f34ba74f9649571",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ニジガク ボーナストラック コレクション Vol.1",
+        "release_date": "2022-12-24",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6xWuh7ypIYMh9BhqfHtQN1",
+            "name": "Nijigasaki High School Idol Club",
+            "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3VT9YmkMSR6dFaM7J3PwGn",
+        "total_tracks": 7
+      },
+      "duration_ms": 254600,
+      "popularity": 25,
+      "url": "https://open.spotify.com/track/6ldZaRUFcKh908SJXwdbZj"
+    },
+    {
+      "id": "33DWpvGvA4dblsl0zZbtF4",
+      "name": "Wawawa☆What's up!",
+      "artists": [
+        {
+          "id": "6xWuh7ypIYMh9BhqfHtQN1",
+          "name": "Nijigasaki High School Idol Club",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "album": {
+        "id": "5TC7PfR7DzArfyHw4HJU7j",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273aa0d092d80b3821250a92c20",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02aa0d092d80b3821250a92c20",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851aa0d092d80b3821250a92c20",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "SINGING, DREAMING, NOW!",
+        "release_date": "2023-06-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6xWuh7ypIYMh9BhqfHtQN1",
+            "name": "Nijigasaki High School Idol Club",
+            "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5TC7PfR7DzArfyHw4HJU7j",
+        "total_tracks": 4
+      },
+      "duration_ms": 233653,
+      "popularity": 3,
+      "url": "https://open.spotify.com/track/33DWpvGvA4dblsl0zZbtF4"
+    },
+    {
+      "id": "45vz21WtajNItybbjzNoxn",
+      "name": "Go Our Way!",
+      "artists": [
+        {
+          "id": "6xWuh7ypIYMh9BhqfHtQN1",
+          "name": "Nijigasaki High School Idol Club",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "album": {
+        "id": "3URTuaSBGB0HUlXCo9mmEp",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b2ec8276eafa1ca7dbd2fd2a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b2ec8276eafa1ca7dbd2fd2a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b2ec8276eafa1ca7dbd2fd2a",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Feel Alive / Go Our Way!",
+        "release_date": "2023-06-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6xWuh7ypIYMh9BhqfHtQN1",
+            "name": "Nijigasaki High School Idol Club",
+            "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3URTuaSBGB0HUlXCo9mmEp",
+        "total_tracks": 4
+      },
+      "duration_ms": 165013,
+      "popularity": 8,
+      "url": "https://open.spotify.com/track/45vz21WtajNItybbjzNoxn"
+    },
+    {
+      "id": "0EIfyw7CQpOmIsV5CqnXLp",
+      "name": "Just Believe!!!",
+      "artists": [
+        {
+          "id": "6xWuh7ypIYMh9BhqfHtQN1",
+          "name": "Nijigasaki High School Idol Club",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "album": {
+        "id": "4wDhOAcAnkalrBo1c2IdVA",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27370364c0b22476e0fc24bd6aa",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0270364c0b22476e0fc24bd6aa",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485170364c0b22476e0fc24bd6aa",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Just Believe!!!",
+        "release_date": "2020-09-02",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6xWuh7ypIYMh9BhqfHtQN1",
+            "name": "Nijigasaki High School Idol Club",
+            "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4wDhOAcAnkalrBo1c2IdVA",
+        "total_tracks": 12
+      },
+      "duration_ms": 245706,
+      "popularity": 30,
+      "url": "https://open.spotify.com/track/0EIfyw7CQpOmIsV5CqnXLp"
+    },
+    {
+      "id": "0tdGAPgbH0bBAI1Ah8LX51",
+      "name": "Fly with You!!",
+      "artists": [
+        {
+          "id": "6xWuh7ypIYMh9BhqfHtQN1",
+          "name": "Nijigasaki High School Idol Club",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "album": {
+        "id": "2cXKyTqIVyCOCtbEFNU0OA",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d9ead9bce0d5331ef3bc753a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d9ead9bce0d5331ef3bc753a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d9ead9bce0d5331ef3bc753a",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Fly with You!!",
+        "release_date": "2023-10-04",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6xWuh7ypIYMh9BhqfHtQN1",
+            "name": "Nijigasaki High School Idol Club",
+            "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2cXKyTqIVyCOCtbEFNU0OA",
+        "total_tracks": 13
+      },
+      "duration_ms": 274893,
+      "popularity": 4,
+      "url": "https://open.spotify.com/track/0tdGAPgbH0bBAI1Ah8LX51"
+    },
+    {
+      "id": "3obgNWJjhn2P4X1jf69HoK",
+      "name": "Love U my friends",
+      "artists": [
+        {
+          "id": "6xWuh7ypIYMh9BhqfHtQN1",
+          "name": "Nijigasaki High School Idol Club",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "album": {
+        "id": "06aZEWbIl2nbKwukK6iMxV",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2735a0cbbc625f1517fc2121107",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e025a0cbbc625f1517fc2121107",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048515a0cbbc625f1517fc2121107",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Love U my friends",
+        "release_date": "2019-10-02",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6xWuh7ypIYMh9BhqfHtQN1",
+            "name": "Nijigasaki High School Idol Club",
+            "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+          }
+        ],
+        "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV",
+        "total_tracks": 10
+      },
+      "duration_ms": 239946,
+      "popularity": 26,
+      "url": "https://open.spotify.com/track/3obgNWJjhn2P4X1jf69HoK"
+    },
+    {
+      "id": "2RbkLmTbz2dGlLkzgDAUlu",
+      "name": "あなたの理想のヒロイン",
+      "artists": [
+        {
+          "id": "6csqZOVRUvmw9RnBjb0daq",
+          "name": "桜坂しずく (CV.前田佳織里)",
+          "url": "https://open.spotify.com/artist/6csqZOVRUvmw9RnBjb0daq"
+        }
+      ],
+      "album": {
+        "id": "5LUYddVFCB1iKO3c6qEnEQ",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e21b32e958f83f830d83cc10",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e21b32e958f83f830d83cc10",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e21b32e958f83f830d83cc10",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "TOKIMEKI Runners",
+        "release_date": "2018-11-21",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6xWuh7ypIYMh9BhqfHtQN1",
+            "name": "Nijigasaki High School Idol Club",
+            "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ",
+        "total_tracks": 10
+      },
+      "duration_ms": 326040,
+      "popularity": 24,
+      "url": "https://open.spotify.com/track/2RbkLmTbz2dGlLkzgDAUlu"
+    },
+    {
+      "id": "5TKgniNeHWwaH1pf5QV8nA",
+      "name": "My Own Fairy-Tale",
+      "artists": [
+        {
+          "id": "2SX8w3DHQPTBtQPMnFw0QI",
+          "name": "近江彼方 (CV.鬼頭明里)",
+          "url": "https://open.spotify.com/artist/2SX8w3DHQPTBtQPMnFw0QI"
+        }
+      ],
+      "album": {
+        "id": "06aZEWbIl2nbKwukK6iMxV",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2735a0cbbc625f1517fc2121107",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e025a0cbbc625f1517fc2121107",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048515a0cbbc625f1517fc2121107",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Love U my friends",
+        "release_date": "2019-10-02",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6xWuh7ypIYMh9BhqfHtQN1",
+            "name": "Nijigasaki High School Idol Club",
+            "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+          }
+        ],
+        "url": "https://open.spotify.com/album/06aZEWbIl2nbKwukK6iMxV",
+        "total_tracks": 10
+      },
+      "duration_ms": 280480,
+      "popularity": 23,
+      "url": "https://open.spotify.com/track/5TKgniNeHWwaH1pf5QV8nA"
+    },
+    {
+      "id": "6L8bDztOq8w5fWpED5b1Zb",
+      "name": "ヤダ！",
+      "artists": [
+        {
+          "id": "4CS5ASqHbFf9YKjlkkd2cN",
+          "name": "優木せつ菜 (CV.楠木ともり)",
+          "url": "https://open.spotify.com/artist/4CS5ASqHbFf9YKjlkkd2cN"
+        }
+      ],
+      "album": {
+        "id": "3DXFy8mVQ2ATnqocT3GQ8i",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2733d0c15cff93f7e92234c80ec",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e023d0c15cff93f7e92234c80ec",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048513d0c15cff93f7e92234c80ec",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "L！L！L！ (Love the Life We Live)",
+        "release_date": "2021-10-13",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6xWuh7ypIYMh9BhqfHtQN1",
+            "name": "Nijigasaki High School Idol Club",
+            "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3DXFy8mVQ2ATnqocT3GQ8i",
+        "total_tracks": 13
+      },
+      "duration_ms": 255280,
+      "popularity": 22,
+      "url": "https://open.spotify.com/track/6L8bDztOq8w5fWpED5b1Zb"
+    },
+    {
+      "id": "2qRh35Wd3WgUi5p1g2oatH",
+      "name": "Sweet Eyes",
+      "artists": [
+        {
+          "id": "6xWuh7ypIYMh9BhqfHtQN1",
+          "name": "Nijigasaki High School Idol Club",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "album": {
+        "id": "7JvoRrB94BPtnXsau1IuFl",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273bd6190a50b9cf4488fc1c4f5",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02bd6190a50b9cf4488fc1c4f5",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851bd6190a50b9cf4488fc1c4f5",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "虹色Passions!",
+        "release_date": "2020-10-21",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6xWuh7ypIYMh9BhqfHtQN1",
+            "name": "Nijigasaki High School Idol Club",
+            "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+          }
+        ],
+        "url": "https://open.spotify.com/album/7JvoRrB94BPtnXsau1IuFl",
+        "total_tracks": 2
+      },
+      "duration_ms": 292346,
+      "popularity": 22,
+      "url": "https://open.spotify.com/track/2qRh35Wd3WgUi5p1g2oatH"
+    },
+    {
+      "id": "2wI8kQ2psvPoMqqlKLusJ1",
+      "name": "TOKIMEKI Runners",
+      "artists": [
+        {
+          "id": "6xWuh7ypIYMh9BhqfHtQN1",
+          "name": "Nijigasaki High School Idol Club",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "album": {
+        "id": "5LUYddVFCB1iKO3c6qEnEQ",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e21b32e958f83f830d83cc10",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e21b32e958f83f830d83cc10",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e21b32e958f83f830d83cc10",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "TOKIMEKI Runners",
+        "release_date": "2018-11-21",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6xWuh7ypIYMh9BhqfHtQN1",
+            "name": "Nijigasaki High School Idol Club",
+            "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5LUYddVFCB1iKO3c6qEnEQ",
+        "total_tracks": 10
+      },
+      "duration_ms": 276346,
+      "popularity": 32,
+      "url": "https://open.spotify.com/track/2wI8kQ2psvPoMqqlKLusJ1"
+    },
+    {
+      "id": "3EcAvuc63C1IONCqvoRxn8",
+      "name": "わちゅごなどぅー",
+      "artists": [
+        {
+          "id": "6xWuh7ypIYMh9BhqfHtQN1",
+          "name": "Nijigasaki High School Idol Club",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "album": {
+        "id": "1XqSCYBQEQ8KSOe9Yl5T24",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273f5c0c52cbcc4d9ba3db1164d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02f5c0c52cbcc4d9ba3db1164d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851f5c0c52cbcc4d9ba3db1164d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "わちゅごなどぅー",
+        "release_date": "2023-02-01",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6xWuh7ypIYMh9BhqfHtQN1",
+            "name": "Nijigasaki High School Idol Club",
+            "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1XqSCYBQEQ8KSOe9Yl5T24",
+        "total_tracks": 5
+      },
+      "duration_ms": 210466,
+      "popularity": 7,
+      "url": "https://open.spotify.com/track/3EcAvuc63C1IONCqvoRxn8"
+    },
+    {
+      "id": "7D88lxyD33Tl8tYoJfRmJe",
+      "name": "OUR P13CES!!!",
+      "artists": [
+        {
+          "id": "7qHaZfNKHTXJTaz1aAT9TO",
+          "name": "ニジガク with You",
+          "url": "https://open.spotify.com/artist/7qHaZfNKHTXJTaz1aAT9TO"
+        }
+      ],
+      "album": {
+        "id": "66HtPLuP9HU7LYFSdaWaNJ",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273afe0aadf38a6436d4e0a7319",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02afe0aadf38a6436d4e0a7319",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851afe0aadf38a6436d4e0a7319",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "永遠の一瞬",
+        "release_date": "2022-10-12",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6xWuh7ypIYMh9BhqfHtQN1",
+            "name": "Nijigasaki High School Idol Club",
+            "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+          }
+        ],
+        "url": "https://open.spotify.com/album/66HtPLuP9HU7LYFSdaWaNJ",
+        "total_tracks": 6
+      },
+      "duration_ms": 273826,
+      "popularity": 21,
+      "url": "https://open.spotify.com/track/7D88lxyD33Tl8tYoJfRmJe"
+    },
+    {
+      "id": "3FfFZpPCAffNYPkc1PG6NU",
+      "name": "SINGING, DREAMING, NOW!",
+      "artists": [
+        {
+          "id": "6xWuh7ypIYMh9BhqfHtQN1",
+          "name": "Nijigasaki High School Idol Club",
+          "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+        }
+      ],
+      "album": {
+        "id": "5TC7PfR7DzArfyHw4HJU7j",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273aa0d092d80b3821250a92c20",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02aa0d092d80b3821250a92c20",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851aa0d092d80b3821250a92c20",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "SINGING, DREAMING, NOW!",
+        "release_date": "2023-06-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6xWuh7ypIYMh9BhqfHtQN1",
+            "name": "Nijigasaki High School Idol Club",
+            "url": "https://open.spotify.com/artist/6xWuh7ypIYMh9BhqfHtQN1"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5TC7PfR7DzArfyHw4HJU7j",
+        "total_tracks": 4
+      },
+      "duration_ms": 286346,
+      "popularity": 4,
+      "url": "https://open.spotify.com/track/3FfFZpPCAffNYPkc1PG6NU"
+    }
+  ],
+  "description": "ラブライブ！虹ヶ咲学園スクールアイドル同好会 6th Live! I love You ⇆ You love Me &#x2F; (除)Waku Waku! Monday Morning&#x2F;サンタが町にやってくる",
+  "name": "2023.12.24 虹ヶ咲 6th 愛知 Day2",
+  "owner": {
+    "display_name": "502bg",
+    "url": "https://open.spotify.com/user/4woroafc3tx648l7zc8quofbf",
+    "id": "4woroafc3tx648l7zc8quofbf"
+  },
+  "url": "https://open.spotify.com/playlist/60e5mzqeQKFxUJlHG6JPf5"
+}

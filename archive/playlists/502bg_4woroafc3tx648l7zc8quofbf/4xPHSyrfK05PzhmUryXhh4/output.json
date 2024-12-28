@@ -1,0 +1,682 @@
+{
+  "id": "4xPHSyrfK05PzhmUryXhh4",
+  "tracks": [
+    {
+      "id": "79flIbkdcN831BhDEwgmMZ",
+      "name": "VR",
+      "artists": [
+        {
+          "id": "4uWpa0r7BZUXJ1ip2LJysz",
+          "name": "KMNZ",
+          "url": "https://open.spotify.com/artist/4uWpa0r7BZUXJ1ip2LJysz"
+        }
+      ],
+      "album": {
+        "id": "0XAL0fKAalk8ctIjZeSDxS",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273dd5bd1ad3825d4169551931d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02dd5bd1ad3825d4169551931d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851dd5bd1ad3825d4169551931d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "KMNVERSE",
+        "release_date": "2019-11-22",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "4uWpa0r7BZUXJ1ip2LJysz",
+            "name": "KMNZ",
+            "url": "https://open.spotify.com/artist/4uWpa0r7BZUXJ1ip2LJysz"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0XAL0fKAalk8ctIjZeSDxS",
+        "total_tracks": 8
+      },
+      "duration_ms": 194064,
+      "popularity": 18,
+      "url": "https://open.spotify.com/track/79flIbkdcN831BhDEwgmMZ"
+    },
+    {
+      "id": "0q17SIpv40VnrNv5pbuLOb",
+      "name": "Augmentation",
+      "artists": [
+        {
+          "id": "4uWpa0r7BZUXJ1ip2LJysz",
+          "name": "KMNZ",
+          "url": "https://open.spotify.com/artist/4uWpa0r7BZUXJ1ip2LJysz"
+        },
+        {
+          "id": "7cvljqLNhWNFMb8wP2NImJ",
+          "name": "Moe Shop",
+          "url": "https://open.spotify.com/artist/7cvljqLNhWNFMb8wP2NImJ"
+        }
+      ],
+      "album": {
+        "id": "0PxCslPCQ1bnXEVOwppNiy",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273f465de0eff7c92f15bfaa1f2",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02f465de0eff7c92f15bfaa1f2",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851f465de0eff7c92f15bfaa1f2",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Augmentation",
+        "release_date": "2019-04-08",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "4uWpa0r7BZUXJ1ip2LJysz",
+            "name": "KMNZ",
+            "url": "https://open.spotify.com/artist/4uWpa0r7BZUXJ1ip2LJysz"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0PxCslPCQ1bnXEVOwppNiy",
+        "total_tracks": 1
+      },
+      "duration_ms": 241846,
+      "popularity": 30,
+      "url": "https://open.spotify.com/track/0q17SIpv40VnrNv5pbuLOb"
+    },
+    {
+      "id": "5EsQh2FBYTfbHAo9Qtx9pF",
+      "name": "sTarZ",
+      "artists": [
+        {
+          "id": "4uWpa0r7BZUXJ1ip2LJysz",
+          "name": "KMNZ",
+          "url": "https://open.spotify.com/artist/4uWpa0r7BZUXJ1ip2LJysz"
+        }
+      ],
+      "album": {
+        "id": "0XAL0fKAalk8ctIjZeSDxS",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273dd5bd1ad3825d4169551931d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02dd5bd1ad3825d4169551931d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851dd5bd1ad3825d4169551931d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "KMNVERSE",
+        "release_date": "2019-11-22",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "4uWpa0r7BZUXJ1ip2LJysz",
+            "name": "KMNZ",
+            "url": "https://open.spotify.com/artist/4uWpa0r7BZUXJ1ip2LJysz"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0XAL0fKAalk8ctIjZeSDxS",
+        "total_tracks": 8
+      },
+      "duration_ms": 197303,
+      "popularity": 14,
+      "url": "https://open.spotify.com/track/5EsQh2FBYTfbHAo9Qtx9pF"
+    },
+    {
+      "id": "7mC8aAWS1M0ITMM4qztk9T",
+      "name": "R U GAME?",
+      "artists": [
+        {
+          "id": "4uWpa0r7BZUXJ1ip2LJysz",
+          "name": "KMNZ",
+          "url": "https://open.spotify.com/artist/4uWpa0r7BZUXJ1ip2LJysz"
+        }
+      ],
+      "album": {
+        "id": "0XAL0fKAalk8ctIjZeSDxS",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273dd5bd1ad3825d4169551931d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02dd5bd1ad3825d4169551931d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851dd5bd1ad3825d4169551931d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "KMNVERSE",
+        "release_date": "2019-11-22",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "4uWpa0r7BZUXJ1ip2LJysz",
+            "name": "KMNZ",
+            "url": "https://open.spotify.com/artist/4uWpa0r7BZUXJ1ip2LJysz"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0XAL0fKAalk8ctIjZeSDxS",
+        "total_tracks": 8
+      },
+      "duration_ms": 232061,
+      "popularity": 17,
+      "url": "https://open.spotify.com/track/7mC8aAWS1M0ITMM4qztk9T"
+    },
+    {
+      "id": "07JOu0ehf7SUD2TGo4achL",
+      "name": "JOURNEY",
+      "artists": [
+        {
+          "id": "4uWpa0r7BZUXJ1ip2LJysz",
+          "name": "KMNZ",
+          "url": "https://open.spotify.com/artist/4uWpa0r7BZUXJ1ip2LJysz"
+        }
+      ],
+      "album": {
+        "id": "0ql0RolALZB0zKRa0nGh7a",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d9285cbf9247241df14ce810",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d9285cbf9247241df14ce810",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d9285cbf9247241df14ce810",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "KMNROUND",
+        "release_date": "2021-04-10",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "4uWpa0r7BZUXJ1ip2LJysz",
+            "name": "KMNZ",
+            "url": "https://open.spotify.com/artist/4uWpa0r7BZUXJ1ip2LJysz"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0ql0RolALZB0zKRa0nGh7a",
+        "total_tracks": 7
+      },
+      "duration_ms": 206210,
+      "popularity": 14,
+      "url": "https://open.spotify.com/track/07JOu0ehf7SUD2TGo4achL"
+    },
+    {
+      "id": "3GqxsTw9BGHKYQvdUZazIr",
+      "name": "TOKONATSU STYLE",
+      "artists": [
+        {
+          "id": "4uWpa0r7BZUXJ1ip2LJysz",
+          "name": "KMNZ",
+          "url": "https://open.spotify.com/artist/4uWpa0r7BZUXJ1ip2LJysz"
+        }
+      ],
+      "album": {
+        "id": "0ql0RolALZB0zKRa0nGh7a",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d9285cbf9247241df14ce810",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d9285cbf9247241df14ce810",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d9285cbf9247241df14ce810",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "KMNROUND",
+        "release_date": "2021-04-10",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "4uWpa0r7BZUXJ1ip2LJysz",
+            "name": "KMNZ",
+            "url": "https://open.spotify.com/artist/4uWpa0r7BZUXJ1ip2LJysz"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0ql0RolALZB0zKRa0nGh7a",
+        "total_tracks": 7
+      },
+      "duration_ms": 178656,
+      "popularity": 17,
+      "url": "https://open.spotify.com/track/3GqxsTw9BGHKYQvdUZazIr"
+    },
+    {
+      "id": "0Ku6a3bgdkjx2PEZLSDr1A",
+      "name": "WE ARE BACK",
+      "artists": [
+        {
+          "id": "4uWpa0r7BZUXJ1ip2LJysz",
+          "name": "KMNZ",
+          "url": "https://open.spotify.com/artist/4uWpa0r7BZUXJ1ip2LJysz"
+        }
+      ],
+      "album": {
+        "id": "1B4X0Xi9yIXERF0Tel6y7T",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273464434e9540887fbc192360c",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02464434e9540887fbc192360c",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851464434e9540887fbc192360c",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "KMNSTREET",
+        "release_date": "2022-06-12",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "4uWpa0r7BZUXJ1ip2LJysz",
+            "name": "KMNZ",
+            "url": "https://open.spotify.com/artist/4uWpa0r7BZUXJ1ip2LJysz"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1B4X0Xi9yIXERF0Tel6y7T",
+        "total_tracks": 8
+      },
+      "duration_ms": 222600,
+      "popularity": 21,
+      "url": "https://open.spotify.com/track/0Ku6a3bgdkjx2PEZLSDr1A"
+    },
+    {
+      "id": "07hHdbIDlagAZ2xefykqKc",
+      "name": "PRACTICE",
+      "artists": [
+        {
+          "id": "4uWpa0r7BZUXJ1ip2LJysz",
+          "name": "KMNZ",
+          "url": "https://open.spotify.com/artist/4uWpa0r7BZUXJ1ip2LJysz"
+        }
+      ],
+      "album": {
+        "id": "1B4X0Xi9yIXERF0Tel6y7T",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273464434e9540887fbc192360c",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02464434e9540887fbc192360c",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851464434e9540887fbc192360c",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "KMNSTREET",
+        "release_date": "2022-06-12",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "4uWpa0r7BZUXJ1ip2LJysz",
+            "name": "KMNZ",
+            "url": "https://open.spotify.com/artist/4uWpa0r7BZUXJ1ip2LJysz"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1B4X0Xi9yIXERF0Tel6y7T",
+        "total_tracks": 8
+      },
+      "duration_ms": 191100,
+      "popularity": 14,
+      "url": "https://open.spotify.com/track/07hHdbIDlagAZ2xefykqKc"
+    },
+    {
+      "id": "10ypHOt9zHQPtK7YnMxAbQ",
+      "name": "HAZE",
+      "artists": [
+        {
+          "id": "4uWpa0r7BZUXJ1ip2LJysz",
+          "name": "KMNZ",
+          "url": "https://open.spotify.com/artist/4uWpa0r7BZUXJ1ip2LJysz"
+        }
+      ],
+      "album": {
+        "id": "1B4X0Xi9yIXERF0Tel6y7T",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273464434e9540887fbc192360c",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02464434e9540887fbc192360c",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851464434e9540887fbc192360c",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "KMNSTREET",
+        "release_date": "2022-06-12",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "4uWpa0r7BZUXJ1ip2LJysz",
+            "name": "KMNZ",
+            "url": "https://open.spotify.com/artist/4uWpa0r7BZUXJ1ip2LJysz"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1B4X0Xi9yIXERF0Tel6y7T",
+        "total_tracks": 8
+      },
+      "duration_ms": 190800,
+      "popularity": 8,
+      "url": "https://open.spotify.com/track/10ypHOt9zHQPtK7YnMxAbQ"
+    },
+    {
+      "id": "3Jyjf3yWUklCoEsEXu8sxZ",
+      "name": "Glory Days",
+      "artists": [
+        {
+          "id": "4uWpa0r7BZUXJ1ip2LJysz",
+          "name": "KMNZ",
+          "url": "https://open.spotify.com/artist/4uWpa0r7BZUXJ1ip2LJysz"
+        },
+        {
+          "id": "2aQ9IoRPwXEhhBVj4wbS46",
+          "name": "Neko Hacker",
+          "url": "https://open.spotify.com/artist/2aQ9IoRPwXEhhBVj4wbS46"
+        }
+      ],
+      "album": {
+        "id": "5zqmkXqAs3E3npko0WhdEQ",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a045923d9be8221100999fd8",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a045923d9be8221100999fd8",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a045923d9be8221100999fd8",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Glory Days",
+        "release_date": "2021-08-27",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "4uWpa0r7BZUXJ1ip2LJysz",
+            "name": "KMNZ",
+            "url": "https://open.spotify.com/artist/4uWpa0r7BZUXJ1ip2LJysz"
+          },
+          {
+            "id": "2aQ9IoRPwXEhhBVj4wbS46",
+            "name": "Neko Hacker",
+            "url": "https://open.spotify.com/artist/2aQ9IoRPwXEhhBVj4wbS46"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5zqmkXqAs3E3npko0WhdEQ",
+        "total_tracks": 1
+      },
+      "duration_ms": 144387,
+      "popularity": 22,
+      "url": "https://open.spotify.com/track/3Jyjf3yWUklCoEsEXu8sxZ"
+    },
+    {
+      "id": "2E0I7zKJ7CIZxRvjPqMEib",
+      "name": "STAR-LIGHT",
+      "artists": [
+        {
+          "id": "4uWpa0r7BZUXJ1ip2LJysz",
+          "name": "KMNZ",
+          "url": "https://open.spotify.com/artist/4uWpa0r7BZUXJ1ip2LJysz"
+        }
+      ],
+      "album": {
+        "id": "0v9Sr4I0mHJyvU9igQCHPa",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2736ddf731e17dc8345994544e3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e026ddf731e17dc8345994544e3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048516ddf731e17dc8345994544e3",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "STAR-LIGHT",
+        "release_date": "2023-07-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "4uWpa0r7BZUXJ1ip2LJysz",
+            "name": "KMNZ",
+            "url": "https://open.spotify.com/artist/4uWpa0r7BZUXJ1ip2LJysz"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0v9Sr4I0mHJyvU9igQCHPa",
+        "total_tracks": 1
+      },
+      "duration_ms": 242000,
+      "popularity": 11,
+      "url": "https://open.spotify.com/track/2E0I7zKJ7CIZxRvjPqMEib"
+    },
+    {
+      "id": "7vWHQ6i01QHgz7qyttigxO",
+      "name": "OUR DAYS",
+      "artists": [
+        {
+          "id": "4uWpa0r7BZUXJ1ip2LJysz",
+          "name": "KMNZ",
+          "url": "https://open.spotify.com/artist/4uWpa0r7BZUXJ1ip2LJysz"
+        }
+      ],
+      "album": {
+        "id": "0IKQnpzbtOcQvjCs8H267e",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27349772ff5aefacf2911f3a007",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0249772ff5aefacf2911f3a007",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485149772ff5aefacf2911f3a007",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "OUR DAYS",
+        "release_date": "2023-09-15",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "4uWpa0r7BZUXJ1ip2LJysz",
+            "name": "KMNZ",
+            "url": "https://open.spotify.com/artist/4uWpa0r7BZUXJ1ip2LJysz"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0IKQnpzbtOcQvjCs8H267e",
+        "total_tracks": 3
+      },
+      "duration_ms": 201686,
+      "popularity": 17,
+      "url": "https://open.spotify.com/track/7vWHQ6i01QHgz7qyttigxO"
+    },
+    {
+      "id": "2huoEVqQ9LQ2yhz3XmXRKh",
+      "name": "RECOAT (feat. KMNZ)",
+      "artists": [
+        {
+          "id": "4OyqzBV6i2e7Ycs5LwLDxE",
+          "name": "in the blue shirt",
+          "url": "https://open.spotify.com/artist/4OyqzBV6i2e7Ycs5LwLDxE"
+        },
+        {
+          "id": "4uWpa0r7BZUXJ1ip2LJysz",
+          "name": "KMNZ",
+          "url": "https://open.spotify.com/artist/4uWpa0r7BZUXJ1ip2LJysz"
+        }
+      ],
+      "album": {
+        "id": "4YuJYluQF9E9X8oRu0wpgH",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2736d812b85f6bdeab35bec2c95",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e026d812b85f6bdeab35bec2c95",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048516d812b85f6bdeab35bec2c95",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "REWIRE",
+        "release_date": "2020-12-27",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4YuJYluQF9E9X8oRu0wpgH",
+        "total_tracks": 12
+      },
+      "duration_ms": 193509,
+      "popularity": 16,
+      "url": "https://open.spotify.com/track/2huoEVqQ9LQ2yhz3XmXRKh"
+    },
+    {
+      "id": "1NQivSFUHRA4rFmgQpyyz2",
+      "name": "Home Sweet Home",
+      "artists": [
+        {
+          "id": "2aQ9IoRPwXEhhBVj4wbS46",
+          "name": "Neko Hacker",
+          "url": "https://open.spotify.com/artist/2aQ9IoRPwXEhhBVj4wbS46"
+        },
+        {
+          "id": "6X906EjKuxFzwnMXJytQOI",
+          "name": "KMNZ LIZ",
+          "url": "https://open.spotify.com/artist/6X906EjKuxFzwnMXJytQOI"
+        }
+      ],
+      "album": {
+        "id": "6pCkiEztBjK8NTVTrH8KLj",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737fc6e6fc5553f5f4823bbf14",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027fc6e6fc5553f5f4823bbf14",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517fc6e6fc5553f5f4823bbf14",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Home Sweet Home",
+        "release_date": "2019-04-10",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "2aQ9IoRPwXEhhBVj4wbS46",
+            "name": "Neko Hacker",
+            "url": "https://open.spotify.com/artist/2aQ9IoRPwXEhhBVj4wbS46"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6pCkiEztBjK8NTVTrH8KLj",
+        "total_tracks": 1
+      },
+      "duration_ms": 231560,
+      "popularity": 28,
+      "url": "https://open.spotify.com/track/1NQivSFUHRA4rFmgQpyyz2"
+    }
+  ],
+  "description": "",
+  "name": "KMNZ",
+  "owner": {
+    "display_name": "502bg",
+    "url": "https://open.spotify.com/user/4woroafc3tx648l7zc8quofbf",
+    "id": "4woroafc3tx648l7zc8quofbf"
+  },
+  "url": "https://open.spotify.com/playlist/4xPHSyrfK05PzhmUryXhh4"
+}

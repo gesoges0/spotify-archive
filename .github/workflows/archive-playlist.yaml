@@ -38,7 +38,16 @@ jobs:
           CLIENT_ID: ${{ secrets.CLIENT_ID }}
           CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
           USER_ID: ${{ secrets.USER_ID }}
+          SPOTIPY_CACHE: ${{ secrets.SPOTIFY_CACHE }}
         run: uv run src/archive.py archive-playlist --id $PLAYLIST_ID
+
+      # git add, git commit
+      - name: Commit changes
+        run: |
+          git config --global user.name 'GitHub Actions'
+          git config --global user.email '
+          git add archive
+          git commit -m "Archive playlist: ${{ github.event.inputs.playlist_id }}"
     
       # 手動実行したブランチに対してPRを作成する
       - name: Create pull request

@@ -59,7 +59,8 @@
         "total_tracks": 1
       },
       "duration_ms": 207333,
-      "popularity": 74
+      "popularity": 74,
+      "url": "https://open.spotify.com/track/5HQVUIKwCEXpe7JIHyY734"
     },
     {
       "id": "7lQ8MOhq6IN2w8EYcFNSUk",
@@ -104,7 +105,8 @@
         "total_tracks": 20
       },
       "duration_ms": 290320,
-      "popularity": 86
+      "popularity": 86,
+      "url": "https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk"
     },
     {
       "id": "6habFhsOp2NvshLv26DqMb",
@@ -154,7 +156,8 @@
         "total_tracks": 15
       },
       "duration_ms": 229360,
-      "popularity": 77
+      "popularity": 77,
+      "url": "https://open.spotify.com/track/6habFhsOp2NvshLv26DqMb"
     },
     {
       "id": "2cErTn7DU75ZILisPP34TB",
@@ -199,7 +202,8 @@
         "total_tracks": 12
       },
       "duration_ms": 184893,
-      "popularity": 61
+      "popularity": 61,
+      "url": "https://open.spotify.com/track/2cErTn7DU75ZILisPP34TB"
     },
     {
       "id": "7iXF2W9vKmDoGAhlHdpyIa",
@@ -249,7 +253,8 @@
         "total_tracks": 23
       },
       "duration_ms": 222293,
-      "popularity": 76
+      "popularity": 76,
+      "url": "https://open.spotify.com/track/7iXF2W9vKmDoGAhlHdpyIa"
     }
   ],
   "description": "Playlist created by the tutorial on developer.spotify.com",

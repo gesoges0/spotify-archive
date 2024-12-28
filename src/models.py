@@ -1,5 +1,7 @@
 from dataclasses import dataclass
 
+from markdown import Markdown
+
 
 @dataclass(frozen=True)
 class Playlist:
@@ -30,6 +32,35 @@ class Playlist:
             tracks=tracks,
         )
 
+    @property
+    def readme(self) -> str:
+        traks_text = "\n".join(
+            [
+                f"| [{t.name}]({t.url}) | {' & '.join(a.name for a in t.artists)} | [{t.album.name}]({t.album.url}) | {t.min_and_sec[0]}分{t.min_and_sec[1]}秒 | {t.popularity} |"
+                for t in self.tracks
+            ]
+        )
+        markdown_text = f"""
+# {self.name}        
+
+## Description
+{self.description}        
+
+## Owner
+[Owner]({self.owner.url})        
+
+## Tracks
+| Track | Artist | Album | Duration | Popularity |
+| ----- | ------ | ----- | -------- | ---------- |
+{traks_text}
+        """
+        return markdown_text
+
+    @property
+    def html(self) -> str:
+        md = Markdown()
+        return md.convert(self.readme)
+
 
 @dataclass(frozen=True)
 class Track:
@@ -37,8 +68,9 @@ class Track:
     name: str
     artists: list["Artist"]
     album: "Album"
-    duration_ms: int
-    popularity: int
+    duration_ms: int  # ミリ秒
+    popularity: int  # 0-100の値で、そのトラックがどれだけ人気があるかを示す
+    url: str
 
     @classmethod
     def from_dict(cls, track: dict):
@@ -51,7 +83,12 @@ class Track:
             album=Album.from_dict(track["album"]),
             duration_ms=track["duration_ms"],
             popularity=track["popularity"],
+            url=track["external_urls"]["spotify"],
         )
+
+    @property
+    def min_and_sec(self) -> tuple[int, int]:
+        return divmod(self.duration_ms // 1000, 60)
 
 
 @dataclass(frozen=True)

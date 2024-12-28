@@ -35,14 +35,14 @@ class Playlist:
     @property
     def readme(self) -> str:
         trakcs = []
-        for t in self.tracks:
+        for i, t in enumerate(self.tracks):
             name = f"[{t.name}]({t.url})"
             artists = " & ".join(f"[{a.name}]({a.url})" for a in t.artists)
             album = f"[{t.album.name}]({t.album.url})"
             duration = f"{t.min_and_sec[0]}分{t.min_and_sec[1]}秒"
             popularity = t.popularity
             trakcs.append(
-                f"| {name} | {artists} | {album} | {duration} | {popularity} |"
+                f"| {i+1} | {name} | {artists} | {album} | {duration} | {popularity} |"
             )
         traks_text = "\n".join(trakcs)
         title = f"# {self.name}" if not self.name.startswith("# ") else self.name
@@ -54,8 +54,9 @@ class Playlist:
 ## Owner
 [{self.owner.display_name}]({self.owner.url})
 
-
 ## Tracks
+{len(self.tracks)} tracks
+
 | Track | Artist | Album | Duration | Popularity |
 | ----- | ------ | ----- | -------- | ---------- |
 {traks_text}

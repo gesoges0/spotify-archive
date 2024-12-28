@@ -41,7 +41,7 @@ def import_archive():
 def archive_playlist(id: str):
     playlist = Playlist.from_playlist_dict(sp.playlist(id))
     pprint.pprint(asdict(playlist))
-    dir = Path(f"archive/albums/{playlist.owner.id}")
+    dir = Path(f"archive/playlists/{playlist.owner.id}")
     json_path = dir / f"{playlist.id}.json"
     readme_path = dir / "README.md"
     if not dir.exists():

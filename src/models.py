@@ -41,8 +41,10 @@ class Playlist:
             album = f"[{t.album.name}]({t.album.url})"
             duration = f"{t.min_and_sec[0]}分{t.min_and_sec[1]}秒"
             popularity = t.popularity
-            trakcs.append(f"| {name} | {artists} | {album} | {duration} | {popularity} |\n")
-        traks_text = "".join(trakcs)
+            trakcs.append(
+                f"| {name} | {artists} | {album} | {duration} | {popularity} |"
+            )
+        traks_text = "\n".join(trakcs)
         title = f"# {self.name}" if not self.name.startswith("# ") else self.name
         return f"""{title}
 
@@ -102,7 +104,9 @@ class Artist:
 
     @classmethod
     def from_dict(cls, artist: dict):
-        return cls(id=artist["id"], name=artist["name"], url=artist["external_urls"]["spotify"])
+        return cls(
+            id=artist["id"], name=artist["name"], url=artist["external_urls"]["spotify"]
+        )
 
 
 @dataclass(frozen=True)

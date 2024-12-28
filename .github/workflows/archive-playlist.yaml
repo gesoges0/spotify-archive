@@ -1,0 +1,49 @@
+name: Archive Playlist
+
+on:
+  workflow_dispatch:  # 手動トリガーでの入力
+    inputs:
+      playlist_id:
+        description: 'Playlist ID'
+        required: true
+        default: '3fnbbwZjv6wTI5VcEOSlSW'
+
+jobs:
+  archive-playlist:
+    name: Archive Playlist
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Install uv
+        uses: astral-sh/setup-uv@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version-file: ".python-version"
+
+      - name: Install dependencies
+        run: uv sync
+
+      - name: Archive playlist
+        env:
+          PLAYLIST_ID: ${{ github.event.inputs.playlist_id }}
+        run: uv run archive-playlist --playlist-id $PLAYLIST_ID
+    
+      # 手動実行したブランチに対してPRを作成する
+      - name: Create pull request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: 'Archive playlist: ${{ github.event.inputs.playlist_id }}'
+          title: 'Archive Playlist for ID ${{ github.event.inputs.playlist_id }}'
+          body: |
+            This PR archives the playlist with ID: ${{ github.event.inputs.playlist_id }}.
+            
+            Triggered manually via workflow_dispatch.
+          branch: 'archive-playlist-${{ github.event.inputs.playlist_id }}'
+          base: ${{ github.ref_name }}
+

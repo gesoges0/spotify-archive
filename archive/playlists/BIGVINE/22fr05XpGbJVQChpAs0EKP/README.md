@@ -9,8 +9,8 @@
 ## Tracks
 19 tracks
 
-| Track | Artist | Album | Duration | Popularity |
-| ----- | ------ | ----- | -------- | ---------- |
+| no | Track | Artist | Album | Duration | Popularity |
+| -- | ----- | ------ | ----- | -------- | ---------- |
 | 1 | [innocent starter](https://open.spotify.com/track/6HAAG01wmaFg7mjDBwRpZH) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [innocent starter](https://open.spotify.com/album/3Mm5J6uZ8yN30jCdODv856) | 4分41秒 | 27 |
 | 2 | [Take a shot](https://open.spotify.com/track/79wJSBmb8e3wRR8j9znvk0) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [ALIVE&KICKING](https://open.spotify.com/album/1huJVCFa253gaYPx6P2f3i) | 4分10秒 | 23 |
 | 3 | [ETERNAL BLAZE](https://open.spotify.com/track/4xWpriGI2MYpeMXfPkTkxr) | [Nana Mizuki](https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE) | [ETERNAL BLAZE](https://open.spotify.com/album/2nvexCedsx1QDH9CuCD0cV) | 5分8秒 | 25 |

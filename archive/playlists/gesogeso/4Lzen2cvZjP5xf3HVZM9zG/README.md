@@ -9,8 +9,8 @@
 ## Tracks
 10 tracks
 
-| Track | Artist | Album | Duration | Popularity |
-| ----- | ------ | ----- | -------- | ---------- |
+| no | Track | Artist | Album | Duration | Popularity |
+| -- | ----- | ------ | ----- | -------- | ---------- |
 | 1 | [残響散歌](https://open.spotify.com/track/2cErTn7DU75ZILisPP34TB) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Open α Door](https://open.spotify.com/album/4BJ7PY6YSfHY9pu2nDFBiy) | 3分4秒 | 61 |
 | 2 | [蝶々結び](https://open.spotify.com/track/3HxJaKzob7tdcr4qmqfR1d) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [daydream](https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw) | 5分5秒 | 53 |
 | 3 | [Ref:rain](https://open.spotify.com/track/6MNY72T605kPIOH3hnioxu) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Penny Rain](https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B) | 4分49秒 | 53 |

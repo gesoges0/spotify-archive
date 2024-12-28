@@ -57,8 +57,8 @@ class Playlist:
 ## Tracks
 {len(self.tracks)} tracks
 
-| Track | Artist | Album | Duration | Popularity |
-| ----- | ------ | ----- | -------- | ---------- |
+| no | Track | Artist | Album | Duration | Popularity |
+| -- | ----- | ------ | ----- | -------- | ---------- |
 {traks_text}
         """
 

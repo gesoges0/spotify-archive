@@ -35,6 +35,9 @@ jobs:
       - name: Archive playlist
         env:
           PLAYLIST_ID: ${{ github.event.inputs.playlist_id }}
+          CLIENT_ID: ${{ secrets.CLIENT_ID }}
+          CLIENT_SECRET: ${{ secrets.CLIENT_SECRET }}
+          USER_ID: ${{ secrets.USER_ID }}
         run: uv run src/archive.py archive-playlist --id $PLAYLIST_ID
     
       # 手動実行したブランチに対してPRを作成する

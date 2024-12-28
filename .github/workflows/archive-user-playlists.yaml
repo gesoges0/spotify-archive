@@ -1,4 +1,4 @@
-name: Archive Playlist
+name: Archive User Playlists
 
 on:
   workflow_dispatch:  # 手動トリガーでの入力
@@ -14,7 +14,7 @@ permissions:
 
 jobs:
   archive-user-playlists:
-    name: Archive Playlist
+    name: Archive User Playlists
     runs-on: ubuntu-latest
 
     steps:

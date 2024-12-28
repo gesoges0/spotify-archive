@@ -10,12 +10,12 @@ https://open.spotify.com/playlist/01BPCMiueGeMcb61XgYMAw
 # Statistics
 num tracks: 1
 
-duration: 3:8
+duration: 03:08
 
 primary artists: [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F)
 
 ## Tracks
 | no | Track | Artist | Album | Duration | Popularity |
 | -- | ----- | ------ | ----- | -------- | ---------- |
-| 1 | [名もなき何もかも](https://open.spotify.com/track/5W0wKSkwxyX5gwgn7T6ZMI) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [名もなき何もかも](https://open.spotify.com/album/4bzn2CGdvOkP6ELLDBYEU2) | 3:8 | 36 |
+| 1 | [名もなき何もかも](https://open.spotify.com/track/5W0wKSkwxyX5gwgn7T6ZMI) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [名もなき何もかも](https://open.spotify.com/album/4bzn2CGdvOkP6ELLDBYEU2) | 03:08 | 36 |
         

@@ -1,4 +1,5 @@
-[# 洋楽（適当）]()
+# 洋楽（適当）
+https://open.spotify.com/playlist/6CpQWdViAFjjnXCEudZVQR
 
 ## Description
 

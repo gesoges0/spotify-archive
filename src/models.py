@@ -48,7 +48,8 @@ class Playlist:
             )
         traks_text = "\n".join(trakcs)
         title = f"# {self.name}" if not self.name.startswith("# ") else self.name
-        return f"""[{title}]()
+        return f"""{title}
+{self.url}
 
 ## Description
 {self.description}

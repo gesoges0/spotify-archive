@@ -1,4 +1,5 @@
-[# リリカルなのはシリーズ楽曲]()
+# リリカルなのはシリーズ楽曲
+https://open.spotify.com/playlist/22fr05XpGbJVQChpAs0EKP
 
 ## Description
 

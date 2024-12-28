@@ -5,14 +5,23 @@ from dataclasses import dataclass
 import spotipy
 from dotenv import load_dotenv
 from markdown import Markdown
-from spotipy.oauth2 import SpotifyClientCredentials
+from spotipy.oauth2 import SpotifyOAuth
 
 load_dotenv()
 
+# sp = spotipy.Spotify(
+#     auth_manager=SpotifyClientCredentials(
+#         client_id=os.environ["CLIENT_ID"],
+#         client_secret=os.environ["CLIENT_SECRET"],
+#     )
+# )
+
 sp = spotipy.Spotify(
-    auth_manager=SpotifyClientCredentials(
+    auth_manager=SpotifyOAuth(
         client_id=os.environ["CLIENT_ID"],
         client_secret=os.environ["CLIENT_SECRET"],
+        redirect_uri="http://localhost:5000/callback",
+        scope="playlist-modify-public playlist-modify-private playlist-read-private",
     )
 )
 
@@ -213,3 +222,25 @@ class Owner:
             url=owner["external_urls"]["spotify"],
             id=owner["id"],
         )
+
+
+class MyPlaylist:
+    def __init__(self):
+        self.user_id = os.environ.get("USER_ID")
+
+    def import_playlist(self, playlist: dict):
+        new_playlist = sp.user_playlist_create(
+            self.user_id, playlist["name"], public=False
+        )
+        if not new_playlist:
+            print("failed to create playlist")
+            return
+        chunk_size = 100
+        track_ids = [track["id"] for track in playlist["tracks"]]
+        for i in range(0, len(track_ids), chunk_size):
+            chunk = track_ids[i : i + chunk_size]
+            sp.user_playlist_add_tracks(
+                self.user_id,
+                new_playlist["id"],
+                chunk,
+            )

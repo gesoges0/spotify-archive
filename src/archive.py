@@ -1,5 +1,5 @@
+import glob
 import json
-import os
 import pprint
 from dataclasses import asdict
 from pathlib import Path
@@ -7,24 +7,33 @@ from pathlib import Path
 import click
 from dotenv import load_dotenv
 
-from models import Playlist
+from models import MyPlaylist, Playlist
 
 load_dotenv()
 
 
-# Spotify APIにアクセスするための認証
-my_user_id = os.environ.get("USER_ID")
-
-
-# FIXME: album idを指定して自身のアルバムに追加する関数を追加する
 @click.group()
 def main():
     pass
 
 
 @main.command()
-@click.option("--id", type=str, help="enter the album ID you want to import")
-def import_archive():
+@click.option("--id", type=str, help="enter the playlist ID you want to import")
+def import_playlist_archive(id: str):
+    # Get Archive Playlist
+    dirs = glob.glob(f"archive/playlists/*/{id}")
+    if not dirs:
+        print("No such playlist archive")
+        return
+    dir = Path(dirs[0])
+    json_path = dir / "output.json"
+    with json_path.open("r") as j:
+        playlist = json.load(j)
+
+    # Import Playlist
+    my_playlist = MyPlaylist()
+    my_playlist.import_playlist(playlist)
+
     pass
 
 

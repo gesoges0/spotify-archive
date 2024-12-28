@@ -22,7 +22,7 @@ sp = spotipy.Spotify(
         client_secret=os.environ["CLIENT_SECRET"],
         redirect_uri="http://localhost:5000/callback",
         scope="playlist-modify-public playlist-modify-private playlist-read-private",
-        cache_path=os.environ["SPOTIFY_CACHE"],
+        cache_path=os.environ["SPOTIPY_CACHE"],
     )
 )
 

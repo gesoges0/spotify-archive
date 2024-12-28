@@ -1,7 +1,7 @@
-# My top tracks playlist
+# Aimer
 
 ## Description
-Playlist created by the tutorial on developer.spotify.com
+
 
 ## Owner
 [gesogeso](https://open.spotify.com/user/llc1xxsoknqgh69956sifvyi5)
@@ -10,9 +10,14 @@ Playlist created by the tutorial on developer.spotify.com
 ## Tracks
 | Track | Artist | Album | Duration | Popularity |
 | ----- | ------ | ----- | -------- | ---------- |
-| [Young, Wild & Free (feat. Bruno Mars)](https://open.spotify.com/track/5HQVUIKwCEXpe7JIHyY734) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) & [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop) & [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Young, Wild & Free (feat. Bruno Mars)](https://open.spotify.com/album/11Bkx3E99vf0IlYPND61LJ) | 3分27秒 | 74 |
-| [Without Me](https://open.spotify.com/track/7lQ8MOhq6IN2w8EYcFNSUk) | [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [The Eminem Show](https://open.spotify.com/album/2cWBwpqMsDJC1ZUwz813lo) | 4分50秒 | 86 |
-| [Despacito](https://open.spotify.com/track/6habFhsOp2NvshLv26DqMb) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) & [Daddy Yankee](https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m) | [VIDA](https://open.spotify.com/album/5C0YLr4OoRGFDaqdMQmkeH) | 3分49秒 | 77 |
 | [残響散歌](https://open.spotify.com/track/2cErTn7DU75ZILisPP34TB) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Open α Door](https://open.spotify.com/album/4BJ7PY6YSfHY9pu2nDFBiy) | 3分4秒 | 61 |
-| [Forgot About Dre](https://open.spotify.com/track/7iXF2W9vKmDoGAhlHdpyIa) | [Dr. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7) & [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [2001](https://open.spotify.com/album/7q2B4M5EiBkqrlsNW8lB7N) | 3分42秒 | 76 |
+| [蝶々結び](https://open.spotify.com/track/3HxJaKzob7tdcr4qmqfR1d) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [daydream](https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw) | 5分5秒 | 53 |
+| [Ref:rain](https://open.spotify.com/track/6MNY72T605kPIOH3hnioxu) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Penny Rain](https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B) | 4分49秒 | 53 |
+| [茜さす](https://open.spotify.com/track/30XbmTKe98OeqxEx6q8AQI) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [茜さす/everlasting snow](https://open.spotify.com/album/1SGdM51B5EFXEcoaa4F8se) | 5分30秒 | 39 |
+| [花の唄](https://open.spotify.com/track/3oSavJ5fMvJWZyR9zNHMte) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Penny Rain](https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B) | 6分11秒 | 42 |
+| [I beg you](https://open.spotify.com/track/5kKSQULHCPFE7CKMPrkAtP) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Penny Rain](https://open.spotify.com/album/5WxSamBTcE3P1W6sT9My7B) | 4分27秒 | 47 |
+| [春はゆく](https://open.spotify.com/track/2RSrmN9IbgDQTmGhv5X9eX) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [春はゆく / marie](https://open.spotify.com/album/2yo4hx7Z6ZGGrZFmJ36E9u) | 5分4秒 | 29 |
+| [遥か](https://open.spotify.com/track/4sPGTpguVhyD2KkMKTiJOu) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [遥か / 800 / End of All / Ref:rain -3 nuits ver.-](https://open.spotify.com/album/2s6oAbsnZxb2CfmxsHbOcy) | 3分14秒 | 41 |
+| [ONE](https://open.spotify.com/track/01jAlHee4psROggfWjk8hp) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Sun Dance](https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA) | 5分28秒 | 44 |
+| [StarRingChild](https://open.spotify.com/track/3Xzb9D64WsKmYcV8AGMmeu) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Midnight Sun](https://open.spotify.com/album/5tWOnk7nrqGc6Fhqe74Kse) | 5分28秒 | 45 |
         

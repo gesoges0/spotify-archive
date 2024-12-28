@@ -5,7 +5,7 @@ from dataclasses import dataclass
 import spotipy
 from dotenv import load_dotenv
 from markdown import Markdown
-from spotipy.oauth2 import SpotifyOAuth, SpotifyClientCredentials
+from spotipy.oauth2 import SpotifyClientCredentials, SpotifyOAuth
 
 load_dotenv()
 

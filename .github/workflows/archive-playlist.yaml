@@ -65,8 +65,6 @@ jobs:
       # 手動実行したブランチに対してPRを作成する
       - name: Create pull request
         uses: peter-evans/create-pull-request@v7
-        env:
-          BRANCH: ${{ env.BRANCH }}
         with:
           token: ${{ secrets.ACCESS_TOKEN }}
           commit-message: 'Archive playlist: ${{ github.event.inputs.playlist_id }}'
@@ -75,5 +73,5 @@ jobs:
             This PR archives the playlist with ID: ${{ github.event.inputs.playlist_id }}.
             
             Triggered manually via workflow_dispatch.
-          branch: '${BRANCH}'
+          branch: ${{ env.BRANCH }}
           base: '${{ github.ref_name }}'

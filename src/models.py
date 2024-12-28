@@ -1,6 +1,19 @@
+import os
 from dataclasses import dataclass
 
+import spotipy
+from dotenv import load_dotenv
 from markdown import Markdown
+from spotipy.oauth2 import SpotifyClientCredentials
+
+load_dotenv()
+
+sp = spotipy.Spotify(
+    auth_manager=SpotifyClientCredentials(
+        client_id=os.environ["CLIENT_ID"],
+        client_secret=os.environ["CLIENT_SECRET"],
+    )
+)
 
 
 @dataclass(frozen=True)
@@ -23,8 +36,26 @@ class Playlist:
     url: str
 
     @classmethod
-    def from_playlist_dict(cls, playlist: dict):
-        tracks = [Track.from_dict(track) for track in playlist["tracks"]["items"]]
+    def from_playlist_id(cls, playlist_id: int):
+        playlist = sp.playlist(playlist_id)
+        if not playlist:
+            print("playlist not found")
+            return None
+
+        # tracks = [Track.from_dict(track) for track in playlist["tracks"]["items"]]
+        offset = 0
+        limit = 100
+        tracks = []
+        while True:
+            print(f"{offset=}")
+            playlist_tracks = sp.playlist_tracks(
+                playlist_id, limit=limit, offset=offset
+            )
+            tracks.extend([Track.from_dict(t) for t in playlist_tracks["items"]])
+            if len(playlist_tracks["items"]) < limit:
+                break
+            offset += limit
+
         return cls(
             id=playlist["id"],
             owner=Owner.from_dict(playlist["owner"]),

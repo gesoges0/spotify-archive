@@ -31,7 +31,7 @@ jobs:
       - name: Archive playlist
         env:
           PLAYLIST_ID: ${{ github.event.inputs.playlist_id }}
-        run: uv run archive-playlist --playlist-id $PLAYLIST_ID
+        run: uv python src/archive.py archive-playlist --id $PLAYLIST_ID
     
       # 手動実行したブランチに対してPRを作成する
       - name: Create pull request

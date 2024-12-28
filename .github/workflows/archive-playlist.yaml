@@ -75,5 +75,5 @@ jobs:
             This PR archives the playlist with ID: ${{ github.event.inputs.playlist_id }}.
             
             Triggered manually via workflow_dispatch.
-          branch: "${BRANCH}"
+          branch: '${BRANCH}'
           base: '${{ github.ref_name }}'

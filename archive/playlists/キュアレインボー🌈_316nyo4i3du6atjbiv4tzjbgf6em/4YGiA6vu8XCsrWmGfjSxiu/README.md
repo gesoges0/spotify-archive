@@ -1,0 +1,37 @@
+# プリキュア全曲 (春映画ver.)
+https://open.spotify.com/playlist/4YGiA6vu8XCsrWmGfjSxiu
+
+## Description
+春映画の主題歌全曲です。発売日順。｢ふたりはプリキュア｣｢ふたりはプリキュアMaxHeart｣｢ふたりはプリキュアSplashStar｣｢Yesプリキュア5｣｢フレッシュプリキュア｣｢ハートキャッチプリキュア｣｢スイートプリキュア｣｢スマイルプリキュア｣｢ドキドキプリキュア｣｢GOプリンセスプリキュア｣｢魔法つかいプリキュア｣｢キラキラプリキュアアラモード｣｢HUGっとプリキュア｣｢スタートゥインクルプリキュア｣｢ヒーリングっどプリキュア｣｢トロピカル〜ジュプリキュア｣｢デリシャスパーティプリキュア｣｢ひろがるスカイプリキュア｣｢わんだふるぷりきゅあ｣｢キミとアイドルプリキュア｣
+
+## Owner
+[キュアレインボー🌈](https://open.spotify.com/user/316nyo4i3du6atjbiv4tzjbgf6em)
+
+# Statistics
+num tracks: 17
+
+duration: 75:38
+
+primary artists: [Yumi Kudo](https://open.spotify.com/artist/5BrmaO8LJhSfz1HNYQg0Le) & [Rie Kitagawa](https://open.spotify.com/artist/5gUgmKBGwuJUJfdkdvtWTm) & [Mayumi Gojo](https://open.spotify.com/artist/2TIKjS1AvfUGY9HezSZSIg)
+
+## Tracks
+| no | Track | Artist | Album | Duration | Popularity |
+| -- | ----- | ------ | ----- | -------- | ---------- |
+| 1 | [キラキラkawaii！プリキュア大集合♪](https://open.spotify.com/track/41XaAYvObPffMqmzMQXOHG) | [Mayumi Gojo](https://open.spotify.com/artist/2TIKjS1AvfUGY9HezSZSIg) & [キュア・デラックス](https://open.spotify.com/artist/5sONn4ba0fCYLzVSHOL9Qv) | [「映画プリキュアオールスターズDX」主題歌（キラキラkawaii！プリキュア大集合♪／プリキュア、奇跡デラックス）](https://open.spotify.com/album/0E1x0O9OmYOImP4Lio2FWG) | 03:57 | 14 |
+| 2 | [プリキュア、奇跡デラックス](https://open.spotify.com/track/5AOm3xirTGiH1zyqEXFer5) | [Yumi Kudo](https://open.spotify.com/artist/5BrmaO8LJhSfz1HNYQg0Le) & [キュア・デラックス](https://open.spotify.com/artist/5sONn4ba0fCYLzVSHOL9Qv) | [「映画プリキュアオールスターズDX」主題歌（キラキラkawaii！プリキュア大集合♪／プリキュア、奇跡デラックス）](https://open.spotify.com/album/0E1x0O9OmYOImP4Lio2FWG) | 04:29 | 10 |
+| 3 | [キラキラkawaii！プリキュア大集合♪～キボウの光～](https://open.spotify.com/track/31paXegT1o1sDD551QfUHV) | [池田彩](https://open.spotify.com/artist/7LeJxu5o5HLfq4nBdBgFfr) & [ヤング・フレッシュ](https://open.spotify.com/artist/57EfKVyWb4KoQsZ5CNJMQd) | [「映画プリキュアオールスターズＤＸ２ 希望の光☆レインボージュエルを守れ！」主題歌 キラキラkawaii!プリキュア大集合～キボウの光～/17jewels～プリキュアメドレー2010～](https://open.spotify.com/album/7zrS34zw8gQ7rNSoZCnqit) | 03:46 | 10 |
+| 4 | [17jewels～プリキュアメドレー2010～](https://open.spotify.com/track/2VsQl1PGaT9zcbkn01qYtO) | [池田彩](https://open.spotify.com/artist/7LeJxu5o5HLfq4nBdBgFfr) & [Yumi Kudo](https://open.spotify.com/artist/5BrmaO8LJhSfz1HNYQg0Le) & [ヤング・フレッシュ](https://open.spotify.com/artist/57EfKVyWb4KoQsZ5CNJMQd) | [「映画プリキュアオールスターズＤＸ２ 希望の光☆レインボージュエルを守れ！」主題歌 キラキラkawaii!プリキュア大集合～キボウの光～/17jewels～プリキュアメドレー2010～](https://open.spotify.com/album/7zrS34zw8gQ7rNSoZCnqit) | 05:12 | 14 |
+| 5 | [キラキラkawaii！プリキュア大集合♪～いのちの花～](https://open.spotify.com/track/3QXUBLoDW8rJ2nazR4XQDu) | [Mayumi Gojo](https://open.spotify.com/artist/2TIKjS1AvfUGY9HezSZSIg) & [うちやえゆか](https://open.spotify.com/artist/4WBOJBHJLNQwKkJ7t3Anmj) & [Yumi Kudo](https://open.spotify.com/artist/5BrmaO8LJhSfz1HNYQg0Le) | [「映画プリキュアオールスターズDX3　未来にとどけ！ 世界をつなぐ☆虹色の花」主題歌シングル　『キラキラkawaii！プリキュア大集合♪～いのちの花～／ありがとうがいっぱい』【通常盤】](https://open.spotify.com/album/18RmT6vHz9CLet6A89G5mJ) | 03:57 | 23 |
+| 6 | [ありがとうがいっぱい](https://open.spotify.com/track/06jCYorDkqJxugE7jgTv7M) | [キュア・レインボーズ(五條真由美, うちやえゆか, 工藤真由, 宮本佳那子, 茂家瑞季, 林桃子, 池田彩)](https://open.spotify.com/artist/16HrTP4kt12HiXo7CB5JS9) | [「映画プリキュアオールスターズDX3　未来にとどけ！ 世界をつなぐ☆虹色の花」主題歌シングル　『キラキラkawaii！プリキュア大集合♪～いのちの花～／ありがとうがいっぱい』【通常盤】](https://open.spotify.com/album/18RmT6vHz9CLet6A89G5mJ) | 05:01 | 12 |
+| 7 | [プリキュア〜永遠のともだち〜](https://open.spotify.com/track/16vdIYS1nMbGvlWg2j0K5e) | [Yumi Kudo](https://open.spotify.com/artist/5BrmaO8LJhSfz1HNYQg0Le) | [「映画プリキュアオールスターズNew Stage みらいのともだち」主題歌シングル プリキュア〜永遠のともだち〜/c/w：トモダチ](https://open.spotify.com/album/2QCEmRtSkIJejOObzcGqDt) | 04:52 | 22 |
+| 8 | [プリキュア～永遠のともだち～(2013 Version)](https://open.spotify.com/track/4UFMyMmMSIJmINBpeGMEvr) | [Yumi Kudo](https://open.spotify.com/artist/5BrmaO8LJhSfz1HNYQg0Le) & [Hitomi Yoshida](https://open.spotify.com/artist/2mSYYcBz7HbVlZHZtmCP9q) & [Tomoyo Kurosawa](https://open.spotify.com/artist/3eGpRDYPGVMcYsn2fC8sos) | [「映画プリキュアオールスターズNew Stage２　こころのともだち」主題歌シングル プリキュア～永遠のともだち～（2013 Version)/ｃ/w:みんなともだち](https://open.spotify.com/album/1leLhLBVTRVy6VjRuFFDqK) | 04:53 | 19 |
+| 9 | [プリキュア～永遠のともだち～(2014 ｖersion)](https://open.spotify.com/track/4oeTgHx9NJ73x7ssJFiHgp) | [Yumi Kudo](https://open.spotify.com/artist/5BrmaO8LJhSfz1HNYQg0Le) & [キュアハート(CV:生天目仁美)](https://open.spotify.com/artist/0v1KmnSUvxm2CZvlCzhgxM) & [キュアラブリー(CV:中島 愛)](https://open.spotify.com/artist/1vkdmy9ZQCL8rAkA77HWGN) | [「映画プリキュアオールスターズNew Stage３　永遠のともだち」主題歌シングル プリキュア～永遠のともだち～（2014 Version)　ｃ/w　プリキュア・メモリ(NewStage3 Version)](https://open.spotify.com/album/4lIED1axidjjL7m4oMxZUF) | 04:54 | 19 |
+| 10 | [プリキュア・メモリ(NewStage3 Version)](https://open.spotify.com/track/3VVmq2UvsgokrY6v4NLIqs) | [キュアハッピー(CV:福圓美里)](https://open.spotify.com/artist/4XtJlyiFLiIiqo01fosKLu) & [キュアメロディ(CV:小清水亜美)](https://open.spotify.com/artist/1Ms8ORFFrlC6w3PSWGi9iQ) & [キュアラブリー(CV:中島 愛)](https://open.spotify.com/artist/1vkdmy9ZQCL8rAkA77HWGN) & [キュアハート(CV:生天目仁美)](https://open.spotify.com/artist/0v1KmnSUvxm2CZvlCzhgxM) & [キュアピーチ(CV:沖 佳苗)](https://open.spotify.com/artist/5xaN45JNuLVizQbQlu7u8q) & [キュアブロッサム(CV:水樹奈々)](https://open.spotify.com/artist/7laISCJnRFQjaE5FQghQbK) & [キュアブルーム(CV:樹元オリエ)](https://open.spotify.com/artist/3ghHhzfl5ZK0gBsV8vKmfv) & [キュアドリーム(CV:三瓶由布子)](https://open.spotify.com/artist/6GutXzkMqOxNCMOmhCCOW4) & [キュアブラック(CV:本名陽子)](https://open.spotify.com/artist/7aRO5vsbEh5NHBglDMBQu8) | [「映画プリキュアオールスターズNew Stage３　永遠のともだち」主題歌シングル プリキュア～永遠のともだち～（2014 Version)　ｃ/w　プリキュア・メモリ(NewStage3 Version)](https://open.spotify.com/album/4lIED1axidjjL7m4oMxZUF) | 03:44 | 22 |
+| 11 | [みんながいるから☆プリキュアオールスターズ](https://open.spotify.com/track/3QgJp9Q0xyygozB43F9mPR) | [プリキュアオールスターズ](https://open.spotify.com/artist/15utaoybqzWjrbDxEQZZ5g) | [映画 プリキュアオールスターズ みんなで歌う♪奇跡の魔法! ミュージカルソングス](https://open.spotify.com/album/2Obkj9k5zoqdID4BOAluUk) | 03:52 | 21 |
+| 12 | [桜MISSION～プリキュアリレーション～](https://open.spotify.com/track/2AG7SJQ1sWO962ybndMCmG) | [Rie Kitagawa](https://open.spotify.com/artist/5gUgmKBGwuJUJfdkdvtWTm) & [うちやえゆか](https://open.spotify.com/artist/4WBOJBHJLNQwKkJ7t3Anmj) & [Mayumi Gojo](https://open.spotify.com/artist/2TIKjS1AvfUGY9HezSZSIg) | [「映画プリキュアドリームスターズ！」主題歌シングル【通常盤】OP：桜MISSION～プリキュアリレーション～／ED：君を呼ぶ場所](https://open.spotify.com/album/16yx9oniip4O7vigbVH10b) | 04:38 | 12 |
+| 13 | [明日笑顔になぁれ！](https://open.spotify.com/track/4XE0OakvklylQiljuyMP5T) | [Rie Kitagawa](https://open.spotify.com/artist/5gUgmKBGwuJUJfdkdvtWTm) | [「映画プリキュアスーパースターズ！」主題歌シングル](https://open.spotify.com/album/49lWoZt0oYu1uD5sUla29i) | 04:25 | 6 |
+| 14 | [七色の世界](https://open.spotify.com/track/5hlG62mMLsRddc2Xwcfc6Q) | [Kanako Miyamoto](https://open.spotify.com/artist/0bJzcs8fztcxmrDfVAK1Sc) | [「映画プリキュアスーパースターズ！」主題歌シングル](https://open.spotify.com/album/49lWoZt0oYu1uD5sUla29i) | 04:54 | 4 |
+| 15 | [WINくる！プリキュアミラクルユニバース☆](https://open.spotify.com/track/0npYCFz2U6PYS5CkTZ6thA) | [Rie Kitagawa](https://open.spotify.com/artist/5gUgmKBGwuJUJfdkdvtWTm) | [「映画プリキュアミラクルユニバース」主題歌シングル【通常盤】](https://open.spotify.com/album/5y5s8Hq6JDAUGleTPJe636) | 04:24 | 17 |
+| 16 | [プリキュア！カナYell☆ミラクル](https://open.spotify.com/track/5dWtY0V8wE2Ca8opWTADKX) | [Kanako Miyamoto](https://open.spotify.com/artist/0bJzcs8fztcxmrDfVAK1Sc) | [「映画プリキュアミラクルユニバース」主題歌シングル【通常盤】](https://open.spotify.com/album/5y5s8Hq6JDAUGleTPJe636) | 04:29 | 9 |
+| 17 | [Circle Love～サクラ～](https://open.spotify.com/track/1jenwH6lR4uHLNJnXcdcKx) | [Rie Kitagawa](https://open.spotify.com/artist/5gUgmKBGwuJUJfdkdvtWTm) | [『映画プリキュアミラクルリープ みんなとの不思議な１日』テーマソングシングル 【通常盤】](https://open.spotify.com/album/3OjWTuQOuiNZgQg791TMLu) | 04:04 | 10 |
+        

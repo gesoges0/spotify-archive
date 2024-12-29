@@ -1,0 +1,5451 @@
+{
+  "id": "2xRsx0AXznCIVxQDpsvioM",
+  "tracks": [
+    {
+      "id": "40vuY4ttgMGIupkqKK3zqz",
+      "name": "見よ!! ゴレンジャー",
+      "artists": [
+        {
+          "id": "1lEkk1df7Xoc5urJBV58V6",
+          "name": "ささきいさお",
+          "url": "https://open.spotify.com/artist/1lEkk1df7Xoc5urJBV58V6"
+        }
+      ],
+      "album": {
+        "id": "6aVFvcICP7ngn7ckX4D4K6",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c36c5e5275f4c8e6e2c4b496",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c36c5e5275f4c8e6e2c4b496",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c36c5e5275f4c8e6e2c4b496",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集I",
+        "release_date": "2003-11-19",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6aVFvcICP7ngn7ckX4D4K6",
+        "total_tracks": 65
+      },
+      "duration_ms": 166733,
+      "popularity": 7,
+      "url": "https://open.spotify.com/track/40vuY4ttgMGIupkqKK3zqz"
+    },
+    {
+      "id": "3RuWsDZgLxLFX8PZ7hGa6z",
+      "name": "とべ! バリブルーン",
+      "artists": [
+        {
+          "id": "1lEkk1df7Xoc5urJBV58V6",
+          "name": "ささきいさお",
+          "url": "https://open.spotify.com/artist/1lEkk1df7Xoc5urJBV58V6"
+        }
+      ],
+      "album": {
+        "id": "6aVFvcICP7ngn7ckX4D4K6",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c36c5e5275f4c8e6e2c4b496",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c36c5e5275f4c8e6e2c4b496",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c36c5e5275f4c8e6e2c4b496",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集I",
+        "release_date": "2003-11-19",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6aVFvcICP7ngn7ckX4D4K6",
+        "total_tracks": 65
+      },
+      "duration_ms": 177933,
+      "popularity": 4,
+      "url": "https://open.spotify.com/track/3RuWsDZgLxLFX8PZ7hGa6z"
+    },
+    {
+      "id": "073xfk2pHPrCZJLEyNLT8x",
+      "name": "J.A.K.Q.進めジャッカー",
+      "artists": [
+        {
+          "id": "1lEkk1df7Xoc5urJBV58V6",
+          "name": "ささきいさお",
+          "url": "https://open.spotify.com/artist/1lEkk1df7Xoc5urJBV58V6"
+        }
+      ],
+      "album": {
+        "id": "6aVFvcICP7ngn7ckX4D4K6",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c36c5e5275f4c8e6e2c4b496",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c36c5e5275f4c8e6e2c4b496",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c36c5e5275f4c8e6e2c4b496",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集I",
+        "release_date": "2003-11-19",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6aVFvcICP7ngn7ckX4D4K6",
+        "total_tracks": 65
+      },
+      "duration_ms": 225626,
+      "popularity": 2,
+      "url": "https://open.spotify.com/track/073xfk2pHPrCZJLEyNLT8x"
+    },
+    {
+      "id": "0ecfDlrkPhkSYardwISdoj",
+      "name": "バトルフィーバー大出撃",
+      "artists": [
+        {
+          "id": "7EhMQ6pNrTq7r9IlIxqG24",
+          "name": "Ichirou Mizuki",
+          "url": "https://open.spotify.com/artist/7EhMQ6pNrTq7r9IlIxqG24"
+        }
+      ],
+      "album": {
+        "id": "6aVFvcICP7ngn7ckX4D4K6",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c36c5e5275f4c8e6e2c4b496",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c36c5e5275f4c8e6e2c4b496",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c36c5e5275f4c8e6e2c4b496",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集I",
+        "release_date": "2003-11-19",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6aVFvcICP7ngn7ckX4D4K6",
+        "total_tracks": 65
+      },
+      "duration_ms": 227293,
+      "popularity": 2,
+      "url": "https://open.spotify.com/track/0ecfDlrkPhkSYardwISdoj"
+    },
+    {
+      "id": "0mSexzyMZU9diFo8vvVrTu",
+      "name": "戦う電子戦隊デンジマン",
+      "artists": [
+        {
+          "id": "2KZzOMajyNUZP2oRsqcvf8",
+          "name": "成田 賢",
+          "url": "https://open.spotify.com/artist/2KZzOMajyNUZP2oRsqcvf8"
+        }
+      ],
+      "album": {
+        "id": "6aVFvcICP7ngn7ckX4D4K6",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c36c5e5275f4c8e6e2c4b496",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c36c5e5275f4c8e6e2c4b496",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c36c5e5275f4c8e6e2c4b496",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集I",
+        "release_date": "2003-11-19",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6aVFvcICP7ngn7ckX4D4K6",
+        "total_tracks": 65
+      },
+      "duration_ms": 180666,
+      "popularity": 4,
+      "url": "https://open.spotify.com/track/0mSexzyMZU9diFo8vvVrTu"
+    },
+    {
+      "id": "3IKByU7mDYJ5f27p3de1rX",
+      "name": "1たす2たすサンバルカン",
+      "artists": [
+        {
+          "id": "0bSMYtPqoMqQoRNtZLoqMD",
+          "name": "Akira Kushida",
+          "url": "https://open.spotify.com/artist/0bSMYtPqoMqQoRNtZLoqMD"
+        }
+      ],
+      "album": {
+        "id": "6aVFvcICP7ngn7ckX4D4K6",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c36c5e5275f4c8e6e2c4b496",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c36c5e5275f4c8e6e2c4b496",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c36c5e5275f4c8e6e2c4b496",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集I",
+        "release_date": "2003-11-19",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6aVFvcICP7ngn7ckX4D4K6",
+        "total_tracks": 65
+      },
+      "duration_ms": 156440,
+      "popularity": 8,
+      "url": "https://open.spotify.com/track/3IKByU7mDYJ5f27p3de1rX"
+    },
+    {
+      "id": "15KlbtuK7ywX1yQeuAtXnL",
+      "name": "たたかいのテーマ",
+      "artists": [
+        {
+          "id": "0bSMYtPqoMqQoRNtZLoqMD",
+          "name": "Akira Kushida",
+          "url": "https://open.spotify.com/artist/0bSMYtPqoMqQoRNtZLoqMD"
+        }
+      ],
+      "album": {
+        "id": "6aVFvcICP7ngn7ckX4D4K6",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c36c5e5275f4c8e6e2c4b496",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c36c5e5275f4c8e6e2c4b496",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c36c5e5275f4c8e6e2c4b496",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集I",
+        "release_date": "2003-11-19",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6aVFvcICP7ngn7ckX4D4K6",
+        "total_tracks": 65
+      },
+      "duration_ms": 201866,
+      "popularity": 2,
+      "url": "https://open.spotify.com/track/15KlbtuK7ywX1yQeuAtXnL"
+    },
+    {
+      "id": "7KCeQKnvDYfWiXKbLYbNil",
+      "name": "ファイト! サンバルカンロボ",
+      "artists": [
+        {
+          "id": "0bSMYtPqoMqQoRNtZLoqMD",
+          "name": "Akira Kushida",
+          "url": "https://open.spotify.com/artist/0bSMYtPqoMqQoRNtZLoqMD"
+        }
+      ],
+      "album": {
+        "id": "6aVFvcICP7ngn7ckX4D4K6",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c36c5e5275f4c8e6e2c4b496",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c36c5e5275f4c8e6e2c4b496",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c36c5e5275f4c8e6e2c4b496",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集I",
+        "release_date": "2003-11-19",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6aVFvcICP7ngn7ckX4D4K6",
+        "total_tracks": 65
+      },
+      "duration_ms": 199426,
+      "popularity": 5,
+      "url": "https://open.spotify.com/track/7KCeQKnvDYfWiXKbLYbNil"
+    },
+    {
+      "id": "66gZwyZTedJXOyzSawRjuc",
+      "name": "輝け! サンバルカン",
+      "artists": [
+        {
+          "id": "7EhMQ6pNrTq7r9IlIxqG24",
+          "name": "Ichirou Mizuki",
+          "url": "https://open.spotify.com/artist/7EhMQ6pNrTq7r9IlIxqG24"
+        }
+      ],
+      "album": {
+        "id": "6aVFvcICP7ngn7ckX4D4K6",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c36c5e5275f4c8e6e2c4b496",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c36c5e5275f4c8e6e2c4b496",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c36c5e5275f4c8e6e2c4b496",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集I",
+        "release_date": "2003-11-19",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6aVFvcICP7ngn7ckX4D4K6",
+        "total_tracks": 65
+      },
+      "duration_ms": 204866,
+      "popularity": 2,
+      "url": "https://open.spotify.com/track/66gZwyZTedJXOyzSawRjuc"
+    },
+    {
+      "id": "2NQMkW8m6gij0TqgQqGcO1",
+      "name": "ぼくらのサンバルカン",
+      "artists": [
+        {
+          "id": "0bSMYtPqoMqQoRNtZLoqMD",
+          "name": "Akira Kushida",
+          "url": "https://open.spotify.com/artist/0bSMYtPqoMqQoRNtZLoqMD"
+        }
+      ],
+      "album": {
+        "id": "6aVFvcICP7ngn7ckX4D4K6",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c36c5e5275f4c8e6e2c4b496",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c36c5e5275f4c8e6e2c4b496",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c36c5e5275f4c8e6e2c4b496",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集I",
+        "release_date": "2003-11-19",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6aVFvcICP7ngn7ckX4D4K6",
+        "total_tracks": 65
+      },
+      "duration_ms": 189066,
+      "popularity": 2,
+      "url": "https://open.spotify.com/track/2NQMkW8m6gij0TqgQqGcO1"
+    },
+    {
+      "id": "6otLv1YhZ8V0aJRq6x7p7e",
+      "name": "フラッシュ! ゴーグルV",
+      "artists": [
+        {
+          "id": "1tcokKxKkn8oO462qUWPVf",
+          "name": "MoJo",
+          "url": "https://open.spotify.com/artist/1tcokKxKkn8oO462qUWPVf"
+        }
+      ],
+      "album": {
+        "id": "6aVFvcICP7ngn7ckX4D4K6",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c36c5e5275f4c8e6e2c4b496",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c36c5e5275f4c8e6e2c4b496",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c36c5e5275f4c8e6e2c4b496",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集I",
+        "release_date": "2003-11-19",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6aVFvcICP7ngn7ckX4D4K6",
+        "total_tracks": 65
+      },
+      "duration_ms": 226266,
+      "popularity": 2,
+      "url": "https://open.spotify.com/track/6otLv1YhZ8V0aJRq6x7p7e"
+    },
+    {
+      "id": "3qOSwAXosQAGXqzBne28Y9",
+      "name": "出撃! ゴーグルロボ",
+      "artists": [
+        {
+          "id": "1tcokKxKkn8oO462qUWPVf",
+          "name": "MoJo",
+          "url": "https://open.spotify.com/artist/1tcokKxKkn8oO462qUWPVf"
+        }
+      ],
+      "album": {
+        "id": "6aVFvcICP7ngn7ckX4D4K6",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c36c5e5275f4c8e6e2c4b496",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c36c5e5275f4c8e6e2c4b496",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c36c5e5275f4c8e6e2c4b496",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集I",
+        "release_date": "2003-11-19",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6aVFvcICP7ngn7ckX4D4K6",
+        "total_tracks": 65
+      },
+      "duration_ms": 177466,
+      "popularity": 4,
+      "url": "https://open.spotify.com/track/3qOSwAXosQAGXqzBne28Y9"
+    },
+    {
+      "id": "7na8Asa50SY5EEfrBsOGkS",
+      "name": "スーパー戦隊バンバラバン",
+      "artists": [
+        {
+          "id": "3TJSKlL7gTxAqVKpzuRPtw",
+          "name": "こおろぎ'73",
+          "url": "https://open.spotify.com/artist/3TJSKlL7gTxAqVKpzuRPtw"
+        }
+      ],
+      "album": {
+        "id": "6aVFvcICP7ngn7ckX4D4K6",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c36c5e5275f4c8e6e2c4b496",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c36c5e5275f4c8e6e2c4b496",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c36c5e5275f4c8e6e2c4b496",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集I",
+        "release_date": "2003-11-19",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6aVFvcICP7ngn7ckX4D4K6",
+        "total_tracks": 65
+      },
+      "duration_ms": 278933,
+      "popularity": 2,
+      "url": "https://open.spotify.com/track/7na8Asa50SY5EEfrBsOGkS"
+    },
+    {
+      "id": "0H8t52Pzz9YzGxNoX2Mn8G",
+      "name": "待っていたんだダイナマン",
+      "artists": [
+        {
+          "id": "1tcokKxKkn8oO462qUWPVf",
+          "name": "MoJo",
+          "url": "https://open.spotify.com/artist/1tcokKxKkn8oO462qUWPVf"
+        }
+      ],
+      "album": {
+        "id": "6uuHKaJR76KDOHRqciVDaN",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734e84462820dac4815413e18f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024e84462820dac4815413e18f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514e84462820dac4815413e18f",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集II",
+        "release_date": "2003-12-17",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6uuHKaJR76KDOHRqciVDaN",
+        "total_tracks": 54
+      },
+      "duration_ms": 176973,
+      "popularity": 3,
+      "url": "https://open.spotify.com/track/0H8t52Pzz9YzGxNoX2Mn8G"
+    },
+    {
+      "id": "1ip4OWq986MCmrsKfZvow2",
+      "name": "ゴーゴーダイナロボ",
+      "artists": [
+        {
+          "id": "1tcokKxKkn8oO462qUWPVf",
+          "name": "MoJo",
+          "url": "https://open.spotify.com/artist/1tcokKxKkn8oO462qUWPVf"
+        }
+      ],
+      "album": {
+        "id": "6uuHKaJR76KDOHRqciVDaN",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734e84462820dac4815413e18f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024e84462820dac4815413e18f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514e84462820dac4815413e18f",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集II",
+        "release_date": "2003-12-17",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6uuHKaJR76KDOHRqciVDaN",
+        "total_tracks": 54
+      },
+      "duration_ms": 197426,
+      "popularity": 3,
+      "url": "https://open.spotify.com/track/1ip4OWq986MCmrsKfZvow2"
+    },
+    {
+      "id": "1n5XAyEdTOwbChvuAmomZ1",
+      "name": "バイオロボの歌",
+      "artists": [
+        {
+          "id": "12sIh1TmRrY9dX59XA4D71",
+          "name": "Takayuki Miyauchi",
+          "url": "https://open.spotify.com/artist/12sIh1TmRrY9dX59XA4D71"
+        }
+      ],
+      "album": {
+        "id": "6uuHKaJR76KDOHRqciVDaN",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734e84462820dac4815413e18f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024e84462820dac4815413e18f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514e84462820dac4815413e18f",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集II",
+        "release_date": "2003-12-17",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6uuHKaJR76KDOHRqciVDaN",
+        "total_tracks": 54
+      },
+      "duration_ms": 230800,
+      "popularity": 7,
+      "url": "https://open.spotify.com/track/1n5XAyEdTOwbChvuAmomZ1"
+    },
+    {
+      "id": "5hTzOIXzPTMGgrt29PMflu",
+      "name": "ファイト! チェンジロボ",
+      "artists": [
+        {
+          "id": "7tJy29Ma8YdzIMZ1I8bbRm",
+          "name": "KAGE",
+          "url": "https://open.spotify.com/artist/7tJy29Ma8YdzIMZ1I8bbRm"
+        }
+      ],
+      "album": {
+        "id": "6uuHKaJR76KDOHRqciVDaN",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734e84462820dac4815413e18f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024e84462820dac4815413e18f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514e84462820dac4815413e18f",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集II",
+        "release_date": "2003-12-17",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6uuHKaJR76KDOHRqciVDaN",
+        "total_tracks": 54
+      },
+      "duration_ms": 238706,
+      "popularity": 13,
+      "url": "https://open.spotify.com/track/5hTzOIXzPTMGgrt29PMflu"
+    },
+    {
+      "id": "2krYwxG2lYP1B74uHxRVbZ",
+      "name": "輝け! フラッシュキング",
+      "artists": [
+        {
+          "id": "12sIh1TmRrY9dX59XA4D71",
+          "name": "Takayuki Miyauchi",
+          "url": "https://open.spotify.com/artist/12sIh1TmRrY9dX59XA4D71"
+        }
+      ],
+      "album": {
+        "id": "6uuHKaJR76KDOHRqciVDaN",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734e84462820dac4815413e18f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024e84462820dac4815413e18f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514e84462820dac4815413e18f",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集II",
+        "release_date": "2003-12-17",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6uuHKaJR76KDOHRqciVDaN",
+        "total_tracks": 54
+      },
+      "duration_ms": 218493,
+      "popularity": 10,
+      "url": "https://open.spotify.com/track/2krYwxG2lYP1B74uHxRVbZ"
+    },
+    {
+      "id": "0YENZ3ihxhmkv1VuBjGZIM",
+      "name": "ショットボンバー全力集中",
+      "artists": [
+        {
+          "id": "6qTKdHuHW9MFnjfV3JYmz8",
+          "name": "Hironobu Kageyama",
+          "url": "https://open.spotify.com/artist/6qTKdHuHW9MFnjfV3JYmz8"
+        }
+      ],
+      "album": {
+        "id": "6uuHKaJR76KDOHRqciVDaN",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734e84462820dac4815413e18f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024e84462820dac4815413e18f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514e84462820dac4815413e18f",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集II",
+        "release_date": "2003-12-17",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6uuHKaJR76KDOHRqciVDaN",
+        "total_tracks": 54
+      },
+      "duration_ms": 199040,
+      "popularity": 4,
+      "url": "https://open.spotify.com/track/0YENZ3ihxhmkv1VuBjGZIM"
+    },
+    {
+      "id": "10RlU5jNsF7cXZIHvjQqO9",
+      "name": "オーラに輝け! グレートファイブ",
+      "artists": [
+        {
+          "id": "6qTKdHuHW9MFnjfV3JYmz8",
+          "name": "Hironobu Kageyama",
+          "url": "https://open.spotify.com/artist/6qTKdHuHW9MFnjfV3JYmz8"
+        }
+      ],
+      "album": {
+        "id": "6uuHKaJR76KDOHRqciVDaN",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734e84462820dac4815413e18f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024e84462820dac4815413e18f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514e84462820dac4815413e18f",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集II",
+        "release_date": "2003-12-17",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6uuHKaJR76KDOHRqciVDaN",
+        "total_tracks": 54
+      },
+      "duration_ms": 206266,
+      "popularity": 5,
+      "url": "https://open.spotify.com/track/10RlU5jNsF7cXZIHvjQqO9"
+    },
+    {
+      "id": "2jskkzdYB4BNtixFL1ewpU",
+      "name": "ダッシュ! ライブロボ",
+      "artists": [
+        {
+          "id": "0gJyPemhB0uMpQcvgIn05A",
+          "name": "茅 弘二",
+          "url": "https://open.spotify.com/artist/0gJyPemhB0uMpQcvgIn05A"
+        }
+      ],
+      "album": {
+        "id": "2PAh3GDcUsl65T49yE8ggr",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a7ca14e012b76ca7ac49fa3d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a7ca14e012b76ca7ac49fa3d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a7ca14e012b76ca7ac49fa3d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集III",
+        "release_date": "2004-01-21",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2PAh3GDcUsl65T49yE8ggr",
+        "total_tracks": 57
+      },
+      "duration_ms": 192773,
+      "popularity": 4,
+      "url": "https://open.spotify.com/track/2jskkzdYB4BNtixFL1ewpU"
+    },
+    {
+      "id": "3OMH0qWxCwD0MrzhG6RSDS",
+      "name": "明日にアクセル! ターボロボ",
+      "artists": [
+        {
+          "id": "0gJyPemhB0uMpQcvgIn05A",
+          "name": "茅 弘二",
+          "url": "https://open.spotify.com/artist/0gJyPemhB0uMpQcvgIn05A"
+        }
+      ],
+      "album": {
+        "id": "2PAh3GDcUsl65T49yE8ggr",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a7ca14e012b76ca7ac49fa3d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a7ca14e012b76ca7ac49fa3d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a7ca14e012b76ca7ac49fa3d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集III",
+        "release_date": "2004-01-21",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2PAh3GDcUsl65T49yE8ggr",
+        "total_tracks": 57
+      },
+      "duration_ms": 195666,
+      "popularity": 4,
+      "url": "https://open.spotify.com/track/3OMH0qWxCwD0MrzhG6RSDS"
+    },
+    {
+      "id": "6UjRlbzI7UBiKkVKAzOl8o",
+      "name": "陽気なアコちゃん",
+      "artists": [
+        {
+          "id": "5SvSf5X135161aEkuxi4dh",
+          "name": "内田さゆり",
+          "url": "https://open.spotify.com/artist/5SvSf5X135161aEkuxi4dh"
+        },
+        {
+          "id": "2MLTYGwF0mYcWvlCdriZ8s",
+          "name": "岸田里香",
+          "url": "https://open.spotify.com/artist/2MLTYGwF0mYcWvlCdriZ8s"
+        }
+      ],
+      "album": {
+        "id": "2PAh3GDcUsl65T49yE8ggr",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a7ca14e012b76ca7ac49fa3d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a7ca14e012b76ca7ac49fa3d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a7ca14e012b76ca7ac49fa3d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集III",
+        "release_date": "2004-01-21",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2PAh3GDcUsl65T49yE8ggr",
+        "total_tracks": 57
+      },
+      "duration_ms": 34706,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/6UjRlbzI7UBiKkVKAzOl8o"
+    },
+    {
+      "id": "6FbIAb2DO7zqoCIR1W4kDu",
+      "name": "Dolla! 〜魔女バンドーラのテーマ〜",
+      "artists": [
+        {
+          "id": "3QnjQ5mFnwJ2volrNJWsdm",
+          "name": "曽我町子",
+          "url": "https://open.spotify.com/artist/3QnjQ5mFnwJ2volrNJWsdm"
+        }
+      ],
+      "album": {
+        "id": "2PAh3GDcUsl65T49yE8ggr",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a7ca14e012b76ca7ac49fa3d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a7ca14e012b76ca7ac49fa3d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a7ca14e012b76ca7ac49fa3d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集III",
+        "release_date": "2004-01-21",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2PAh3GDcUsl65T49yE8ggr",
+        "total_tracks": 57
+      },
+      "duration_ms": 277266,
+      "popularity": 4,
+      "url": "https://open.spotify.com/track/6FbIAb2DO7zqoCIR1W4kDu"
+    },
+    {
+      "id": "0NDBcTsufmH8hGlHbHOGYN",
+      "name": "虹色クリスタルスカイ",
+      "artists": [
+        {
+          "id": "7jp6mf1a2edLYgCpW2oPD0",
+          "name": "速水けんたろう",
+          "url": "https://open.spotify.com/artist/7jp6mf1a2edLYgCpW2oPD0"
+        }
+      ],
+      "album": {
+        "id": "1yl5kgOARx7hsi5xwvf5lz",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27350588370014ec37d016dec4d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0250588370014ec37d016dec4d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485150588370014ec37d016dec4d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集IV",
+        "release_date": "2004-02-18",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1yl5kgOARx7hsi5xwvf5lz",
+        "total_tracks": 43
+      },
+      "duration_ms": 206573,
+      "popularity": 17,
+      "url": "https://open.spotify.com/track/0NDBcTsufmH8hGlHbHOGYN"
+    },
+    {
+      "id": "30ygNxQz20Cjt2qlpDEG9v",
+      "name": "激走戦隊カーレンジャー - フルアクセルヴァージョン",
+      "artists": [
+        {
+          "id": "5wmVUsnOmPEO67D8HSNLzl",
+          "name": "高山成孝",
+          "url": "https://open.spotify.com/artist/5wmVUsnOmPEO67D8HSNLzl"
+        }
+      ],
+      "album": {
+        "id": "6ANfDvFYSiEs3NQvY7dVPN",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27387e2b49bb878e2fd36d7032d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0287e2b49bb878e2fd36d7032d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485187e2b49bb878e2fd36d7032d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集V",
+        "release_date": "2004-03-17",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6ANfDvFYSiEs3NQvY7dVPN",
+        "total_tracks": 51
+      },
+      "duration_ms": 194973,
+      "popularity": 20,
+      "url": "https://open.spotify.com/track/30ygNxQz20Cjt2qlpDEG9v"
+    },
+    {
+      "id": "0E1yS3WBToMwT64c192YcP",
+      "name": "暴走戦隊ゾクレンジャー",
+      "artists": [
+        {
+          "id": "5wmVUsnOmPEO67D8HSNLzl",
+          "name": "高山成孝",
+          "url": "https://open.spotify.com/artist/5wmVUsnOmPEO67D8HSNLzl"
+        }
+      ],
+      "album": {
+        "id": "6ANfDvFYSiEs3NQvY7dVPN",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27387e2b49bb878e2fd36d7032d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0287e2b49bb878e2fd36d7032d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485187e2b49bb878e2fd36d7032d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集V",
+        "release_date": "2004-03-17",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6ANfDvFYSiEs3NQvY7dVPN",
+        "total_tracks": 51
+      },
+      "duration_ms": 160360,
+      "popularity": 4,
+      "url": "https://open.spotify.com/track/0E1yS3WBToMwT64c192YcP"
+    },
+    {
+      "id": "3Bs0yl3RrcXl1o6vhS40g0",
+      "name": "Merry Xmas! from カーレンジャー",
+      "artists": [
+        {
+          "id": "6t8oZouRKylm2ZYLZ08bPw",
+          "name": "陣内恭介（岸 祐ニ）",
+          "url": "https://open.spotify.com/artist/6t8oZouRKylm2ZYLZ08bPw"
+        },
+        {
+          "id": "7HUSPL4ejw8OAaFJrTDLIp",
+          "name": "土門直樹（増島愛浩）",
+          "url": "https://open.spotify.com/artist/7HUSPL4ejw8OAaFJrTDLIp"
+        },
+        {
+          "id": "1ZJTM185uHfE9K1dWkzpcH",
+          "name": "上杉 実（福田佳弘）",
+          "url": "https://open.spotify.com/artist/1ZJTM185uHfE9K1dWkzpcH"
+        },
+        {
+          "id": "7kYNrl76wSkcenSxqhYqId",
+          "name": "志乃原菜摘（本橋由香）",
+          "url": "https://open.spotify.com/artist/7kYNrl76wSkcenSxqhYqId"
+        },
+        {
+          "id": "4wtIaHJCrHvZrcWbEhO8Ir",
+          "name": "八神洋子（来栖あつこ）",
+          "url": "https://open.spotify.com/artist/4wtIaHJCrHvZrcWbEhO8Ir"
+        },
+        {
+          "id": "6sPXZ2PZTOcJyLSzxWFuEe",
+          "name": "ダップ（まるたまり）",
+          "url": "https://open.spotify.com/artist/6sPXZ2PZTOcJyLSzxWFuEe"
+        }
+      ],
+      "album": {
+        "id": "1yl5kgOARx7hsi5xwvf5lz",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27350588370014ec37d016dec4d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0250588370014ec37d016dec4d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485150588370014ec37d016dec4d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集IV",
+        "release_date": "2004-02-18",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1yl5kgOARx7hsi5xwvf5lz",
+        "total_tracks": 43
+      },
+      "duration_ms": 268666,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/3Bs0yl3RrcXl1o6vhS40g0"
+    },
+    {
+      "id": "1K04KXXVsXl6hJEADDne5o",
+      "name": "CARRANGER THE UNSTOPPABLE - オープニングテーマ英語ヴァージョン",
+      "artists": [
+        {
+          "id": "3NiQ1xRobIh1sGxqFCWDnL",
+          "name": "MICKEY",
+          "url": "https://open.spotify.com/artist/3NiQ1xRobIh1sGxqFCWDnL"
+        }
+      ],
+      "album": {
+        "id": "6ANfDvFYSiEs3NQvY7dVPN",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27387e2b49bb878e2fd36d7032d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0287e2b49bb878e2fd36d7032d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485187e2b49bb878e2fd36d7032d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集V",
+        "release_date": "2004-03-17",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6ANfDvFYSiEs3NQvY7dVPN",
+        "total_tracks": 51
+      },
+      "duration_ms": 194693,
+      "popularity": 3,
+      "url": "https://open.spotify.com/track/1K04KXXVsXl6hJEADDne5o"
+    },
+    {
+      "id": "3E6P2LbgVEAET7AeJsEnRC",
+      "name": "Samba Paradiso - エンディングテーマ英語ヴァージョン",
+      "artists": [
+        {
+          "id": "3NiQ1xRobIh1sGxqFCWDnL",
+          "name": "MICKEY",
+          "url": "https://open.spotify.com/artist/3NiQ1xRobIh1sGxqFCWDnL"
+        }
+      ],
+      "album": {
+        "id": "6ANfDvFYSiEs3NQvY7dVPN",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27387e2b49bb878e2fd36d7032d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0287e2b49bb878e2fd36d7032d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485187e2b49bb878e2fd36d7032d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集V",
+        "release_date": "2004-03-17",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6ANfDvFYSiEs3NQvY7dVPN",
+        "total_tracks": 51
+      },
+      "duration_ms": 141466,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/3E6P2LbgVEAET7AeJsEnRC"
+    },
+    {
+      "id": "3N76J2VWquKfHVUbSpAbEm",
+      "name": "Bomb Dancing メガレンジャー",
+      "artists": [
+        {
+          "id": "0QyF2XqJ5MmMSxHtM8HFFS",
+          "name": "朝川ひろこ",
+          "url": "https://open.spotify.com/artist/0QyF2XqJ5MmMSxHtM8HFFS"
+        }
+      ],
+      "album": {
+        "id": "6ANfDvFYSiEs3NQvY7dVPN",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27387e2b49bb878e2fd36d7032d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0287e2b49bb878e2fd36d7032d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485187e2b49bb878e2fd36d7032d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集V",
+        "release_date": "2004-03-17",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6ANfDvFYSiEs3NQvY7dVPN",
+        "total_tracks": 51
+      },
+      "duration_ms": 182026,
+      "popularity": 4,
+      "url": "https://open.spotify.com/track/3N76J2VWquKfHVUbSpAbEm"
+    },
+    {
+      "id": "159IUIrEH6aJzyzBBnGQOk",
+      "name": "MEGARANGER \"THE CYBERDELIX\" - オープニング・テーマ英語ヴァージョン",
+      "artists": [
+        {
+          "id": "63qN6nY6Tv1Nybub5qFY4q",
+          "name": "MEGA MICKEY",
+          "url": "https://open.spotify.com/artist/63qN6nY6Tv1Nybub5qFY4q"
+        }
+      ],
+      "album": {
+        "id": "6ANfDvFYSiEs3NQvY7dVPN",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27387e2b49bb878e2fd36d7032d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0287e2b49bb878e2fd36d7032d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485187e2b49bb878e2fd36d7032d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集V",
+        "release_date": "2004-03-17",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6ANfDvFYSiEs3NQvY7dVPN",
+        "total_tracks": 51
+      },
+      "duration_ms": 220733,
+      "popularity": 8,
+      "url": "https://open.spotify.com/track/159IUIrEH6aJzyzBBnGQOk"
+    },
+    {
+      "id": "6nPzZoll8cDVts4VXcNBQg",
+      "name": "5人でメガレンジャー",
+      "artists": [
+        {
+          "id": "07SjUPqCQtiFgrWEgP22NQ",
+          "name": "デジケン・ファイブ（大柴邦彦、江原淳史、松風雅也、田中恵理、東山麻美）",
+          "url": "https://open.spotify.com/artist/07SjUPqCQtiFgrWEgP22NQ"
+        }
+      ],
+      "album": {
+        "id": "6ANfDvFYSiEs3NQvY7dVPN",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27387e2b49bb878e2fd36d7032d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0287e2b49bb878e2fd36d7032d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485187e2b49bb878e2fd36d7032d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集V",
+        "release_date": "2004-03-17",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6ANfDvFYSiEs3NQvY7dVPN",
+        "total_tracks": 51
+      },
+      "duration_ms": 257640,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/6nPzZoll8cDVts4VXcNBQg"
+    },
+    {
+      "id": "2RfxUkkVcSGrh27hVtMdzX",
+      "name": "The Galactic Warriors Gingaman - オープニング・テーマ英語ヴァージョン",
+      "artists": [
+        {
+          "id": "2lHczZbv0KtFXSnbwBHt05",
+          "name": "希砂未 竜",
+          "url": "https://open.spotify.com/artist/2lHczZbv0KtFXSnbwBHt05"
+        }
+      ],
+      "album": {
+        "id": "1rFpEt6CIKdrTCqUuR4eeh",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273997173aa952c12177766ce4f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02997173aa952c12177766ce4f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851997173aa952c12177766ce4f",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集VI",
+        "release_date": "2004-04-21",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1rFpEt6CIKdrTCqUuR4eeh",
+        "total_tracks": 40
+      },
+      "duration_ms": 227533,
+      "popularity": 6,
+      "url": "https://open.spotify.com/track/2RfxUkkVcSGrh27hVtMdzX"
+    },
+    {
+      "id": "2KDnR8uwNN9kiM7yuTDyJg",
+      "name": "Naked Mind - エンディング・テーマ英語ヴァージョン",
+      "artists": [
+        {
+          "id": "2lHczZbv0KtFXSnbwBHt05",
+          "name": "希砂未 竜",
+          "url": "https://open.spotify.com/artist/2lHczZbv0KtFXSnbwBHt05"
+        }
+      ],
+      "album": {
+        "id": "1rFpEt6CIKdrTCqUuR4eeh",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273997173aa952c12177766ce4f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02997173aa952c12177766ce4f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851997173aa952c12177766ce4f",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集VI",
+        "release_date": "2004-04-21",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1rFpEt6CIKdrTCqUuR4eeh",
+        "total_tracks": 40
+      },
+      "duration_ms": 233160,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/2KDnR8uwNN9kiM7yuTDyJg"
+    },
+    {
+      "id": "3A7P5h0DZIhVnvPKsjMOXy",
+      "name": "銀河の王者 ギンガイオー",
+      "artists": [
+        {
+          "id": "12sIh1TmRrY9dX59XA4D71",
+          "name": "Takayuki Miyauchi",
+          "url": "https://open.spotify.com/artist/12sIh1TmRrY9dX59XA4D71"
+        }
+      ],
+      "album": {
+        "id": "1rFpEt6CIKdrTCqUuR4eeh",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273997173aa952c12177766ce4f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02997173aa952c12177766ce4f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851997173aa952c12177766ce4f",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集VI",
+        "release_date": "2004-04-21",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1rFpEt6CIKdrTCqUuR4eeh",
+        "total_tracks": 40
+      },
+      "duration_ms": 194093,
+      "popularity": 6,
+      "url": "https://open.spotify.com/track/3A7P5h0DZIhVnvPKsjMOXy"
+    },
+    {
+      "id": "3Li03OnQUu4pGApyVCorAA",
+      "name": "ずっと、きっと、もっと、もっと!",
+      "artists": [
+        {
+          "id": "33mAe98qL9HrHR6Wj2DA0J",
+          "name": "リョウマ（前原一輝）",
+          "url": "https://open.spotify.com/artist/33mAe98qL9HrHR6Wj2DA0J"
+        },
+        {
+          "id": "6aVnRQFLoaY7DGCBZgGVC2",
+          "name": "ハヤテ（末吉宏司）",
+          "url": "https://open.spotify.com/artist/6aVnRQFLoaY7DGCBZgGVC2"
+        },
+        {
+          "id": "0jMxsSgK0NAOhlCLZ6Qb6e",
+          "name": "ゴウキ（照英）",
+          "url": "https://open.spotify.com/artist/0jMxsSgK0NAOhlCLZ6Qb6e"
+        },
+        {
+          "id": "2gkWwDuq2a2CiHrQZ0NKHs",
+          "name": "ヒカル（高橋伸顕）",
+          "url": "https://open.spotify.com/artist/2gkWwDuq2a2CiHrQZ0NKHs"
+        },
+        {
+          "id": "2XKIF911cJungmJ4lCQKkz",
+          "name": "サヤ（宮澤寿梨）",
+          "url": "https://open.spotify.com/artist/2XKIF911cJungmJ4lCQKkz"
+        },
+        {
+          "id": "0e00CGgLvQ16TDiRErH5kw",
+          "name": "ヒュウガ（小川輝晃）",
+          "url": "https://open.spotify.com/artist/0e00CGgLvQ16TDiRErH5kw"
+        }
+      ],
+      "album": {
+        "id": "1rFpEt6CIKdrTCqUuR4eeh",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273997173aa952c12177766ce4f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02997173aa952c12177766ce4f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851997173aa952c12177766ce4f",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集VI",
+        "release_date": "2004-04-21",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1rFpEt6CIKdrTCqUuR4eeh",
+        "total_tracks": 40
+      },
+      "duration_ms": 299773,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/3Li03OnQUu4pGApyVCorAA"
+    },
+    {
+      "id": "4R1GOW2vFqQokBScTqLABf",
+      "name": "見せつけろ 星獣魂!",
+      "artists": [
+        {
+          "id": "0xg9rh9FfBroOIt8iaTQjQ",
+          "name": "山形ユキオ",
+          "url": "https://open.spotify.com/artist/0xg9rh9FfBroOIt8iaTQjQ"
+        }
+      ],
+      "album": {
+        "id": "1rFpEt6CIKdrTCqUuR4eeh",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273997173aa952c12177766ce4f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02997173aa952c12177766ce4f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851997173aa952c12177766ce4f",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集VI",
+        "release_date": "2004-04-21",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1rFpEt6CIKdrTCqUuR4eeh",
+        "total_tracks": 40
+      },
+      "duration_ms": 262533,
+      "popularity": 2,
+      "url": "https://open.spotify.com/track/4R1GOW2vFqQokBScTqLABf"
+    },
+    {
+      "id": "6Wb1HEonWpzhF0gzSp7znM",
+      "name": "Rescue! Go Go Five - オープニング・テーマ英語ヴァージョン",
+      "artists": [
+        {
+          "id": "061bFRMVGeHm3I9lXm3pHz",
+          "name": "GO² MICKEY-T",
+          "url": "https://open.spotify.com/artist/061bFRMVGeHm3I9lXm3pHz"
+        }
+      ],
+      "album": {
+        "id": "1rFpEt6CIKdrTCqUuR4eeh",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273997173aa952c12177766ce4f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02997173aa952c12177766ce4f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851997173aa952c12177766ce4f",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集VI",
+        "release_date": "2004-04-21",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1rFpEt6CIKdrTCqUuR4eeh",
+        "total_tracks": 40
+      },
+      "duration_ms": 204893,
+      "popularity": 4,
+      "url": "https://open.spotify.com/track/6Wb1HEonWpzhF0gzSp7znM"
+    },
+    {
+      "id": "5WXSTLCapAdXi3qxLZ4giX",
+      "name": "Chance or Death",
+      "artists": [
+        {
+          "id": "6c5pepVqnDZ0t2hDttcDZ1",
+          "name": "T.Bros.（巽 マトイ（西岡竜一朗）、巽 ナガレ（谷口賢志）、巽 ショウ（原田 篤）、巽 ダイモン（柴田賢志）、巽 マツリ（坂口望二香））",
+          "url": "https://open.spotify.com/artist/6c5pepVqnDZ0t2hDttcDZ1"
+        }
+      ],
+      "album": {
+        "id": "1rFpEt6CIKdrTCqUuR4eeh",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273997173aa952c12177766ce4f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02997173aa952c12177766ce4f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851997173aa952c12177766ce4f",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集VI",
+        "release_date": "2004-04-21",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1rFpEt6CIKdrTCqUuR4eeh",
+        "total_tracks": 40
+      },
+      "duration_ms": 178773,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/5WXSTLCapAdXi3qxLZ4giX"
+    },
+    {
+      "id": "6i773A7SEvBTsTMmbRF9VO",
+      "name": "Don't Stop Your Story!",
+      "artists": [
+        {
+          "id": "1JWubwnRWPt0OHeNsafRKQ",
+          "name": "T.R.Futures（タツヤ、ユウリ、アヤセ、ドモン、シオン）",
+          "url": "https://open.spotify.com/artist/1JWubwnRWPt0OHeNsafRKQ"
+        }
+      ],
+      "album": {
+        "id": "5wGqC3e69nexZgDq6BNQy7",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734dce01559f434d210093e3ab",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024dce01559f434d210093e3ab",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514dce01559f434d210093e3ab",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集VII",
+        "release_date": "2004-05-19",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5wGqC3e69nexZgDq6BNQy7",
+        "total_tracks": 50
+      },
+      "duration_ms": 323093,
+      "popularity": 4,
+      "url": "https://open.spotify.com/track/6i773A7SEvBTsTMmbRF9VO"
+    },
+    {
+      "id": "7JYfGqd9sgzrSdAvofYfn3",
+      "name": "ミラクル☆Xmas",
+      "artists": [
+        {
+          "id": "1JWubwnRWPt0OHeNsafRKQ",
+          "name": "T.R.Futures（タツヤ、ユウリ、アヤセ、ドモン、シオン）",
+          "url": "https://open.spotify.com/artist/1JWubwnRWPt0OHeNsafRKQ"
+        }
+      ],
+      "album": {
+        "id": "5wGqC3e69nexZgDq6BNQy7",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734dce01559f434d210093e3ab",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024dce01559f434d210093e3ab",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514dce01559f434d210093e3ab",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集VII",
+        "release_date": "2004-05-19",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5wGqC3e69nexZgDq6BNQy7",
+        "total_tracks": 50
+      },
+      "duration_ms": 336840,
+      "popularity": 3,
+      "url": "https://open.spotify.com/track/7JYfGqd9sgzrSdAvofYfn3"
+    },
+    {
+      "id": "5Gyre4H88TcARgfPnauPyK",
+      "name": "BEYOND ALL SPACE AND TIME - オープニング・テーマ英語ヴァージョン",
+      "artists": [
+        {
+          "id": "2RALwHAk1m8ZemCmuOgfvd",
+          "name": "佐々木久美",
+          "url": "https://open.spotify.com/artist/2RALwHAk1m8ZemCmuOgfvd"
+        }
+      ],
+      "album": {
+        "id": "5wGqC3e69nexZgDq6BNQy7",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734dce01559f434d210093e3ab",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024dce01559f434d210093e3ab",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514dce01559f434d210093e3ab",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集VII",
+        "release_date": "2004-05-19",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5wGqC3e69nexZgDq6BNQy7",
+        "total_tracks": 50
+      },
+      "duration_ms": 201306,
+      "popularity": 6,
+      "url": "https://open.spotify.com/track/5Gyre4H88TcARgfPnauPyK"
+    },
+    {
+      "id": "5FZrxOR6aVhfsucZDo1Lny",
+      "name": "OK! タイムロボ!!",
+      "artists": [
+        {
+          "id": "13ZwKl8xvFawFrU0GIOT8P",
+          "name": "高尾直樹",
+          "url": "https://open.spotify.com/artist/13ZwKl8xvFawFrU0GIOT8P"
+        }
+      ],
+      "album": {
+        "id": "5wGqC3e69nexZgDq6BNQy7",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734dce01559f434d210093e3ab",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024dce01559f434d210093e3ab",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514dce01559f434d210093e3ab",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集VII",
+        "release_date": "2004-05-19",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5wGqC3e69nexZgDq6BNQy7",
+        "total_tracks": 50
+      },
+      "duration_ms": 227706,
+      "popularity": 7,
+      "url": "https://open.spotify.com/track/5FZrxOR6aVhfsucZDo1Lny"
+    },
+    {
+      "id": "1Qo5lukUVWYDk6W6RvFYlK",
+      "name": "T.I.M.E. Timeranger!",
+      "artists": [
+        {
+          "id": "4TK209LhKXpQZCQLVPIkl2",
+          "name": "タイムレンジャー（浅見竜也（永井マサル）、ユウリ（勝村美香）、アヤセ（城戸裕次）、ドモン（小泉朋英）、シオン（倉貫匡弘））",
+          "url": "https://open.spotify.com/artist/4TK209LhKXpQZCQLVPIkl2"
+        },
+        {
+          "id": "3fvMsqo14Do2GF4ZNhl0wr",
+          "name": "子供コーラス隊（小林 凱、大下将輝、鈴木貴也、植村 豪、荒木奈恵）",
+          "url": "https://open.spotify.com/artist/3fvMsqo14Do2GF4ZNhl0wr"
+        }
+      ],
+      "album": {
+        "id": "5wGqC3e69nexZgDq6BNQy7",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734dce01559f434d210093e3ab",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024dce01559f434d210093e3ab",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514dce01559f434d210093e3ab",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集VII",
+        "release_date": "2004-05-19",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5wGqC3e69nexZgDq6BNQy7",
+        "total_tracks": 50
+      },
+      "duration_ms": 311666,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/1Qo5lukUVWYDk6W6RvFYlK"
+    },
+    {
+      "id": "1h0RX1VfeP6jm9YlxZdoH9",
+      "name": "百獣合体! ガオキング",
+      "artists": [
+        {
+          "id": "7EhMQ6pNrTq7r9IlIxqG24",
+          "name": "Ichirou Mizuki",
+          "url": "https://open.spotify.com/artist/7EhMQ6pNrTq7r9IlIxqG24"
+        }
+      ],
+      "album": {
+        "id": "5wGqC3e69nexZgDq6BNQy7",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734dce01559f434d210093e3ab",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024dce01559f434d210093e3ab",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514dce01559f434d210093e3ab",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集VII",
+        "release_date": "2004-05-19",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5wGqC3e69nexZgDq6BNQy7",
+        "total_tracks": 50
+      },
+      "duration_ms": 249840,
+      "popularity": 5,
+      "url": "https://open.spotify.com/track/1h0RX1VfeP6jm9YlxZdoH9"
+    },
+    {
+      "id": "46TVb3hzBeQIrvcWhRYW5s",
+      "name": "ガオレンジャー吼えろ!! - オールキャスト・スペシャル・ヴァージョン - MOVIE EDITION",
+      "artists": [
+        {
+          "id": "4SnM5uAvpK5WfKkoMxI29b",
+          "name": "ガオレンジャー（獅子 走（金子 昇）、鷲尾 岳（堀江 慶）、鮫津 海（柴木丈瑠）、牛込草太郎（酒井一圭）、大河 冴（竹内実生）、大神月麿（玉山鉄二））",
+          "url": "https://open.spotify.com/artist/4SnM5uAvpK5WfKkoMxI29b"
+        },
+        {
+          "id": "0xg9rh9FfBroOIt8iaTQjQ",
+          "name": "山形ユキオ",
+          "url": "https://open.spotify.com/artist/0xg9rh9FfBroOIt8iaTQjQ"
+        }
+      ],
+      "album": {
+        "id": "5wGqC3e69nexZgDq6BNQy7",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734dce01559f434d210093e3ab",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024dce01559f434d210093e3ab",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514dce01559f434d210093e3ab",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集VII",
+        "release_date": "2004-05-19",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5wGqC3e69nexZgDq6BNQy7",
+        "total_tracks": 50
+      },
+      "duration_ms": 109773,
+      "popularity": 3,
+      "url": "https://open.spotify.com/track/46TVb3hzBeQIrvcWhRYW5s"
+    },
+    {
+      "id": "7FhoZUzqGhasCh7c3tuNuZ",
+      "name": "燃えろ! スーパー戦隊魂!!",
+      "artists": [
+        {
+          "id": "7pacWk2FN7ZpJ7XwRk5vTZ",
+          "name": "Mitsuko Horie",
+          "url": "https://open.spotify.com/artist/7pacWk2FN7ZpJ7XwRk5vTZ"
+        },
+        {
+          "id": "7EhMQ6pNrTq7r9IlIxqG24",
+          "name": "Ichirou Mizuki",
+          "url": "https://open.spotify.com/artist/7EhMQ6pNrTq7r9IlIxqG24"
+        }
+      ],
+      "album": {
+        "id": "5wGqC3e69nexZgDq6BNQy7",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734dce01559f434d210093e3ab",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024dce01559f434d210093e3ab",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514dce01559f434d210093e3ab",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集VII",
+        "release_date": "2004-05-19",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5wGqC3e69nexZgDq6BNQy7",
+        "total_tracks": 50
+      },
+      "duration_ms": 297506,
+      "popularity": 5,
+      "url": "https://open.spotify.com/track/7FhoZUzqGhasCh7c3tuNuZ"
+    },
+    {
+      "id": "58tCFYiaI4PKVBDEum23Tf",
+      "name": "ハリケンジャー参上! - シュシュッと銀幕ヴァージョン",
+      "artists": [
+        {
+          "id": "5dVDJJGeisPUF63oYPTcD0",
+          "name": "高取ヒデアキとハリケーンオールスターズ",
+          "url": "https://open.spotify.com/artist/5dVDJJGeisPUF63oYPTcD0"
+        }
+      ],
+      "album": {
+        "id": "5wGqC3e69nexZgDq6BNQy7",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734dce01559f434d210093e3ab",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024dce01559f434d210093e3ab",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514dce01559f434d210093e3ab",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集VII",
+        "release_date": "2004-05-19",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5wGqC3e69nexZgDq6BNQy7",
+        "total_tracks": 50
+      },
+      "duration_ms": 87906,
+      "popularity": 5,
+      "url": "https://open.spotify.com/track/58tCFYiaI4PKVBDEum23Tf"
+    },
+    {
+      "id": "1AJuyTDpRX3wBGjOgsf70H",
+      "name": "爆竜合体！アバレンオー",
+      "artists": [
+        {
+          "id": "0UEr743MkPevfCuNrrFYJ6",
+          "name": "遠藤正明",
+          "url": "https://open.spotify.com/artist/0UEr743MkPevfCuNrrFYJ6"
+        }
+      ],
+      "album": {
+        "id": "3CS9YQS6Ce386clafQpwIZ",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739ae395bfa7d921f146ce7730",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029ae395bfa7d921f146ce7730",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519ae395bfa7d921f146ce7730",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集VIII",
+        "release_date": "2009-09-18",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3CS9YQS6Ce386clafQpwIZ",
+        "total_tracks": 42
+      },
+      "duration_ms": 191280,
+      "popularity": 7,
+      "url": "https://open.spotify.com/track/1AJuyTDpRX3wBGjOgsf70H"
+    },
+    {
+      "id": "6a9EhaPTN7XCFM9PdKgEgb",
+      "name": "君は Only one",
+      "artists": [
+        {
+          "id": "2qatqO0Y0OWVgKOWounBRW",
+          "name": "DINOSTARS",
+          "url": "https://open.spotify.com/artist/2qatqO0Y0OWVgKOWounBRW"
+        }
+      ],
+      "album": {
+        "id": "3CS9YQS6Ce386clafQpwIZ",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739ae395bfa7d921f146ce7730",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029ae395bfa7d921f146ce7730",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519ae395bfa7d921f146ce7730",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集VIII",
+        "release_date": "2009-09-18",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3CS9YQS6Ce386clafQpwIZ",
+        "total_tracks": 42
+      },
+      "duration_ms": 302386,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/6a9EhaPTN7XCFM9PdKgEgb"
+    },
+    {
+      "id": "4vgODDHtSjy4l7vEusyg9k",
+      "name": "ビルドアップ！デカレンジャーロボ",
+      "artists": [
+        {
+          "id": "6GsDV9mByDW2er8C5MWV1z",
+          "name": "高取ヒデアキ",
+          "url": "https://open.spotify.com/artist/6GsDV9mByDW2er8C5MWV1z"
+        }
+      ],
+      "album": {
+        "id": "3CS9YQS6Ce386clafQpwIZ",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739ae395bfa7d921f146ce7730",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029ae395bfa7d921f146ce7730",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519ae395bfa7d921f146ce7730",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集VIII",
+        "release_date": "2009-09-18",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3CS9YQS6Ce386clafQpwIZ",
+        "total_tracks": 42
+      },
+      "duration_ms": 225026,
+      "popularity": 4,
+      "url": "https://open.spotify.com/track/4vgODDHtSjy4l7vEusyg9k"
+    },
+    {
+      "id": "7Msbuc2zbt5wb15Pu0MKKn",
+      "name": "girls in trouble! DEKARANGER",
+      "artists": [
+        {
+          "id": "5k6Zo8FLKwF2aysz7DuUZu",
+          "name": "ジャスミン",
+          "url": "https://open.spotify.com/artist/5k6Zo8FLKwF2aysz7DuUZu"
+        },
+        {
+          "id": "1bGUsdw5EMCnwUICYI2oes",
+          "name": "ウメコ",
+          "url": "https://open.spotify.com/artist/1bGUsdw5EMCnwUICYI2oes"
+        },
+        {
+          "id": "3QUiKBU9fgO4Fvkz6enBwf",
+          "name": "デカレンボーイズ",
+          "url": "https://open.spotify.com/artist/3QUiKBU9fgO4Fvkz6enBwf"
+        }
+      ],
+      "album": {
+        "id": "3CS9YQS6Ce386clafQpwIZ",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739ae395bfa7d921f146ce7730",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029ae395bfa7d921f146ce7730",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519ae395bfa7d921f146ce7730",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集VIII",
+        "release_date": "2009-09-18",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3CS9YQS6Ce386clafQpwIZ",
+        "total_tracks": 42
+      },
+      "duration_ms": 208826,
+      "popularity": 14,
+      "url": "https://open.spotify.com/track/7Msbuc2zbt5wb15Pu0MKKn"
+    },
+    {
+      "id": "71ZB4XFs8xBhfBhvn0y6eL",
+      "name": "THE MOVIE VERSION! DEKARANGER",
+      "artists": [
+        {
+          "id": "1QiPeUhLOYGYIBXQ9RnkxM",
+          "name": "バン",
+          "url": "https://open.spotify.com/artist/1QiPeUhLOYGYIBXQ9RnkxM"
+        },
+        {
+          "id": "0CDZRObtweiJn3QTM1yqBw",
+          "name": "ホージー",
+          "url": "https://open.spotify.com/artist/0CDZRObtweiJn3QTM1yqBw"
+        },
+        {
+          "id": "2cxa8FKQkeDjwBOAe1puzL",
+          "name": "センちゃん",
+          "url": "https://open.spotify.com/artist/2cxa8FKQkeDjwBOAe1puzL"
+        },
+        {
+          "id": "5k6Zo8FLKwF2aysz7DuUZu",
+          "name": "ジャスミン",
+          "url": "https://open.spotify.com/artist/5k6Zo8FLKwF2aysz7DuUZu"
+        },
+        {
+          "id": "1bGUsdw5EMCnwUICYI2oes",
+          "name": "ウメコ",
+          "url": "https://open.spotify.com/artist/1bGUsdw5EMCnwUICYI2oes"
+        },
+        {
+          "id": "2kGyVzwDfpgSZpyW8NqMIs",
+          "name": "テツ",
+          "url": "https://open.spotify.com/artist/2kGyVzwDfpgSZpyW8NqMIs"
+        }
+      ],
+      "album": {
+        "id": "3CS9YQS6Ce386clafQpwIZ",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739ae395bfa7d921f146ce7730",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029ae395bfa7d921f146ce7730",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519ae395bfa7d921f146ce7730",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集VIII",
+        "release_date": "2009-09-18",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3CS9YQS6Ce386clafQpwIZ",
+        "total_tracks": 42
+      },
+      "duration_ms": 88760,
+      "popularity": 6,
+      "url": "https://open.spotify.com/track/71ZB4XFs8xBhfBhvn0y6eL"
+    },
+    {
+      "id": "24NS5xljy1lEVg1Ud0k9jl",
+      "name": "Song For Magitopia",
+      "artists": [
+        {
+          "id": "7EhMQ6pNrTq7r9IlIxqG24",
+          "name": "Ichirou Mizuki",
+          "url": "https://open.spotify.com/artist/7EhMQ6pNrTq7r9IlIxqG24"
+        },
+        {
+          "id": "0bSMYtPqoMqQoRNtZLoqMD",
+          "name": "Akira Kushida",
+          "url": "https://open.spotify.com/artist/0bSMYtPqoMqQoRNtZLoqMD"
+        },
+        {
+          "id": "4dWcF2057qBLh97EfrVfun",
+          "name": "影山ヒロノブ",
+          "url": "https://open.spotify.com/artist/4dWcF2057qBLh97EfrVfun"
+        }
+      ],
+      "album": {
+        "id": "3vxme3VSF6HNGT0j85olib",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b92744ec131b317f51cc8e82",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b92744ec131b317f51cc8e82",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b92744ec131b317f51cc8e82",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集IX",
+        "release_date": "2009-09-18",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3vxme3VSF6HNGT0j85olib",
+        "total_tracks": 40
+      },
+      "duration_ms": 253106,
+      "popularity": 2,
+      "url": "https://open.spotify.com/track/24NS5xljy1lEVg1Ud0k9jl"
+    },
+    {
+      "id": "47FpdY1UbiwDPBC1G4mhXc",
+      "name": "ボウケンジャー GO ON FIGHTING!",
+      "artists": [
+        {
+          "id": "4jzPDdhi1n3B0uQ3XvVGH4",
+          "name": "Nob",
+          "url": "https://open.spotify.com/artist/4jzPDdhi1n3B0uQ3XvVGH4"
+        }
+      ],
+      "album": {
+        "id": "3vxme3VSF6HNGT0j85olib",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b92744ec131b317f51cc8e82",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b92744ec131b317f51cc8e82",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b92744ec131b317f51cc8e82",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集IX",
+        "release_date": "2009-09-18",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3vxme3VSF6HNGT0j85olib",
+        "total_tracks": 40
+      },
+      "duration_ms": 236986,
+      "popularity": 9,
+      "url": "https://open.spotify.com/track/47FpdY1UbiwDPBC1G4mhXc"
+    },
+    {
+      "id": "26SXCXZD058hMI8fl6tlqm",
+      "name": "Start up! 〜絆〜",
+      "artists": [
+        {
+          "id": "4jzPDdhi1n3B0uQ3XvVGH4",
+          "name": "Nob",
+          "url": "https://open.spotify.com/artist/4jzPDdhi1n3B0uQ3XvVGH4"
+        }
+      ],
+      "album": {
+        "id": "3vxme3VSF6HNGT0j85olib",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b92744ec131b317f51cc8e82",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b92744ec131b317f51cc8e82",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b92744ec131b317f51cc8e82",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集IX",
+        "release_date": "2009-09-18",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3vxme3VSF6HNGT0j85olib",
+        "total_tracks": 40
+      },
+      "duration_ms": 283933,
+      "popularity": 5,
+      "url": "https://open.spotify.com/track/26SXCXZD058hMI8fl6tlqm"
+    },
+    {
+      "id": "3LwNs7SDtspSqxmQLLNnwD",
+      "name": "最高のプレシャス",
+      "artists": [
+        {
+          "id": "0PWKYJnvpXcIIZ61xLEXvC",
+          "name": "明石 暁・ボウケンレッド",
+          "url": "https://open.spotify.com/artist/0PWKYJnvpXcIIZ61xLEXvC"
+        }
+      ],
+      "album": {
+        "id": "3vxme3VSF6HNGT0j85olib",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b92744ec131b317f51cc8e82",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b92744ec131b317f51cc8e82",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b92744ec131b317f51cc8e82",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊 主題歌・挿入歌大全集IX",
+        "release_date": "2009-09-18",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3vxme3VSF6HNGT0j85olib",
+        "total_tracks": 40
+      },
+      "duration_ms": 297773,
+      "popularity": 2,
+      "url": "https://open.spotify.com/track/3LwNs7SDtspSqxmQLLNnwD"
+    },
+    {
+      "id": "0eLaDVsrN8a3lhU4DpHf9I",
+      "name": "BANG! BANG! ゴーオンジャー",
+      "artists": [
+        {
+          "id": "77uDkpcj55bRIBdnU1aYeZ",
+          "name": "NoB(Project.R)",
+          "url": "https://open.spotify.com/artist/77uDkpcj55bRIBdnU1aYeZ"
+        }
+      ],
+      "album": {
+        "id": "2QWTyLnbLH8czBdonie0Th",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737e5f11137cdc18ca589cd768",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027e5f11137cdc18ca589cd768",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517e5f11137cdc18ca589cd768",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "炎神戦隊ゴーオンジャー 全曲集 ソンググランプリ",
+        "release_date": "2009-01-14",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2QWTyLnbLH8czBdonie0Th",
+        "total_tracks": 29
+      },
+      "duration_ms": 214573,
+      "popularity": 6,
+      "url": "https://open.spotify.com/track/0eLaDVsrN8a3lhU4DpHf9I"
+    },
+    {
+      "id": "01Z17tUGO4ZnsxyxWbogQD",
+      "name": "〈エンディング・テーマ〉炎神セカンドラップ -TURBO CUSTOM-",
+      "artists": [
+        {
+          "id": "7ckfKYuOfsmHPUw6Y96cSx",
+          "name": "Project.R（高取ヒデアキ・五條真由美・谷本貴義・Sister MAYO・大石憲一郎）with 炎神キッズ",
+          "url": "https://open.spotify.com/artist/7ckfKYuOfsmHPUw6Y96cSx"
+        },
+        {
+          "id": "4cz8ZhVeEYVraFhbhq42FT",
+          "name": "炎神キッズ",
+          "url": "https://open.spotify.com/artist/4cz8ZhVeEYVraFhbhq42FT"
+        }
+      ],
+      "album": {
+        "id": "2QWTyLnbLH8czBdonie0Th",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737e5f11137cdc18ca589cd768",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027e5f11137cdc18ca589cd768",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517e5f11137cdc18ca589cd768",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "炎神戦隊ゴーオンジャー 全曲集 ソンググランプリ",
+        "release_date": "2009-01-14",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2QWTyLnbLH8czBdonie0Th",
+        "total_tracks": 29
+      },
+      "duration_ms": 220360,
+      "popularity": 11,
+      "url": "https://open.spotify.com/track/01Z17tUGO4ZnsxyxWbogQD"
+    },
+    {
+      "id": "1ij9kZmh69C9gAng5BK5Hs",
+      "name": "〈劇場版エンディング・テーマ〉炎神フォーメーションラップ -劇場BANG! CUSTOM-",
+      "artists": [
+        {
+          "id": "3oinYP1A4Fc0kxsrHIfHAJ",
+          "name": "Project.R（谷本貴義・高取ヒデアキ・五條真由美・Sister MAYO・高橋秀幸・岩崎貴文・YOFFY・大石憲一郎）with 炎神キッズ",
+          "url": "https://open.spotify.com/artist/3oinYP1A4Fc0kxsrHIfHAJ"
+        },
+        {
+          "id": "4cz8ZhVeEYVraFhbhq42FT",
+          "name": "炎神キッズ",
+          "url": "https://open.spotify.com/artist/4cz8ZhVeEYVraFhbhq42FT"
+        }
+      ],
+      "album": {
+        "id": "2QWTyLnbLH8czBdonie0Th",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737e5f11137cdc18ca589cd768",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027e5f11137cdc18ca589cd768",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517e5f11137cdc18ca589cd768",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "炎神戦隊ゴーオンジャー 全曲集 ソンググランプリ",
+        "release_date": "2009-01-14",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2QWTyLnbLH8czBdonie0Th",
+        "total_tracks": 29
+      },
+      "duration_ms": 81146,
+      "popularity": 8,
+      "url": "https://open.spotify.com/track/1ij9kZmh69C9gAng5BK5Hs"
+    },
+    {
+      "id": "73g6kSltYUaSiw4Wi8mEXV",
+      "name": "〈エンディング・テーマ〉炎神サードラップ -AERO Dynamic CUSTOM-",
+      "artists": [
+        {
+          "id": "3oinYP1A4Fc0kxsrHIfHAJ",
+          "name": "Project.R（谷本貴義・高取ヒデアキ・五條真由美・Sister MAYO・高橋秀幸・岩崎貴文・YOFFY・大石憲一郎）with 炎神キッズ",
+          "url": "https://open.spotify.com/artist/3oinYP1A4Fc0kxsrHIfHAJ"
+        },
+        {
+          "id": "4cz8ZhVeEYVraFhbhq42FT",
+          "name": "炎神キッズ",
+          "url": "https://open.spotify.com/artist/4cz8ZhVeEYVraFhbhq42FT"
+        }
+      ],
+      "album": {
+        "id": "2QWTyLnbLH8czBdonie0Th",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737e5f11137cdc18ca589cd768",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027e5f11137cdc18ca589cd768",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517e5f11137cdc18ca589cd768",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "炎神戦隊ゴーオンジャー 全曲集 ソンググランプリ",
+        "release_date": "2009-01-14",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2QWTyLnbLH8czBdonie0Th",
+        "total_tracks": 29
+      },
+      "duration_ms": 221040,
+      "popularity": 11,
+      "url": "https://open.spotify.com/track/73g6kSltYUaSiw4Wi8mEXV"
+    },
+    {
+      "id": "2agNKqLG6FQwRiKvAUs0LP",
+      "name": "〈エンディング・テーマ〉炎神エコラップ-RECYCLE CUSTOM-",
+      "artists": [
+        {
+          "id": "4cz8ZhVeEYVraFhbhq42FT",
+          "name": "炎神キッズ",
+          "url": "https://open.spotify.com/artist/4cz8ZhVeEYVraFhbhq42FT"
+        }
+      ],
+      "album": {
+        "id": "2QWTyLnbLH8czBdonie0Th",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737e5f11137cdc18ca589cd768",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027e5f11137cdc18ca589cd768",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517e5f11137cdc18ca589cd768",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "炎神戦隊ゴーオンジャー 全曲集 ソンググランプリ",
+        "release_date": "2009-01-14",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2QWTyLnbLH8czBdonie0Th",
+        "total_tracks": 29
+      },
+      "duration_ms": 63506,
+      "popularity": 3,
+      "url": "https://open.spotify.com/track/2agNKqLG6FQwRiKvAUs0LP"
+    },
+    {
+      "id": "6kR6ayXfq3gtYqWr0NXR96",
+      "name": "G3プリンセスラップ 〜PRETTY LOVE☆Limited〜",
+      "artists": [
+        {
+          "id": "0lBGmSl4pEMAh4jdXgTj42",
+          "name": "G3プリンセス",
+          "url": "https://open.spotify.com/artist/0lBGmSl4pEMAh4jdXgTj42"
+        }
+      ],
+      "album": {
+        "id": "2QWTyLnbLH8czBdonie0Th",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737e5f11137cdc18ca589cd768",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027e5f11137cdc18ca589cd768",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517e5f11137cdc18ca589cd768",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "炎神戦隊ゴーオンジャー 全曲集 ソンググランプリ",
+        "release_date": "2009-01-14",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2QWTyLnbLH8czBdonie0Th",
+        "total_tracks": 29
+      },
+      "duration_ms": 118426,
+      "popularity": 10,
+      "url": "https://open.spotify.com/track/6kR6ayXfq3gtYqWr0NXR96"
+    },
+    {
+      "id": "0bR61NMiYIF7pmQhg4B9TD",
+      "name": "G5プリンスラップ 〜BONバイエ★Limited〜",
+      "artists": [
+        {
+          "id": "44DwYamoHmA74iv5KQVtlP",
+          "name": "G5プリンス",
+          "url": "https://open.spotify.com/artist/44DwYamoHmA74iv5KQVtlP"
+        },
+        {
+          "id": "6T9PdyoDoj8l0t2AzRBKZS",
+          "name": "ボンパー（中川亜紀子）",
+          "url": "https://open.spotify.com/artist/6T9PdyoDoj8l0t2AzRBKZS"
+        },
+        {
+          "id": "6dXSkzdczmKYB3gpjtub8A",
+          "name": "中川亜紀子",
+          "url": "https://open.spotify.com/artist/6dXSkzdczmKYB3gpjtub8A"
+        }
+      ],
+      "album": {
+        "id": "2QWTyLnbLH8czBdonie0Th",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737e5f11137cdc18ca589cd768",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027e5f11137cdc18ca589cd768",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517e5f11137cdc18ca589cd768",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "炎神戦隊ゴーオンジャー 全曲集 ソンググランプリ",
+        "release_date": "2009-01-14",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2QWTyLnbLH8czBdonie0Th",
+        "total_tracks": 29
+      },
+      "duration_ms": 108400,
+      "popularity": 6,
+      "url": "https://open.spotify.com/track/0bR61NMiYIF7pmQhg4B9TD"
+    },
+    {
+      "id": "32lAoB7VtGN2EK4LBZdzxe",
+      "name": "〈エンディング・テーマ〉炎神ファイナルラップ -Type Evolution-",
+      "artists": [
+        {
+          "id": "6GT9dZGw5AGHjC8kluxJ9e",
+          "name": "Project.R（谷本貴義、Sister MAYO、大石憲一郎）with 炎神キッズ",
+          "url": "https://open.spotify.com/artist/6GT9dZGw5AGHjC8kluxJ9e"
+        },
+        {
+          "id": "5nCVXtvsB2KsngsMbk8Hat",
+          "name": "Takayoshi Tanimoto",
+          "url": "https://open.spotify.com/artist/5nCVXtvsB2KsngsMbk8Hat"
+        },
+        {
+          "id": "5GTPiosCP0oS7Mi2UaBf9n",
+          "name": "Sister MAYO",
+          "url": "https://open.spotify.com/artist/5GTPiosCP0oS7Mi2UaBf9n"
+        },
+        {
+          "id": "4XWSK9iCE8DMHE5vCxyjEn",
+          "name": "大石憲一郎",
+          "url": "https://open.spotify.com/artist/4XWSK9iCE8DMHE5vCxyjEn"
+        },
+        {
+          "id": "4cz8ZhVeEYVraFhbhq42FT",
+          "name": "炎神キッズ",
+          "url": "https://open.spotify.com/artist/4cz8ZhVeEYVraFhbhq42FT"
+        }
+      ],
+      "album": {
+        "id": "2QWTyLnbLH8czBdonie0Th",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737e5f11137cdc18ca589cd768",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027e5f11137cdc18ca589cd768",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517e5f11137cdc18ca589cd768",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "炎神戦隊ゴーオンジャー 全曲集 ソンググランプリ",
+        "release_date": "2009-01-14",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2QWTyLnbLH8czBdonie0Th",
+        "total_tracks": 29
+      },
+      "duration_ms": 218546,
+      "popularity": 10,
+      "url": "https://open.spotify.com/track/32lAoB7VtGN2EK4LBZdzxe"
+    },
+    {
+      "id": "1vWnAwaDbODw32trraQZXs",
+      "name": "炎神ウイニングラン -Type Formula-",
+      "artists": [
+        {
+          "id": "4PDS2QenPz6EBsjSu7HYnw",
+          "name": "Project.R（高橋秀幸・谷本貴義・Sister MAYO・高取ヒデアキ・五條真由美・YOFFY・岩崎貴文・IMAJO・大石憲一郎）with 炎神キッズ",
+          "url": "https://open.spotify.com/artist/4PDS2QenPz6EBsjSu7HYnw"
+        },
+        {
+          "id": "1mj5nopQyuQSv5AYuBipSL",
+          "name": "高橋秀幸",
+          "url": "https://open.spotify.com/artist/1mj5nopQyuQSv5AYuBipSL"
+        },
+        {
+          "id": "5nCVXtvsB2KsngsMbk8Hat",
+          "name": "Takayoshi Tanimoto",
+          "url": "https://open.spotify.com/artist/5nCVXtvsB2KsngsMbk8Hat"
+        },
+        {
+          "id": "5GTPiosCP0oS7Mi2UaBf9n",
+          "name": "Sister MAYO",
+          "url": "https://open.spotify.com/artist/5GTPiosCP0oS7Mi2UaBf9n"
+        },
+        {
+          "id": "6GsDV9mByDW2er8C5MWV1z",
+          "name": "高取ヒデアキ",
+          "url": "https://open.spotify.com/artist/6GsDV9mByDW2er8C5MWV1z"
+        },
+        {
+          "id": "5JcT3gCPuEDDpEufe3wt5S",
+          "name": "五條真由美",
+          "url": "https://open.spotify.com/artist/5JcT3gCPuEDDpEufe3wt5S"
+        },
+        {
+          "id": "15OU41mBPHbTFRmIfhisp4",
+          "name": "YOFFY",
+          "url": "https://open.spotify.com/artist/15OU41mBPHbTFRmIfhisp4"
+        },
+        {
+          "id": "0FoXCsN9FSQeqjSHrGZenW",
+          "name": "岩崎貴文",
+          "url": "https://open.spotify.com/artist/0FoXCsN9FSQeqjSHrGZenW"
+        },
+        {
+          "id": "78MFgBmNVueUq5gM6gMagE",
+          "name": "IMAJO",
+          "url": "https://open.spotify.com/artist/78MFgBmNVueUq5gM6gMagE"
+        },
+        {
+          "id": "4XWSK9iCE8DMHE5vCxyjEn",
+          "name": "大石憲一郎",
+          "url": "https://open.spotify.com/artist/4XWSK9iCE8DMHE5vCxyjEn"
+        },
+        {
+          "id": "4cz8ZhVeEYVraFhbhq42FT",
+          "name": "炎神キッズ",
+          "url": "https://open.spotify.com/artist/4cz8ZhVeEYVraFhbhq42FT"
+        }
+      ],
+      "album": {
+        "id": "2QWTyLnbLH8czBdonie0Th",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737e5f11137cdc18ca589cd768",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027e5f11137cdc18ca589cd768",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517e5f11137cdc18ca589cd768",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "炎神戦隊ゴーオンジャー 全曲集 ソンググランプリ",
+        "release_date": "2009-01-14",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2QWTyLnbLH8czBdonie0Th",
+        "total_tracks": 29
+      },
+      "duration_ms": 193693,
+      "popularity": 10,
+      "url": "https://open.spotify.com/track/1vWnAwaDbODw32trraQZXs"
+    },
+    {
+      "id": null,
+      "name": "炎神ファーステストラップ-Type 10YG Maximum Performance-",
+      "artists": [
+        {
+          "id": null,
+          "name": "ゴーオンジャー＆ケガレシア with Project.R",
+          "url": null
+        }
+      ],
+      "album": {
+        "id": null,
+        "images": [],
+        "name": "炎神戦隊ゴーオンジャー 10 YEARS GRANDPRIX全曲集ソンググランプリ KEEP“GO-ON!”",
+        "release_date": null,
+        "release_date_precision": null,
+        "artists": [],
+        "url": null,
+        "total_tracks": 0
+      },
+      "duration_ms": 128000,
+      "popularity": 0,
+      "url": null
+    },
+    {
+      "id": "6AsW0Dou9kFXw0mtHjURz4",
+      "name": "四六時夢中 シンケンジャー - 銀幕版",
+      "artists": [
+        {
+          "id": "6wLZcIIgVOGD85tKYsS7zB",
+          "name": "シンケンジャー",
+          "url": "https://open.spotify.com/artist/6wLZcIIgVOGD85tKYsS7zB"
+        },
+        {
+          "id": "6GsDV9mByDW2er8C5MWV1z",
+          "name": "高取ヒデアキ",
+          "url": "https://open.spotify.com/artist/6GsDV9mByDW2er8C5MWV1z"
+        },
+        {
+          "id": "1qRrueFNhH2joJR14dzEjI",
+          "name": "Z旗",
+          "url": "https://open.spotify.com/artist/1qRrueFNhH2joJR14dzEjI"
+        }
+      ],
+      "album": {
+        "id": "11rnPYTtSAvPeU3tn5ckgD",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c35479f40d8f7d397db96fab",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c35479f40d8f7d397db96fab",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c35479f40d8f7d397db96fab",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "侍戦隊シンケンジャー 全曲集（完）秘伝音盤 歌の天下統一",
+        "release_date": "2010-02-10",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/11rnPYTtSAvPeU3tn5ckgD",
+        "total_tracks": 37
+      },
+      "duration_ms": 189093,
+      "popularity": 11,
+      "url": "https://open.spotify.com/track/6AsW0Dou9kFXw0mtHjURz4"
+    },
+    {
+      "id": "2BfrJxI7DwCzIF1R6aSA7m",
+      "name": "侍ファーストラップ 〜銀幕BANG！！〜",
+      "artists": [
+        {
+          "id": "61KWM5nQwONOdG9dB8g1SK",
+          "name": "Project.R (YOFFY・高取ヒデアキ・Sister MAYO)",
+          "url": "https://open.spotify.com/artist/61KWM5nQwONOdG9dB8g1SK"
+        },
+        {
+          "id": "5OTx9Osa0H09yqprM4ZCqM",
+          "name": "YOFFY",
+          "url": "https://open.spotify.com/artist/5OTx9Osa0H09yqprM4ZCqM"
+        },
+        {
+          "id": "6GsDV9mByDW2er8C5MWV1z",
+          "name": "高取ヒデアキ",
+          "url": "https://open.spotify.com/artist/6GsDV9mByDW2er8C5MWV1z"
+        },
+        {
+          "id": "5GTPiosCP0oS7Mi2UaBf9n",
+          "name": "Sister MAYO",
+          "url": "https://open.spotify.com/artist/5GTPiosCP0oS7Mi2UaBf9n"
+        }
+      ],
+      "album": {
+        "id": "11rnPYTtSAvPeU3tn5ckgD",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c35479f40d8f7d397db96fab",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c35479f40d8f7d397db96fab",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c35479f40d8f7d397db96fab",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "侍戦隊シンケンジャー 全曲集（完）秘伝音盤 歌の天下統一",
+        "release_date": "2010-02-10",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/11rnPYTtSAvPeU3tn5ckgD",
+        "total_tracks": 37
+      },
+      "duration_ms": 111906,
+      "popularity": 12,
+      "url": "https://open.spotify.com/track/2BfrJxI7DwCzIF1R6aSA7m"
+    },
+    {
+      "id": "7v4wNo8g14MRX8YPug0Xlh",
+      "name": "ゴセイナイトは許さない",
+      "artists": [
+        {
+          "id": "12sIh1TmRrY9dX59XA4D71",
+          "name": "Takayuki Miyauchi",
+          "url": "https://open.spotify.com/artist/12sIh1TmRrY9dX59XA4D71"
+        }
+      ],
+      "album": {
+        "id": "3ZJEAEY74ofJNlxsi6ojKf",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273812dc633f36b072ef54db21b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02812dc633f36b072ef54db21b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851812dc633f36b072ef54db21b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "天装戦隊ゴセイジャー 全曲集 スーパーソングスダイナミック!",
+        "release_date": "2010-12-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3ZJEAEY74ofJNlxsi6ojKf",
+        "total_tracks": 24
+      },
+      "duration_ms": 261799,
+      "popularity": 7,
+      "url": "https://open.spotify.com/track/7v4wNo8g14MRX8YPug0Xlh"
+    },
+    {
+      "id": "4NfoiPxQNIQs57piNHhvEZ",
+      "name": "エンディング・テーマ「ガッチャ☆ゴセイジャー」 - TYPE2 REMIX",
+      "artists": [
+        {
+          "id": "1mj5nopQyuQSv5AYuBipSL",
+          "name": "高橋秀幸",
+          "url": "https://open.spotify.com/artist/1mj5nopQyuQSv5AYuBipSL"
+        }
+      ],
+      "album": {
+        "id": "3ZJEAEY74ofJNlxsi6ojKf",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273812dc633f36b072ef54db21b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02812dc633f36b072ef54db21b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851812dc633f36b072ef54db21b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "天装戦隊ゴセイジャー 全曲集 スーパーソングスダイナミック!",
+        "release_date": "2010-12-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3ZJEAEY74ofJNlxsi6ojKf",
+        "total_tracks": 24
+      },
+      "duration_ms": 249240,
+      "popularity": 5,
+      "url": "https://open.spotify.com/track/4NfoiPxQNIQs57piNHhvEZ"
+    },
+    {
+      "id": "3CFqMXlQkORMFTkCPAugqB",
+      "name": "星を護る者",
+      "artists": [
+        {
+          "id": "5mDhrV6CTGIjx7QMY514zo",
+          "name": "MAKE-UP",
+          "url": "https://open.spotify.com/artist/5mDhrV6CTGIjx7QMY514zo"
+        }
+      ],
+      "album": {
+        "id": "3ZJEAEY74ofJNlxsi6ojKf",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273812dc633f36b072ef54db21b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02812dc633f36b072ef54db21b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851812dc633f36b072ef54db21b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "天装戦隊ゴセイジャー 全曲集 スーパーソングスダイナミック!",
+        "release_date": "2010-12-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3ZJEAEY74ofJNlxsi6ojKf",
+        "total_tracks": 24
+      },
+      "duration_ms": 208160,
+      "popularity": 2,
+      "url": "https://open.spotify.com/track/3CFqMXlQkORMFTkCPAugqB"
+    },
+    {
+      "id": "49bnYukfeussVk4eYF6VDk",
+      "name": "ガッチャ☆銀幕〜ゴセイジャーVSシンケンジャー〜",
+      "artists": [
+        {
+          "id": "1mj5nopQyuQSv5AYuBipSL",
+          "name": "高橋秀幸",
+          "url": "https://open.spotify.com/artist/1mj5nopQyuQSv5AYuBipSL"
+        }
+      ],
+      "album": {
+        "id": "3ZJEAEY74ofJNlxsi6ojKf",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273812dc633f36b072ef54db21b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02812dc633f36b072ef54db21b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851812dc633f36b072ef54db21b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "天装戦隊ゴセイジャー 全曲集 スーパーソングスダイナミック!",
+        "release_date": "2010-12-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3ZJEAEY74ofJNlxsi6ojKf",
+        "total_tracks": 24
+      },
+      "duration_ms": 103586,
+      "popularity": 10,
+      "url": "https://open.spotify.com/track/49bnYukfeussVk4eYF6VDk"
+    },
+    {
+      "id": "3aDZ8u4IGJoYp3T7IH4D3t",
+      "name": "Over The Rainbow",
+      "artists": [
+        {
+          "id": "3AY3CIImkbZpxLtaD6Fj12",
+          "name": "アラタ・ゴセイレッド（千葉雄大）",
+          "url": "https://open.spotify.com/artist/3AY3CIImkbZpxLtaD6Fj12"
+        },
+        {
+          "id": "6bls9MWHOj51ptmgV5hbBU",
+          "name": "エリ・ゴセイピンク（さとう里香）",
+          "url": "https://open.spotify.com/artist/6bls9MWHOj51ptmgV5hbBU"
+        },
+        {
+          "id": "0cueZoaXZUCi17VGY1n8kd",
+          "name": "アグリ・ゴセイブラック（浜尾京介）",
+          "url": "https://open.spotify.com/artist/0cueZoaXZUCi17VGY1n8kd"
+        },
+        {
+          "id": "2r6Rqn3NMgijGKnkMWkcNZ",
+          "name": "モネ・ゴセイイエロー（にわみきほ）",
+          "url": "https://open.spotify.com/artist/2r6Rqn3NMgijGKnkMWkcNZ"
+        },
+        {
+          "id": "6k5fuxY8EquT4do1ZI7inn",
+          "name": "ハイド・ゴセイブルー（小野健斗）",
+          "url": "https://open.spotify.com/artist/6k5fuxY8EquT4do1ZI7inn"
+        }
+      ],
+      "album": {
+        "id": "3ZJEAEY74ofJNlxsi6ojKf",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273812dc633f36b072ef54db21b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02812dc633f36b072ef54db21b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851812dc633f36b072ef54db21b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "天装戦隊ゴセイジャー 全曲集 スーパーソングスダイナミック!",
+        "release_date": "2010-12-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3ZJEAEY74ofJNlxsi6ojKf",
+        "total_tracks": 24
+      },
+      "duration_ms": 300960,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/3aDZ8u4IGJoYp3T7IH4D3t"
+    },
+    {
+      "id": "3cp51K6Z3BrjLTeNFt1mnU",
+      "name": "ガッチャ☆ゴセイジャー - TYPE2護星天使ヴァージョン",
+      "artists": [
+        {
+          "id": "1mj5nopQyuQSv5AYuBipSL",
+          "name": "高橋秀幸",
+          "url": "https://open.spotify.com/artist/1mj5nopQyuQSv5AYuBipSL"
+        },
+        {
+          "id": "3AY3CIImkbZpxLtaD6Fj12",
+          "name": "アラタ・ゴセイレッド（千葉雄大）",
+          "url": "https://open.spotify.com/artist/3AY3CIImkbZpxLtaD6Fj12"
+        },
+        {
+          "id": "6bls9MWHOj51ptmgV5hbBU",
+          "name": "エリ・ゴセイピンク（さとう里香）",
+          "url": "https://open.spotify.com/artist/6bls9MWHOj51ptmgV5hbBU"
+        },
+        {
+          "id": "0cueZoaXZUCi17VGY1n8kd",
+          "name": "アグリ・ゴセイブラック（浜尾京介）",
+          "url": "https://open.spotify.com/artist/0cueZoaXZUCi17VGY1n8kd"
+        },
+        {
+          "id": "2r6Rqn3NMgijGKnkMWkcNZ",
+          "name": "モネ・ゴセイイエロー（にわみきほ）",
+          "url": "https://open.spotify.com/artist/2r6Rqn3NMgijGKnkMWkcNZ"
+        },
+        {
+          "id": "6k5fuxY8EquT4do1ZI7inn",
+          "name": "ハイド・ゴセイブルー（小野健斗）",
+          "url": "https://open.spotify.com/artist/6k5fuxY8EquT4do1ZI7inn"
+        }
+      ],
+      "album": {
+        "id": "3ZJEAEY74ofJNlxsi6ojKf",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273812dc633f36b072ef54db21b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02812dc633f36b072ef54db21b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851812dc633f36b072ef54db21b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "天装戦隊ゴセイジャー 全曲集 スーパーソングスダイナミック!",
+        "release_date": "2010-12-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ifDcRf3ZFC7fHJXJ8VcuY",
+            "name": "V.A.",
+            "url": "https://open.spotify.com/artist/0ifDcRf3ZFC7fHJXJ8VcuY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3ZJEAEY74ofJNlxsi6ojKf",
+        "total_tracks": 24
+      },
+      "duration_ms": 249786,
+      "popularity": 9,
+      "url": "https://open.spotify.com/track/3cp51K6Z3BrjLTeNFt1mnU"
+    },
+    {
+      "id": null,
+      "name": "バーサス!スーパー戦隊",
+      "artists": [
+        {
+          "id": null,
+          "name": "Project.R(高取ヒデアキ/YOFFY/谷本貴義",
+          "url": null
+        }
+      ],
+      "album": {
+        "id": null,
+        "images": [],
+        "name": "TV朝日「スーパー戦隊VS劇場」テーマ曲 「バーサス!スーパー戦隊」 - Single",
+        "release_date": null,
+        "release_date_precision": null,
+        "artists": [],
+        "url": null,
+        "total_tracks": 0
+      },
+      "duration_ms": 302000,
+      "popularity": 0,
+      "url": null
+    },
+    {
+      "id": null,
+      "name": "JUMP",
+      "artists": [
+        {
+          "id": null,
+          "name": "串田アキラ、松原剛志",
+          "url": null
+        }
+      ],
+      "album": {
+        "id": null,
+        "images": [],
+        "name": "海賊戦隊ゴーカイジャー全曲集　KANZENお宝ソングボックス",
+        "release_date": null,
+        "release_date_precision": null,
+        "artists": [],
+        "url": null,
+        "total_tracks": 0
+      },
+      "duration_ms": 217000,
+      "popularity": 0,
+      "url": null
+    },
+    {
+      "id": null,
+      "name": "非公認戦隊アキバレンジャー",
+      "artists": [
+        {
+          "id": null,
+          "name": "桃井はるこ feat.山形ユキオ",
+          "url": null
+        }
+      ],
+      "album": {
+        "id": null,
+        "images": [],
+        "name": "非公認戦隊アキバレンジャー　主題歌",
+        "release_date": null,
+        "release_date_precision": null,
+        "artists": [],
+        "url": null,
+        "total_tracks": 0
+      },
+      "duration_ms": 256000,
+      "popularity": 0,
+      "url": null
+    },
+    {
+      "id": null,
+      "name": "Perfect Mission",
+      "artists": [
+        {
+          "id": null,
+          "name": "NoB",
+          "url": null
+        }
+      ],
+      "album": {
+        "id": null,
+        "images": [],
+        "name": "特命戦隊ゴーバスターズ 全曲集 コンプリート ソング ファイル",
+        "release_date": null,
+        "release_date_precision": null,
+        "artists": [],
+        "url": null,
+        "total_tracks": 0
+      },
+      "duration_ms": 215000,
+      "popularity": 0,
+      "url": null
+    },
+    {
+      "id": null,
+      "name": "バスターマシン、発進せよ!",
+      "artists": [
+        {
+          "id": null,
+          "name": "山形ユキオ",
+          "url": null
+        }
+      ],
+      "album": {
+        "id": null,
+        "images": [],
+        "name": "特命戦隊ゴーバスターズ 全曲集 コンプリート ソング ファイル",
+        "release_date": null,
+        "release_date_precision": null,
+        "artists": [],
+        "url": null,
+        "total_tracks": 0
+      },
+      "duration_ms": 192000,
+      "popularity": 0,
+      "url": null
+    },
+    {
+      "id": null,
+      "name": "One wish,One day",
+      "artists": [
+        {
+          "id": null,
+          "name": "桜田ヒロム＆チダ・ニック (CV:鈴木勝大＆藤原啓治)",
+          "url": null
+        }
+      ],
+      "album": {
+        "id": null,
+        "images": [],
+        "name": "特命戦隊ゴーバスターズ 全曲集 コンプリート ソング ファイル",
+        "release_date": null,
+        "release_date_precision": null,
+        "artists": [],
+        "url": null,
+        "total_tracks": 0
+      },
+      "duration_ms": 265000,
+      "popularity": 0,
+      "url": null
+    },
+    {
+      "id": null,
+      "name": "心配 ハニー♡バニー",
+      "artists": [
+        {
+          "id": null,
+          "name": "宇佐見ヨーコ＆ウサダ・レタス (CV:小宮有紗＆鈴木達央)",
+          "url": null
+        }
+      ],
+      "album": {
+        "id": null,
+        "images": [],
+        "name": "特命戦隊ゴーバスターズ 全曲集 コンプリート ソング ファイル",
+        "release_date": null,
+        "release_date_precision": null,
+        "artists": [],
+        "url": null,
+        "total_tracks": 0
+      },
+      "duration_ms": 235000,
+      "popularity": 0,
+      "url": null
+    },
+    {
+      "id": null,
+      "name": "Boost Up! ビートバスター",
+      "artists": [
+        {
+          "id": null,
+          "name": "高取ヒデアキ",
+          "url": null
+        }
+      ],
+      "album": {
+        "id": null,
+        "images": [],
+        "name": "特命戦隊ゴーバスターズ 全曲集 コンプリート ソング ファイル",
+        "release_date": null,
+        "release_date_precision": null,
+        "artists": [],
+        "url": null,
+        "total_tracks": 0
+      },
+      "duration_ms": 199000,
+      "popularity": 0,
+      "url": null
+    },
+    {
+      "id": null,
+      "name": "Brand New Spark!",
+      "artists": [
+        {
+          "id": null,
+          "name": "高取ヒデアキ",
+          "url": null
+        }
+      ],
+      "album": {
+        "id": null,
+        "images": [],
+        "name": "特命戦隊ゴーバスターズ 全曲集 コンプリート ソング ファイル",
+        "release_date": null,
+        "release_date_precision": null,
+        "artists": [],
+        "url": null,
+        "total_tracks": 0
+      },
+      "duration_ms": 211000,
+      "popularity": 0,
+      "url": null
+    },
+    {
+      "id": null,
+      "name": "Blue Banana Moon",
+      "artists": [
+        {
+          "id": null,
+          "name": "岩崎リュウジ＆ゴリサキ・バナナ (CV:馬場良馬＆玄田哲章)",
+          "url": null
+        }
+      ],
+      "album": {
+        "id": null,
+        "images": [],
+        "name": "特命戦隊ゴーバスターズ 全曲集 コンプリート ソング ファイル",
+        "release_date": null,
+        "release_date_precision": null,
+        "artists": [],
+        "url": null,
+        "total_tracks": 0
+      },
+      "duration_ms": 250000,
+      "popularity": 0,
+      "url": null
+    },
+    {
+      "id": null,
+      "name": "キズナ 〜ゴーバスターズ! (2012 Summer MOVIE UNIT) フルサイズver.",
+      "artists": [
+        {
+          "id": null,
+          "name": "鈴木勝大＆藤原啓治、 　馬場良馬＆玄田哲章、 　小宮有紗＆鈴木達央",
+          "url": null
+        }
+      ],
+      "album": {
+        "id": null,
+        "images": [],
+        "name": "特命戦隊ゴーバスターズ 全曲集 コンプリート ソング ファイル",
+        "release_date": null,
+        "release_date_precision": null,
+        "artists": [],
+        "url": null,
+        "total_tracks": 0
+      },
+      "duration_ms": 224000,
+      "popularity": 0,
+      "url": null
+    },
+    {
+      "id": null,
+      "name": "モーフィン!ムービン!バスターズシップ!",
+      "artists": [
+        {
+          "id": null,
+          "name": "高橋秀幸",
+          "url": null
+        }
+      ],
+      "album": {
+        "id": null,
+        "images": [],
+        "name": "特命戦隊ゴーバスターズ 全曲集 コンプリート ソング ファイル",
+        "release_date": null,
+        "release_date_precision": null,
+        "artists": [],
+        "url": null,
+        "total_tracks": 0
+      },
+      "duration_ms": 213000,
+      "popularity": 0,
+      "url": null
+    },
+    {
+      "id": null,
+      "name": "ライオー!見参!チャンピオン!",
+      "artists": [
+        {
+          "id": null,
+          "name": "水木一郎",
+          "url": null
+        }
+      ],
+      "album": {
+        "id": null,
+        "images": [],
+        "name": "特命戦隊ゴーバスターズ 全曲集 コンプリート ソング ファイル",
+        "release_date": null,
+        "release_date_precision": null,
+        "artists": [],
+        "url": null,
+        "total_tracks": 0
+      },
+      "duration_ms": 269000,
+      "popularity": 0,
+      "url": null
+    },
+    {
+      "id": null,
+      "name": "Let'sモーフィン☆ドローウィン",
+      "artists": [
+        {
+          "id": null,
+          "name": "桜田リカ(CV:吉木りさ)",
+          "url": null
+        }
+      ],
+      "album": {
+        "id": null,
+        "images": [],
+        "name": "特命戦隊ゴーバスターズ 全曲集 コンプリート ソング ファイル",
+        "release_date": null,
+        "release_date_precision": null,
+        "artists": [],
+        "url": null,
+        "total_tracks": 0
+      },
+      "duration_ms": 203000,
+      "popularity": 0,
+      "url": null
+    },
+    {
+      "id": null,
+      "name": "キズナ 〜ゴーバスターズ! 豪快にアレンジver",
+      "artists": [
+        {
+          "id": null,
+          "name": "謎の新ユニットSTA☆MEN",
+          "url": null
+        }
+      ],
+      "album": {
+        "id": null,
+        "images": [],
+        "name": "特命戦隊ゴーバスターズ 全曲集 コンプリート ソング ファイル",
+        "release_date": null,
+        "release_date_precision": null,
+        "artists": [],
+        "url": null,
+        "total_tracks": 0
+      },
+      "duration_ms": 203000,
+      "popularity": 0,
+      "url": null
+    },
+    {
+      "id": null,
+      "name": "動物戦隊ゴーバスターズ",
+      "artists": [
+        {
+          "id": null,
+          "name": "山形ユキオ",
+          "url": null
+        }
+      ],
+      "album": {
+        "id": null,
+        "images": [],
+        "name": "特命戦隊ゴーバスターズ 全曲集 コンプリート ソング ファイル",
+        "release_date": null,
+        "release_date_precision": null,
+        "artists": [],
+        "url": null,
+        "total_tracks": 0
+      },
+      "duration_ms": 163000,
+      "popularity": 0,
+      "url": null
+    },
+    {
+      "id": null,
+      "name": "情熱 〜We are Brothers〜",
+      "artists": [
+        {
+          "id": null,
+          "name": "Hero Music All Stars",
+          "url": null
+        }
+      ],
+      "album": {
+        "id": null,
+        "images": [],
+        "name": "情熱 〜We are Brothers〜",
+        "release_date": null,
+        "release_date_precision": null,
+        "artists": [],
+        "url": null,
+        "total_tracks": 0
+      },
+      "duration_ms": 322000,
+      "popularity": 0,
+      "url": null
+    },
+    {
+      "id": null,
+      "name": "喜びの歌",
+      "artists": [
+        {
+          "id": null,
+          "name": "キャンデリラ(CV:戸松遥)",
+          "url": null
+        }
+      ],
+      "album": {
+        "id": null,
+        "images": [],
+        "name": "獣電戦隊キョウリュウジャー 全曲集 ブレイブフィニッシュ",
+        "release_date": null,
+        "release_date_precision": null,
+        "artists": [],
+        "url": null,
+        "total_tracks": 0
+      },
+      "duration_ms": 212000,
+      "popularity": 0,
+      "url": null
+    },
+    {
+      "id": null,
+      "name": "Dino Soul",
+      "artists": [
+        {
+          "id": null,
+          "name": "Meeko(CV:中村静香)",
+          "url": null
+        }
+      ],
+      "album": {
+        "id": null,
+        "images": [],
+        "name": "獣電戦隊キョウリュウジャー 全曲集 ブレイブフィニッシュ",
+        "release_date": null,
+        "release_date_precision": null,
+        "artists": [],
+        "url": null,
+        "total_tracks": 0
+      },
+      "duration_ms": 168000,
+      "popularity": 0,
+      "url": null
+    },
+    {
+      "id": null,
+      "name": "GABURINCHO OF MUSIC!",
+      "artists": [
+        {
+          "id": null,
+          "name": "高取ヒデアキ、鎌田章吾&キョウリュウジャー",
+          "url": null
+        }
+      ],
+      "album": {
+        "id": null,
+        "images": [],
+        "name": "獣電戦隊キョウリュウジャー 全曲集 ブレイブフィニッシュ",
+        "release_date": null,
+        "release_date_precision": null,
+        "artists": [],
+        "url": null,
+        "total_tracks": 0
+      },
+      "duration_ms": 216000,
+      "popularity": 0,
+      "url": null
+    },
+    {
+      "id": null,
+      "name": "Dino Soul (古代ver.)",
+      "artists": [
+        {
+          "id": null,
+          "name": "キョウリュウジャー(CV:竜星涼、斉藤秀翼、金城大和、塩野瑛久、今野鮎莉、丸山敦史)",
+          "url": null
+        }
+      ],
+      "album": {
+        "id": null,
+        "images": [],
+        "name": "獣電戦隊キョウリュウジャー 全曲集 ブレイブフィニッシュ",
+        "release_date": null,
+        "release_date_precision": null,
+        "artists": [],
+        "url": null,
+        "total_tracks": 0
+      },
+      "duration_ms": 251000,
+      "popularity": 0,
+      "url": null
+    },
+    {
+      "id": null,
+      "name": "史上最強のブレイブ",
+      "artists": [
+        {
+          "id": null,
+          "name": "伊勢大貴",
+          "url": null
+        }
+      ],
+      "album": {
+        "id": null,
+        "images": [],
+        "name": "獣電戦隊キョウリュウジャー 全曲集 ブレイブフィニッシュ",
+        "release_date": null,
+        "release_date_precision": null,
+        "artists": [],
+        "url": null,
+        "total_tracks": 0
+      },
+      "duration_ms": 258000,
+      "popularity": 0,
+      "url": null
+    },
+    {
+      "id": null,
+      "name": "みんな・デ・カーニバル",
+      "artists": [
+        {
+          "id": null,
+          "name": "高取ヒデアキ、鎌田章吾",
+          "url": null
+        }
+      ],
+      "album": {
+        "id": null,
+        "images": [],
+        "name": "獣電戦隊キョウリュウジャー 全曲集 ブレイブフィニッシュ",
+        "release_date": null,
+        "release_date_precision": null,
+        "artists": [],
+        "url": null,
+        "total_tracks": 0
+      },
+      "duration_ms": 223000,
+      "popularity": 0,
+      "url": null
+    },
+    {
+      "id": null,
+      "name": "蒸着 〜We are Brothers〜",
+      "artists": [
+        {
+          "id": null,
+          "name": "HERO MUSIC ALL STARS Z",
+          "url": null
+        }
+      ],
+      "album": {
+        "id": null,
+        "images": [],
+        "name": "蒸着 〜We are Brothers〜",
+        "release_date": null,
+        "release_date_precision": null,
+        "artists": [],
+        "url": null,
+        "total_tracks": 0
+      },
+      "duration_ms": 276000,
+      "popularity": 0,
+      "url": null
+    },
+    {
+      "id": null,
+      "name": "見えない絆",
+      "artists": [
+        {
+          "id": null,
+          "name": "岸洋祐",
+          "url": null
+        }
+      ],
+      "album": {
+        "id": null,
+        "images": [],
+        "name": "宇宙戦隊キュウレンジャー　ミニアルバム3　Episode of スティンガー",
+        "release_date": null,
+        "release_date_precision": null,
+        "artists": [],
+        "url": null,
+        "total_tracks": 0
+      },
+      "duration_ms": 296000,
+      "popularity": 0,
+      "url": null
+    },
+    {
+      "id": null,
+      "name": "また君に会いたい",
+      "artists": [
+        {
+          "id": null,
+          "name": "キュウレンジャー with Project.R",
+          "url": null
+        }
+      ],
+      "album": {
+        "id": null,
+        "images": [],
+        "name": "また君に会いたい",
+        "release_date": null,
+        "release_date_precision": null,
+        "artists": [],
+        "url": null,
+        "total_tracks": 0
+      },
+      "duration_ms": 218000,
+      "popularity": 0,
+      "url": null
+    },
+    {
+      "id": "6NNWNMjLuevnaaxrhpWXg2",
+      "name": "滾れ! リュウソウジャー",
+      "artists": [
+        {
+          "id": "0gAOLZ89VfQtBNk0aHKPrA",
+          "name": "幡野智宏",
+          "url": "https://open.spotify.com/artist/0gAOLZ89VfQtBNk0aHKPrA"
+        }
+      ],
+      "album": {
+        "id": "2z9cgvg6kq15VUXiMy4lzB",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273265f417952e3f3a5e73829da",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02265f417952e3f3a5e73829da",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851265f417952e3f3a5e73829da",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ミニアルバム 騎士竜戦隊リュウソウジャー",
+        "release_date": "2019-05-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2z9cgvg6kq15VUXiMy4lzB",
+        "total_tracks": 6
+      },
+      "duration_ms": 187973,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/6NNWNMjLuevnaaxrhpWXg2"
+    },
+    {
+      "id": "7gTd5eScQjtzBu2eZJRjvN",
+      "name": "キラメイ☆ACTION!!",
+      "artists": [
+        {
+          "id": "3RzP9wHS4d0hAFOqbvkEMs",
+          "name": "サイキックラバー",
+          "url": "https://open.spotify.com/artist/3RzP9wHS4d0hAFOqbvkEMs"
+        }
+      ],
+      "album": {
+        "id": "5DVq6R8JnTry0qILUZwWnl",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27374114d22143cde4d719e2dd6",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0274114d22143cde4d719e2dd6",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485174114d22143cde4d719e2dd6",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ミニアルバム 魔進戦隊キラメイジャー",
+        "release_date": "2020-06-10",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5DVq6R8JnTry0qILUZwWnl",
+        "total_tracks": 6
+      },
+      "duration_ms": 282213,
+      "popularity": 3,
+      "url": "https://open.spotify.com/track/7gTd5eScQjtzBu2eZJRjvN"
+    },
+    {
+      "id": "5gLW8Bs967ZflrhzyiVs3f",
+      "name": "クリスタル・シグナル",
+      "artists": [
+        {
+          "id": "1O97i8aYZjNQpzBxePw9Z9",
+          "name": "マブシーナ (CV: 水瀬いのり)",
+          "url": "https://open.spotify.com/artist/1O97i8aYZjNQpzBxePw9Z9"
+        }
+      ],
+      "album": {
+        "id": "0EFnqK5k8B2XRhL3ojzziO",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2736e4d42e54dc720fb3c43ccc0",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e026e4d42e54dc720fb3c43ccc0",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048516e4d42e54dc720fb3c43ccc0",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ミニアルバム 魔進戦隊キラメイジャー2",
+        "release_date": "2020-09-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0EFnqK5k8B2XRhL3ojzziO",
+        "total_tracks": 6
+      },
+      "duration_ms": 216840,
+      "popularity": 3,
+      "url": "https://open.spotify.com/track/5gLW8Bs967ZflrhzyiVs3f"
+    },
+    {
+      "id": "6PwCvhHdBdJVomwZIemRml",
+      "name": "勇気を奏でて",
+      "artists": [
+        {
+          "id": "1Nr7xcAePLmHqgDu0UsTdn",
+          "name": "キラメイバンド",
+          "url": "https://open.spotify.com/artist/1Nr7xcAePLmHqgDu0UsTdn"
+        }
+      ],
+      "album": {
+        "id": "6AnIFRJuwpoMqEESDmNP4O",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2730c33b763a0ab8748e09fb303",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e020c33b763a0ab8748e09fb303",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048510c33b763a0ab8748e09fb303",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "勇気を奏でて",
+        "release_date": "2020-09-20",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1Nr7xcAePLmHqgDu0UsTdn",
+            "name": "キラメイバンド",
+            "url": "https://open.spotify.com/artist/1Nr7xcAePLmHqgDu0UsTdn"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6AnIFRJuwpoMqEESDmNP4O",
+        "total_tracks": 1
+      },
+      "duration_ms": 264640,
+      "popularity": 6,
+      "url": "https://open.spotify.com/track/6PwCvhHdBdJVomwZIemRml"
+    },
+    {
+      "id": "1I7WUQYfRd7WuUIUTheL8e",
+      "name": "キラメキの未来!",
+      "artists": [
+        {
+          "id": "0ym8tcHfC2KrkQBGs1JMw2",
+          "name": "魔進戦隊キラメイジャー",
+          "url": "https://open.spotify.com/artist/0ym8tcHfC2KrkQBGs1JMw2"
+        }
+      ],
+      "album": {
+        "id": "0EeL98MhvPjSPq8DLwoOwi",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ce1b4858be820e9d8c7355f6",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ce1b4858be820e9d8c7355f6",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ce1b4858be820e9d8c7355f6",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "キラメキの未来!",
+        "release_date": "2021-08-15",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ym8tcHfC2KrkQBGs1JMw2",
+            "name": "魔進戦隊キラメイジャー",
+            "url": "https://open.spotify.com/artist/0ym8tcHfC2KrkQBGs1JMw2"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0EeL98MhvPjSPq8DLwoOwi",
+        "total_tracks": 2
+      },
+      "duration_ms": 212840,
+      "popularity": 4,
+      "url": "https://open.spotify.com/track/1I7WUQYfRd7WuUIUTheL8e"
+    },
+    {
+      "id": "2bjyUMThEyxoemiGOyBS1E",
+      "name": "チェンジ全開! ゼンカイジャー",
+      "artists": [
+        {
+          "id": "3rCtF823JFfETlTwQnWsFT",
+          "name": "伊勢大貴",
+          "url": "https://open.spotify.com/artist/3rCtF823JFfETlTwQnWsFT"
+        }
+      ],
+      "album": {
+        "id": "0j077gjDTA0LyELmqUjl3g",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731b60b2dc56e9642233a611b5",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021b60b2dc56e9642233a611b5",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511b60b2dc56e9642233a611b5",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ミニアルバム 機界戦隊ゼンカイジャー1",
+        "release_date": "2021-05-19",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0j077gjDTA0LyELmqUjl3g",
+        "total_tracks": 6
+      },
+      "duration_ms": 220266,
+      "popularity": 9,
+      "url": "https://open.spotify.com/track/2bjyUMThEyxoemiGOyBS1E"
+    },
+    {
+      "id": "44tp23MEFrH7AZtZRmAjw6",
+      "name": "界賊の唄",
+      "artists": [
+        {
+          "id": "60wbk9wmm245ponCDLlguv",
+          "name": "ツーカイザー",
+          "url": "https://open.spotify.com/artist/60wbk9wmm245ponCDLlguv"
+        },
+        {
+          "id": "08MLTnqvliQguTFiuFd1M2",
+          "name": "ゾックス・ゴールドツイカー",
+          "url": "https://open.spotify.com/artist/08MLTnqvliQguTFiuFd1M2"
+        }
+      ],
+      "album": {
+        "id": "0j077gjDTA0LyELmqUjl3g",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731b60b2dc56e9642233a611b5",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021b60b2dc56e9642233a611b5",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511b60b2dc56e9642233a611b5",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ミニアルバム 機界戦隊ゼンカイジャー1",
+        "release_date": "2021-05-19",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0j077gjDTA0LyELmqUjl3g",
+        "total_tracks": 6
+      },
+      "duration_ms": 218066,
+      "popularity": 10,
+      "url": "https://open.spotify.com/track/44tp23MEFrH7AZtZRmAjw6"
+    },
+    {
+      "id": "0WDSW3wHp9wackSNPlITN1",
+      "name": "界賊オペレイション! ツーカイオー",
+      "artists": [
+        {
+          "id": "7HSX2Mn5QUc8jt6KlcNo18",
+          "name": "Hideaki Takatori",
+          "url": "https://open.spotify.com/artist/7HSX2Mn5QUc8jt6KlcNo18"
+        },
+        {
+          "id": "1qRrueFNhH2joJR14dzEjI",
+          "name": "Z旗",
+          "url": "https://open.spotify.com/artist/1qRrueFNhH2joJR14dzEjI"
+        }
+      ],
+      "album": {
+        "id": "01l4XUsa0lGLcqVrv3mQkm",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a9402836f8465d0ff241b60c",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a9402836f8465d0ff241b60c",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a9402836f8465d0ff241b60c",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ミニアルバム 機界戦隊ゼンカイジャー2",
+        "release_date": "2021-07-21",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/01l4XUsa0lGLcqVrv3mQkm",
+        "total_tracks": 6
+      },
+      "duration_ms": 209946,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/0WDSW3wHp9wackSNPlITN1"
+    },
+    {
+      "id": "4EzJou0Fy6cCSU3GlpStUQ",
+      "name": "SPARK",
+      "artists": [
+        {
+          "id": "0UZq6vAHrwGgctvxTzzxYm",
+          "name": "Tokyo Ska Paradise Orchestra",
+          "url": "https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm"
+        }
+      ],
+      "album": {
+        "id": "2OXiIsVN314TeR70LA62Ri",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2732147ec223fe461755c44aabd",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e022147ec223fe461755c44aabd",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048512147ec223fe461755c44aabd",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "仮面ライダーセイバー SONG BEST",
+        "release_date": "2021-09-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2OXiIsVN314TeR70LA62Ri",
+        "total_tracks": 20
+      },
+      "duration_ms": 245666,
+      "popularity": 14,
+      "url": "https://open.spotify.com/track/4EzJou0Fy6cCSU3GlpStUQ"
+    },
+    {
+      "id": "0acBtDHUe94o6tWavxZ9EZ",
+      "name": "STACY THOUGHT",
+      "artists": [
+        {
+          "id": "0IfeZkxnLvy8cc8O9uCa1p",
+          "name": "ステイシー",
+          "url": "https://open.spotify.com/artist/0IfeZkxnLvy8cc8O9uCa1p"
+        }
+      ],
+      "album": {
+        "id": "3Pm8nYxbkI2JMeBzOmSRPm",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a66eb9b48acea2f23c3e6aaf",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a66eb9b48acea2f23c3e6aaf",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a66eb9b48acea2f23c3e6aaf",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ミニアルバム 機界戦隊ゼンカイジャー3",
+        "release_date": "2021-10-27",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3Pm8nYxbkI2JMeBzOmSRPm",
+        "total_tracks": 6
+      },
+      "duration_ms": 251906,
+      "popularity": 4,
+      "url": "https://open.spotify.com/track/0acBtDHUe94o6tWavxZ9EZ"
+    },
+    {
+      "id": "6qFA0vlKFA8AOxa7a2O5BC",
+      "name": "はじめてにBANZAI!",
+      "artists": [
+        {
+          "id": "4l4fy8TMmSPCKXHkWKHi6L",
+          "name": "ゼンカイザー",
+          "url": "https://open.spotify.com/artist/4l4fy8TMmSPCKXHkWKHi6L"
+        },
+        {
+          "id": "0Ubel0JGymTV3eigo19WED",
+          "name": "五色田介人",
+          "url": "https://open.spotify.com/artist/0Ubel0JGymTV3eigo19WED"
+        }
+      ],
+      "album": {
+        "id": "727Hd8OzdywV0tOTNusFi4",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27341240e351bd06f177cbb90fa",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0241240e351bd06f177cbb90fa",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485141240e351bd06f177cbb90fa",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "機界戦隊ゼンカイジャー キャラクターソングアルバム",
+        "release_date": "2022-02-02",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/727Hd8OzdywV0tOTNusFi4",
+        "total_tracks": 14
+      },
+      "duration_ms": 250093,
+      "popularity": 5,
+      "url": "https://open.spotify.com/track/6qFA0vlKFA8AOxa7a2O5BC"
+    },
+    {
+      "id": "509c8w0Sq7zEGZZKmGo4y5",
+      "name": "FLAG 〜界賊の美学〜",
+      "artists": [
+        {
+          "id": "60wbk9wmm245ponCDLlguv",
+          "name": "ツーカイザー",
+          "url": "https://open.spotify.com/artist/60wbk9wmm245ponCDLlguv"
+        },
+        {
+          "id": "08MLTnqvliQguTFiuFd1M2",
+          "name": "ゾックス・ゴールドツイカー",
+          "url": "https://open.spotify.com/artist/08MLTnqvliQguTFiuFd1M2"
+        }
+      ],
+      "album": {
+        "id": "727Hd8OzdywV0tOTNusFi4",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27341240e351bd06f177cbb90fa",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0241240e351bd06f177cbb90fa",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485141240e351bd06f177cbb90fa",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "機界戦隊ゼンカイジャー キャラクターソングアルバム",
+        "release_date": "2022-02-02",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/727Hd8OzdywV0tOTNusFi4",
+        "total_tracks": 14
+      },
+      "duration_ms": 222386,
+      "popularity": 5,
+      "url": "https://open.spotify.com/track/509c8w0Sq7zEGZZKmGo4y5"
+    },
+    {
+      "id": "13m80vCt1w59v7OWxt9T2F",
+      "name": "月ノミゾ知ル。",
+      "artists": [
+        {
+          "id": "3PDcFYfe7rSYkrQC6VknHP",
+          "name": "ドンモモタロウ",
+          "url": "https://open.spotify.com/artist/3PDcFYfe7rSYkrQC6VknHP"
+        },
+        {
+          "id": "0vKPQyKgI6Gda1hj4LgAmn",
+          "name": "桃井タロウ",
+          "url": "https://open.spotify.com/artist/0vKPQyKgI6Gda1hj4LgAmn"
+        },
+        {
+          "id": "2STAzDZkctLfsFIPU9PKRD",
+          "name": "ソノイ",
+          "url": "https://open.spotify.com/artist/2STAzDZkctLfsFIPU9PKRD"
+        }
+      ],
+      "album": {
+        "id": "5ApkEvNDNFrdzgK4PIZ8jA",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273de5e5b346598d6e89b3c7a53",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02de5e5b346598d6e89b3c7a53",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851de5e5b346598d6e89b3c7a53",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "暴太郎戦隊ドンブラザーズ EP vol.2",
+        "release_date": "2022-07-20",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5ApkEvNDNFrdzgK4PIZ8jA",
+        "total_tracks": 6
+      },
+      "duration_ms": 223106,
+      "popularity": 12,
+      "url": "https://open.spotify.com/track/13m80vCt1w59v7OWxt9T2F"
+    },
+    {
+      "id": "2Yue8YvHnrOi7gyF2iHeld",
+      "name": "アバターパーティー！ドンブラザーズ！",
+      "artists": [
+        {
+          "id": "3PDcFYfe7rSYkrQC6VknHP",
+          "name": "ドンモモタロウ",
+          "url": "https://open.spotify.com/artist/3PDcFYfe7rSYkrQC6VknHP"
+        },
+        {
+          "id": "0vKPQyKgI6Gda1hj4LgAmn",
+          "name": "桃井タロウ",
+          "url": "https://open.spotify.com/artist/0vKPQyKgI6Gda1hj4LgAmn"
+        },
+        {
+          "id": "2cRK3JAZ3ePcpPAh22v4Ev",
+          "name": "サルブラザー",
+          "url": "https://open.spotify.com/artist/2cRK3JAZ3ePcpPAh22v4Ev"
+        },
+        {
+          "id": "2o9mnY1HF1eWjBoLTu4Axs",
+          "name": "猿原真一",
+          "url": "https://open.spotify.com/artist/2o9mnY1HF1eWjBoLTu4Axs"
+        },
+        {
+          "id": "23WACrR1iKJzpYsOmZs4RS",
+          "name": "オニシスター",
+          "url": "https://open.spotify.com/artist/23WACrR1iKJzpYsOmZs4RS"
+        },
+        {
+          "id": "4VWuQ6z52R4GsBRPTnmjae",
+          "name": "鬼頭はるか",
+          "url": "https://open.spotify.com/artist/4VWuQ6z52R4GsBRPTnmjae"
+        },
+        {
+          "id": "318n3mj1hnIEUuIJbVN101",
+          "name": "イヌブラザー",
+          "url": "https://open.spotify.com/artist/318n3mj1hnIEUuIJbVN101"
+        },
+        {
+          "id": "73dNglaVQU6n1qIbnGoaD4",
+          "name": "犬塚翼",
+          "url": "https://open.spotify.com/artist/73dNglaVQU6n1qIbnGoaD4"
+        },
+        {
+          "id": "1HTMW5Vu2N9cBF5ZzhAZxI",
+          "name": "キジブラザー",
+          "url": "https://open.spotify.com/artist/1HTMW5Vu2N9cBF5ZzhAZxI"
+        },
+        {
+          "id": "2IktVS3iIIuly2oGHJDffN",
+          "name": "雉野つよし",
+          "url": "https://open.spotify.com/artist/2IktVS3iIIuly2oGHJDffN"
+        },
+        {
+          "id": "7G5hmpwtxcJLasama62w0A",
+          "name": "ドンドラゴクウ",
+          "url": "https://open.spotify.com/artist/7G5hmpwtxcJLasama62w0A"
+        },
+        {
+          "id": "66E2ScCJn4QlfaoLOAOWIE",
+          "name": "桃谷ジロウ",
+          "url": "https://open.spotify.com/artist/66E2ScCJn4QlfaoLOAOWIE"
+        },
+        {
+          "id": "2STAzDZkctLfsFIPU9PKRD",
+          "name": "ソノイ",
+          "url": "https://open.spotify.com/artist/2STAzDZkctLfsFIPU9PKRD"
+        },
+        {
+          "id": "3SvlIZU2J4Wy1QJk63NJag",
+          "name": "ソノニ",
+          "url": "https://open.spotify.com/artist/3SvlIZU2J4Wy1QJk63NJag"
+        },
+        {
+          "id": "0PgGqDeiXiQkZeIESrdIwH",
+          "name": "ソノザ",
+          "url": "https://open.spotify.com/artist/0PgGqDeiXiQkZeIESrdIwH"
+        }
+      ],
+      "album": {
+        "id": "1G9MSTOeZTqF2Jf6yVwA5A",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2738866ed4c23c87840862c8dcf",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e028866ed4c23c87840862c8dcf",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048518866ed4c23c87840862c8dcf",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "暴太郎戦隊ドンブラザーズ EP vol.4",
+        "release_date": "2022-11-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1G9MSTOeZTqF2Jf6yVwA5A",
+        "total_tracks": 6
+      },
+      "duration_ms": 336240,
+      "popularity": 15,
+      "url": "https://open.spotify.com/track/2Yue8YvHnrOi7gyF2iHeld"
+    },
+    {
+      "id": "6yWyYfNVQU5Zp3u6AAIw8Z",
+      "name": "永縁フェスティバル",
+      "artists": [
+        {
+          "id": "3PDcFYfe7rSYkrQC6VknHP",
+          "name": "ドンモモタロウ",
+          "url": "https://open.spotify.com/artist/3PDcFYfe7rSYkrQC6VknHP"
+        },
+        {
+          "id": "0vKPQyKgI6Gda1hj4LgAmn",
+          "name": "桃井タロウ",
+          "url": "https://open.spotify.com/artist/0vKPQyKgI6Gda1hj4LgAmn"
+        }
+      ],
+      "album": {
+        "id": "7E9BkWbnJoGUW3op0cddfa",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273bf14ad11a885c00376364676",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02bf14ad11a885c00376364676",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851bf14ad11a885c00376364676",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "暴太郎戦隊ドンブラザーズ キャラクターソングアルバム",
+        "release_date": "2023-03-01",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/7E9BkWbnJoGUW3op0cddfa",
+        "total_tracks": 9
+      },
+      "duration_ms": 198306,
+      "popularity": 11,
+      "url": "https://open.spotify.com/track/6yWyYfNVQU5Zp3u6AAIw8Z"
+    },
+    {
+      "id": "5kAWm2qj9vuyv9KP4CzRgw",
+      "name": "Try it!",
+      "artists": [
+        {
+          "id": "23WACrR1iKJzpYsOmZs4RS",
+          "name": "オニシスター",
+          "url": "https://open.spotify.com/artist/23WACrR1iKJzpYsOmZs4RS"
+        },
+        {
+          "id": "4VWuQ6z52R4GsBRPTnmjae",
+          "name": "鬼頭はるか",
+          "url": "https://open.spotify.com/artist/4VWuQ6z52R4GsBRPTnmjae"
+        }
+      ],
+      "album": {
+        "id": "7E9BkWbnJoGUW3op0cddfa",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273bf14ad11a885c00376364676",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02bf14ad11a885c00376364676",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851bf14ad11a885c00376364676",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "暴太郎戦隊ドンブラザーズ キャラクターソングアルバム",
+        "release_date": "2023-03-01",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/7E9BkWbnJoGUW3op0cddfa",
+        "total_tracks": 9
+      },
+      "duration_ms": 238733,
+      "popularity": 6,
+      "url": "https://open.spotify.com/track/5kAWm2qj9vuyv9KP4CzRgw"
+    },
+    {
+      "id": "4Nh67wtPFiTA86eVXRCtsL",
+      "name": "Jewel Pieces",
+      "artists": [
+        {
+          "id": "3SvlIZU2J4Wy1QJk63NJag",
+          "name": "ソノニ",
+          "url": "https://open.spotify.com/artist/3SvlIZU2J4Wy1QJk63NJag"
+        }
+      ],
+      "album": {
+        "id": "7E9BkWbnJoGUW3op0cddfa",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273bf14ad11a885c00376364676",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02bf14ad11a885c00376364676",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851bf14ad11a885c00376364676",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "暴太郎戦隊ドンブラザーズ キャラクターソングアルバム",
+        "release_date": "2023-03-01",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/7E9BkWbnJoGUW3op0cddfa",
+        "total_tracks": 9
+      },
+      "duration_ms": 220066,
+      "popularity": 4,
+      "url": "https://open.spotify.com/track/4Nh67wtPFiTA86eVXRCtsL"
+    },
+    {
+      "id": "6aVbGlqLBHf2g4gmQIJur2",
+      "name": "INFERNO",
+      "artists": [
+        {
+          "id": "0mxcC38vLiMEP8g4MVNhO4",
+          "name": "NANO",
+          "url": "https://open.spotify.com/artist/0mxcC38vLiMEP8g4MVNhO4"
+        }
+      ],
+      "album": {
+        "id": "6ZJA6BvicrS5AvfJ7tgXLg",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273281832f29241deca66808721",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02281832f29241deca66808721",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851281832f29241deca66808721",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "王様戦隊キングオージャー 主題歌",
+        "release_date": "2023-04-05",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6ZJA6BvicrS5AvfJ7tgXLg",
+        "total_tracks": 12
+      },
+      "duration_ms": 217213,
+      "popularity": 19,
+      "url": "https://open.spotify.com/track/6aVbGlqLBHf2g4gmQIJur2"
+    },
+    {
+      "id": "2bdJBcM6zleqcXOQm92bNR",
+      "name": "爆上戦隊ブンブンジャー",
+      "artists": [
+        {
+          "id": "0UEr743MkPevfCuNrrFYJ6",
+          "name": "遠藤正明",
+          "url": "https://open.spotify.com/artist/0UEr743MkPevfCuNrrFYJ6"
+        }
+      ],
+      "album": {
+        "id": "4OIeX1Lw56aBoJpUwh6Ddi",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273594f56ae355c81ca378b9e21",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02594f56ae355c81ca378b9e21",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851594f56ae355c81ca378b9e21",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "爆上戦隊ブンブンジャー 主題歌",
+        "release_date": "2024-04-03",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0UEr743MkPevfCuNrrFYJ6",
+            "name": "遠藤正明",
+            "url": "https://open.spotify.com/artist/0UEr743MkPevfCuNrrFYJ6"
+          },
+          {
+            "id": "2nGsD4NFuXkXquKHSJnANX",
+            "name": "ブンドリオ・ブンデラス (CV: 松本梨香)",
+            "url": "https://open.spotify.com/artist/2nGsD4NFuXkXquKHSJnANX"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4OIeX1Lw56aBoJpUwh6Ddi",
+        "total_tracks": 4
+      },
+      "duration_ms": 176453,
+      "popularity": 38,
+      "url": "https://open.spotify.com/track/2bdJBcM6zleqcXOQm92bNR"
+    },
+    {
+      "id": "0WuGqVQqOwPKO6Wj9isr5P",
+      "name": "にじ",
+      "artists": [
+        {
+          "id": "4eMVcSxbgb3xKvlR9tai0z",
+          "name": "井内悠陽",
+          "url": "https://open.spotify.com/artist/4eMVcSxbgb3xKvlR9tai0z"
+        },
+        {
+          "id": "0NObtNqQYLzjZk52x4sRnD",
+          "name": "葉山侑樹",
+          "url": "https://open.spotify.com/artist/0NObtNqQYLzjZk52x4sRnD"
+        },
+        {
+          "id": "5h8CGKplUaagx2esDSvs5I",
+          "name": "鈴木美羽",
+          "url": "https://open.spotify.com/artist/5h8CGKplUaagx2esDSvs5I"
+        },
+        {
+          "id": "6PZSzBcms9As1LHlBCZMQ4",
+          "name": "齋藤璃佑",
+          "url": "https://open.spotify.com/artist/6PZSzBcms9As1LHlBCZMQ4"
+        },
+        {
+          "id": "2MIFyusHRZ0t8Osakl8YYJ",
+          "name": "相馬 理",
+          "url": "https://open.spotify.com/artist/2MIFyusHRZ0t8Osakl8YYJ"
+        },
+        {
+          "id": "0N7UBKm6UKRWIAimVH1gkN",
+          "name": "さくらキッズ",
+          "url": "https://open.spotify.com/artist/0N7UBKm6UKRWIAimVH1gkN"
+        }
+      ],
+      "album": {
+        "id": "7lkesCpKJNtXDvuyNU6pwY",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734898f290976722978b78a13d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024898f290976722978b78a13d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514898f290976722978b78a13d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "爆上戦隊ブンブンジャー EP vol.3",
+        "release_date": "2024-09-25",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/7lkesCpKJNtXDvuyNU6pwY",
+        "total_tracks": 6
+      },
+      "duration_ms": 175373,
+      "popularity": 24,
+      "url": "https://open.spotify.com/track/0WuGqVQqOwPKO6Wj9isr5P"
+    }
+  ],
+  "description": "個人的名曲です。ゴレンジャー、ジャッカー、バトルフィーバー、デンジマン、サンバルカン、メガレンジャー、ギンガマン、ゴーゴーファイブ、タイムレンジャー、ガオレンジャー、ハリケンジャー、アバレンジャー、デカレンジャー、マジレンジャー、ボウケンジャー、ゲキレンジャー、ゴーオンジャー、シンケンジャー、ゴセイジャー、ゴーカイジャー、ゴーバスターズ、キョウリュウジャー、トッキュウジャー、ニンニンジャー、ジュウオウジャー、キュウレンジャー、パトレンジャー、ルパンレンジャー、リュウソウジャー、キラメイジャー、ゼンカイジャー、ドンブラザーズ、キングオージャー、ブンブンジャー、ゴジュウジャー",
+  "name": "スーパー戦隊 名曲",
+  "owner": {
+    "display_name": "キュアレインボー🌈",
+    "url": "https://open.spotify.com/user/316nyo4i3du6atjbiv4tzjbgf6em",
+    "id": "316nyo4i3du6atjbiv4tzjbgf6em"
+  },
+  "url": "https://open.spotify.com/playlist/2xRsx0AXznCIVxQDpsvioM"
+}

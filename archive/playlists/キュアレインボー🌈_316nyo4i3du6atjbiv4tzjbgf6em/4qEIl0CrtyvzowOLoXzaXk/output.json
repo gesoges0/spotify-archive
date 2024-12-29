@@ -1,0 +1,2737 @@
+{
+  "id": "4qEIl0CrtyvzowOLoXzaXk",
+  "tracks": [
+    {
+      "id": "0SQOhJqIxEp0c2GAfOfXDB",
+      "name": "本物の友だち",
+      "artists": [
+        {
+          "id": "1hlpldRj6GZ2naD4XDqi80",
+          "name": "Naoki Sato",
+          "url": "https://open.spotify.com/artist/1hlpldRj6GZ2naD4XDqi80"
+        }
+      ],
+      "album": {
+        "id": "2pf9vpVG0clWBSKUInfncy",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2735f5f0502f88eb8a3150e18fc",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e025f5f0502f88eb8a3150e18fc",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048515f5f0502f88eb8a3150e18fc",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "映画ふたりはプリキュアMaxHeart２ ～雪空のともだち～オリジナル・サウンドトラック",
+        "release_date": "2005-12-22",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2pf9vpVG0clWBSKUInfncy",
+        "total_tracks": 35
+      },
+      "duration_ms": 72693,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/0SQOhJqIxEp0c2GAfOfXDB"
+    },
+    {
+      "id": "2fCUXdgYleqcAQCEe9vZbz",
+      "name": "学園生活はドキドキ!?ワクワク!!",
+      "artists": [
+        {
+          "id": "1hlpldRj6GZ2naD4XDqi80",
+          "name": "Naoki Sato",
+          "url": "https://open.spotify.com/artist/1hlpldRj6GZ2naD4XDqi80"
+        }
+      ],
+      "album": {
+        "id": "37adeHehnfflqQCnCtNxbN",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b367c653077096942e71e010",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b367c653077096942e71e010",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b367c653077096942e71e010",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ふたりはプリキュアMaxHeart　オリジナル・サウンドトラック　プリキュアサウンドスクリュー！",
+        "release_date": "2001-01-25",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/37adeHehnfflqQCnCtNxbN",
+        "total_tracks": 39
+      },
+      "duration_ms": 83440,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/2fCUXdgYleqcAQCEe9vZbz"
+    },
+    {
+      "id": "5jCCAFmAtqvRIeU4tfOg27",
+      "name": "大切な想い",
+      "artists": [
+        {
+          "id": "1hlpldRj6GZ2naD4XDqi80",
+          "name": "Naoki Sato",
+          "url": "https://open.spotify.com/artist/1hlpldRj6GZ2naD4XDqi80"
+        }
+      ],
+      "album": {
+        "id": "37adeHehnfflqQCnCtNxbN",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b367c653077096942e71e010",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b367c653077096942e71e010",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b367c653077096942e71e010",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ふたりはプリキュアMaxHeart　オリジナル・サウンドトラック　プリキュアサウンドスクリュー！",
+        "release_date": "2001-01-25",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/37adeHehnfflqQCnCtNxbN",
+        "total_tracks": 39
+      },
+      "duration_ms": 146000,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/5jCCAFmAtqvRIeU4tfOg27"
+    },
+    {
+      "id": "1bwCRNPS4N2aP6daBpx9Go",
+      "name": "友情はいつまでも",
+      "artists": [
+        {
+          "id": "1hlpldRj6GZ2naD4XDqi80",
+          "name": "Naoki Sato",
+          "url": "https://open.spotify.com/artist/1hlpldRj6GZ2naD4XDqi80"
+        }
+      ],
+      "album": {
+        "id": "37adeHehnfflqQCnCtNxbN",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b367c653077096942e71e010",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b367c653077096942e71e010",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b367c653077096942e71e010",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ふたりはプリキュアMaxHeart　オリジナル・サウンドトラック　プリキュアサウンドスクリュー！",
+        "release_date": "2001-01-25",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/37adeHehnfflqQCnCtNxbN",
+        "total_tracks": 39
+      },
+      "duration_ms": 115960,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/1bwCRNPS4N2aP6daBpx9Go"
+    },
+    {
+      "id": "6barAKvgltbBpSjfqmYS0P",
+      "name": "新たなるプリキュア！",
+      "artists": [
+        {
+          "id": "1Gy4pp1Nd2kgaMbLBYD4aS",
+          "name": "ふたりはプリキュア Splash Star",
+          "url": "https://open.spotify.com/artist/1Gy4pp1Nd2kgaMbLBYD4aS"
+        }
+      ],
+      "album": {
+        "id": "1a1i6Fcx0iP1sFmp6ycNDl",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273288c0d7e3dc6149b4a747549",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02288c0d7e3dc6149b4a747549",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851288c0d7e3dc6149b4a747549",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ふたりはプリキュアSplashStar　サウンドトラック１プリキュア・サウンド・シャワー！",
+        "release_date": "2006-08-25",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1a1i6Fcx0iP1sFmp6ycNDl",
+        "total_tracks": 43
+      },
+      "duration_ms": 34680,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/6barAKvgltbBpSjfqmYS0P"
+    },
+    {
+      "id": "0z7ZkMf2lPfQxTxRH6ni9D",
+      "name": "ワクワク気分で",
+      "artists": [
+        {
+          "id": "1Gy4pp1Nd2kgaMbLBYD4aS",
+          "name": "ふたりはプリキュア Splash Star",
+          "url": "https://open.spotify.com/artist/1Gy4pp1Nd2kgaMbLBYD4aS"
+        }
+      ],
+      "album": {
+        "id": "1a1i6Fcx0iP1sFmp6ycNDl",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273288c0d7e3dc6149b4a747549",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02288c0d7e3dc6149b4a747549",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851288c0d7e3dc6149b4a747549",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ふたりはプリキュアSplashStar　サウンドトラック１プリキュア・サウンド・シャワー！",
+        "release_date": "2006-08-25",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1a1i6Fcx0iP1sFmp6ycNDl",
+        "total_tracks": 43
+      },
+      "duration_ms": 111666,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/0z7ZkMf2lPfQxTxRH6ni9D"
+    },
+    {
+      "id": "6PB5MOSyiGhZrVNvH6yISP",
+      "name": "心の翼を拡げたら",
+      "artists": [
+        {
+          "id": "1Gy4pp1Nd2kgaMbLBYD4aS",
+          "name": "ふたりはプリキュア Splash Star",
+          "url": "https://open.spotify.com/artist/1Gy4pp1Nd2kgaMbLBYD4aS"
+        }
+      ],
+      "album": {
+        "id": "1a1i6Fcx0iP1sFmp6ycNDl",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273288c0d7e3dc6149b4a747549",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02288c0d7e3dc6149b4a747549",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851288c0d7e3dc6149b4a747549",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ふたりはプリキュアSplashStar　サウンドトラック１プリキュア・サウンド・シャワー！",
+        "release_date": "2006-08-25",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1a1i6Fcx0iP1sFmp6ycNDl",
+        "total_tracks": 43
+      },
+      "duration_ms": 103866,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/6PB5MOSyiGhZrVNvH6yISP"
+    },
+    {
+      "id": "5smzZ3GUZ5jCF60X1pzMJO",
+      "name": "ドンマイ！ファイト！",
+      "artists": [
+        {
+          "id": "1Gy4pp1Nd2kgaMbLBYD4aS",
+          "name": "ふたりはプリキュア Splash Star",
+          "url": "https://open.spotify.com/artist/1Gy4pp1Nd2kgaMbLBYD4aS"
+        }
+      ],
+      "album": {
+        "id": "1a1i6Fcx0iP1sFmp6ycNDl",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273288c0d7e3dc6149b4a747549",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02288c0d7e3dc6149b4a747549",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851288c0d7e3dc6149b4a747549",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ふたりはプリキュアSplashStar　サウンドトラック１プリキュア・サウンド・シャワー！",
+        "release_date": "2006-08-25",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1a1i6Fcx0iP1sFmp6ycNDl",
+        "total_tracks": 43
+      },
+      "duration_ms": 126533,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/5smzZ3GUZ5jCF60X1pzMJO"
+    },
+    {
+      "id": "0mSrYyhlvoT3ROgCxHNT8F",
+      "name": "友情～あなたを想ってる",
+      "artists": [
+        {
+          "id": "1Gy4pp1Nd2kgaMbLBYD4aS",
+          "name": "ふたりはプリキュア Splash Star",
+          "url": "https://open.spotify.com/artist/1Gy4pp1Nd2kgaMbLBYD4aS"
+        }
+      ],
+      "album": {
+        "id": "1a1i6Fcx0iP1sFmp6ycNDl",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273288c0d7e3dc6149b4a747549",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02288c0d7e3dc6149b4a747549",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851288c0d7e3dc6149b4a747549",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ふたりはプリキュアSplashStar　サウンドトラック１プリキュア・サウンド・シャワー！",
+        "release_date": "2006-08-25",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1a1i6Fcx0iP1sFmp6ycNDl",
+        "total_tracks": 43
+      },
+      "duration_ms": 116040,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/0mSrYyhlvoT3ROgCxHNT8F"
+    },
+    {
+      "id": "1ytHxw5ldSATyYcOt8RUlh",
+      "name": "やさしい光に包まれて",
+      "artists": [
+        {
+          "id": "1hlpldRj6GZ2naD4XDqi80",
+          "name": "Naoki Sato",
+          "url": "https://open.spotify.com/artist/1hlpldRj6GZ2naD4XDqi80"
+        }
+      ],
+      "album": {
+        "id": "0GvCrZ03Q6Pe4BdRRZHSCX",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731966d1694e0b6568ddabd758",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021966d1694e0b6568ddabd758",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511966d1694e0b6568ddabd758",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "映画 ふたりはプリキュア Splash Star ～チクタク危機一髪! ～ オリジナル・サウンドトラック",
+        "release_date": "2006-12-22",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0GvCrZ03Q6Pe4BdRRZHSCX",
+        "total_tracks": 44
+      },
+      "duration_ms": 169720,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/1ytHxw5ldSATyYcOt8RUlh"
+    },
+    {
+      "id": "5vtt6hf4tVFDMT7hMpBj3v",
+      "name": "光のシャワーをあびて",
+      "artists": [
+        {
+          "id": "1Gy4pp1Nd2kgaMbLBYD4aS",
+          "name": "ふたりはプリキュア Splash Star",
+          "url": "https://open.spotify.com/artist/1Gy4pp1Nd2kgaMbLBYD4aS"
+        }
+      ],
+      "album": {
+        "id": "2Xazl027mif0np7L4DYDiZ",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d04b817eb15b896f0e8ff58e",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d04b817eb15b896f0e8ff58e",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d04b817eb15b896f0e8ff58e",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ふたりはプリキュアSplashStar　オリジナル・サウンドトラック２　プリキュア・サウンド・スプラッシュ！",
+        "release_date": "2007-01-25",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2Xazl027mif0np7L4DYDiZ",
+        "total_tracks": 40
+      },
+      "duration_ms": 78666,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/5vtt6hf4tVFDMT7hMpBj3v"
+    },
+    {
+      "id": "6ZWxDqDXwkqGoduv7IayqN",
+      "name": "友情～絆を信じて",
+      "artists": [
+        {
+          "id": "1Gy4pp1Nd2kgaMbLBYD4aS",
+          "name": "ふたりはプリキュア Splash Star",
+          "url": "https://open.spotify.com/artist/1Gy4pp1Nd2kgaMbLBYD4aS"
+        }
+      ],
+      "album": {
+        "id": "2Xazl027mif0np7L4DYDiZ",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d04b817eb15b896f0e8ff58e",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d04b817eb15b896f0e8ff58e",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d04b817eb15b896f0e8ff58e",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ふたりはプリキュアSplashStar　オリジナル・サウンドトラック２　プリキュア・サウンド・スプラッシュ！",
+        "release_date": "2007-01-25",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2Xazl027mif0np7L4DYDiZ",
+        "total_tracks": 40
+      },
+      "duration_ms": 92253,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/6ZWxDqDXwkqGoduv7IayqN"
+    },
+    {
+      "id": "4taFN3x4byD6aBlYJfjc9C",
+      "name": "なつかしい笑顔とともに",
+      "artists": [
+        {
+          "id": "1Gy4pp1Nd2kgaMbLBYD4aS",
+          "name": "ふたりはプリキュア Splash Star",
+          "url": "https://open.spotify.com/artist/1Gy4pp1Nd2kgaMbLBYD4aS"
+        }
+      ],
+      "album": {
+        "id": "2Xazl027mif0np7L4DYDiZ",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d04b817eb15b896f0e8ff58e",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d04b817eb15b896f0e8ff58e",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d04b817eb15b896f0e8ff58e",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ふたりはプリキュアSplashStar　オリジナル・サウンドトラック２　プリキュア・サウンド・スプラッシュ！",
+        "release_date": "2007-01-25",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2Xazl027mif0np7L4DYDiZ",
+        "total_tracks": 40
+      },
+      "duration_ms": 135933,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/4taFN3x4byD6aBlYJfjc9C"
+    },
+    {
+      "id": "1C2NXmXx3u5QieqRNHjoR1",
+      "name": "かけがえのない世界",
+      "artists": [
+        {
+          "id": "1Gy4pp1Nd2kgaMbLBYD4aS",
+          "name": "ふたりはプリキュア Splash Star",
+          "url": "https://open.spotify.com/artist/1Gy4pp1Nd2kgaMbLBYD4aS"
+        }
+      ],
+      "album": {
+        "id": "2Xazl027mif0np7L4DYDiZ",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d04b817eb15b896f0e8ff58e",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d04b817eb15b896f0e8ff58e",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d04b817eb15b896f0e8ff58e",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ふたりはプリキュアSplashStar　オリジナル・サウンドトラック２　プリキュア・サウンド・スプラッシュ！",
+        "release_date": "2007-01-25",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2Xazl027mif0np7L4DYDiZ",
+        "total_tracks": 40
+      },
+      "duration_ms": 97786,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/1C2NXmXx3u5QieqRNHjoR1"
+    },
+    {
+      "id": "2iV60qkqsjgmIFjrZjryQb",
+      "name": "まかせて★スプラッシュ☆スター★ - ～ インストゥルメンタル Version",
+      "artists": [
+        {
+          "id": "1Gy4pp1Nd2kgaMbLBYD4aS",
+          "name": "ふたりはプリキュア Splash Star",
+          "url": "https://open.spotify.com/artist/1Gy4pp1Nd2kgaMbLBYD4aS"
+        }
+      ],
+      "album": {
+        "id": "2Xazl027mif0np7L4DYDiZ",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d04b817eb15b896f0e8ff58e",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d04b817eb15b896f0e8ff58e",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d04b817eb15b896f0e8ff58e",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ふたりはプリキュアSplashStar　オリジナル・サウンドトラック２　プリキュア・サウンド・スプラッシュ！",
+        "release_date": "2007-01-25",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2Xazl027mif0np7L4DYDiZ",
+        "total_tracks": 40
+      },
+      "duration_ms": 94533,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/2iV60qkqsjgmIFjrZjryQb"
+    },
+    {
+      "id": "1IjWOPDBhMJVl3KJrDSDc5",
+      "name": "夢見る少女たち",
+      "artists": [
+        {
+          "id": "6OqAKqn3d1qDhNLsKLEBdp",
+          "name": "ＭＡＲＨＹ",
+          "url": "https://open.spotify.com/artist/6OqAKqn3d1qDhNLsKLEBdp"
+        }
+      ],
+      "album": {
+        "id": "5wyt6QHFL3dwzkWamLxcd3",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273980dbe9ea23a39aee099e0c8",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02980dbe9ea23a39aee099e0c8",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851980dbe9ea23a39aee099e0c8",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Yes！プリキュア５　オリジナル・サウンドトラック2　サウンド・ミラクル・シュート！！",
+        "release_date": "2008-01-30",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5wyt6QHFL3dwzkWamLxcd3",
+        "total_tracks": 33
+      },
+      "duration_ms": 119986,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/1IjWOPDBhMJVl3KJrDSDc5"
+    },
+    {
+      "id": "1Rrlue0DbQxrJbdkUdbQnS",
+      "name": "悲しみ",
+      "artists": [
+        {
+          "id": "1hlpldRj6GZ2naD4XDqi80",
+          "name": "Naoki Sato",
+          "url": "https://open.spotify.com/artist/1hlpldRj6GZ2naD4XDqi80"
+        }
+      ],
+      "album": {
+        "id": "5wyt6QHFL3dwzkWamLxcd3",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273980dbe9ea23a39aee099e0c8",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02980dbe9ea23a39aee099e0c8",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851980dbe9ea23a39aee099e0c8",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Yes！プリキュア５　オリジナル・サウンドトラック2　サウンド・ミラクル・シュート！！",
+        "release_date": "2008-01-30",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5wyt6QHFL3dwzkWamLxcd3",
+        "total_tracks": 33
+      },
+      "duration_ms": 97786,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/1Rrlue0DbQxrJbdkUdbQnS"
+    },
+    {
+      "id": "3HlAAwW6SAxQNr2RGZF67M",
+      "name": "キラキラしちゃって My True Love - ~Instrumental version~",
+      "artists": [
+        {
+          "id": "6OqAKqn3d1qDhNLsKLEBdp",
+          "name": "ＭＡＲＨＹ",
+          "url": "https://open.spotify.com/artist/6OqAKqn3d1qDhNLsKLEBdp"
+        }
+      ],
+      "album": {
+        "id": "5wyt6QHFL3dwzkWamLxcd3",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273980dbe9ea23a39aee099e0c8",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02980dbe9ea23a39aee099e0c8",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851980dbe9ea23a39aee099e0c8",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Yes！プリキュア５　オリジナル・サウンドトラック2　サウンド・ミラクル・シュート！！",
+        "release_date": "2008-01-30",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5wyt6QHFL3dwzkWamLxcd3",
+        "total_tracks": 33
+      },
+      "duration_ms": 93360,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/3HlAAwW6SAxQNr2RGZF67M"
+    },
+    {
+      "id": "13GSK3XD4QnVafoaNDjLBf",
+      "name": "心はひとつ",
+      "artists": [
+        {
+          "id": "1hlpldRj6GZ2naD4XDqi80",
+          "name": "Naoki Sato",
+          "url": "https://open.spotify.com/artist/1hlpldRj6GZ2naD4XDqi80"
+        }
+      ],
+      "album": {
+        "id": "5wyt6QHFL3dwzkWamLxcd3",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273980dbe9ea23a39aee099e0c8",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02980dbe9ea23a39aee099e0c8",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851980dbe9ea23a39aee099e0c8",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Yes！プリキュア５　オリジナル・サウンドトラック2　サウンド・ミラクル・シュート！！",
+        "release_date": "2008-01-30",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5wyt6QHFL3dwzkWamLxcd3",
+        "total_tracks": 33
+      },
+      "duration_ms": 104453,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/13GSK3XD4QnVafoaNDjLBf"
+    },
+    {
+      "id": "354QXBfLJApB2slVm3Wykq",
+      "name": "カフェテラスにて",
+      "artists": [
+        {
+          "id": "6b7eLRHxsjVQrjCKOFZJmu",
+          "name": "岩切芳郎",
+          "url": "https://open.spotify.com/artist/6b7eLRHxsjVQrjCKOFZJmu"
+        }
+      ],
+      "album": {
+        "id": "1UnoL8EfJo04QMPTPROIGD",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737ad69a59fdafcea8f0c7538e",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027ad69a59fdafcea8f0c7538e",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517ad69a59fdafcea8f0c7538e",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Yes！プリキュア５GoGo!　オリジナル・サウンドトラック1　プリキュア・サウンド・シューティングスター!!",
+        "release_date": "2008-09-03",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1UnoL8EfJo04QMPTPROIGD",
+        "total_tracks": 29
+      },
+      "duration_ms": 93133,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/354QXBfLJApB2slVm3Wykq"
+    },
+    {
+      "id": "4fptzLfJrQNodpToCy3zXt",
+      "name": "大切なものは…",
+      "artists": [
+        {
+          "id": "5NIZ0T9cOYWt3PluIi6JWN",
+          "name": "間瀬公司",
+          "url": "https://open.spotify.com/artist/5NIZ0T9cOYWt3PluIi6JWN"
+        }
+      ],
+      "album": {
+        "id": "1UnoL8EfJo04QMPTPROIGD",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737ad69a59fdafcea8f0c7538e",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027ad69a59fdafcea8f0c7538e",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517ad69a59fdafcea8f0c7538e",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Yes！プリキュア５GoGo!　オリジナル・サウンドトラック1　プリキュア・サウンド・シューティングスター!!",
+        "release_date": "2008-09-03",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1UnoL8EfJo04QMPTPROIGD",
+        "total_tracks": 29
+      },
+      "duration_ms": 112946,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/4fptzLfJrQNodpToCy3zXt"
+    },
+    {
+      "id": "3PRkxqX7yU6Z5u3zSUzMFp",
+      "name": "この手をはなさない",
+      "artists": [
+        {
+          "id": "6b7eLRHxsjVQrjCKOFZJmu",
+          "name": "岩切芳郎",
+          "url": "https://open.spotify.com/artist/6b7eLRHxsjVQrjCKOFZJmu"
+        }
+      ],
+      "album": {
+        "id": "1UnoL8EfJo04QMPTPROIGD",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2737ad69a59fdafcea8f0c7538e",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e027ad69a59fdafcea8f0c7538e",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048517ad69a59fdafcea8f0c7538e",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Yes！プリキュア５GoGo!　オリジナル・サウンドトラック1　プリキュア・サウンド・シューティングスター!!",
+        "release_date": "2008-09-03",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1UnoL8EfJo04QMPTPROIGD",
+        "total_tracks": 29
+      },
+      "duration_ms": 104053,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/3PRkxqX7yU6Z5u3zSUzMFp"
+    },
+    {
+      "id": "6sb98wgWOwvt5Wbb8Ts9ro",
+      "name": "チョコラの気持ち",
+      "artists": [
+        {
+          "id": "1hlpldRj6GZ2naD4XDqi80",
+          "name": "Naoki Sato",
+          "url": "https://open.spotify.com/artist/1hlpldRj6GZ2naD4XDqi80"
+        }
+      ],
+      "album": {
+        "id": "4Qo6rofHzMyTCjuD5KGcHL",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739209af003fcb644c1a2c7e14",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029209af003fcb644c1a2c7e14",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519209af003fcb644c1a2c7e14",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "映画Yes！プリキュア５GoGo！ お菓子の国のハッピーバースディ♪ オリジナル・サウンドトラック",
+        "release_date": "2008-12-03",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4Qo6rofHzMyTCjuD5KGcHL",
+        "total_tracks": 32
+      },
+      "duration_ms": 112666,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/6sb98wgWOwvt5Wbb8Ts9ro"
+    },
+    {
+      "id": "0lf6oJvYtaWjMu3ArePI7u",
+      "name": "センチメンタル",
+      "artists": [
+        {
+          "id": "677Mbn68LiNoP5QuKCTka0",
+          "name": "藤沢健至",
+          "url": "https://open.spotify.com/artist/677Mbn68LiNoP5QuKCTka0"
+        }
+      ],
+      "album": {
+        "id": "5izo2qsH7XoFR5J278gJD9",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2735ef6ecb4ebcb03b05d9d45a9",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e025ef6ecb4ebcb03b05d9d45a9",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048515ef6ecb4ebcb03b05d9d45a9",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "フレッシュプリキュア！　オリジナル・サウンドトラック1 プリキュア・サウンド・サンシャイン!!",
+        "release_date": "2009-09-02",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5izo2qsH7XoFR5J278gJD9",
+        "total_tracks": 41
+      },
+      "duration_ms": 140253,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/0lf6oJvYtaWjMu3ArePI7u"
+    },
+    {
+      "id": "5uMXO0htKNrCeUAjCvWwLN",
+      "name": "つぼみ～キュアブロッサムのテーマ",
+      "artists": [
+        {
+          "id": "64mecceQewFCKwCK6JBW0o",
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        }
+      ],
+      "album": {
+        "id": "67gOKIUvocKstclbj3Gu3x",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731812530de5a47e0153068e2e",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021812530de5a47e0153068e2e",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511812530de5a47e0153068e2e",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ハートキャッチプリキュア！　オリジナル・サウンドトラック1　プリキュア・サウンド・フォルテウェイブ!!",
+        "release_date": "2010-06-09",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/67gOKIUvocKstclbj3Gu3x",
+        "total_tracks": 33
+      },
+      "duration_ms": 101586,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/5uMXO0htKNrCeUAjCvWwLN"
+    },
+    {
+      "id": "2Oj7VXU5qZZRHEVfXrZ471",
+      "name": "わたし、変わります！",
+      "artists": [
+        {
+          "id": "64mecceQewFCKwCK6JBW0o",
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        }
+      ],
+      "album": {
+        "id": "67gOKIUvocKstclbj3Gu3x",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731812530de5a47e0153068e2e",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021812530de5a47e0153068e2e",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511812530de5a47e0153068e2e",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ハートキャッチプリキュア！　オリジナル・サウンドトラック1　プリキュア・サウンド・フォルテウェイブ!!",
+        "release_date": "2010-06-09",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/67gOKIUvocKstclbj3Gu3x",
+        "total_tracks": 33
+      },
+      "duration_ms": 117546,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/2Oj7VXU5qZZRHEVfXrZ471"
+    },
+    {
+      "id": "29SHRGjyFHIxCbfBvyVzKZ",
+      "name": "Alright！ハートキャッチプリキュア！　～スロー・アレンジ～",
+      "artists": [
+        {
+          "id": "7HSX2Mn5QUc8jt6KlcNo18",
+          "name": "Hideaki Takatori",
+          "url": "https://open.spotify.com/artist/7HSX2Mn5QUc8jt6KlcNo18"
+        }
+      ],
+      "album": {
+        "id": "67gOKIUvocKstclbj3Gu3x",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731812530de5a47e0153068e2e",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021812530de5a47e0153068e2e",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511812530de5a47e0153068e2e",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ハートキャッチプリキュア！　オリジナル・サウンドトラック1　プリキュア・サウンド・フォルテウェイブ!!",
+        "release_date": "2010-06-09",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/67gOKIUvocKstclbj3Gu3x",
+        "total_tracks": 33
+      },
+      "duration_ms": 168040,
+      "popularity": 2,
+      "url": "https://open.spotify.com/track/29SHRGjyFHIxCbfBvyVzKZ"
+    },
+    {
+      "id": "3A8XanJ2Rw987UJzcWErWb",
+      "name": "えりか～キュアマリンのテーマ",
+      "artists": [
+        {
+          "id": "64mecceQewFCKwCK6JBW0o",
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        }
+      ],
+      "album": {
+        "id": "67gOKIUvocKstclbj3Gu3x",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731812530de5a47e0153068e2e",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021812530de5a47e0153068e2e",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511812530de5a47e0153068e2e",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ハートキャッチプリキュア！　オリジナル・サウンドトラック1　プリキュア・サウンド・フォルテウェイブ!!",
+        "release_date": "2010-06-09",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/67gOKIUvocKstclbj3Gu3x",
+        "total_tracks": 33
+      },
+      "duration_ms": 105373,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/3A8XanJ2Rw987UJzcWErWb"
+    },
+    {
+      "id": "5QLNMyM6iTbz5Z9qsXjldh",
+      "name": "Alright! ハートキャッチプリキュア！～ギター・アレンジ～～ギター・アレンジ～",
+      "artists": [
+        {
+          "id": "7HSX2Mn5QUc8jt6KlcNo18",
+          "name": "Hideaki Takatori",
+          "url": "https://open.spotify.com/artist/7HSX2Mn5QUc8jt6KlcNo18"
+        }
+      ],
+      "album": {
+        "id": "4JCku3cKxBNqJfJFjhKsWc",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27318d147972bbf61d8b5ba56f6",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0218d147972bbf61d8b5ba56f6",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485118d147972bbf61d8b5ba56f6",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ハートキャッチプリキュア！　オリジナル・サウンドトラック2　プリキュア・サウンド・バースト!!",
+        "release_date": "2010-12-22",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4JCku3cKxBNqJfJFjhKsWc",
+        "total_tracks": 38
+      },
+      "duration_ms": 124026,
+      "popularity": 2,
+      "url": "https://open.spotify.com/track/5QLNMyM6iTbz5Z9qsXjldh"
+    },
+    {
+      "id": "2fuaLqytXcvwmgrWCxCCt9",
+      "name": "キュアサンシャインのテーマ",
+      "artists": [
+        {
+          "id": "64mecceQewFCKwCK6JBW0o",
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        }
+      ],
+      "album": {
+        "id": "4JCku3cKxBNqJfJFjhKsWc",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27318d147972bbf61d8b5ba56f6",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0218d147972bbf61d8b5ba56f6",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485118d147972bbf61d8b5ba56f6",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ハートキャッチプリキュア！　オリジナル・サウンドトラック2　プリキュア・サウンド・バースト!!",
+        "release_date": "2010-12-22",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4JCku3cKxBNqJfJFjhKsWc",
+        "total_tracks": 38
+      },
+      "duration_ms": 111840,
+      "popularity": 2,
+      "url": "https://open.spotify.com/track/2fuaLqytXcvwmgrWCxCCt9"
+    },
+    {
+      "id": "6R4Lvvw47bHryPVQN238AN",
+      "name": "キュアムーンライトのテーマ",
+      "artists": [
+        {
+          "id": "64mecceQewFCKwCK6JBW0o",
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        }
+      ],
+      "album": {
+        "id": "4JCku3cKxBNqJfJFjhKsWc",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27318d147972bbf61d8b5ba56f6",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0218d147972bbf61d8b5ba56f6",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485118d147972bbf61d8b5ba56f6",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ハートキャッチプリキュア！　オリジナル・サウンドトラック2　プリキュア・サウンド・バースト!!",
+        "release_date": "2010-12-22",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4JCku3cKxBNqJfJFjhKsWc",
+        "total_tracks": 38
+      },
+      "duration_ms": 122613,
+      "popularity": 4,
+      "url": "https://open.spotify.com/track/6R4Lvvw47bHryPVQN238AN"
+    },
+    {
+      "id": "6FseRBld0uSkkdgGqAWH5m",
+      "name": "プリキュア～永遠のともだち～ -Instrumental-",
+      "artists": [
+        {
+          "id": "64mecceQewFCKwCK6JBW0o",
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        }
+      ],
+      "album": {
+        "id": "5cxOJcowHo9ynlLOw5XlR8",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d5d6d9bc1ed3828977a9d3a0",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d5d6d9bc1ed3828977a9d3a0",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d5d6d9bc1ed3828977a9d3a0",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "映画プリキュアオールスターズNewStage　みらいのともだち　オリジナル・サウンドトラック",
+        "release_date": "2012-03-14",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5cxOJcowHo9ynlLOw5XlR8",
+        "total_tracks": 38
+      },
+      "duration_ms": 289986,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/6FseRBld0uSkkdgGqAWH5m"
+    },
+    {
+      "id": "3cSlnAy1Ru3ybHgDW6qVa2",
+      "name": "Let's go！スマイルプリキュア！～Cure Metal Instrumental～",
+      "artists": [
+        {
+          "id": "7HSX2Mn5QUc8jt6KlcNo18",
+          "name": "Hideaki Takatori",
+          "url": "https://open.spotify.com/artist/7HSX2Mn5QUc8jt6KlcNo18"
+        }
+      ],
+      "album": {
+        "id": "3hKRYLN3hry8oybcQartmK",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27367947b1232240efa921db64f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0267947b1232240efa921db64f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485167947b1232240efa921db64f",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スマイルプリキュア！ オリジナル・サウンドトラック1 プリキュア・サウンド・パレード!!",
+        "release_date": "2012-06-06",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3hKRYLN3hry8oybcQartmK",
+        "total_tracks": 32
+      },
+      "duration_ms": 92533,
+      "popularity": 4,
+      "url": "https://open.spotify.com/track/3cSlnAy1Ru3ybHgDW6qVa2"
+    },
+    {
+      "id": "4XqhaoNcgswUbyxn7l3XnB",
+      "name": "イェイ！イェイ！イェイ！～Cheerful Instrumental～",
+      "artists": [
+        {
+          "id": "7HSX2Mn5QUc8jt6KlcNo18",
+          "name": "Hideaki Takatori",
+          "url": "https://open.spotify.com/artist/7HSX2Mn5QUc8jt6KlcNo18"
+        }
+      ],
+      "album": {
+        "id": "3hKRYLN3hry8oybcQartmK",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27367947b1232240efa921db64f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0267947b1232240efa921db64f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485167947b1232240efa921db64f",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スマイルプリキュア！ オリジナル・サウンドトラック1 プリキュア・サウンド・パレード!!",
+        "release_date": "2012-06-06",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3hKRYLN3hry8oybcQartmK",
+        "total_tracks": 32
+      },
+      "duration_ms": 136093,
+      "popularity": 2,
+      "url": "https://open.spotify.com/track/4XqhaoNcgswUbyxn7l3XnB"
+    },
+    {
+      "id": "7FeIRPSWtyGteo3KpEBw2g",
+      "name": "満開*スマイル！～Happy Instrumental～",
+      "artists": [
+        {
+          "id": "7HSX2Mn5QUc8jt6KlcNo18",
+          "name": "Hideaki Takatori",
+          "url": "https://open.spotify.com/artist/7HSX2Mn5QUc8jt6KlcNo18"
+        }
+      ],
+      "album": {
+        "id": "16qKMr3J9h7q8815c1HQrX",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273cd1a51f4ab9a6c93c3cba78d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02cd1a51f4ab9a6c93c3cba78d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851cd1a51f4ab9a6c93c3cba78d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スマイルプリキュア！ オリジナル・サウンドトラック2 プリキュア・サウンド・レインボー!!",
+        "release_date": "2012-11-28",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/16qKMr3J9h7q8815c1HQrX",
+        "total_tracks": 35
+      },
+      "duration_ms": 98973,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/7FeIRPSWtyGteo3KpEBw2g"
+    },
+    {
+      "id": "57mLYdYqay3T5DLnWoFLWS",
+      "name": "Let's go！スマイルプリキュア！～Grand Instrumental～",
+      "artists": [
+        {
+          "id": "7HSX2Mn5QUc8jt6KlcNo18",
+          "name": "Hideaki Takatori",
+          "url": "https://open.spotify.com/artist/7HSX2Mn5QUc8jt6KlcNo18"
+        }
+      ],
+      "album": {
+        "id": "16qKMr3J9h7q8815c1HQrX",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273cd1a51f4ab9a6c93c3cba78d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02cd1a51f4ab9a6c93c3cba78d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851cd1a51f4ab9a6c93c3cba78d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スマイルプリキュア！ オリジナル・サウンドトラック2 プリキュア・サウンド・レインボー!!",
+        "release_date": "2012-11-28",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/16qKMr3J9h7q8815c1HQrX",
+        "total_tracks": 35
+      },
+      "duration_ms": 128080,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/57mLYdYqay3T5DLnWoFLWS"
+    },
+    {
+      "id": "2ZTmKeMVo1UKIfSjU1bflH",
+      "name": "満開＊スマイル！～Funny Instrumental～",
+      "artists": [
+        {
+          "id": "7HSX2Mn5QUc8jt6KlcNo18",
+          "name": "Hideaki Takatori",
+          "url": "https://open.spotify.com/artist/7HSX2Mn5QUc8jt6KlcNo18"
+        }
+      ],
+      "album": {
+        "id": "16qKMr3J9h7q8815c1HQrX",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273cd1a51f4ab9a6c93c3cba78d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02cd1a51f4ab9a6c93c3cba78d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851cd1a51f4ab9a6c93c3cba78d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スマイルプリキュア！ オリジナル・サウンドトラック2 プリキュア・サウンド・レインボー!!",
+        "release_date": "2012-11-28",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/16qKMr3J9h7q8815c1HQrX",
+        "total_tracks": 35
+      },
+      "duration_ms": 94293,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/2ZTmKeMVo1UKIfSjU1bflH"
+    },
+    {
+      "id": "6bvxUSRsGrXI04CbXOSPbz",
+      "name": "Let's go！スマイルプリキュア！～Sorrow Instrumental～",
+      "artists": [
+        {
+          "id": "7HSX2Mn5QUc8jt6KlcNo18",
+          "name": "Hideaki Takatori",
+          "url": "https://open.spotify.com/artist/7HSX2Mn5QUc8jt6KlcNo18"
+        }
+      ],
+      "album": {
+        "id": "16qKMr3J9h7q8815c1HQrX",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273cd1a51f4ab9a6c93c3cba78d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02cd1a51f4ab9a6c93c3cba78d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851cd1a51f4ab9a6c93c3cba78d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スマイルプリキュア！ オリジナル・サウンドトラック2 プリキュア・サウンド・レインボー!!",
+        "release_date": "2012-11-28",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/16qKMr3J9h7q8815c1HQrX",
+        "total_tracks": 35
+      },
+      "duration_ms": 147466,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/6bvxUSRsGrXI04CbXOSPbz"
+    },
+    {
+      "id": "1m0S4Iqp5rcy0ht4UulDPd",
+      "name": "イェイ！イェイ！イェイ！～Sweet Instrumental～",
+      "artists": [
+        {
+          "id": "7HSX2Mn5QUc8jt6KlcNo18",
+          "name": "Hideaki Takatori",
+          "url": "https://open.spotify.com/artist/7HSX2Mn5QUc8jt6KlcNo18"
+        }
+      ],
+      "album": {
+        "id": "16qKMr3J9h7q8815c1HQrX",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273cd1a51f4ab9a6c93c3cba78d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02cd1a51f4ab9a6c93c3cba78d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851cd1a51f4ab9a6c93c3cba78d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スマイルプリキュア！ オリジナル・サウンドトラック2 プリキュア・サウンド・レインボー!!",
+        "release_date": "2012-11-28",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/16qKMr3J9h7q8815c1HQrX",
+        "total_tracks": 35
+      },
+      "duration_ms": 117053,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/1m0S4Iqp5rcy0ht4UulDPd"
+    },
+    {
+      "id": "6iiQygCRDtwqHLFjmhdzau",
+      "name": "笑う 笑えば 笑おう♪～Delight Instrumental～",
+      "artists": [
+        {
+          "id": "64mecceQewFCKwCK6JBW0o",
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        }
+      ],
+      "album": {
+        "id": "16qKMr3J9h7q8815c1HQrX",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273cd1a51f4ab9a6c93c3cba78d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02cd1a51f4ab9a6c93c3cba78d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851cd1a51f4ab9a6c93c3cba78d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スマイルプリキュア！ オリジナル・サウンドトラック2 プリキュア・サウンド・レインボー!!",
+        "release_date": "2012-11-28",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/16qKMr3J9h7q8815c1HQrX",
+        "total_tracks": 35
+      },
+      "duration_ms": 110760,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/6iiQygCRDtwqHLFjmhdzau"
+    },
+    {
+      "id": "4wUepNLulzxNv7YlGqZWAT",
+      "name": "Let's go！スマイルプリキュア！～Brave Instrumental～",
+      "artists": [
+        {
+          "id": "7HSX2Mn5QUc8jt6KlcNo18",
+          "name": "Hideaki Takatori",
+          "url": "https://open.spotify.com/artist/7HSX2Mn5QUc8jt6KlcNo18"
+        }
+      ],
+      "album": {
+        "id": "16qKMr3J9h7q8815c1HQrX",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273cd1a51f4ab9a6c93c3cba78d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02cd1a51f4ab9a6c93c3cba78d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851cd1a51f4ab9a6c93c3cba78d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スマイルプリキュア！ オリジナル・サウンドトラック2 プリキュア・サウンド・レインボー!!",
+        "release_date": "2012-11-28",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/16qKMr3J9h7q8815c1HQrX",
+        "total_tracks": 35
+      },
+      "duration_ms": 88680,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/4wUepNLulzxNv7YlGqZWAT"
+    },
+    {
+      "id": "1IYOWWhUTwiI6tq2bnDVQJ",
+      "name": "この空の向こう - ～Heartful Instrumental～",
+      "artists": [
+        {
+          "id": "1R4WROyDZ91gZBcfIW5Gaj",
+          "name": "Dr.Usui",
+          "url": "https://open.spotify.com/artist/1R4WROyDZ91gZBcfIW5Gaj"
+        }
+      ],
+      "album": {
+        "id": "1VSJ32VKNaT6D00vGK0Rlx",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273281807e4f6a85d456eb608a3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02281807e4f6a85d456eb608a3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851281807e4f6a85d456eb608a3",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ドキドキ！プリキュア　オリジナル・サウンドトラック1 プリキュア・サウンド・ラブリンク!!",
+        "release_date": "2013-05-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1VSJ32VKNaT6D00vGK0Rlx",
+        "total_tracks": 43
+      },
+      "duration_ms": 112973,
+      "popularity": 6,
+      "url": "https://open.spotify.com/track/1IYOWWhUTwiI6tq2bnDVQJ"
+    },
+    {
+      "id": "5ZdzCRu6SsSUYUyWWbn0bP",
+      "name": "Happy Go Lucky！ドキドキ！プリキュア - ～Heroic Instrumental～",
+      "artists": [
+        {
+          "id": "2ubA4L4Qa4uV9Cc5KlazLb",
+          "name": "清岡千穂",
+          "url": "https://open.spotify.com/artist/2ubA4L4Qa4uV9Cc5KlazLb"
+        }
+      ],
+      "album": {
+        "id": "1VSJ32VKNaT6D00vGK0Rlx",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273281807e4f6a85d456eb608a3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02281807e4f6a85d456eb608a3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851281807e4f6a85d456eb608a3",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ドキドキ！プリキュア　オリジナル・サウンドトラック1 プリキュア・サウンド・ラブリンク!!",
+        "release_date": "2013-05-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1VSJ32VKNaT6D00vGK0Rlx",
+        "total_tracks": 43
+      },
+      "duration_ms": 105853,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/5ZdzCRu6SsSUYUyWWbn0bP"
+    },
+    {
+      "id": "2wpkRLBtaGInDYaHzieTSv",
+      "name": "この空の向こう - ～Joyful Instrumental～",
+      "artists": [
+        {
+          "id": "1R4WROyDZ91gZBcfIW5Gaj",
+          "name": "Dr.Usui",
+          "url": "https://open.spotify.com/artist/1R4WROyDZ91gZBcfIW5Gaj"
+        }
+      ],
+      "album": {
+        "id": "3u4Z9zrqcafm0F28us0LC2",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27367c0d83c7f0b0e4774dd7a72",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0267c0d83c7f0b0e4774dd7a72",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485167c0d83c7f0b0e4774dd7a72",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ドキドキ！プリキュア　オリジナル･サウンドトラック２ プリキュア・サウンド・アロー!!",
+        "release_date": "2013-11-20",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3u4Z9zrqcafm0F28us0LC2",
+        "total_tracks": 45
+      },
+      "duration_ms": 110333,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/2wpkRLBtaGInDYaHzieTSv"
+    },
+    {
+      "id": "5OyaXcE1BGveKmbH7cjyqa",
+      "name": "Happy Go Lucky！ドキドキ！プリキュア - ～Sentimental Instrumental～",
+      "artists": [
+        {
+          "id": "2ubA4L4Qa4uV9Cc5KlazLb",
+          "name": "清岡千穂",
+          "url": "https://open.spotify.com/artist/2ubA4L4Qa4uV9Cc5KlazLb"
+        }
+      ],
+      "album": {
+        "id": "3u4Z9zrqcafm0F28us0LC2",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27367c0d83c7f0b0e4774dd7a72",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0267c0d83c7f0b0e4774dd7a72",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485167c0d83c7f0b0e4774dd7a72",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ドキドキ！プリキュア　オリジナル･サウンドトラック２ プリキュア・サウンド・アロー!!",
+        "release_date": "2013-11-20",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3u4Z9zrqcafm0F28us0LC2",
+        "total_tracks": 45
+      },
+      "duration_ms": 149573,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/5OyaXcE1BGveKmbH7cjyqa"
+    },
+    {
+      "id": "0OkgsCawKtI53lrHjYF6eN",
+      "name": "よみがえる想い出",
+      "artists": [
+        {
+          "id": "1hlpldRj6GZ2naD4XDqi80",
+          "name": "Naoki Sato",
+          "url": "https://open.spotify.com/artist/1hlpldRj6GZ2naD4XDqi80"
+        }
+      ],
+      "album": {
+        "id": "7HRAoRRNcKo0ymuIevXcsy",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27320f3b810fd94dccc11419128",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0220f3b810fd94dccc11419128",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485120f3b810fd94dccc11419128",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "映画「HUGっと！プリキュア♡ふたりはプリキュア オールスターズメモリーズ」オリジナルサウンドトラック",
+        "release_date": "2018-10-24",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/7HRAoRRNcKo0ymuIevXcsy",
+        "total_tracks": 31
+      },
+      "duration_ms": 66586,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/0OkgsCawKtI53lrHjYF6eN"
+    },
+    {
+      "id": "3EyCr0wdkIRqP4U8yx4wsV",
+      "name": "雨あがるとき",
+      "artists": [
+        {
+          "id": "3oGVQWQy7lgTMuTnKUZZNZ",
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        }
+      ],
+      "album": {
+        "id": "7HRAoRRNcKo0ymuIevXcsy",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27320f3b810fd94dccc11419128",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0220f3b810fd94dccc11419128",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485120f3b810fd94dccc11419128",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "映画「HUGっと！プリキュア♡ふたりはプリキュア オールスターズメモリーズ」オリジナルサウンドトラック",
+        "release_date": "2018-10-24",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/7HRAoRRNcKo0ymuIevXcsy",
+        "total_tracks": 31
+      },
+      "duration_ms": 151173,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/3EyCr0wdkIRqP4U8yx4wsV"
+    },
+    {
+      "id": "4HyXPCUCEKgMYowBfPc0tD",
+      "name": "私がなりたいプリキュア",
+      "artists": [
+        {
+          "id": "3oGVQWQy7lgTMuTnKUZZNZ",
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        },
+        {
+          "id": "4ktRdnH7kJhF97Bmcjrx8a",
+          "name": "福富雅之（Nostalgic Orchestra）",
+          "url": "https://open.spotify.com/artist/4ktRdnH7kJhF97Bmcjrx8a"
+        }
+      ],
+      "album": {
+        "id": "4VfK1Bs640KEcUGb29QsRe",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27394c7659dadf3ef54ce62a0d3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0294c7659dadf3ef54ce62a0d3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485194c7659dadf3ef54ce62a0d3",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "「HUGっと！プリキュア」オリジナル・サウンドトラック２プリキュア・チアフル・サウンド!!",
+        "release_date": "2018-12-26",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4VfK1Bs640KEcUGb29QsRe",
+        "total_tracks": 42
+      },
+      "duration_ms": 104306,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/4HyXPCUCEKgMYowBfPc0tD"
+    },
+    {
+      "id": "78VZKTberNzpp5ujECI4Bf",
+      "name": "未来へつなぐ愛",
+      "artists": [
+        {
+          "id": "3oGVQWQy7lgTMuTnKUZZNZ",
+          "name": "Yuki Hayashi",
+          "url": "https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ"
+        },
+        {
+          "id": "4ktRdnH7kJhF97Bmcjrx8a",
+          "name": "福富雅之（Nostalgic Orchestra）",
+          "url": "https://open.spotify.com/artist/4ktRdnH7kJhF97Bmcjrx8a"
+        }
+      ],
+      "album": {
+        "id": "4VfK1Bs640KEcUGb29QsRe",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27394c7659dadf3ef54ce62a0d3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0294c7659dadf3ef54ce62a0d3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485194c7659dadf3ef54ce62a0d3",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "「HUGっと！プリキュア」オリジナル・サウンドトラック２プリキュア・チアフル・サウンド!!",
+        "release_date": "2018-12-26",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4VfK1Bs640KEcUGb29QsRe",
+        "total_tracks": 42
+      },
+      "duration_ms": 124493,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/78VZKTberNzpp5ujECI4Bf"
+    },
+    {
+      "id": "3wBBaABRGRBzsmikVxaZi7",
+      "name": "コズミック☆ミステリー☆ガール（氷柱ヴァージョン）",
+      "artists": [
+        {
+          "id": "2Zn2eowGzlFsiALopuj4oU",
+          "name": "Takeshi Watanabe",
+          "url": "https://open.spotify.com/artist/2Zn2eowGzlFsiALopuj4oU"
+        }
+      ],
+      "album": {
+        "id": "48sNN9Y4ZKE5YBPGcTo3RL",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27315f4309070993e719f2b6dac",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0215f4309070993e719f2b6dac",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485115f4309070993e719f2b6dac",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スター☆トゥインクルプリキュア　オリジナル・サウンドトラック2　プリキュア・サウンド・イマジネーション！！",
+        "release_date": "2019-12-18",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/48sNN9Y4ZKE5YBPGcTo3RL",
+        "total_tracks": 35
+      },
+      "duration_ms": 65426,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/3wBBaABRGRBzsmikVxaZi7"
+    },
+    {
+      "id": "6IdMfxmHZlie4JmPi2lSym",
+      "name": "宇宙に架ける虹",
+      "artists": [
+        {
+          "id": "7BgPc4eZgpMSJMzbRdvIxS",
+          "name": "藤本記子（Nostalgic Orchestra）",
+          "url": "https://open.spotify.com/artist/7BgPc4eZgpMSJMzbRdvIxS"
+        }
+      ],
+      "album": {
+        "id": "48sNN9Y4ZKE5YBPGcTo3RL",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27315f4309070993e719f2b6dac",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0215f4309070993e719f2b6dac",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485115f4309070993e719f2b6dac",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スター☆トゥインクルプリキュア　オリジナル・サウンドトラック2　プリキュア・サウンド・イマジネーション！！",
+        "release_date": "2019-12-18",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/48sNN9Y4ZKE5YBPGcTo3RL",
+        "total_tracks": 35
+      },
+      "duration_ms": 165266,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/6IdMfxmHZlie4JmPi2lSym"
+    },
+    {
+      "id": "0u6TT2RDt2lpVTQTjojtz2",
+      "name": "お手当ての絆は永遠に",
+      "artists": [
+        {
+          "id": "3a1rc4SGJndukyM0XZ80Cu",
+          "name": "Shiho Terada",
+          "url": "https://open.spotify.com/artist/3a1rc4SGJndukyM0XZ80Cu"
+        }
+      ],
+      "album": {
+        "id": "1VyRrGokYrJPXHGCCXE5Ws",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c875ee3bb01c23cc492b67fd",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c875ee3bb01c23cc492b67fd",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c875ee3bb01c23cc492b67fd",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ヒーリングっど♥プリキュア　オリジナル・サウンドトラック２　プリキュア・サウンド・オアシス!!",
+        "release_date": "2020-12-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1VyRrGokYrJPXHGCCXE5Ws",
+        "total_tracks": 40
+      },
+      "duration_ms": 134053,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/0u6TT2RDt2lpVTQTjojtz2"
+    },
+    {
+      "id": "4mN7nz3X1zx8D0Bx8KNUwt",
+      "name": "登場！プリキュア５",
+      "artists": [
+        {
+          "id": "5NIZ0T9cOYWt3PluIi6JWN",
+          "name": "間瀬公司",
+          "url": "https://open.spotify.com/artist/5NIZ0T9cOYWt3PluIi6JWN"
+        }
+      ],
+      "album": {
+        "id": "3Ma6smq4RTWRsWBkHbfmfp",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27320e7c7fdc467c18c6cbec090",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0220e7c7fdc467c18c6cbec090",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485120e7c7fdc467c18c6cbec090",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "『映画ヒーリングっど♥プリキュア ゆめのまちでキュン！っとGoGo！大変身！！』 オリジナル・サウンドトラック",
+        "release_date": "2021-03-17",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3Ma6smq4RTWRsWBkHbfmfp",
+        "total_tracks": 33
+      },
+      "duration_ms": 81813,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/4mN7nz3X1zx8D0Bx8KNUwt"
+    },
+    {
+      "id": "4J6ZTlU9DJrUPaMsZugj3D",
+      "name": "希望の絆",
+      "artists": [
+        {
+          "id": "6OqAKqn3d1qDhNLsKLEBdp",
+          "name": "ＭＡＲＨＹ",
+          "url": "https://open.spotify.com/artist/6OqAKqn3d1qDhNLsKLEBdp"
+        }
+      ],
+      "album": {
+        "id": "0pe3VTQC7MydWN11FdR3cM",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273f571d828be0a1de1349d88b0",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02f571d828be0a1de1349d88b0",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851f571d828be0a1de1349d88b0",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Yes！プリキュア５＆Yes！プリキュア５ GoGo！　メモリアルアルバム",
+        "release_date": "2021-04-07",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0pe3VTQC7MydWN11FdR3cM",
+        "total_tracks": 60
+      },
+      "duration_ms": 109320,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/4J6ZTlU9DJrUPaMsZugj3D"
+    },
+    {
+      "id": "67AmZhtf4UyJsjcJNv3p4d",
+      "name": "この手をはなさない",
+      "artists": [
+        {
+          "id": "6b7eLRHxsjVQrjCKOFZJmu",
+          "name": "岩切芳郎",
+          "url": "https://open.spotify.com/artist/6b7eLRHxsjVQrjCKOFZJmu"
+        }
+      ],
+      "album": {
+        "id": "0pe3VTQC7MydWN11FdR3cM",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273f571d828be0a1de1349d88b0",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02f571d828be0a1de1349d88b0",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851f571d828be0a1de1349d88b0",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Yes！プリキュア５＆Yes！プリキュア５ GoGo！　メモリアルアルバム",
+        "release_date": "2021-04-07",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0pe3VTQC7MydWN11FdR3cM",
+        "total_tracks": 60
+      },
+      "duration_ms": 104586,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/67AmZhtf4UyJsjcJNv3p4d"
+    },
+    {
+      "id": "1PuzCLlTMqHtuDQEakc4yV",
+      "name": "スノードロップの花言葉",
+      "artists": [
+        {
+          "id": "2iql3av1YmZjGaPUKDPZLp",
+          "name": "Hiroshi Takaki",
+          "url": "https://open.spotify.com/artist/2iql3av1YmZjGaPUKDPZLp"
+        }
+      ],
+      "album": {
+        "id": "5D9fpdAqA00ZXXprmzgpVz",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a04c65cee4f7c3e64c2fa825",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a04c65cee4f7c3e64c2fa825",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a04c65cee4f7c3e64c2fa825",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "『映画トロピカル～ジュ！プリキュア　雪のプリンセスと奇跡の指輪』オリジナル・サウンドトラック",
+        "release_date": "2021-10-20",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5D9fpdAqA00ZXXprmzgpVz",
+        "total_tracks": 31
+      },
+      "duration_ms": 135840,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/1PuzCLlTMqHtuDQEakc4yV"
+    },
+    {
+      "id": "1wYRkZWlTTH1mVkGwyxuL3",
+      "name": "なかよしのうた ～Piano version～",
+      "artists": [
+        {
+          "id": "2iql3av1YmZjGaPUKDPZLp",
+          "name": "Hiroshi Takaki",
+          "url": "https://open.spotify.com/artist/2iql3av1YmZjGaPUKDPZLp"
+        }
+      ],
+      "album": {
+        "id": "1sdXCMNO2TPha2jS0qEfsn",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273be0a226e8ccf9b9bc99ad95b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02be0a226e8ccf9b9bc99ad95b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851be0a226e8ccf9b9bc99ad95b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "トロピカル～ジュ！プリキュア　オリジナル・サウンドトラック２ プリキュア・サウンド・ビクトリー!!",
+        "release_date": "2021-12-22",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1sdXCMNO2TPha2jS0qEfsn",
+        "total_tracks": 35
+      },
+      "duration_ms": 135213,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/1wYRkZWlTTH1mVkGwyxuL3"
+    },
+    {
+      "id": "6W7Yq7cXyeLl6filNjnwWA",
+      "name": "なかよしのうた　～Orchestra version～",
+      "artists": [
+        {
+          "id": "2iql3av1YmZjGaPUKDPZLp",
+          "name": "Hiroshi Takaki",
+          "url": "https://open.spotify.com/artist/2iql3av1YmZjGaPUKDPZLp"
+        }
+      ],
+      "album": {
+        "id": "1sdXCMNO2TPha2jS0qEfsn",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273be0a226e8ccf9b9bc99ad95b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02be0a226e8ccf9b9bc99ad95b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851be0a226e8ccf9b9bc99ad95b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "トロピカル～ジュ！プリキュア　オリジナル・サウンドトラック２ プリキュア・サウンド・ビクトリー!!",
+        "release_date": "2021-12-22",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1sdXCMNO2TPha2jS0qEfsn",
+        "total_tracks": 35
+      },
+      "duration_ms": 163533,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/6W7Yq7cXyeLl6filNjnwWA"
+    },
+    {
+      "id": "297hEIbn6AgoNFFgU9GDkA",
+      "name": "Alright! ハートキャッチプリキュア！ ～ギター・アレンジ～",
+      "artists": [
+        {
+          "id": "7HSX2Mn5QUc8jt6KlcNo18",
+          "name": "Hideaki Takatori",
+          "url": "https://open.spotify.com/artist/7HSX2Mn5QUc8jt6KlcNo18"
+        }
+      ],
+      "album": {
+        "id": "3MogTumkSr5rOHuNPpm4Jq",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b9356e9e9e814829bfd22e5d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b9356e9e9e814829bfd22e5d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b9356e9e9e814829bfd22e5d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ハートキャッチプリキュア！メモリアルアルバム",
+        "release_date": "2021-10-27",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3MogTumkSr5rOHuNPpm4Jq",
+        "total_tracks": 28
+      },
+      "duration_ms": 125533,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/297hEIbn6AgoNFFgU9GDkA"
+    }
+  ],
+  "description": "原曲にアレンジがかかったBGMです。｢ふたりはプリキュア｣｢ふたりはプリキュアMaxHeart｣｢ふたりはプリキュアSplashStar｣｢Yesプリキュア5｣｢フレッシュプリキュア｣｢ハートキャッチプリキュア｣｢スイートプリキュア｣｢スマイルプリキュア｣｢ドキドキプリキュア｣｢GOプリンセスプリキュア｣｢魔法つかいプリキュア｣｢キラキラプリキュアアラモード｣｢HUGっとプリキュア｣｢スタートゥインクルプリキュア｣｢ヒーリングっどプリキュア｣｢トロピカル〜ジュプリキュア｣｢デリシャスパーティプリキュア｣｢ひろがるスカイプリキュア｣｢わんだふるぷりきゅあ｣｢キミとアイドルプリキュア｣",
+  "name": "プリキュア BGM (アレンジver.)",
+  "owner": {
+    "display_name": "キュアレインボー🌈",
+    "url": "https://open.spotify.com/user/316nyo4i3du6atjbiv4tzjbgf6em",
+    "id": "316nyo4i3du6atjbiv4tzjbgf6em"
+  },
+  "url": "https://open.spotify.com/playlist/4qEIl0CrtyvzowOLoXzaXk"
+}

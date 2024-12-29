@@ -1,0 +1,5969 @@
+{
+  "id": "5vj2l7IT8j5AWE61Ne7CoP",
+  "tracks": [
+    {
+      "id": "4Ucq9T2zqweGOfSbFZd9gB",
+      "name": "スーパー戦隊ヒーローゲッター - テン・ゴーカイジャーver. - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "07lCH6s6WbNURpDzDPpwxE",
+          "name": "Project.R",
+          "url": "https://open.spotify.com/artist/07lCH6s6WbNURpDzDPpwxE"
+        }
+      ],
+      "album": {
+        "id": "1ZfGbYHObjqDSA9KMJMsQL",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731fb60b64b053a2e40523b801",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021fb60b64b053a2e40523b801",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511fb60b64b053a2e40523b801",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スーパー戦隊ヒーローゲッター (テン・ゴーカイジャーver.)",
+        "release_date": "2021-11-12",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "07lCH6s6WbNURpDzDPpwxE",
+            "name": "Project.R",
+            "url": "https://open.spotify.com/artist/07lCH6s6WbNURpDzDPpwxE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1ZfGbYHObjqDSA9KMJMsQL",
+        "total_tracks": 2
+      },
+      "duration_ms": 247253,
+      "popularity": 3,
+      "url": "https://open.spotify.com/track/4Ucq9T2zqweGOfSbFZd9gB"
+    },
+    {
+      "id": "1lDdgVG56h6DNBVp5bOicn",
+      "name": "騎士竜戦隊リュウソウジャー - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "0gAOLZ89VfQtBNk0aHKPrA",
+          "name": "幡野智宏",
+          "url": "https://open.spotify.com/artist/0gAOLZ89VfQtBNk0aHKPrA"
+        }
+      ],
+      "album": {
+        "id": "3ABPcHZ0mOin0FuS3TVePV",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ea1f419dc3182acf58bfe896",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ea1f419dc3182acf58bfe896",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ea1f419dc3182acf58bfe896",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "騎士竜戦隊リュウソウジャー主題歌",
+        "release_date": "2019-03-20",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0gAOLZ89VfQtBNk0aHKPrA",
+            "name": "幡野智宏",
+            "url": "https://open.spotify.com/artist/0gAOLZ89VfQtBNk0aHKPrA"
+          },
+          {
+            "id": "5GTPiosCP0oS7Mi2UaBf9n",
+            "name": "Sister MAYO",
+            "url": "https://open.spotify.com/artist/5GTPiosCP0oS7Mi2UaBf9n"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3ABPcHZ0mOin0FuS3TVePV",
+        "total_tracks": 4
+      },
+      "duration_ms": 216440,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/1lDdgVG56h6DNBVp5bOicn"
+    },
+    {
+      "id": "1fNHKDPDdKzahh8Q4cunPr",
+      "name": "ケボーン! リュウソウジャー - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "5GTPiosCP0oS7Mi2UaBf9n",
+          "name": "Sister MAYO",
+          "url": "https://open.spotify.com/artist/5GTPiosCP0oS7Mi2UaBf9n"
+        }
+      ],
+      "album": {
+        "id": "3ABPcHZ0mOin0FuS3TVePV",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ea1f419dc3182acf58bfe896",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ea1f419dc3182acf58bfe896",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ea1f419dc3182acf58bfe896",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "騎士竜戦隊リュウソウジャー主題歌",
+        "release_date": "2019-03-20",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0gAOLZ89VfQtBNk0aHKPrA",
+            "name": "幡野智宏",
+            "url": "https://open.spotify.com/artist/0gAOLZ89VfQtBNk0aHKPrA"
+          },
+          {
+            "id": "5GTPiosCP0oS7Mi2UaBf9n",
+            "name": "Sister MAYO",
+            "url": "https://open.spotify.com/artist/5GTPiosCP0oS7Mi2UaBf9n"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3ABPcHZ0mOin0FuS3TVePV",
+        "total_tracks": 4
+      },
+      "duration_ms": 259399,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/1fNHKDPDdKzahh8Q4cunPr"
+    },
+    {
+      "id": "00qr4Z6trwXpQKhLeLwA78",
+      "name": "騎士竜戦隊リュウソウジャー - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "0gAOLZ89VfQtBNk0aHKPrA",
+          "name": "幡野智宏",
+          "url": "https://open.spotify.com/artist/0gAOLZ89VfQtBNk0aHKPrA"
+        }
+      ],
+      "album": {
+        "id": "2z9cgvg6kq15VUXiMy4lzB",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273265f417952e3f3a5e73829da",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02265f417952e3f3a5e73829da",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851265f417952e3f3a5e73829da",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ミニアルバム 騎士竜戦隊リュウソウジャー",
+        "release_date": "2019-05-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2z9cgvg6kq15VUXiMy4lzB",
+        "total_tracks": 6
+      },
+      "duration_ms": 212173,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/00qr4Z6trwXpQKhLeLwA78"
+    },
+    {
+      "id": "7xbognMAQlqCORMdQyekxq",
+      "name": "ケボーン! リュウソウジャー - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "5GTPiosCP0oS7Mi2UaBf9n",
+          "name": "Sister MAYO",
+          "url": "https://open.spotify.com/artist/5GTPiosCP0oS7Mi2UaBf9n"
+        }
+      ],
+      "album": {
+        "id": "15b0NAVVVEw4K4kFA65SjL",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2736072ed69ffa44dfbd5865fca",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e026072ed69ffa44dfbd5865fca",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048516072ed69ffa44dfbd5865fca",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ミニアルバム 騎士竜戦隊リュウソウジャー 2",
+        "release_date": "2019-10-30",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/15b0NAVVVEw4K4kFA65SjL",
+        "total_tracks": 6
+      },
+      "duration_ms": 259399,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/7xbognMAQlqCORMdQyekxq"
+    },
+    {
+      "id": "6zZrRX0fveqiLVOIuN35q9",
+      "name": "エンドレス・ファイアー - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "3cFNZIrIyoUktawqHT7aTY",
+          "name": "コウ (CV: 一ノ瀬 颯)",
+          "url": "https://open.spotify.com/artist/3cFNZIrIyoUktawqHT7aTY"
+        }
+      ],
+      "album": {
+        "id": "2uox6WpfijEPXpn7H0MO7e",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27374287b427356c33f16a55962",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0274287b427356c33f16a55962",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485174287b427356c33f16a55962",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "騎士竜戦隊リュウソウジャー キャラクターソングアルバム",
+        "release_date": "2020-02-19",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2uox6WpfijEPXpn7H0MO7e",
+        "total_tracks": 12
+      },
+      "duration_ms": 253493,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/6zZrRX0fveqiLVOIuN35q9"
+    },
+    {
+      "id": "2hhvi6wBnhEJPAipeljFoi",
+      "name": "Merge - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "49Xm0z0gcWoM95qqOyMGgr",
+          "name": "メルト (CV: 綱 啓永)",
+          "url": "https://open.spotify.com/artist/49Xm0z0gcWoM95qqOyMGgr"
+        }
+      ],
+      "album": {
+        "id": "2uox6WpfijEPXpn7H0MO7e",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27374287b427356c33f16a55962",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0274287b427356c33f16a55962",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485174287b427356c33f16a55962",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "騎士竜戦隊リュウソウジャー キャラクターソングアルバム",
+        "release_date": "2020-02-19",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2uox6WpfijEPXpn7H0MO7e",
+        "total_tracks": 12
+      },
+      "duration_ms": 261546,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/2hhvi6wBnhEJPAipeljFoi"
+    },
+    {
+      "id": "3NQMdunHFWGMrwGL1j1zyb",
+      "name": "トキメキ☆マイティーガール - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "3DSVKaIeMMnNQCJPbceXFX",
+          "name": "アスナ (CV: 尾碕真花)",
+          "url": "https://open.spotify.com/artist/3DSVKaIeMMnNQCJPbceXFX"
+        }
+      ],
+      "album": {
+        "id": "2uox6WpfijEPXpn7H0MO7e",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27374287b427356c33f16a55962",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0274287b427356c33f16a55962",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485174287b427356c33f16a55962",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "騎士竜戦隊リュウソウジャー キャラクターソングアルバム",
+        "release_date": "2020-02-19",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2uox6WpfijEPXpn7H0MO7e",
+        "total_tracks": 12
+      },
+      "duration_ms": 228333,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/3NQMdunHFWGMrwGL1j1zyb"
+    },
+    {
+      "id": "7kPBwFUh1bYamYqdtK6Zdx",
+      "name": "疾風のように - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "6NZq8rAt6otbkfJ7mZpM2u",
+          "name": "トワ (CV: 小原唯和)",
+          "url": "https://open.spotify.com/artist/6NZq8rAt6otbkfJ7mZpM2u"
+        }
+      ],
+      "album": {
+        "id": "2uox6WpfijEPXpn7H0MO7e",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27374287b427356c33f16a55962",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0274287b427356c33f16a55962",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485174287b427356c33f16a55962",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "騎士竜戦隊リュウソウジャー キャラクターソングアルバム",
+        "release_date": "2020-02-19",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2uox6WpfijEPXpn7H0MO7e",
+        "total_tracks": 12
+      },
+      "duration_ms": 216360,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/7kPBwFUh1bYamYqdtK6Zdx"
+    },
+    {
+      "id": "2R4na2WceurdtttkJJdocC",
+      "name": "黎明の道 - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "5ypZahtPaZAEZv5zEJTkIF",
+          "name": "バンバ (CV: 岸田タツヤ)",
+          "url": "https://open.spotify.com/artist/5ypZahtPaZAEZv5zEJTkIF"
+        }
+      ],
+      "album": {
+        "id": "2uox6WpfijEPXpn7H0MO7e",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27374287b427356c33f16a55962",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0274287b427356c33f16a55962",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485174287b427356c33f16a55962",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "騎士竜戦隊リュウソウジャー キャラクターソングアルバム",
+        "release_date": "2020-02-19",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2uox6WpfijEPXpn7H0MO7e",
+        "total_tracks": 12
+      },
+      "duration_ms": 261120,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/2R4na2WceurdtttkJJdocC"
+    },
+    {
+      "id": "63P50TZEf0ee6Rsv44rtnc",
+      "name": "夢で逢えたら - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "2DuGgLri2xlgL4rjbuzTKW",
+          "name": "カナロ (CV: 兵頭功海)",
+          "url": "https://open.spotify.com/artist/2DuGgLri2xlgL4rjbuzTKW"
+        }
+      ],
+      "album": {
+        "id": "2uox6WpfijEPXpn7H0MO7e",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27374287b427356c33f16a55962",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0274287b427356c33f16a55962",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485174287b427356c33f16a55962",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "騎士竜戦隊リュウソウジャー キャラクターソングアルバム",
+        "release_date": "2020-02-19",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2uox6WpfijEPXpn7H0MO7e",
+        "total_tracks": 12
+      },
+      "duration_ms": 275200,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/63P50TZEf0ee6Rsv44rtnc"
+    },
+    {
+      "id": "3hKhJm8SliDgSXZg7L9RCi",
+      "name": "魔進戦隊キラメイジャー - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "62yYdTJF4qGGb2PF18PTPA",
+          "name": "大西洋平",
+          "url": "https://open.spotify.com/artist/62yYdTJF4qGGb2PF18PTPA"
+        }
+      ],
+      "album": {
+        "id": "6z86z9Ar3JmwedGrUBhIRA",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739d0f8d13605f78ecfb54ce8f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029d0f8d13605f78ecfb54ce8f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519d0f8d13605f78ecfb54ce8f",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "魔進戦隊キラメイジャー主題歌",
+        "release_date": "2020-04-08",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "62yYdTJF4qGGb2PF18PTPA",
+            "name": "大西洋平",
+            "url": "https://open.spotify.com/artist/62yYdTJF4qGGb2PF18PTPA"
+          },
+          {
+            "id": "2a4NfPw9SK22ixRbrIsolf",
+            "name": "出口たかし",
+            "url": "https://open.spotify.com/artist/2a4NfPw9SK22ixRbrIsolf"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6z86z9Ar3JmwedGrUBhIRA",
+        "total_tracks": 4
+      },
+      "duration_ms": 198453,
+      "popularity": 2,
+      "url": "https://open.spotify.com/track/3hKhJm8SliDgSXZg7L9RCi"
+    },
+    {
+      "id": "2SEzpNLeYuDM4hMZrfB1CR",
+      "name": "キラフル ミラクル キラメイジャー - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "2a4NfPw9SK22ixRbrIsolf",
+          "name": "出口たかし",
+          "url": "https://open.spotify.com/artist/2a4NfPw9SK22ixRbrIsolf"
+        }
+      ],
+      "album": {
+        "id": "6z86z9Ar3JmwedGrUBhIRA",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739d0f8d13605f78ecfb54ce8f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029d0f8d13605f78ecfb54ce8f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519d0f8d13605f78ecfb54ce8f",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "魔進戦隊キラメイジャー主題歌",
+        "release_date": "2020-04-08",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "62yYdTJF4qGGb2PF18PTPA",
+            "name": "大西洋平",
+            "url": "https://open.spotify.com/artist/62yYdTJF4qGGb2PF18PTPA"
+          },
+          {
+            "id": "2a4NfPw9SK22ixRbrIsolf",
+            "name": "出口たかし",
+            "url": "https://open.spotify.com/artist/2a4NfPw9SK22ixRbrIsolf"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6z86z9Ar3JmwedGrUBhIRA",
+        "total_tracks": 4
+      },
+      "duration_ms": 225880,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/2SEzpNLeYuDM4hMZrfB1CR"
+    },
+    {
+      "id": "6Vr77YdVU4IxHLvSdElFH9",
+      "name": "魔進戦隊キラメイジャー - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "62yYdTJF4qGGb2PF18PTPA",
+          "name": "大西洋平",
+          "url": "https://open.spotify.com/artist/62yYdTJF4qGGb2PF18PTPA"
+        }
+      ],
+      "album": {
+        "id": "5DVq6R8JnTry0qILUZwWnl",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27374114d22143cde4d719e2dd6",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0274114d22143cde4d719e2dd6",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485174114d22143cde4d719e2dd6",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ミニアルバム 魔進戦隊キラメイジャー",
+        "release_date": "2020-06-10",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5DVq6R8JnTry0qILUZwWnl",
+        "total_tracks": 6
+      },
+      "duration_ms": 196693,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/6Vr77YdVU4IxHLvSdElFH9"
+    },
+    {
+      "id": "3eRHFWLnpohuJxvF763XP5",
+      "name": "キラフル ミラクル キラメイジャー - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "2a4NfPw9SK22ixRbrIsolf",
+          "name": "出口たかし",
+          "url": "https://open.spotify.com/artist/2a4NfPw9SK22ixRbrIsolf"
+        }
+      ],
+      "album": {
+        "id": "0EFnqK5k8B2XRhL3ojzziO",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2736e4d42e54dc720fb3c43ccc0",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e026e4d42e54dc720fb3c43ccc0",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048516e4d42e54dc720fb3c43ccc0",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ミニアルバム 魔進戦隊キラメイジャー2",
+        "release_date": "2020-09-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0EFnqK5k8B2XRhL3ojzziO",
+        "total_tracks": 6
+      },
+      "duration_ms": 225666,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/3eRHFWLnpohuJxvF763XP5"
+    },
+    {
+      "id": "47oQwGOSA09wItzpqYiU52",
+      "name": "勇気を奏でて - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "1Nr7xcAePLmHqgDu0UsTdn",
+          "name": "キラメイバンド",
+          "url": "https://open.spotify.com/artist/1Nr7xcAePLmHqgDu0UsTdn"
+        }
+      ],
+      "album": {
+        "id": "6TANgWa8BYjp6axaQdIOPb",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273f14e2cc291f3300b39a39e0e",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02f14e2cc291f3300b39a39e0e",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851f14e2cc291f3300b39a39e0e",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ミニアルバム 魔進戦隊キラメイジャー3",
+        "release_date": "2020-11-18",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6TANgWa8BYjp6axaQdIOPb",
+        "total_tracks": 6
+      },
+      "duration_ms": 263293,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/47oQwGOSA09wItzpqYiU52"
+    },
+    {
+      "id": "5NxlE16PWfcLlw6WWQFqua",
+      "name": "ひらめキーング! かがやキーング! - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "1su9EJKLcPjs5AGVf6Qds1",
+          "name": "熱田充瑠",
+          "url": "https://open.spotify.com/artist/1su9EJKLcPjs5AGVf6Qds1"
+        }
+      ],
+      "album": {
+        "id": "58cHktEDsSezqfcNZpPfIA",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27320540ad951b41687aac363a3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0220540ad951b41687aac363a3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485120540ad951b41687aac363a3",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "魔進戦隊キラメイジャー キャラクターソングアルバム",
+        "release_date": "2020-12-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/58cHktEDsSezqfcNZpPfIA",
+        "total_tracks": 12
+      },
+      "duration_ms": 218693,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/5NxlE16PWfcLlw6WWQFqua"
+    },
+    {
+      "id": "5JIoncEuuAtfhCfgCOwHOa",
+      "name": "弾丸Shooting Star - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "7LRhDW99kG8kkdZGihMGKE",
+          "name": "射水為朝",
+          "url": "https://open.spotify.com/artist/7LRhDW99kG8kkdZGihMGKE"
+        }
+      ],
+      "album": {
+        "id": "58cHktEDsSezqfcNZpPfIA",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27320540ad951b41687aac363a3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0220540ad951b41687aac363a3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485120540ad951b41687aac363a3",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "魔進戦隊キラメイジャー キャラクターソングアルバム",
+        "release_date": "2020-12-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/58cHktEDsSezqfcNZpPfIA",
+        "total_tracks": 12
+      },
+      "duration_ms": 235773,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/5JIoncEuuAtfhCfgCOwHOa"
+    },
+    {
+      "id": "62vqGnIAvvks1ke8rWdnG3",
+      "name": "Winding Road - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "1bKGXPVgfUW2bhCgIE7ToN",
+          "name": "速見瀬奈",
+          "url": "https://open.spotify.com/artist/1bKGXPVgfUW2bhCgIE7ToN"
+        }
+      ],
+      "album": {
+        "id": "58cHktEDsSezqfcNZpPfIA",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27320540ad951b41687aac363a3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0220540ad951b41687aac363a3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485120540ad951b41687aac363a3",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "魔進戦隊キラメイジャー キャラクターソングアルバム",
+        "release_date": "2020-12-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/58cHktEDsSezqfcNZpPfIA",
+        "total_tracks": 12
+      },
+      "duration_ms": 261880,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/62vqGnIAvvks1ke8rWdnG3"
+    },
+    {
+      "id": "2N9d9ooflgo0ypunhLulD0",
+      "name": "Perfect Blue - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "4Npne0ifEVV2WNKvpnV5zj",
+          "name": "押切時雨",
+          "url": "https://open.spotify.com/artist/4Npne0ifEVV2WNKvpnV5zj"
+        }
+      ],
+      "album": {
+        "id": "58cHktEDsSezqfcNZpPfIA",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27320540ad951b41687aac363a3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0220540ad951b41687aac363a3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485120540ad951b41687aac363a3",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "魔進戦隊キラメイジャー キャラクターソングアルバム",
+        "release_date": "2020-12-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/58cHktEDsSezqfcNZpPfIA",
+        "total_tracks": 12
+      },
+      "duration_ms": 324800,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/2N9d9ooflgo0ypunhLulD0"
+    },
+    {
+      "id": "0AJz0D1ZxWGzyjtGRej6ng",
+      "name": "キセキをユメみる? - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "0Hbu7lee4jXz3KU752ecVy",
+          "name": "大治小夜",
+          "url": "https://open.spotify.com/artist/0Hbu7lee4jXz3KU752ecVy"
+        }
+      ],
+      "album": {
+        "id": "58cHktEDsSezqfcNZpPfIA",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27320540ad951b41687aac363a3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0220540ad951b41687aac363a3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485120540ad951b41687aac363a3",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "魔進戦隊キラメイジャー キャラクターソングアルバム",
+        "release_date": "2020-12-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/58cHktEDsSezqfcNZpPfIA",
+        "total_tracks": 12
+      },
+      "duration_ms": 213693,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/0AJz0D1ZxWGzyjtGRej6ng"
+    },
+    {
+      "id": "5QGvcBNwHKp99deo9pN4Qk",
+      "name": "ワンダー守護神 - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "5rNawuOZGpHs9smGNdeYM4",
+          "name": "クリスタリア宝路",
+          "url": "https://open.spotify.com/artist/5rNawuOZGpHs9smGNdeYM4"
+        }
+      ],
+      "album": {
+        "id": "58cHktEDsSezqfcNZpPfIA",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27320540ad951b41687aac363a3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0220540ad951b41687aac363a3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485120540ad951b41687aac363a3",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "魔進戦隊キラメイジャー キャラクターソングアルバム",
+        "release_date": "2020-12-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/58cHktEDsSezqfcNZpPfIA",
+        "total_tracks": 12
+      },
+      "duration_ms": 195720,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/5QGvcBNwHKp99deo9pN4Qk"
+    },
+    {
+      "id": "4p939Oq0KdyXLVHTYtNLcg",
+      "name": "キラメキの未来! - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "0ym8tcHfC2KrkQBGs1JMw2",
+          "name": "魔進戦隊キラメイジャー",
+          "url": "https://open.spotify.com/artist/0ym8tcHfC2KrkQBGs1JMw2"
+        }
+      ],
+      "album": {
+        "id": "0EeL98MhvPjSPq8DLwoOwi",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ce1b4858be820e9d8c7355f6",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ce1b4858be820e9d8c7355f6",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ce1b4858be820e9d8c7355f6",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "キラメキの未来!",
+        "release_date": "2021-08-15",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0ym8tcHfC2KrkQBGs1JMw2",
+            "name": "魔進戦隊キラメイジャー",
+            "url": "https://open.spotify.com/artist/0ym8tcHfC2KrkQBGs1JMw2"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0EeL98MhvPjSPq8DLwoOwi",
+        "total_tracks": 2
+      },
+      "duration_ms": 211573,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/4p939Oq0KdyXLVHTYtNLcg"
+    },
+    {
+      "id": "1UwRj5qlKG1XhKyTmXSXqh",
+      "name": "全力全開! ゼンカイジャー - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "7xY1VgD8D3d53TUtYX2vfE",
+          "name": "Takeshi Tsuruno",
+          "url": "https://open.spotify.com/artist/7xY1VgD8D3d53TUtYX2vfE"
+        },
+        {
+          "id": "0PAqYWkmnUDNZlrl58AMbK",
+          "name": "ことのみ児童合唱団",
+          "url": "https://open.spotify.com/artist/0PAqYWkmnUDNZlrl58AMbK"
+        }
+      ],
+      "album": {
+        "id": "1XZPtJC2aSjraIPJRgGVxa",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273309185b8ae395e40bb30ed47",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02309185b8ae395e40bb30ed47",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851309185b8ae395e40bb30ed47",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "機界戦隊ゼンカイジャー 主題歌",
+        "release_date": "2021-04-07",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1XZPtJC2aSjraIPJRgGVxa",
+        "total_tracks": 4
+      },
+      "duration_ms": 222893,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/1UwRj5qlKG1XhKyTmXSXqh"
+    },
+    {
+      "id": "4VQIkpUbRteoIcYopthDhg",
+      "name": "全界合体! ジュラガオーン - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "1lEkk1df7Xoc5urJBV58V6",
+          "name": "ささきいさお",
+          "url": "https://open.spotify.com/artist/1lEkk1df7Xoc5urJBV58V6"
+        },
+        {
+          "id": "7pacWk2FN7ZpJ7XwRk5vTZ",
+          "name": "Mitsuko Horie",
+          "url": "https://open.spotify.com/artist/7pacWk2FN7ZpJ7XwRk5vTZ"
+        }
+      ],
+      "album": {
+        "id": "1XZPtJC2aSjraIPJRgGVxa",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273309185b8ae395e40bb30ed47",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02309185b8ae395e40bb30ed47",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851309185b8ae395e40bb30ed47",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "機界戦隊ゼンカイジャー 主題歌",
+        "release_date": "2021-04-07",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1XZPtJC2aSjraIPJRgGVxa",
+        "total_tracks": 4
+      },
+      "duration_ms": 205373,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/4VQIkpUbRteoIcYopthDhg"
+    },
+    {
+      "id": "52fPxIbCAjskK4OoTIvA0c",
+      "name": "全力全開! ゼンカイジャー (オリジナル・カラオケ)",
+      "artists": [
+        {
+          "id": "7xY1VgD8D3d53TUtYX2vfE",
+          "name": "Takeshi Tsuruno",
+          "url": "https://open.spotify.com/artist/7xY1VgD8D3d53TUtYX2vfE"
+        },
+        {
+          "id": "0PAqYWkmnUDNZlrl58AMbK",
+          "name": "ことのみ児童合唱団",
+          "url": "https://open.spotify.com/artist/0PAqYWkmnUDNZlrl58AMbK"
+        }
+      ],
+      "album": {
+        "id": "0j077gjDTA0LyELmqUjl3g",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731b60b2dc56e9642233a611b5",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021b60b2dc56e9642233a611b5",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511b60b2dc56e9642233a611b5",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ミニアルバム 機界戦隊ゼンカイジャー1",
+        "release_date": "2021-05-19",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0j077gjDTA0LyELmqUjl3g",
+        "total_tracks": 6
+      },
+      "duration_ms": 220693,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/52fPxIbCAjskK4OoTIvA0c"
+    },
+    {
+      "id": "4Po9bpjPy0y0n4v6Nz78lY",
+      "name": "5 Together! ゼンカイジャー - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "7xY1VgD8D3d53TUtYX2vfE",
+          "name": "Takeshi Tsuruno",
+          "url": "https://open.spotify.com/artist/7xY1VgD8D3d53TUtYX2vfE"
+        },
+        {
+          "id": "4jzPDdhi1n3B0uQ3XvVGH4",
+          "name": "Nob",
+          "url": "https://open.spotify.com/artist/4jzPDdhi1n3B0uQ3XvVGH4"
+        }
+      ],
+      "album": {
+        "id": "01l4XUsa0lGLcqVrv3mQkm",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a9402836f8465d0ff241b60c",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a9402836f8465d0ff241b60c",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a9402836f8465d0ff241b60c",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ミニアルバム 機界戦隊ゼンカイジャー2",
+        "release_date": "2021-07-21",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/01l4XUsa0lGLcqVrv3mQkm",
+        "total_tracks": 6
+      },
+      "duration_ms": 269973,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/4Po9bpjPy0y0n4v6Nz78lY"
+    },
+    {
+      "id": "6XssS9KXqueXKbNbJReLQJ",
+      "name": "超全界合体! ゼンカイジュウオー - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "0UEr743MkPevfCuNrrFYJ6",
+          "name": "遠藤正明",
+          "url": "https://open.spotify.com/artist/0UEr743MkPevfCuNrrFYJ6"
+        }
+      ],
+      "album": {
+        "id": "3Pm8nYxbkI2JMeBzOmSRPm",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a66eb9b48acea2f23c3e6aaf",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a66eb9b48acea2f23c3e6aaf",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a66eb9b48acea2f23c3e6aaf",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ミニアルバム 機界戦隊ゼンカイジャー3",
+        "release_date": "2021-10-27",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3Pm8nYxbkI2JMeBzOmSRPm",
+        "total_tracks": 6
+      },
+      "duration_ms": 262480,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/6XssS9KXqueXKbNbJReLQJ"
+    },
+    {
+      "id": "4I4eqhIlgs0RZIVQ6U6686",
+      "name": "ダイヤル回せ! ゼンリョクゼンカイオー - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "0bSMYtPqoMqQoRNtZLoqMD",
+          "name": "Akira Kushida",
+          "url": "https://open.spotify.com/artist/0bSMYtPqoMqQoRNtZLoqMD"
+        }
+      ],
+      "album": {
+        "id": "42iUdENzRGF1Eex750vviw",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273740e5689b32a9622e78071b1",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02740e5689b32a9622e78071b1",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851740e5689b32a9622e78071b1",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ミニアルバム 機界戦隊ゼンカイジャー4",
+        "release_date": "2021-11-10",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/42iUdENzRGF1Eex750vviw",
+        "total_tracks": 6
+      },
+      "duration_ms": 223546,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/4I4eqhIlgs0RZIVQ6U6686"
+    },
+    {
+      "id": "6WDbFFBSp1Srxm1EqBpBg0",
+      "name": "はじめてにBANZAI! - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "4l4fy8TMmSPCKXHkWKHi6L",
+          "name": "ゼンカイザー",
+          "url": "https://open.spotify.com/artist/4l4fy8TMmSPCKXHkWKHi6L"
+        },
+        {
+          "id": "0Ubel0JGymTV3eigo19WED",
+          "name": "五色田介人",
+          "url": "https://open.spotify.com/artist/0Ubel0JGymTV3eigo19WED"
+        }
+      ],
+      "album": {
+        "id": "727Hd8OzdywV0tOTNusFi4",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27341240e351bd06f177cbb90fa",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0241240e351bd06f177cbb90fa",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485141240e351bd06f177cbb90fa",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "機界戦隊ゼンカイジャー キャラクターソングアルバム",
+        "release_date": "2022-02-02",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/727Hd8OzdywV0tOTNusFi4",
+        "total_tracks": 14
+      },
+      "duration_ms": 249800,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/6WDbFFBSp1Srxm1EqBpBg0"
+    },
+    {
+      "id": "6CXUrLkZgK9K1oe5fuTIXS",
+      "name": "ジュラン☆ソウル - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "0sdlRZxK9f1biCxaVr6D8B",
+          "name": "ゼンカイジュラン",
+          "url": "https://open.spotify.com/artist/0sdlRZxK9f1biCxaVr6D8B"
+        },
+        {
+          "id": "110BYZJXJeu0CgGs8eLyEq",
+          "name": "ジュラン",
+          "url": "https://open.spotify.com/artist/110BYZJXJeu0CgGs8eLyEq"
+        }
+      ],
+      "album": {
+        "id": "727Hd8OzdywV0tOTNusFi4",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27341240e351bd06f177cbb90fa",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0241240e351bd06f177cbb90fa",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485141240e351bd06f177cbb90fa",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "機界戦隊ゼンカイジャー キャラクターソングアルバム",
+        "release_date": "2022-02-02",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/727Hd8OzdywV0tOTNusFi4",
+        "total_tracks": 14
+      },
+      "duration_ms": 244413,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/6CXUrLkZgK9K1oe5fuTIXS"
+    },
+    {
+      "id": "5Ax6gcyLbuQbOaS7Vtkmee",
+      "name": "TRULY YOURS - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "2VJsTbXNWh0O51czAhYiS0",
+          "name": "ゼンカイガオーン",
+          "url": "https://open.spotify.com/artist/2VJsTbXNWh0O51czAhYiS0"
+        },
+        {
+          "id": "0NLwKNX80wslvJbwM6UHP3",
+          "name": "ガオーン",
+          "url": "https://open.spotify.com/artist/0NLwKNX80wslvJbwM6UHP3"
+        }
+      ],
+      "album": {
+        "id": "727Hd8OzdywV0tOTNusFi4",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27341240e351bd06f177cbb90fa",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0241240e351bd06f177cbb90fa",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485141240e351bd06f177cbb90fa",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "機界戦隊ゼンカイジャー キャラクターソングアルバム",
+        "release_date": "2022-02-02",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/727Hd8OzdywV0tOTNusFi4",
+        "total_tracks": 14
+      },
+      "duration_ms": 256120,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/5Ax6gcyLbuQbOaS7Vtkmee"
+    },
+    {
+      "id": "5rk70lqOVv6ZCILFGfuEnt",
+      "name": "ぬぬぬ☆マジーヌ! - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "7zwIVlypoM5mbPFxyRi05Y",
+          "name": "ゼンカイマジーヌ",
+          "url": "https://open.spotify.com/artist/7zwIVlypoM5mbPFxyRi05Y"
+        },
+        {
+          "id": "7Ieyh5RXecMxkZyFkVQIgA",
+          "name": "マジーヌ",
+          "url": "https://open.spotify.com/artist/7Ieyh5RXecMxkZyFkVQIgA"
+        }
+      ],
+      "album": {
+        "id": "727Hd8OzdywV0tOTNusFi4",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27341240e351bd06f177cbb90fa",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0241240e351bd06f177cbb90fa",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485141240e351bd06f177cbb90fa",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "機界戦隊ゼンカイジャー キャラクターソングアルバム",
+        "release_date": "2022-02-02",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/727Hd8OzdywV0tOTNusFi4",
+        "total_tracks": 14
+      },
+      "duration_ms": 221760,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/5rk70lqOVv6ZCILFGfuEnt"
+    },
+    {
+      "id": "5XPGGJM7S2rTDWxeYRyOTN",
+      "name": "我想う故に夢あり - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "5X4EqxiI5oszXFg9t2iEcO",
+          "name": "ゼンカイブルーン",
+          "url": "https://open.spotify.com/artist/5X4EqxiI5oszXFg9t2iEcO"
+        },
+        {
+          "id": "28EGG8o2ptFPEMDkFM9UNg",
+          "name": "ブルーン",
+          "url": "https://open.spotify.com/artist/28EGG8o2ptFPEMDkFM9UNg"
+        }
+      ],
+      "album": {
+        "id": "727Hd8OzdywV0tOTNusFi4",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27341240e351bd06f177cbb90fa",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0241240e351bd06f177cbb90fa",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485141240e351bd06f177cbb90fa",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "機界戦隊ゼンカイジャー キャラクターソングアルバム",
+        "release_date": "2022-02-02",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/727Hd8OzdywV0tOTNusFi4",
+        "total_tracks": 14
+      },
+      "duration_ms": 238720,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/5XPGGJM7S2rTDWxeYRyOTN"
+    },
+    {
+      "id": "5uRcyZq1esl4GIwMDloJgx",
+      "name": "FLAG 〜界賊の美学〜 - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "60wbk9wmm245ponCDLlguv",
+          "name": "ツーカイザー",
+          "url": "https://open.spotify.com/artist/60wbk9wmm245ponCDLlguv"
+        },
+        {
+          "id": "08MLTnqvliQguTFiuFd1M2",
+          "name": "ゾックス・ゴールドツイカー",
+          "url": "https://open.spotify.com/artist/08MLTnqvliQguTFiuFd1M2"
+        }
+      ],
+      "album": {
+        "id": "727Hd8OzdywV0tOTNusFi4",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27341240e351bd06f177cbb90fa",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0241240e351bd06f177cbb90fa",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485141240e351bd06f177cbb90fa",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "機界戦隊ゼンカイジャー キャラクターソングアルバム",
+        "release_date": "2022-02-02",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/727Hd8OzdywV0tOTNusFi4",
+        "total_tracks": 14
+      },
+      "duration_ms": 222373,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/5uRcyZq1esl4GIwMDloJgx"
+    },
+    {
+      "id": "0j36t7aDO9Js58RqEuBHzH",
+      "name": "ゴールドツイカー☆界賊の掟 - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "59qOCrHFxRA2KLBUGkQc6Z",
+          "name": "フリント・ゴールドツイカー (CV: 森 日菜美)",
+          "url": "https://open.spotify.com/artist/59qOCrHFxRA2KLBUGkQc6Z"
+        },
+        {
+          "id": "2wxQAz6R5LeWaYJbjjcm6a",
+          "name": "カッタナー・ゴールドツイカー (CV: 鈴木崚汰)",
+          "url": "https://open.spotify.com/artist/2wxQAz6R5LeWaYJbjjcm6a"
+        },
+        {
+          "id": "03vtSQaEHCPmB5s0MgD9pi",
+          "name": "リッキー・ゴールドツイカー (CV: 松田颯水)",
+          "url": "https://open.spotify.com/artist/03vtSQaEHCPmB5s0MgD9pi"
+        }
+      ],
+      "album": {
+        "id": "727Hd8OzdywV0tOTNusFi4",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27341240e351bd06f177cbb90fa",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0241240e351bd06f177cbb90fa",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485141240e351bd06f177cbb90fa",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "機界戦隊ゼンカイジャー キャラクターソングアルバム",
+        "release_date": "2022-02-02",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/727Hd8OzdywV0tOTNusFi4",
+        "total_tracks": 14
+      },
+      "duration_ms": 234880,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/0j36t7aDO9Js58RqEuBHzH"
+    },
+    {
+      "id": "1a2REEqo6e62RH45UIGV8j",
+      "name": "全力全開! ゼンカイジャー - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "7xY1VgD8D3d53TUtYX2vfE",
+          "name": "Takeshi Tsuruno",
+          "url": "https://open.spotify.com/artist/7xY1VgD8D3d53TUtYX2vfE"
+        },
+        {
+          "id": "0PAqYWkmnUDNZlrl58AMbK",
+          "name": "ことのみ児童合唱団",
+          "url": "https://open.spotify.com/artist/0PAqYWkmnUDNZlrl58AMbK"
+        }
+      ],
+      "album": {
+        "id": "34sYY49Jgpy6CSnxpcagnd",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a5f60b3a7580914a51c9bd4b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a5f60b3a7580914a51c9bd4b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a5f60b3a7580914a51c9bd4b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "機界戦隊ゼンカイジャー 全曲集 音楽界でも全力全開!",
+        "release_date": "2022-02-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/34sYY49Jgpy6CSnxpcagnd",
+        "total_tracks": 37
+      },
+      "duration_ms": 220653,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/1a2REEqo6e62RH45UIGV8j"
+    },
+    {
+      "id": "1eGVDDW9OeMe1phk8n2030",
+      "name": "チェンジ全開! ゼンカイジャー - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "3rCtF823JFfETlTwQnWsFT",
+          "name": "伊勢大貴",
+          "url": "https://open.spotify.com/artist/3rCtF823JFfETlTwQnWsFT"
+        }
+      ],
+      "album": {
+        "id": "34sYY49Jgpy6CSnxpcagnd",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a5f60b3a7580914a51c9bd4b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a5f60b3a7580914a51c9bd4b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a5f60b3a7580914a51c9bd4b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "機界戦隊ゼンカイジャー 全曲集 音楽界でも全力全開!",
+        "release_date": "2022-02-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/34sYY49Jgpy6CSnxpcagnd",
+        "total_tracks": 37
+      },
+      "duration_ms": 220053,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/1eGVDDW9OeMe1phk8n2030"
+    },
+    {
+      "id": "2ovZtxqd3Ew3l0ygyTPyxS",
+      "name": "コンビネイション! ブルマジーン - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "2TIKjS1AvfUGY9HezSZSIg",
+          "name": "Mayumi Gojo",
+          "url": "https://open.spotify.com/artist/2TIKjS1AvfUGY9HezSZSIg"
+        },
+        {
+          "id": "3RzP9wHS4d0hAFOqbvkEMs",
+          "name": "サイキックラバー",
+          "url": "https://open.spotify.com/artist/3RzP9wHS4d0hAFOqbvkEMs"
+        }
+      ],
+      "album": {
+        "id": "34sYY49Jgpy6CSnxpcagnd",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a5f60b3a7580914a51c9bd4b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a5f60b3a7580914a51c9bd4b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a5f60b3a7580914a51c9bd4b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "機界戦隊ゼンカイジャー 全曲集 音楽界でも全力全開!",
+        "release_date": "2022-02-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/34sYY49Jgpy6CSnxpcagnd",
+        "total_tracks": 37
+      },
+      "duration_ms": 245880,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/2ovZtxqd3Ew3l0ygyTPyxS"
+    },
+    {
+      "id": "6rzB9xbskYWTM9I3Zcl7Wc",
+      "name": "界賊の唄 - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "60wbk9wmm245ponCDLlguv",
+          "name": "ツーカイザー",
+          "url": "https://open.spotify.com/artist/60wbk9wmm245ponCDLlguv"
+        },
+        {
+          "id": "08MLTnqvliQguTFiuFd1M2",
+          "name": "ゾックス・ゴールドツイカー",
+          "url": "https://open.spotify.com/artist/08MLTnqvliQguTFiuFd1M2"
+        }
+      ],
+      "album": {
+        "id": "34sYY49Jgpy6CSnxpcagnd",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a5f60b3a7580914a51c9bd4b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a5f60b3a7580914a51c9bd4b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a5f60b3a7580914a51c9bd4b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "機界戦隊ゼンカイジャー 全曲集 音楽界でも全力全開!",
+        "release_date": "2022-02-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/34sYY49Jgpy6CSnxpcagnd",
+        "total_tracks": 37
+      },
+      "duration_ms": 216880,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/6rzB9xbskYWTM9I3Zcl7Wc"
+    },
+    {
+      "id": "2YL5Z51FxHgpwnswws5qBg",
+      "name": "界賊オペレイション! ツーカイオー - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "6GsDV9mByDW2er8C5MWV1z",
+          "name": "高取ヒデアキ",
+          "url": "https://open.spotify.com/artist/6GsDV9mByDW2er8C5MWV1z"
+        },
+        {
+          "id": "7AaD1TETBhNePVBgUHb6Ar",
+          "name": "ZETKI",
+          "url": "https://open.spotify.com/artist/7AaD1TETBhNePVBgUHb6Ar"
+        }
+      ],
+      "album": {
+        "id": "34sYY49Jgpy6CSnxpcagnd",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a5f60b3a7580914a51c9bd4b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a5f60b3a7580914a51c9bd4b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a5f60b3a7580914a51c9bd4b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "機界戦隊ゼンカイジャー 全曲集 音楽界でも全力全開!",
+        "release_date": "2022-02-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/34sYY49Jgpy6CSnxpcagnd",
+        "total_tracks": 37
+      },
+      "duration_ms": 208880,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/2YL5Z51FxHgpwnswws5qBg"
+    },
+    {
+      "id": "5tDXdN8isgZSSPoBKE08jv",
+      "name": "POWER UP! スーパーゼンカイザー - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "7JXQwFdEUKdPu5fOKKj4Gk",
+          "name": "Hideyuki Takahashi",
+          "url": "https://open.spotify.com/artist/7JXQwFdEUKdPu5fOKKj4Gk"
+        }
+      ],
+      "album": {
+        "id": "34sYY49Jgpy6CSnxpcagnd",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a5f60b3a7580914a51c9bd4b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a5f60b3a7580914a51c9bd4b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a5f60b3a7580914a51c9bd4b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "機界戦隊ゼンカイジャー 全曲集 音楽界でも全力全開!",
+        "release_date": "2022-02-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/34sYY49Jgpy6CSnxpcagnd",
+        "total_tracks": 37
+      },
+      "duration_ms": 257372,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/5tDXdN8isgZSSPoBKE08jv"
+    },
+    {
+      "id": "3rYRPmpm5j5Fzvladl44GB",
+      "name": "Let's go! スーパーツーカイザー - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "2wdcx3suxNZgqgTqhRrqb3",
+          "name": "松原剛志",
+          "url": "https://open.spotify.com/artist/2wdcx3suxNZgqgTqhRrqb3"
+        }
+      ],
+      "album": {
+        "id": "34sYY49Jgpy6CSnxpcagnd",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a5f60b3a7580914a51c9bd4b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a5f60b3a7580914a51c9bd4b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a5f60b3a7580914a51c9bd4b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "機界戦隊ゼンカイジャー 全曲集 音楽界でも全力全開!",
+        "release_date": "2022-02-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/34sYY49Jgpy6CSnxpcagnd",
+        "total_tracks": 37
+      },
+      "duration_ms": 218546,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/3rYRPmpm5j5Fzvladl44GB"
+    },
+    {
+      "id": "7MSaqVhYbFhbnMukdCa863",
+      "name": "NEVER GIVE UP! スーパーゼンカイオージュラン - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "0xg9rh9FfBroOIt8iaTQjQ",
+          "name": "山形ユキオ",
+          "url": "https://open.spotify.com/artist/0xg9rh9FfBroOIt8iaTQjQ"
+        }
+      ],
+      "album": {
+        "id": "34sYY49Jgpy6CSnxpcagnd",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a5f60b3a7580914a51c9bd4b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a5f60b3a7580914a51c9bd4b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a5f60b3a7580914a51c9bd4b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "機界戦隊ゼンカイジャー 全曲集 音楽界でも全力全開!",
+        "release_date": "2022-02-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/34sYY49Jgpy6CSnxpcagnd",
+        "total_tracks": 37
+      },
+      "duration_ms": 219720,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/7MSaqVhYbFhbnMukdCa863"
+    },
+    {
+      "id": "2A7S4A1zuQlv1MzyizmVGn",
+      "name": "二刀流! スーパーツーカイオー - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "1tcokKxKkn8oO462qUWPVf",
+          "name": "MoJo",
+          "url": "https://open.spotify.com/artist/1tcokKxKkn8oO462qUWPVf"
+        }
+      ],
+      "album": {
+        "id": "34sYY49Jgpy6CSnxpcagnd",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a5f60b3a7580914a51c9bd4b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a5f60b3a7580914a51c9bd4b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a5f60b3a7580914a51c9bd4b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "機界戦隊ゼンカイジャー 全曲集 音楽界でも全力全開!",
+        "release_date": "2022-02-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/34sYY49Jgpy6CSnxpcagnd",
+        "total_tracks": 37
+      },
+      "duration_ms": 214146,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/2A7S4A1zuQlv1MzyizmVGn"
+    },
+    {
+      "id": "5lCDTfiP7D6jZqNFoHhUR4",
+      "name": "STACY THOUGHT - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "0IfeZkxnLvy8cc8O9uCa1p",
+          "name": "ステイシー",
+          "url": "https://open.spotify.com/artist/0IfeZkxnLvy8cc8O9uCa1p"
+        }
+      ],
+      "album": {
+        "id": "34sYY49Jgpy6CSnxpcagnd",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a5f60b3a7580914a51c9bd4b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a5f60b3a7580914a51c9bd4b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a5f60b3a7580914a51c9bd4b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "機界戦隊ゼンカイジャー 全曲集 音楽界でも全力全開!",
+        "release_date": "2022-02-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/34sYY49Jgpy6CSnxpcagnd",
+        "total_tracks": 37
+      },
+      "duration_ms": 250480,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/5lCDTfiP7D6jZqNFoHhUR4"
+    },
+    {
+      "id": "2seeULsEAi2rwqo6sBaorO",
+      "name": "HEROES, BE AMBITIOUS! - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "2TIKjS1AvfUGY9HezSZSIg",
+          "name": "Mayumi Gojo",
+          "url": "https://open.spotify.com/artist/2TIKjS1AvfUGY9HezSZSIg"
+        },
+        {
+          "id": "6qTKdHuHW9MFnjfV3JYmz8",
+          "name": "Hironobu Kageyama",
+          "url": "https://open.spotify.com/artist/6qTKdHuHW9MFnjfV3JYmz8"
+        }
+      ],
+      "album": {
+        "id": "34sYY49Jgpy6CSnxpcagnd",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a5f60b3a7580914a51c9bd4b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a5f60b3a7580914a51c9bd4b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a5f60b3a7580914a51c9bd4b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "機界戦隊ゼンカイジャー 全曲集 音楽界でも全力全開!",
+        "release_date": "2022-02-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/34sYY49Jgpy6CSnxpcagnd",
+        "total_tracks": 37
+      },
+      "duration_ms": 251600,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/2seeULsEAi2rwqo6sBaorO"
+    },
+    {
+      "id": "7HrBOz9zd97PpWMUg3QH2c",
+      "name": "カラフル☆ワンダフル - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "2TIKjS1AvfUGY9HezSZSIg",
+          "name": "Mayumi Gojo",
+          "url": "https://open.spotify.com/artist/2TIKjS1AvfUGY9HezSZSIg"
+        },
+        {
+          "id": "0Ka7FQfyVo7wJmosqUOeSh",
+          "name": "五色田ヤツデ",
+          "url": "https://open.spotify.com/artist/0Ka7FQfyVo7wJmosqUOeSh"
+        }
+      ],
+      "album": {
+        "id": "34sYY49Jgpy6CSnxpcagnd",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a5f60b3a7580914a51c9bd4b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a5f60b3a7580914a51c9bd4b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a5f60b3a7580914a51c9bd4b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "機界戦隊ゼンカイジャー 全曲集 音楽界でも全力全開!",
+        "release_date": "2022-02-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/34sYY49Jgpy6CSnxpcagnd",
+        "total_tracks": 37
+      },
+      "duration_ms": 299066,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/7HrBOz9zd97PpWMUg3QH2c"
+    },
+    {
+      "id": "6eMlNDsYMn46kTOTDOHRYq",
+      "name": "セッちゃんのスーパー戦隊クイズ - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "4Y2I2oeVacSRRfIuTMBT1u",
+          "name": "セッちゃん (CV: 福圓美里)",
+          "url": "https://open.spotify.com/artist/4Y2I2oeVacSRRfIuTMBT1u"
+        }
+      ],
+      "album": {
+        "id": "34sYY49Jgpy6CSnxpcagnd",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a5f60b3a7580914a51c9bd4b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a5f60b3a7580914a51c9bd4b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a5f60b3a7580914a51c9bd4b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "機界戦隊ゼンカイジャー 全曲集 音楽界でも全力全開!",
+        "release_date": "2022-02-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/34sYY49Jgpy6CSnxpcagnd",
+        "total_tracks": 37
+      },
+      "duration_ms": 209520,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/6eMlNDsYMn46kTOTDOHRYq"
+    },
+    {
+      "id": "1BjB2RRCN6GG0EnrqBVbbM",
+      "name": "俺こそオンリーワン - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "289Ot2yPeAD9g1epQ6NBwi",
+          "name": "MORISAKI WIN",
+          "url": "https://open.spotify.com/artist/289Ot2yPeAD9g1epQ6NBwi"
+        }
+      ],
+      "album": {
+        "id": "4mL2Xu3euXCDynuCVX9GAp",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ed742449d5c8e1db7e8f37eb",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ed742449d5c8e1db7e8f37eb",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ed742449d5c8e1db7e8f37eb",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "暴太郎戦隊ドンブラザーズ 主題歌",
+        "release_date": "2022-04-06",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "289Ot2yPeAD9g1epQ6NBwi",
+            "name": "MORISAKI WIN",
+            "url": "https://open.spotify.com/artist/289Ot2yPeAD9g1epQ6NBwi"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4mL2Xu3euXCDynuCVX9GAp",
+        "total_tracks": 4
+      },
+      "duration_ms": 186813,
+      "popularity": 3,
+      "url": "https://open.spotify.com/track/1BjB2RRCN6GG0EnrqBVbbM"
+    },
+    {
+      "id": "6NSsBBLNQDPFwkYnDyszV9",
+      "name": "Don't Boo! ドンブラザーズ - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "289Ot2yPeAD9g1epQ6NBwi",
+          "name": "MORISAKI WIN",
+          "url": "https://open.spotify.com/artist/289Ot2yPeAD9g1epQ6NBwi"
+        }
+      ],
+      "album": {
+        "id": "4mL2Xu3euXCDynuCVX9GAp",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ed742449d5c8e1db7e8f37eb",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ed742449d5c8e1db7e8f37eb",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ed742449d5c8e1db7e8f37eb",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "暴太郎戦隊ドンブラザーズ 主題歌",
+        "release_date": "2022-04-06",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "289Ot2yPeAD9g1epQ6NBwi",
+            "name": "MORISAKI WIN",
+            "url": "https://open.spotify.com/artist/289Ot2yPeAD9g1epQ6NBwi"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4mL2Xu3euXCDynuCVX9GAp",
+        "total_tracks": 4
+      },
+      "duration_ms": 240013,
+      "popularity": 3,
+      "url": "https://open.spotify.com/track/6NSsBBLNQDPFwkYnDyszV9"
+    },
+    {
+      "id": "3mlubCpDV6RwKFh7wfByvq",
+      "name": "キララ・スマイル - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "14rLMEVoG2LLTWJRzv4iS7",
+          "name": "吉良きらら",
+          "url": "https://open.spotify.com/artist/14rLMEVoG2LLTWJRzv4iS7"
+        }
+      ],
+      "album": {
+        "id": "7fVYuqHH0X0zV3w5nsXL2v",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273356d25ad21081f469256a51b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02356d25ad21081f469256a51b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851356d25ad21081f469256a51b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "キララ・スマイル (暴太郎戦隊ドンブラザーズ挿入歌)",
+        "release_date": "2022-05-22",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "14rLMEVoG2LLTWJRzv4iS7",
+            "name": "吉良きらら",
+            "url": "https://open.spotify.com/artist/14rLMEVoG2LLTWJRzv4iS7"
+          }
+        ],
+        "url": "https://open.spotify.com/album/7fVYuqHH0X0zV3w5nsXL2v",
+        "total_tracks": 4
+      },
+      "duration_ms": 214786,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/3mlubCpDV6RwKFh7wfByvq"
+    },
+    {
+      "id": "2yBsLZwv8payJD0JdNkwtO",
+      "name": "キララ・スマイル - 親衛隊応援コール入り - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "14rLMEVoG2LLTWJRzv4iS7",
+          "name": "吉良きらら",
+          "url": "https://open.spotify.com/artist/14rLMEVoG2LLTWJRzv4iS7"
+        }
+      ],
+      "album": {
+        "id": "7fVYuqHH0X0zV3w5nsXL2v",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273356d25ad21081f469256a51b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02356d25ad21081f469256a51b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851356d25ad21081f469256a51b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "キララ・スマイル (暴太郎戦隊ドンブラザーズ挿入歌)",
+        "release_date": "2022-05-22",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "14rLMEVoG2LLTWJRzv4iS7",
+            "name": "吉良きらら",
+            "url": "https://open.spotify.com/artist/14rLMEVoG2LLTWJRzv4iS7"
+          }
+        ],
+        "url": "https://open.spotify.com/album/7fVYuqHH0X0zV3w5nsXL2v",
+        "total_tracks": 4
+      },
+      "duration_ms": 214453,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/2yBsLZwv8payJD0JdNkwtO"
+    },
+    {
+      "id": "2nSljcTsT0EJNpneh9FDKI",
+      "name": "A Battle World - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "2j2p3o9PUeSYEJYKHUPOAu",
+          "name": "スタジオ・オーケストラ",
+          "url": "https://open.spotify.com/artist/2j2p3o9PUeSYEJYKHUPOAu"
+        }
+      ],
+      "album": {
+        "id": "394c4Od0h7sL5Cc6LZEF8Y",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273784520936abf3bd75d0a9a32",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02784520936abf3bd75d0a9a32",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851784520936abf3bd75d0a9a32",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "暴太郎戦隊ドンブラザーズ EP vol.1",
+        "release_date": "2022-05-25",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/394c4Od0h7sL5Cc6LZEF8Y",
+        "total_tracks": 6
+      },
+      "duration_ms": 240933,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/2nSljcTsT0EJNpneh9FDKI"
+    },
+    {
+      "id": "5LWyW3QR4FfUEViRF0vdQF",
+      "name": "出陣！ドンオニタイジン - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "7n7LTFytI72cTssCWn3sXS",
+          "name": "The Columbia Orchestra",
+          "url": "https://open.spotify.com/artist/7n7LTFytI72cTssCWn3sXS"
+        }
+      ],
+      "album": {
+        "id": "394c4Od0h7sL5Cc6LZEF8Y",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273784520936abf3bd75d0a9a32",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02784520936abf3bd75d0a9a32",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851784520936abf3bd75d0a9a32",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "暴太郎戦隊ドンブラザーズ EP vol.1",
+        "release_date": "2022-05-25",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/394c4Od0h7sL5Cc6LZEF8Y",
+        "total_tracks": 6
+      },
+      "duration_ms": 193333,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/5LWyW3QR4FfUEViRF0vdQF"
+    },
+    {
+      "id": "7FQQQd6PoFVvW09OQrEuV7",
+      "name": "君のヒーロー - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "5nCVXtvsB2KsngsMbk8Hat",
+          "name": "Takayoshi Tanimoto",
+          "url": "https://open.spotify.com/artist/5nCVXtvsB2KsngsMbk8Hat"
+        }
+      ],
+      "album": {
+        "id": "5ApkEvNDNFrdzgK4PIZ8jA",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273de5e5b346598d6e89b3c7a53",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02de5e5b346598d6e89b3c7a53",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851de5e5b346598d6e89b3c7a53",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "暴太郎戦隊ドンブラザーズ EP vol.2",
+        "release_date": "2022-07-20",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5ApkEvNDNFrdzgK4PIZ8jA",
+        "total_tracks": 6
+      },
+      "duration_ms": 187133,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/7FQQQd6PoFVvW09OQrEuV7"
+    },
+    {
+      "id": "19h4aKqQgtAMEhedbpNclL",
+      "name": "月ノミゾ知ル。 - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "3PDcFYfe7rSYkrQC6VknHP",
+          "name": "ドンモモタロウ",
+          "url": "https://open.spotify.com/artist/3PDcFYfe7rSYkrQC6VknHP"
+        },
+        {
+          "id": "0vKPQyKgI6Gda1hj4LgAmn",
+          "name": "桃井タロウ",
+          "url": "https://open.spotify.com/artist/0vKPQyKgI6Gda1hj4LgAmn"
+        },
+        {
+          "id": "2STAzDZkctLfsFIPU9PKRD",
+          "name": "ソノイ",
+          "url": "https://open.spotify.com/artist/2STAzDZkctLfsFIPU9PKRD"
+        }
+      ],
+      "album": {
+        "id": "5ApkEvNDNFrdzgK4PIZ8jA",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273de5e5b346598d6e89b3c7a53",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02de5e5b346598d6e89b3c7a53",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851de5e5b346598d6e89b3c7a53",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "暴太郎戦隊ドンブラザーズ EP vol.2",
+        "release_date": "2022-07-20",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5ApkEvNDNFrdzgK4PIZ8jA",
+        "total_tracks": 6
+      },
+      "duration_ms": 222346,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/19h4aKqQgtAMEhedbpNclL"
+    },
+    {
+      "id": "5DBwYMP5htibjmWL1haYtv",
+      "name": "燃えろ！虎龍攻神！ - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "2j2p3o9PUeSYEJYKHUPOAu",
+          "name": "スタジオ・オーケストラ",
+          "url": "https://open.spotify.com/artist/2j2p3o9PUeSYEJYKHUPOAu"
+        }
+      ],
+      "album": {
+        "id": "4quUfeyxQelUqEHhiIFqdN",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27315ac9146fcbc15d67d791273",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0215ac9146fcbc15d67d791273",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485115ac9146fcbc15d67d791273",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "暴太郎戦隊ドンブラザーズ EP vol.3",
+        "release_date": "2022-11-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4quUfeyxQelUqEHhiIFqdN",
+        "total_tracks": 6
+      },
+      "duration_ms": 247013,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/5DBwYMP5htibjmWL1haYtv"
+    },
+    {
+      "id": "3aXnhMJ5IM2FQZRzg8MY7k",
+      "name": "わっしょいしょい！ - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "7n7LTFytI72cTssCWn3sXS",
+          "name": "The Columbia Orchestra",
+          "url": "https://open.spotify.com/artist/7n7LTFytI72cTssCWn3sXS"
+        }
+      ],
+      "album": {
+        "id": "4quUfeyxQelUqEHhiIFqdN",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27315ac9146fcbc15d67d791273",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0215ac9146fcbc15d67d791273",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485115ac9146fcbc15d67d791273",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "暴太郎戦隊ドンブラザーズ EP vol.3",
+        "release_date": "2022-11-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4quUfeyxQelUqEHhiIFqdN",
+        "total_tracks": 6
+      },
+      "duration_ms": 199440,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/3aXnhMJ5IM2FQZRzg8MY7k"
+    },
+    {
+      "id": "2NfDH1XC51nU0TjN5RQRw1",
+      "name": "アバターパーティー！ドンブラザーズ！ - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "3PDcFYfe7rSYkrQC6VknHP",
+          "name": "ドンモモタロウ",
+          "url": "https://open.spotify.com/artist/3PDcFYfe7rSYkrQC6VknHP"
+        },
+        {
+          "id": "0vKPQyKgI6Gda1hj4LgAmn",
+          "name": "桃井タロウ",
+          "url": "https://open.spotify.com/artist/0vKPQyKgI6Gda1hj4LgAmn"
+        },
+        {
+          "id": "2cRK3JAZ3ePcpPAh22v4Ev",
+          "name": "サルブラザー",
+          "url": "https://open.spotify.com/artist/2cRK3JAZ3ePcpPAh22v4Ev"
+        },
+        {
+          "id": "2o9mnY1HF1eWjBoLTu4Axs",
+          "name": "猿原真一",
+          "url": "https://open.spotify.com/artist/2o9mnY1HF1eWjBoLTu4Axs"
+        },
+        {
+          "id": "23WACrR1iKJzpYsOmZs4RS",
+          "name": "オニシスター",
+          "url": "https://open.spotify.com/artist/23WACrR1iKJzpYsOmZs4RS"
+        },
+        {
+          "id": "4VWuQ6z52R4GsBRPTnmjae",
+          "name": "鬼頭はるか",
+          "url": "https://open.spotify.com/artist/4VWuQ6z52R4GsBRPTnmjae"
+        },
+        {
+          "id": "318n3mj1hnIEUuIJbVN101",
+          "name": "イヌブラザー",
+          "url": "https://open.spotify.com/artist/318n3mj1hnIEUuIJbVN101"
+        },
+        {
+          "id": "73dNglaVQU6n1qIbnGoaD4",
+          "name": "犬塚翼",
+          "url": "https://open.spotify.com/artist/73dNglaVQU6n1qIbnGoaD4"
+        },
+        {
+          "id": "1HTMW5Vu2N9cBF5ZzhAZxI",
+          "name": "キジブラザー",
+          "url": "https://open.spotify.com/artist/1HTMW5Vu2N9cBF5ZzhAZxI"
+        },
+        {
+          "id": "2IktVS3iIIuly2oGHJDffN",
+          "name": "雉野つよし",
+          "url": "https://open.spotify.com/artist/2IktVS3iIIuly2oGHJDffN"
+        },
+        {
+          "id": "7G5hmpwtxcJLasama62w0A",
+          "name": "ドンドラゴクウ",
+          "url": "https://open.spotify.com/artist/7G5hmpwtxcJLasama62w0A"
+        },
+        {
+          "id": "66E2ScCJn4QlfaoLOAOWIE",
+          "name": "桃谷ジロウ",
+          "url": "https://open.spotify.com/artist/66E2ScCJn4QlfaoLOAOWIE"
+        },
+        {
+          "id": "2STAzDZkctLfsFIPU9PKRD",
+          "name": "ソノイ",
+          "url": "https://open.spotify.com/artist/2STAzDZkctLfsFIPU9PKRD"
+        },
+        {
+          "id": "3SvlIZU2J4Wy1QJk63NJag",
+          "name": "ソノニ",
+          "url": "https://open.spotify.com/artist/3SvlIZU2J4Wy1QJk63NJag"
+        },
+        {
+          "id": "0PgGqDeiXiQkZeIESrdIwH",
+          "name": "ソノザ",
+          "url": "https://open.spotify.com/artist/0PgGqDeiXiQkZeIESrdIwH"
+        }
+      ],
+      "album": {
+        "id": "1G9MSTOeZTqF2Jf6yVwA5A",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2738866ed4c23c87840862c8dcf",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e028866ed4c23c87840862c8dcf",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048518866ed4c23c87840862c8dcf",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "暴太郎戦隊ドンブラザーズ EP vol.4",
+        "release_date": "2022-11-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1G9MSTOeZTqF2Jf6yVwA5A",
+        "total_tracks": 6
+      },
+      "duration_ms": 336253,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/2NfDH1XC51nU0TjN5RQRw1"
+    },
+    {
+      "id": "0p82FveiAyKz0ZbViLAvhk",
+      "name": "Dark・Shark・Rock - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "4LSQDDuhwDNGl7w7KsY88a",
+          "name": "ドンムラサメ",
+          "url": "https://open.spotify.com/artist/4LSQDDuhwDNGl7w7KsY88a"
+        }
+      ],
+      "album": {
+        "id": "1G9MSTOeZTqF2Jf6yVwA5A",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2738866ed4c23c87840862c8dcf",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e028866ed4c23c87840862c8dcf",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048518866ed4c23c87840862c8dcf",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "暴太郎戦隊ドンブラザーズ EP vol.4",
+        "release_date": "2022-11-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1G9MSTOeZTqF2Jf6yVwA5A",
+        "total_tracks": 6
+      },
+      "duration_ms": 190346,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/0p82FveiAyKz0ZbViLAvhk"
+    },
+    {
+      "id": "2xptGiVBOgsC6VMVZouu1Y",
+      "name": "俺こそオンリーワン - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "289Ot2yPeAD9g1epQ6NBwi",
+          "name": "MORISAKI WIN",
+          "url": "https://open.spotify.com/artist/289Ot2yPeAD9g1epQ6NBwi"
+        }
+      ],
+      "album": {
+        "id": "6Ay2pjIgnWol1Vucaw83Pc",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739b217748c03013a3043fff2d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029b217748c03013a3043fff2d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519b217748c03013a3043fff2d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "暴太郎戦隊ドンブラザーズ 全曲集",
+        "release_date": "2023-03-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6Ay2pjIgnWol1Vucaw83Pc",
+        "total_tracks": 40
+      },
+      "duration_ms": 187613,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/2xptGiVBOgsC6VMVZouu1Y"
+    },
+    {
+      "id": "4Iv2BNCfjVtEV2H1R343cf",
+      "name": "キララ・スマイル - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "14rLMEVoG2LLTWJRzv4iS7",
+          "name": "吉良きらら",
+          "url": "https://open.spotify.com/artist/14rLMEVoG2LLTWJRzv4iS7"
+        }
+      ],
+      "album": {
+        "id": "6Ay2pjIgnWol1Vucaw83Pc",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739b217748c03013a3043fff2d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029b217748c03013a3043fff2d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519b217748c03013a3043fff2d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "暴太郎戦隊ドンブラザーズ 全曲集",
+        "release_date": "2023-03-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6Ay2pjIgnWol1Vucaw83Pc",
+        "total_tracks": 40
+      },
+      "duration_ms": 215840,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/4Iv2BNCfjVtEV2H1R343cf"
+    },
+    {
+      "id": "5bfX0tSQOAia8YWtbZoi9c",
+      "name": "A Battle World - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "2j2p3o9PUeSYEJYKHUPOAu",
+          "name": "スタジオ・オーケストラ",
+          "url": "https://open.spotify.com/artist/2j2p3o9PUeSYEJYKHUPOAu"
+        }
+      ],
+      "album": {
+        "id": "6Ay2pjIgnWol1Vucaw83Pc",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739b217748c03013a3043fff2d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029b217748c03013a3043fff2d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519b217748c03013a3043fff2d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "暴太郎戦隊ドンブラザーズ 全曲集",
+        "release_date": "2023-03-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6Ay2pjIgnWol1Vucaw83Pc",
+        "total_tracks": 40
+      },
+      "duration_ms": 240933,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/5bfX0tSQOAia8YWtbZoi9c"
+    },
+    {
+      "id": "62iRC9r4iBzQ8sdtKqjRVF",
+      "name": "出陣！ドンオニタイジン - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "7n7LTFytI72cTssCWn3sXS",
+          "name": "The Columbia Orchestra",
+          "url": "https://open.spotify.com/artist/7n7LTFytI72cTssCWn3sXS"
+        }
+      ],
+      "album": {
+        "id": "6Ay2pjIgnWol1Vucaw83Pc",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739b217748c03013a3043fff2d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029b217748c03013a3043fff2d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519b217748c03013a3043fff2d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "暴太郎戦隊ドンブラザーズ 全曲集",
+        "release_date": "2023-03-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6Ay2pjIgnWol1Vucaw83Pc",
+        "total_tracks": 40
+      },
+      "duration_ms": 194773,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/62iRC9r4iBzQ8sdtKqjRVF"
+    },
+    {
+      "id": "0Dc9rpuHFPk4wdZwOjKhHJ",
+      "name": "君のヒーロー - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "5nCVXtvsB2KsngsMbk8Hat",
+          "name": "Takayoshi Tanimoto",
+          "url": "https://open.spotify.com/artist/5nCVXtvsB2KsngsMbk8Hat"
+        }
+      ],
+      "album": {
+        "id": "6Ay2pjIgnWol1Vucaw83Pc",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739b217748c03013a3043fff2d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029b217748c03013a3043fff2d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519b217748c03013a3043fff2d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "暴太郎戦隊ドンブラザーズ 全曲集",
+        "release_date": "2023-03-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6Ay2pjIgnWol1Vucaw83Pc",
+        "total_tracks": 40
+      },
+      "duration_ms": 188240,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/0Dc9rpuHFPk4wdZwOjKhHJ"
+    },
+    {
+      "id": "0cGdGsUllNtalZ7LuRXsB0",
+      "name": "月ノミゾ知ル。 - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "3PDcFYfe7rSYkrQC6VknHP",
+          "name": "ドンモモタロウ",
+          "url": "https://open.spotify.com/artist/3PDcFYfe7rSYkrQC6VknHP"
+        },
+        {
+          "id": "0vKPQyKgI6Gda1hj4LgAmn",
+          "name": "桃井タロウ",
+          "url": "https://open.spotify.com/artist/0vKPQyKgI6Gda1hj4LgAmn"
+        },
+        {
+          "id": "2STAzDZkctLfsFIPU9PKRD",
+          "name": "ソノイ",
+          "url": "https://open.spotify.com/artist/2STAzDZkctLfsFIPU9PKRD"
+        }
+      ],
+      "album": {
+        "id": "6Ay2pjIgnWol1Vucaw83Pc",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739b217748c03013a3043fff2d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029b217748c03013a3043fff2d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519b217748c03013a3043fff2d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "暴太郎戦隊ドンブラザーズ 全曲集",
+        "release_date": "2023-03-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6Ay2pjIgnWol1Vucaw83Pc",
+        "total_tracks": 40
+      },
+      "duration_ms": 223800,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/0cGdGsUllNtalZ7LuRXsB0"
+    },
+    {
+      "id": "4XMKoeA7bZlkkmbJ8GDDhn",
+      "name": "燃えろ！虎龍攻神！ - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "2j2p3o9PUeSYEJYKHUPOAu",
+          "name": "スタジオ・オーケストラ",
+          "url": "https://open.spotify.com/artist/2j2p3o9PUeSYEJYKHUPOAu"
+        }
+      ],
+      "album": {
+        "id": "6Ay2pjIgnWol1Vucaw83Pc",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739b217748c03013a3043fff2d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029b217748c03013a3043fff2d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519b217748c03013a3043fff2d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "暴太郎戦隊ドンブラザーズ 全曲集",
+        "release_date": "2023-03-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6Ay2pjIgnWol1Vucaw83Pc",
+        "total_tracks": 40
+      },
+      "duration_ms": 247546,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/4XMKoeA7bZlkkmbJ8GDDhn"
+    },
+    {
+      "id": "0yng2NwjIOSi7n3r2CqhPO",
+      "name": "わっしょいしょい！ - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "7n7LTFytI72cTssCWn3sXS",
+          "name": "The Columbia Orchestra",
+          "url": "https://open.spotify.com/artist/7n7LTFytI72cTssCWn3sXS"
+        }
+      ],
+      "album": {
+        "id": "6Ay2pjIgnWol1Vucaw83Pc",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739b217748c03013a3043fff2d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029b217748c03013a3043fff2d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519b217748c03013a3043fff2d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "暴太郎戦隊ドンブラザーズ 全曲集",
+        "release_date": "2023-03-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6Ay2pjIgnWol1Vucaw83Pc",
+        "total_tracks": 40
+      },
+      "duration_ms": 200786,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/0yng2NwjIOSi7n3r2CqhPO"
+    },
+    {
+      "id": "1l0vkAZaMZdjRPEjtNcMTG",
+      "name": "アバターパーティー！ドンブラザーズ！ - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "3PDcFYfe7rSYkrQC6VknHP",
+          "name": "ドンモモタロウ",
+          "url": "https://open.spotify.com/artist/3PDcFYfe7rSYkrQC6VknHP"
+        },
+        {
+          "id": "0vKPQyKgI6Gda1hj4LgAmn",
+          "name": "桃井タロウ",
+          "url": "https://open.spotify.com/artist/0vKPQyKgI6Gda1hj4LgAmn"
+        },
+        {
+          "id": "2cRK3JAZ3ePcpPAh22v4Ev",
+          "name": "サルブラザー",
+          "url": "https://open.spotify.com/artist/2cRK3JAZ3ePcpPAh22v4Ev"
+        },
+        {
+          "id": "2o9mnY1HF1eWjBoLTu4Axs",
+          "name": "猿原真一",
+          "url": "https://open.spotify.com/artist/2o9mnY1HF1eWjBoLTu4Axs"
+        },
+        {
+          "id": "23WACrR1iKJzpYsOmZs4RS",
+          "name": "オニシスター",
+          "url": "https://open.spotify.com/artist/23WACrR1iKJzpYsOmZs4RS"
+        },
+        {
+          "id": "4VWuQ6z52R4GsBRPTnmjae",
+          "name": "鬼頭はるか",
+          "url": "https://open.spotify.com/artist/4VWuQ6z52R4GsBRPTnmjae"
+        },
+        {
+          "id": "318n3mj1hnIEUuIJbVN101",
+          "name": "イヌブラザー",
+          "url": "https://open.spotify.com/artist/318n3mj1hnIEUuIJbVN101"
+        },
+        {
+          "id": "73dNglaVQU6n1qIbnGoaD4",
+          "name": "犬塚翼",
+          "url": "https://open.spotify.com/artist/73dNglaVQU6n1qIbnGoaD4"
+        },
+        {
+          "id": "1HTMW5Vu2N9cBF5ZzhAZxI",
+          "name": "キジブラザー",
+          "url": "https://open.spotify.com/artist/1HTMW5Vu2N9cBF5ZzhAZxI"
+        },
+        {
+          "id": "2IktVS3iIIuly2oGHJDffN",
+          "name": "雉野つよし",
+          "url": "https://open.spotify.com/artist/2IktVS3iIIuly2oGHJDffN"
+        },
+        {
+          "id": "7G5hmpwtxcJLasama62w0A",
+          "name": "ドンドラゴクウ",
+          "url": "https://open.spotify.com/artist/7G5hmpwtxcJLasama62w0A"
+        },
+        {
+          "id": "66E2ScCJn4QlfaoLOAOWIE",
+          "name": "桃谷ジロウ",
+          "url": "https://open.spotify.com/artist/66E2ScCJn4QlfaoLOAOWIE"
+        },
+        {
+          "id": "2STAzDZkctLfsFIPU9PKRD",
+          "name": "ソノイ",
+          "url": "https://open.spotify.com/artist/2STAzDZkctLfsFIPU9PKRD"
+        },
+        {
+          "id": "3SvlIZU2J4Wy1QJk63NJag",
+          "name": "ソノニ",
+          "url": "https://open.spotify.com/artist/3SvlIZU2J4Wy1QJk63NJag"
+        },
+        {
+          "id": "0PgGqDeiXiQkZeIESrdIwH",
+          "name": "ソノザ",
+          "url": "https://open.spotify.com/artist/0PgGqDeiXiQkZeIESrdIwH"
+        }
+      ],
+      "album": {
+        "id": "6Ay2pjIgnWol1Vucaw83Pc",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739b217748c03013a3043fff2d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029b217748c03013a3043fff2d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519b217748c03013a3043fff2d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "暴太郎戦隊ドンブラザーズ 全曲集",
+        "release_date": "2023-03-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6Ay2pjIgnWol1Vucaw83Pc",
+        "total_tracks": 40
+      },
+      "duration_ms": 336813,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/1l0vkAZaMZdjRPEjtNcMTG"
+    },
+    {
+      "id": "7zdzroa0QoJRvUloJh8okd",
+      "name": "Dark・Shark・Rock - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "4LSQDDuhwDNGl7w7KsY88a",
+          "name": "ドンムラサメ",
+          "url": "https://open.spotify.com/artist/4LSQDDuhwDNGl7w7KsY88a"
+        }
+      ],
+      "album": {
+        "id": "6Ay2pjIgnWol1Vucaw83Pc",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739b217748c03013a3043fff2d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029b217748c03013a3043fff2d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519b217748c03013a3043fff2d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "暴太郎戦隊ドンブラザーズ 全曲集",
+        "release_date": "2023-03-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6Ay2pjIgnWol1Vucaw83Pc",
+        "total_tracks": 40
+      },
+      "duration_ms": 191560,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/7zdzroa0QoJRvUloJh8okd"
+    },
+    {
+      "id": "3J8oWHgFebn20iw7Ssg6Xa",
+      "name": "永縁フェスティバル - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "3PDcFYfe7rSYkrQC6VknHP",
+          "name": "ドンモモタロウ",
+          "url": "https://open.spotify.com/artist/3PDcFYfe7rSYkrQC6VknHP"
+        },
+        {
+          "id": "0vKPQyKgI6Gda1hj4LgAmn",
+          "name": "桃井タロウ",
+          "url": "https://open.spotify.com/artist/0vKPQyKgI6Gda1hj4LgAmn"
+        }
+      ],
+      "album": {
+        "id": "6Ay2pjIgnWol1Vucaw83Pc",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739b217748c03013a3043fff2d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029b217748c03013a3043fff2d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519b217748c03013a3043fff2d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "暴太郎戦隊ドンブラザーズ 全曲集",
+        "release_date": "2023-03-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6Ay2pjIgnWol1Vucaw83Pc",
+        "total_tracks": 40
+      },
+      "duration_ms": 198960,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/3J8oWHgFebn20iw7Ssg6Xa"
+    },
+    {
+      "id": "7ygASSPkYm8hrik0wRm8hu",
+      "name": "空想談義 - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "2cRK3JAZ3ePcpPAh22v4Ev",
+          "name": "サルブラザー",
+          "url": "https://open.spotify.com/artist/2cRK3JAZ3ePcpPAh22v4Ev"
+        },
+        {
+          "id": "2o9mnY1HF1eWjBoLTu4Axs",
+          "name": "猿原真一",
+          "url": "https://open.spotify.com/artist/2o9mnY1HF1eWjBoLTu4Axs"
+        }
+      ],
+      "album": {
+        "id": "6Ay2pjIgnWol1Vucaw83Pc",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739b217748c03013a3043fff2d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029b217748c03013a3043fff2d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519b217748c03013a3043fff2d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "暴太郎戦隊ドンブラザーズ 全曲集",
+        "release_date": "2023-03-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6Ay2pjIgnWol1Vucaw83Pc",
+        "total_tracks": 40
+      },
+      "duration_ms": 238586,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/7ygASSPkYm8hrik0wRm8hu"
+    },
+    {
+      "id": "4ZSwH9nOAmqGX4VfiUVlFz",
+      "name": "Try it! - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "23WACrR1iKJzpYsOmZs4RS",
+          "name": "オニシスター",
+          "url": "https://open.spotify.com/artist/23WACrR1iKJzpYsOmZs4RS"
+        },
+        {
+          "id": "4VWuQ6z52R4GsBRPTnmjae",
+          "name": "鬼頭はるか",
+          "url": "https://open.spotify.com/artist/4VWuQ6z52R4GsBRPTnmjae"
+        }
+      ],
+      "album": {
+        "id": "6Ay2pjIgnWol1Vucaw83Pc",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739b217748c03013a3043fff2d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029b217748c03013a3043fff2d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519b217748c03013a3043fff2d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "暴太郎戦隊ドンブラザーズ 全曲集",
+        "release_date": "2023-03-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6Ay2pjIgnWol1Vucaw83Pc",
+        "total_tracks": 40
+      },
+      "duration_ms": 239293,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/4ZSwH9nOAmqGX4VfiUVlFz"
+    },
+    {
+      "id": "18jW4ViPVzhKHA29e1oCMg",
+      "name": "朧 - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "318n3mj1hnIEUuIJbVN101",
+          "name": "イヌブラザー",
+          "url": "https://open.spotify.com/artist/318n3mj1hnIEUuIJbVN101"
+        },
+        {
+          "id": "73dNglaVQU6n1qIbnGoaD4",
+          "name": "犬塚翼",
+          "url": "https://open.spotify.com/artist/73dNglaVQU6n1qIbnGoaD4"
+        }
+      ],
+      "album": {
+        "id": "6Ay2pjIgnWol1Vucaw83Pc",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739b217748c03013a3043fff2d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029b217748c03013a3043fff2d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519b217748c03013a3043fff2d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "暴太郎戦隊ドンブラザーズ 全曲集",
+        "release_date": "2023-03-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6Ay2pjIgnWol1Vucaw83Pc",
+        "total_tracks": 40
+      },
+      "duration_ms": 217146,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/18jW4ViPVzhKHA29e1oCMg"
+    },
+    {
+      "id": "03zpqtPa6NxyFkSaNGKWKC",
+      "name": "マイワイフ is マイライフ - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "1HTMW5Vu2N9cBF5ZzhAZxI",
+          "name": "キジブラザー",
+          "url": "https://open.spotify.com/artist/1HTMW5Vu2N9cBF5ZzhAZxI"
+        },
+        {
+          "id": "2IktVS3iIIuly2oGHJDffN",
+          "name": "雉野つよし",
+          "url": "https://open.spotify.com/artist/2IktVS3iIIuly2oGHJDffN"
+        }
+      ],
+      "album": {
+        "id": "6Ay2pjIgnWol1Vucaw83Pc",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739b217748c03013a3043fff2d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029b217748c03013a3043fff2d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519b217748c03013a3043fff2d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "暴太郎戦隊ドンブラザーズ 全曲集",
+        "release_date": "2023-03-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6Ay2pjIgnWol1Vucaw83Pc",
+        "total_tracks": 40
+      },
+      "duration_ms": 208000,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/03zpqtPa6NxyFkSaNGKWKC"
+    },
+    {
+      "id": "3Y68xCJ7kr8q8hU6i458mK",
+      "name": "トライ！グッドライバル！ - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "7G5hmpwtxcJLasama62w0A",
+          "name": "ドンドラゴクウ",
+          "url": "https://open.spotify.com/artist/7G5hmpwtxcJLasama62w0A"
+        },
+        {
+          "id": "3b8BEO6wzo4vMX1PRjP3Gy",
+          "name": "ドントラボルト",
+          "url": "https://open.spotify.com/artist/3b8BEO6wzo4vMX1PRjP3Gy"
+        },
+        {
+          "id": "66E2ScCJn4QlfaoLOAOWIE",
+          "name": "桃谷ジロウ",
+          "url": "https://open.spotify.com/artist/66E2ScCJn4QlfaoLOAOWIE"
+        }
+      ],
+      "album": {
+        "id": "6Ay2pjIgnWol1Vucaw83Pc",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739b217748c03013a3043fff2d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029b217748c03013a3043fff2d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519b217748c03013a3043fff2d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "暴太郎戦隊ドンブラザーズ 全曲集",
+        "release_date": "2023-03-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6Ay2pjIgnWol1Vucaw83Pc",
+        "total_tracks": 40
+      },
+      "duration_ms": 204760,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/3Y68xCJ7kr8q8hU6i458mK"
+    },
+    {
+      "id": "0csfwliVPZIQFl5Ro6Kd5y",
+      "name": "Blue Moon - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "2STAzDZkctLfsFIPU9PKRD",
+          "name": "ソノイ",
+          "url": "https://open.spotify.com/artist/2STAzDZkctLfsFIPU9PKRD"
+        }
+      ],
+      "album": {
+        "id": "6Ay2pjIgnWol1Vucaw83Pc",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739b217748c03013a3043fff2d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029b217748c03013a3043fff2d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519b217748c03013a3043fff2d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "暴太郎戦隊ドンブラザーズ 全曲集",
+        "release_date": "2023-03-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6Ay2pjIgnWol1Vucaw83Pc",
+        "total_tracks": 40
+      },
+      "duration_ms": 226986,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/0csfwliVPZIQFl5Ro6Kd5y"
+    },
+    {
+      "id": "1Iu1LI2IaqHbLtY2NIWQQM",
+      "name": "Jewel Pieces - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "3SvlIZU2J4Wy1QJk63NJag",
+          "name": "ソノニ",
+          "url": "https://open.spotify.com/artist/3SvlIZU2J4Wy1QJk63NJag"
+        }
+      ],
+      "album": {
+        "id": "6Ay2pjIgnWol1Vucaw83Pc",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739b217748c03013a3043fff2d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029b217748c03013a3043fff2d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519b217748c03013a3043fff2d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "暴太郎戦隊ドンブラザーズ 全曲集",
+        "release_date": "2023-03-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6Ay2pjIgnWol1Vucaw83Pc",
+        "total_tracks": 40
+      },
+      "duration_ms": 220160,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/1Iu1LI2IaqHbLtY2NIWQQM"
+    },
+    {
+      "id": "6j8MG5pQmcI2DVtnvcfLPe",
+      "name": "What's EMO - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "0PgGqDeiXiQkZeIESrdIwH",
+          "name": "ソノザ",
+          "url": "https://open.spotify.com/artist/0PgGqDeiXiQkZeIESrdIwH"
+        }
+      ],
+      "album": {
+        "id": "6Ay2pjIgnWol1Vucaw83Pc",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739b217748c03013a3043fff2d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029b217748c03013a3043fff2d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519b217748c03013a3043fff2d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "暴太郎戦隊ドンブラザーズ 全曲集",
+        "release_date": "2023-03-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6Ay2pjIgnWol1Vucaw83Pc",
+        "total_tracks": 40
+      },
+      "duration_ms": 235706,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/6j8MG5pQmcI2DVtnvcfLPe"
+    },
+    {
+      "id": "7bKIlUSIkZIRIbp5SgbE9G",
+      "name": "Don't Boo！ドンブラザーズ - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "289Ot2yPeAD9g1epQ6NBwi",
+          "name": "MORISAKI WIN",
+          "url": "https://open.spotify.com/artist/289Ot2yPeAD9g1epQ6NBwi"
+        }
+      ],
+      "album": {
+        "id": "6Ay2pjIgnWol1Vucaw83Pc",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739b217748c03013a3043fff2d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029b217748c03013a3043fff2d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519b217748c03013a3043fff2d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "暴太郎戦隊ドンブラザーズ 全曲集",
+        "release_date": "2023-03-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6Ay2pjIgnWol1Vucaw83Pc",
+        "total_tracks": 40
+      },
+      "duration_ms": 240040,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/7bKIlUSIkZIRIbp5SgbE9G"
+    },
+    {
+      "id": "2jlLcFpABlr8bvd1eJFHFK",
+      "name": "全力キング - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "07vPL3eZ1gUKc4RPnMg4oz",
+          "name": "古川貴之",
+          "url": "https://open.spotify.com/artist/07vPL3eZ1gUKc4RPnMg4oz"
+        }
+      ],
+      "album": {
+        "id": "6ZJA6BvicrS5AvfJ7tgXLg",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273281832f29241deca66808721",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02281832f29241deca66808721",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851281832f29241deca66808721",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "王様戦隊キングオージャー 主題歌",
+        "release_date": "2023-04-05",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6ZJA6BvicrS5AvfJ7tgXLg",
+        "total_tracks": 12
+      },
+      "duration_ms": 221026,
+      "popularity": 4,
+      "url": "https://open.spotify.com/track/2jlLcFpABlr8bvd1eJFHFK"
+    },
+    {
+      "id": "55f7xF4NoJkvgma4pHFM3P",
+      "name": "INFERNO - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "0mxcC38vLiMEP8g4MVNhO4",
+          "name": "NANO",
+          "url": "https://open.spotify.com/artist/0mxcC38vLiMEP8g4MVNhO4"
+        }
+      ],
+      "album": {
+        "id": "6ZJA6BvicrS5AvfJ7tgXLg",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273281832f29241deca66808721",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02281832f29241deca66808721",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851281832f29241deca66808721",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "王様戦隊キングオージャー 主題歌",
+        "release_date": "2023-04-05",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6ZJA6BvicrS5AvfJ7tgXLg",
+        "total_tracks": 12
+      },
+      "duration_ms": 217213,
+      "popularity": 2,
+      "url": "https://open.spotify.com/track/55f7xF4NoJkvgma4pHFM3P"
+    },
+    {
+      "id": "21y3av65Ic9Ku1vsn70HuH",
+      "name": "Try & Fight - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "2w4D4qj8C0WaaYEg7CKCvV",
+          "name": "鎌田章吾",
+          "url": "https://open.spotify.com/artist/2w4D4qj8C0WaaYEg7CKCvV"
+        }
+      ],
+      "album": {
+        "id": "6ZJA6BvicrS5AvfJ7tgXLg",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273281832f29241deca66808721",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02281832f29241deca66808721",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851281832f29241deca66808721",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "王様戦隊キングオージャー 主題歌",
+        "release_date": "2023-04-05",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6ZJA6BvicrS5AvfJ7tgXLg",
+        "total_tracks": 12
+      },
+      "duration_ms": 215626,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/21y3av65Ic9Ku1vsn70HuH"
+    },
+    {
+      "id": "6Gz6rVFzzE1x1PZxX1CuRM",
+      "name": "World Is Mine! - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "1WAGre0baNiJXIRT5JSMn9",
+          "name": "Machico",
+          "url": "https://open.spotify.com/artist/1WAGre0baNiJXIRT5JSMn9"
+        }
+      ],
+      "album": {
+        "id": "6ZJA6BvicrS5AvfJ7tgXLg",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273281832f29241deca66808721",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02281832f29241deca66808721",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851281832f29241deca66808721",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "王様戦隊キングオージャー 主題歌",
+        "release_date": "2023-04-05",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6ZJA6BvicrS5AvfJ7tgXLg",
+        "total_tracks": 12
+      },
+      "duration_ms": 211826,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/6Gz6rVFzzE1x1PZxX1CuRM"
+    },
+    {
+      "id": "48plHCyIU77IesFridOkn5",
+      "name": "Ignorantia juris nocet - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "2vEGQXVCug0dfihu71BhHo",
+          "name": "ゴッカンクワイア",
+          "url": "https://open.spotify.com/artist/2vEGQXVCug0dfihu71BhHo"
+        }
+      ],
+      "album": {
+        "id": "6ZJA6BvicrS5AvfJ7tgXLg",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273281832f29241deca66808721",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02281832f29241deca66808721",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851281832f29241deca66808721",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "王様戦隊キングオージャー 主題歌",
+        "release_date": "2023-04-05",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6ZJA6BvicrS5AvfJ7tgXLg",
+        "total_tracks": 12
+      },
+      "duration_ms": 188906,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/48plHCyIU77IesFridOkn5"
+    },
+    {
+      "id": "61aNLwIpmosZvqJm62gFNs",
+      "name": "宴じゃオージャー！ - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "7JXQwFdEUKdPu5fOKKj4Gk",
+          "name": "Hideyuki Takahashi",
+          "url": "https://open.spotify.com/artist/7JXQwFdEUKdPu5fOKKj4Gk"
+        },
+        {
+          "id": "3rCtF823JFfETlTwQnWsFT",
+          "name": "伊勢大貴",
+          "url": "https://open.spotify.com/artist/3rCtF823JFfETlTwQnWsFT"
+        }
+      ],
+      "album": {
+        "id": "6ZJA6BvicrS5AvfJ7tgXLg",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273281832f29241deca66808721",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02281832f29241deca66808721",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851281832f29241deca66808721",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "王様戦隊キングオージャー 主題歌",
+        "release_date": "2023-04-05",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6ZJA6BvicrS5AvfJ7tgXLg",
+        "total_tracks": 12
+      },
+      "duration_ms": 223040,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/61aNLwIpmosZvqJm62gFNs"
+    },
+    {
+      "id": "6KCf6pCCvFyGROztHxjp4e",
+      "name": "Waking the King - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "6GsDV9mByDW2er8C5MWV1z",
+          "name": "高取ヒデアキ",
+          "url": "https://open.spotify.com/artist/6GsDV9mByDW2er8C5MWV1z"
+        }
+      ],
+      "album": {
+        "id": "5Kmyyg1ZEWD5PWtWWe9IqX",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273221e0f3e7773887c8c3228d5",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02221e0f3e7773887c8c3228d5",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851221e0f3e7773887c8c3228d5",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "王様戦隊キングオージャー EP vol.1",
+        "release_date": "2023-05-24",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5Kmyyg1ZEWD5PWtWWe9IqX",
+        "total_tracks": 12
+      },
+      "duration_ms": 252626,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/6KCf6pCCvFyGROztHxjp4e"
+    },
+    {
+      "id": "6uoqtBKroPtkmKc1F7ZsiI",
+      "name": "もっふんのうた - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "4ofLGjl8AVh9pr5tIAE6Wp",
+          "name": "吉田仁美",
+          "url": "https://open.spotify.com/artist/4ofLGjl8AVh9pr5tIAE6Wp"
+        }
+      ],
+      "album": {
+        "id": "5Kmyyg1ZEWD5PWtWWe9IqX",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273221e0f3e7773887c8c3228d5",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02221e0f3e7773887c8c3228d5",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851221e0f3e7773887c8c3228d5",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "王様戦隊キングオージャー EP vol.1",
+        "release_date": "2023-05-24",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5Kmyyg1ZEWD5PWtWWe9IqX",
+        "total_tracks": 12
+      },
+      "duration_ms": 136840,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/6uoqtBKroPtkmKc1F7ZsiI"
+    },
+    {
+      "id": "6e902OCAruBtwNCJrJOQvW",
+      "name": "The Prophet - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "07vPL3eZ1gUKc4RPnMg4oz",
+          "name": "古川貴之",
+          "url": "https://open.spotify.com/artist/07vPL3eZ1gUKc4RPnMg4oz"
+        }
+      ],
+      "album": {
+        "id": "5MsmsnxperuzrCDrSU6uHl",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734a4b6a0f3adccf47da3e21f9",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024a4b6a0f3adccf47da3e21f9",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514a4b6a0f3adccf47da3e21f9",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "王様戦隊キングオージャー EP vol.2",
+        "release_date": "2023-07-19",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5MsmsnxperuzrCDrSU6uHl",
+        "total_tracks": 10
+      },
+      "duration_ms": 177253,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/6e902OCAruBtwNCJrJOQvW"
+    },
+    {
+      "id": "48BeW5S79JHW67xUM7mzyg",
+      "name": "BRAND NEW WORLD - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "3dLKlVYQ7vwG4Q2R0gFJjd",
+          "name": "萩原逸輝",
+          "url": "https://open.spotify.com/artist/3dLKlVYQ7vwG4Q2R0gFJjd"
+        }
+      ],
+      "album": {
+        "id": "5MsmsnxperuzrCDrSU6uHl",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734a4b6a0f3adccf47da3e21f9",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024a4b6a0f3adccf47da3e21f9",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514a4b6a0f3adccf47da3e21f9",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "王様戦隊キングオージャー EP vol.2",
+        "release_date": "2023-07-19",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5MsmsnxperuzrCDrSU6uHl",
+        "total_tracks": 10
+      },
+      "duration_ms": 186773,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/48BeW5S79JHW67xUM7mzyg"
+    },
+    {
+      "id": "4nU5okbSp2lYfmlUetaxaH",
+      "name": "Pride and Brave - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "6GsDV9mByDW2er8C5MWV1z",
+          "name": "高取ヒデアキ",
+          "url": "https://open.spotify.com/artist/6GsDV9mByDW2er8C5MWV1z"
+        }
+      ],
+      "album": {
+        "id": "4z7ul1Kq1wGd5pBqfLYIoR",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27334c868b88a2e0db815fcc0c8",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0234c868b88a2e0db815fcc0c8",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485134c868b88a2e0db815fcc0c8",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "王様戦隊キングオージャー EP vol.3",
+        "release_date": "2023-12-27",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4z7ul1Kq1wGd5pBqfLYIoR",
+        "total_tracks": 7
+      },
+      "duration_ms": 271280,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/4nU5okbSp2lYfmlUetaxaH"
+    },
+    {
+      "id": "45n2nuMaSUzqW9voRR5XqN",
+      "name": "Just we go - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "4jzPDdhi1n3B0uQ3XvVGH4",
+          "name": "Nob",
+          "url": "https://open.spotify.com/artist/4jzPDdhi1n3B0uQ3XvVGH4"
+        }
+      ],
+      "album": {
+        "id": "4z7ul1Kq1wGd5pBqfLYIoR",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27334c868b88a2e0db815fcc0c8",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0234c868b88a2e0db815fcc0c8",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485134c868b88a2e0db815fcc0c8",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "王様戦隊キングオージャー EP vol.3",
+        "release_date": "2023-12-27",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4z7ul1Kq1wGd5pBqfLYIoR",
+        "total_tracks": 7
+      },
+      "duration_ms": 278360,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/45n2nuMaSUzqW9voRR5XqN"
+    },
+    {
+      "id": "5f9M8tIMDWrbBDwomIjRBW",
+      "name": "I'm still alive - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "2w4D4qj8C0WaaYEg7CKCvV",
+          "name": "鎌田章吾",
+          "url": "https://open.spotify.com/artist/2w4D4qj8C0WaaYEg7CKCvV"
+        }
+      ],
+      "album": {
+        "id": "4z7ul1Kq1wGd5pBqfLYIoR",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27334c868b88a2e0db815fcc0c8",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0234c868b88a2e0db815fcc0c8",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485134c868b88a2e0db815fcc0c8",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "王様戦隊キングオージャー EP vol.3",
+        "release_date": "2023-12-27",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4z7ul1Kq1wGd5pBqfLYIoR",
+        "total_tracks": 7
+      },
+      "duration_ms": 246973,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/5f9M8tIMDWrbBDwomIjRBW"
+    },
+    {
+      "id": "2vYMrnMYqfT4myMcuTKQo7",
+      "name": "全力キング - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "07vPL3eZ1gUKc4RPnMg4oz",
+          "name": "古川貴之",
+          "url": "https://open.spotify.com/artist/07vPL3eZ1gUKc4RPnMg4oz"
+        }
+      ],
+      "album": {
+        "id": "5FIbxg5G1NAUkP2CxV9BxC",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e7c9200298b23b6f36c13a7b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e7c9200298b23b6f36c13a7b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e7c9200298b23b6f36c13a7b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "王様戦隊キングオージャー 全曲集",
+        "release_date": "2024-02-28",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5FIbxg5G1NAUkP2CxV9BxC",
+        "total_tracks": 38
+      },
+      "duration_ms": 222080,
+      "popularity": 2,
+      "url": "https://open.spotify.com/track/2vYMrnMYqfT4myMcuTKQo7"
+    },
+    {
+      "id": "61t2C5BzTn2v8BGpYYwTsT",
+      "name": "INFERNO - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "0mxcC38vLiMEP8g4MVNhO4",
+          "name": "NANO",
+          "url": "https://open.spotify.com/artist/0mxcC38vLiMEP8g4MVNhO4"
+        }
+      ],
+      "album": {
+        "id": "5FIbxg5G1NAUkP2CxV9BxC",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e7c9200298b23b6f36c13a7b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e7c9200298b23b6f36c13a7b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e7c9200298b23b6f36c13a7b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "王様戦隊キングオージャー 全曲集",
+        "release_date": "2024-02-28",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5FIbxg5G1NAUkP2CxV9BxC",
+        "total_tracks": 38
+      },
+      "duration_ms": 218266,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/61t2C5BzTn2v8BGpYYwTsT"
+    },
+    {
+      "id": "1oBLc9iOibnHmw1OiE1Dus",
+      "name": "Try & Fight - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "2w4D4qj8C0WaaYEg7CKCvV",
+          "name": "鎌田章吾",
+          "url": "https://open.spotify.com/artist/2w4D4qj8C0WaaYEg7CKCvV"
+        }
+      ],
+      "album": {
+        "id": "5FIbxg5G1NAUkP2CxV9BxC",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e7c9200298b23b6f36c13a7b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e7c9200298b23b6f36c13a7b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e7c9200298b23b6f36c13a7b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "王様戦隊キングオージャー 全曲集",
+        "release_date": "2024-02-28",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5FIbxg5G1NAUkP2CxV9BxC",
+        "total_tracks": 38
+      },
+      "duration_ms": 216293,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/1oBLc9iOibnHmw1OiE1Dus"
+    },
+    {
+      "id": "2W75uEWcm506PlSoNxoIX0",
+      "name": "World Is Mine! - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "1WAGre0baNiJXIRT5JSMn9",
+          "name": "Machico",
+          "url": "https://open.spotify.com/artist/1WAGre0baNiJXIRT5JSMn9"
+        }
+      ],
+      "album": {
+        "id": "5FIbxg5G1NAUkP2CxV9BxC",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e7c9200298b23b6f36c13a7b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e7c9200298b23b6f36c13a7b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e7c9200298b23b6f36c13a7b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "王様戦隊キングオージャー 全曲集",
+        "release_date": "2024-02-28",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5FIbxg5G1NAUkP2CxV9BxC",
+        "total_tracks": 38
+      },
+      "duration_ms": 211386,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/2W75uEWcm506PlSoNxoIX0"
+    },
+    {
+      "id": "41afX1c77I11yljKvvaefn",
+      "name": "Ignorantia juris nocet - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "2vEGQXVCug0dfihu71BhHo",
+          "name": "ゴッカンクワイア",
+          "url": "https://open.spotify.com/artist/2vEGQXVCug0dfihu71BhHo"
+        }
+      ],
+      "album": {
+        "id": "5FIbxg5G1NAUkP2CxV9BxC",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e7c9200298b23b6f36c13a7b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e7c9200298b23b6f36c13a7b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e7c9200298b23b6f36c13a7b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "王様戦隊キングオージャー 全曲集",
+        "release_date": "2024-02-28",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5FIbxg5G1NAUkP2CxV9BxC",
+        "total_tracks": 38
+      },
+      "duration_ms": 188946,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/41afX1c77I11yljKvvaefn"
+    },
+    {
+      "id": "2tqSly4KdppgSlwzb5rmN4",
+      "name": "宴じゃオージャー！ - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "7JXQwFdEUKdPu5fOKKj4Gk",
+          "name": "Hideyuki Takahashi",
+          "url": "https://open.spotify.com/artist/7JXQwFdEUKdPu5fOKKj4Gk"
+        },
+        {
+          "id": "3rCtF823JFfETlTwQnWsFT",
+          "name": "伊勢大貴",
+          "url": "https://open.spotify.com/artist/3rCtF823JFfETlTwQnWsFT"
+        }
+      ],
+      "album": {
+        "id": "5FIbxg5G1NAUkP2CxV9BxC",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e7c9200298b23b6f36c13a7b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e7c9200298b23b6f36c13a7b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e7c9200298b23b6f36c13a7b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "王様戦隊キングオージャー 全曲集",
+        "release_date": "2024-02-28",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5FIbxg5G1NAUkP2CxV9BxC",
+        "total_tracks": 38
+      },
+      "duration_ms": 224200,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/2tqSly4KdppgSlwzb5rmN4"
+    },
+    {
+      "id": "3D3X10wFN2kv3euHPp6QHj",
+      "name": "Waking the King - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "6GsDV9mByDW2er8C5MWV1z",
+          "name": "高取ヒデアキ",
+          "url": "https://open.spotify.com/artist/6GsDV9mByDW2er8C5MWV1z"
+        }
+      ],
+      "album": {
+        "id": "5FIbxg5G1NAUkP2CxV9BxC",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e7c9200298b23b6f36c13a7b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e7c9200298b23b6f36c13a7b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e7c9200298b23b6f36c13a7b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "王様戦隊キングオージャー 全曲集",
+        "release_date": "2024-02-28",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5FIbxg5G1NAUkP2CxV9BxC",
+        "total_tracks": 38
+      },
+      "duration_ms": 251653,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/3D3X10wFN2kv3euHPp6QHj"
+    },
+    {
+      "id": "6CaA1vv01zy7e1LQw3hisS",
+      "name": "もっふんのうた - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "4ofLGjl8AVh9pr5tIAE6Wp",
+          "name": "吉田仁美",
+          "url": "https://open.spotify.com/artist/4ofLGjl8AVh9pr5tIAE6Wp"
+        }
+      ],
+      "album": {
+        "id": "5FIbxg5G1NAUkP2CxV9BxC",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e7c9200298b23b6f36c13a7b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e7c9200298b23b6f36c13a7b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e7c9200298b23b6f36c13a7b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "王様戦隊キングオージャー 全曲集",
+        "release_date": "2024-02-28",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5FIbxg5G1NAUkP2CxV9BxC",
+        "total_tracks": 38
+      },
+      "duration_ms": 135813,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/6CaA1vv01zy7e1LQw3hisS"
+    },
+    {
+      "id": "4zNCgdsDP3kZyTWLgrrLy2",
+      "name": "The Prophet - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "07vPL3eZ1gUKc4RPnMg4oz",
+          "name": "古川貴之",
+          "url": "https://open.spotify.com/artist/07vPL3eZ1gUKc4RPnMg4oz"
+        }
+      ],
+      "album": {
+        "id": "5FIbxg5G1NAUkP2CxV9BxC",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e7c9200298b23b6f36c13a7b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e7c9200298b23b6f36c13a7b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e7c9200298b23b6f36c13a7b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "王様戦隊キングオージャー 全曲集",
+        "release_date": "2024-02-28",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5FIbxg5G1NAUkP2CxV9BxC",
+        "total_tracks": 38
+      },
+      "duration_ms": 176786,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/4zNCgdsDP3kZyTWLgrrLy2"
+    },
+    {
+      "id": "3gm2OX84YHay0AaMurKyi9",
+      "name": "BRAND NEW WORLD - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "3dLKlVYQ7vwG4Q2R0gFJjd",
+          "name": "萩原逸輝",
+          "url": "https://open.spotify.com/artist/3dLKlVYQ7vwG4Q2R0gFJjd"
+        }
+      ],
+      "album": {
+        "id": "5FIbxg5G1NAUkP2CxV9BxC",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e7c9200298b23b6f36c13a7b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e7c9200298b23b6f36c13a7b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e7c9200298b23b6f36c13a7b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "王様戦隊キングオージャー 全曲集",
+        "release_date": "2024-02-28",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5FIbxg5G1NAUkP2CxV9BxC",
+        "total_tracks": 38
+      },
+      "duration_ms": 186880,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/3gm2OX84YHay0AaMurKyi9"
+    },
+    {
+      "id": "5apWrGQNjiVmIDcfRVrVTS",
+      "name": "Pride and Brave - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "6GsDV9mByDW2er8C5MWV1z",
+          "name": "高取ヒデアキ",
+          "url": "https://open.spotify.com/artist/6GsDV9mByDW2er8C5MWV1z"
+        }
+      ],
+      "album": {
+        "id": "5FIbxg5G1NAUkP2CxV9BxC",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e7c9200298b23b6f36c13a7b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e7c9200298b23b6f36c13a7b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e7c9200298b23b6f36c13a7b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "王様戦隊キングオージャー 全曲集",
+        "release_date": "2024-02-28",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5FIbxg5G1NAUkP2CxV9BxC",
+        "total_tracks": 38
+      },
+      "duration_ms": 271240,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/5apWrGQNjiVmIDcfRVrVTS"
+    },
+    {
+      "id": "7nFwhjm0XKtU0DQo0jdoEQ",
+      "name": "Just we go - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "4jzPDdhi1n3B0uQ3XvVGH4",
+          "name": "Nob",
+          "url": "https://open.spotify.com/artist/4jzPDdhi1n3B0uQ3XvVGH4"
+        }
+      ],
+      "album": {
+        "id": "5FIbxg5G1NAUkP2CxV9BxC",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e7c9200298b23b6f36c13a7b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e7c9200298b23b6f36c13a7b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e7c9200298b23b6f36c13a7b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "王様戦隊キングオージャー 全曲集",
+        "release_date": "2024-02-28",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5FIbxg5G1NAUkP2CxV9BxC",
+        "total_tracks": 38
+      },
+      "duration_ms": 278320,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/7nFwhjm0XKtU0DQo0jdoEQ"
+    },
+    {
+      "id": "5VvfVsCVqYqASGkq62hyvJ",
+      "name": "I'm still alive - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "2w4D4qj8C0WaaYEg7CKCvV",
+          "name": "鎌田章吾",
+          "url": "https://open.spotify.com/artist/2w4D4qj8C0WaaYEg7CKCvV"
+        }
+      ],
+      "album": {
+        "id": "5FIbxg5G1NAUkP2CxV9BxC",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e7c9200298b23b6f36c13a7b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e7c9200298b23b6f36c13a7b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e7c9200298b23b6f36c13a7b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "王様戦隊キングオージャー 全曲集",
+        "release_date": "2024-02-28",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5FIbxg5G1NAUkP2CxV9BxC",
+        "total_tracks": 38
+      },
+      "duration_ms": 247813,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/5VvfVsCVqYqASGkq62hyvJ"
+    },
+    {
+      "id": "2aN9Hf2XNZrUwdoz4FGxLQ",
+      "name": "KIND KING - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "3WbNdPMDnihdm2gtUkxf0j",
+          "name": "クワガタオージャー",
+          "url": "https://open.spotify.com/artist/3WbNdPMDnihdm2gtUkxf0j"
+        },
+        {
+          "id": "2l1K96Setmu1QGu81J3nvM",
+          "name": "ギラ",
+          "url": "https://open.spotify.com/artist/2l1K96Setmu1QGu81J3nvM"
+        }
+      ],
+      "album": {
+        "id": "5FIbxg5G1NAUkP2CxV9BxC",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e7c9200298b23b6f36c13a7b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e7c9200298b23b6f36c13a7b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e7c9200298b23b6f36c13a7b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "王様戦隊キングオージャー 全曲集",
+        "release_date": "2024-02-28",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5FIbxg5G1NAUkP2CxV9BxC",
+        "total_tracks": 38
+      },
+      "duration_ms": 216026,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/2aN9Hf2XNZrUwdoz4FGxLQ"
+    },
+    {
+      "id": "5GPt2GZEM722zo9m5EFzcl",
+      "name": "テッペンONLINE - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "1OK3z5EO2VTXU7Gwii2LHa",
+          "name": "トンボオージャー",
+          "url": "https://open.spotify.com/artist/1OK3z5EO2VTXU7Gwii2LHa"
+        },
+        {
+          "id": "0gBgIhcF2Jpu8xyJySKVdq",
+          "name": "ヤンマ・ガスト",
+          "url": "https://open.spotify.com/artist/0gBgIhcF2Jpu8xyJySKVdq"
+        }
+      ],
+      "album": {
+        "id": "5FIbxg5G1NAUkP2CxV9BxC",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e7c9200298b23b6f36c13a7b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e7c9200298b23b6f36c13a7b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e7c9200298b23b6f36c13a7b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "王様戦隊キングオージャー 全曲集",
+        "release_date": "2024-02-28",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5FIbxg5G1NAUkP2CxV9BxC",
+        "total_tracks": 38
+      },
+      "duration_ms": 203293,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/5GPt2GZEM722zo9m5EFzcl"
+    },
+    {
+      "id": "3Q6Gvfy0MBhiE6BFoPjOuS",
+      "name": "Golden Garden - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "61uFJGXUwgS45UyHKEdJb5",
+          "name": "カマキリオージャー",
+          "url": "https://open.spotify.com/artist/61uFJGXUwgS45UyHKEdJb5"
+        },
+        {
+          "id": "7AD1OWF1BL7unmJt3v0J8u",
+          "name": "ヒメノ・ラン",
+          "url": "https://open.spotify.com/artist/7AD1OWF1BL7unmJt3v0J8u"
+        }
+      ],
+      "album": {
+        "id": "5FIbxg5G1NAUkP2CxV9BxC",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e7c9200298b23b6f36c13a7b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e7c9200298b23b6f36c13a7b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e7c9200298b23b6f36c13a7b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "王様戦隊キングオージャー 全曲集",
+        "release_date": "2024-02-28",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5FIbxg5G1NAUkP2CxV9BxC",
+        "total_tracks": 38
+      },
+      "duration_ms": 264200,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/3Q6Gvfy0MBhiE6BFoPjOuS"
+    },
+    {
+      "id": "6M63y5pEmT6i21lYcHid4K",
+      "name": "もっふんのうた - リタ ver. - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "4mwQN8wzO73I60lKmwrSRA",
+          "name": "パピヨンオージャー",
+          "url": "https://open.spotify.com/artist/4mwQN8wzO73I60lKmwrSRA"
+        },
+        {
+          "id": "2O7PqRLDxofZsr2faTJLsp",
+          "name": "リタ・カニスカ",
+          "url": "https://open.spotify.com/artist/2O7PqRLDxofZsr2faTJLsp"
+        }
+      ],
+      "album": {
+        "id": "5FIbxg5G1NAUkP2CxV9BxC",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e7c9200298b23b6f36c13a7b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e7c9200298b23b6f36c13a7b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e7c9200298b23b6f36c13a7b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "王様戦隊キングオージャー 全曲集",
+        "release_date": "2024-02-28",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5FIbxg5G1NAUkP2CxV9BxC",
+        "total_tracks": 38
+      },
+      "duration_ms": 151653,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/6M63y5pEmT6i21lYcHid4K"
+    },
+    {
+      "id": "0LDywb2nxaUNiM1fXupkvO",
+      "name": "仰天珍道中 - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "05BpevWxVKAMxtWrzoV87A",
+          "name": "ハチオージャー",
+          "url": "https://open.spotify.com/artist/05BpevWxVKAMxtWrzoV87A"
+        },
+        {
+          "id": "2D0LjjiFRBwRjOR05oVtEc",
+          "name": "カグラギ・ディボウスキ",
+          "url": "https://open.spotify.com/artist/2D0LjjiFRBwRjOR05oVtEc"
+        }
+      ],
+      "album": {
+        "id": "5FIbxg5G1NAUkP2CxV9BxC",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e7c9200298b23b6f36c13a7b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e7c9200298b23b6f36c13a7b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e7c9200298b23b6f36c13a7b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "王様戦隊キングオージャー 全曲集",
+        "release_date": "2024-02-28",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5FIbxg5G1NAUkP2CxV9BxC",
+        "total_tracks": 38
+      },
+      "duration_ms": 260146,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/0LDywb2nxaUNiM1fXupkvO"
+    },
+    {
+      "id": "6Hrv6G9c9uUGpUvAlTxZzz",
+      "name": "線上のトリックスター - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "5ToDbgUeqewntXujMrCbQz",
+          "name": "スパイダークモノス",
+          "url": "https://open.spotify.com/artist/5ToDbgUeqewntXujMrCbQz"
+        },
+        {
+          "id": "34Ib5baChdvBMVOxC0Yy8J",
+          "name": "ジェラミー・ブラシエリ",
+          "url": "https://open.spotify.com/artist/34Ib5baChdvBMVOxC0Yy8J"
+        }
+      ],
+      "album": {
+        "id": "5FIbxg5G1NAUkP2CxV9BxC",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e7c9200298b23b6f36c13a7b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e7c9200298b23b6f36c13a7b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e7c9200298b23b6f36c13a7b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "王様戦隊キングオージャー 全曲集",
+        "release_date": "2024-02-28",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5FIbxg5G1NAUkP2CxV9BxC",
+        "total_tracks": 38
+      },
+      "duration_ms": 207333,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/6Hrv6G9c9uUGpUvAlTxZzz"
+    },
+    {
+      "id": "1zCKNl63fR0Edv0pwpY1FI",
+      "name": "爆上戦隊ブンブンジャー - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "0UEr743MkPevfCuNrrFYJ6",
+          "name": "遠藤正明",
+          "url": "https://open.spotify.com/artist/0UEr743MkPevfCuNrrFYJ6"
+        }
+      ],
+      "album": {
+        "id": "4OIeX1Lw56aBoJpUwh6Ddi",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273594f56ae355c81ca378b9e21",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02594f56ae355c81ca378b9e21",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851594f56ae355c81ca378b9e21",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "爆上戦隊ブンブンジャー 主題歌",
+        "release_date": "2024-04-03",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0UEr743MkPevfCuNrrFYJ6",
+            "name": "遠藤正明",
+            "url": "https://open.spotify.com/artist/0UEr743MkPevfCuNrrFYJ6"
+          },
+          {
+            "id": "2nGsD4NFuXkXquKHSJnANX",
+            "name": "ブンドリオ・ブンデラス (CV: 松本梨香)",
+            "url": "https://open.spotify.com/artist/2nGsD4NFuXkXquKHSJnANX"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4OIeX1Lw56aBoJpUwh6Ddi",
+        "total_tracks": 4
+      },
+      "duration_ms": 176506,
+      "popularity": 11,
+      "url": "https://open.spotify.com/track/1zCKNl63fR0Edv0pwpY1FI"
+    },
+    {
+      "id": "0pSUJdaXZh4Uo9yE2E37zf",
+      "name": "コツコツ-PON-PON - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "2nGsD4NFuXkXquKHSJnANX",
+          "name": "ブンドリオ・ブンデラス (CV: 松本梨香)",
+          "url": "https://open.spotify.com/artist/2nGsD4NFuXkXquKHSJnANX"
+        }
+      ],
+      "album": {
+        "id": "4OIeX1Lw56aBoJpUwh6Ddi",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273594f56ae355c81ca378b9e21",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02594f56ae355c81ca378b9e21",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851594f56ae355c81ca378b9e21",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "爆上戦隊ブンブンジャー 主題歌",
+        "release_date": "2024-04-03",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0UEr743MkPevfCuNrrFYJ6",
+            "name": "遠藤正明",
+            "url": "https://open.spotify.com/artist/0UEr743MkPevfCuNrrFYJ6"
+          },
+          {
+            "id": "2nGsD4NFuXkXquKHSJnANX",
+            "name": "ブンドリオ・ブンデラス (CV: 松本梨香)",
+            "url": "https://open.spotify.com/artist/2nGsD4NFuXkXquKHSJnANX"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4OIeX1Lw56aBoJpUwh6Ddi",
+        "total_tracks": 4
+      },
+      "duration_ms": 211133,
+      "popularity": 9,
+      "url": "https://open.spotify.com/track/0pSUJdaXZh4Uo9yE2E37zf"
+    },
+    {
+      "id": "27HmQn8G820sl8pFcYhu9w",
+      "name": "RIDE ON！ブンブンジャーロボ - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "0UEr743MkPevfCuNrrFYJ6",
+          "name": "遠藤正明",
+          "url": "https://open.spotify.com/artist/0UEr743MkPevfCuNrrFYJ6"
+        }
+      ],
+      "album": {
+        "id": "1L28UMivWfJxbvinUidW76",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2736e78f8252df710d4c2884053",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e026e78f8252df710d4c2884053",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048516e78f8252df710d4c2884053",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "爆上戦隊ブンブンジャー EP vol.1",
+        "release_date": "2024-05-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0UEr743MkPevfCuNrrFYJ6",
+            "name": "遠藤正明",
+            "url": "https://open.spotify.com/artist/0UEr743MkPevfCuNrrFYJ6"
+          },
+          {
+            "id": "2nGsD4NFuXkXquKHSJnANX",
+            "name": "ブンドリオ・ブンデラス (CV: 松本梨香)",
+            "url": "https://open.spotify.com/artist/2nGsD4NFuXkXquKHSJnANX"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1L28UMivWfJxbvinUidW76",
+        "total_tracks": 6
+      },
+      "duration_ms": 214533,
+      "popularity": 4,
+      "url": "https://open.spotify.com/track/27HmQn8G820sl8pFcYhu9w"
+    },
+    {
+      "id": "5ycz0Hu7j4ho1WxLbIu5qO",
+      "name": "カレーは辛ぇが華麗なり - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "2nGsD4NFuXkXquKHSJnANX",
+          "name": "ブンドリオ・ブンデラス (CV: 松本梨香)",
+          "url": "https://open.spotify.com/artist/2nGsD4NFuXkXquKHSJnANX"
+        }
+      ],
+      "album": {
+        "id": "1L28UMivWfJxbvinUidW76",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2736e78f8252df710d4c2884053",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e026e78f8252df710d4c2884053",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048516e78f8252df710d4c2884053",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "爆上戦隊ブンブンジャー EP vol.1",
+        "release_date": "2024-05-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0UEr743MkPevfCuNrrFYJ6",
+            "name": "遠藤正明",
+            "url": "https://open.spotify.com/artist/0UEr743MkPevfCuNrrFYJ6"
+          },
+          {
+            "id": "2nGsD4NFuXkXquKHSJnANX",
+            "name": "ブンドリオ・ブンデラス (CV: 松本梨香)",
+            "url": "https://open.spotify.com/artist/2nGsD4NFuXkXquKHSJnANX"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1L28UMivWfJxbvinUidW76",
+        "total_tracks": 6
+      },
+      "duration_ms": 226480,
+      "popularity": 5,
+      "url": "https://open.spotify.com/track/5ycz0Hu7j4ho1WxLbIu5qO"
+    },
+    {
+      "id": "25d5hNXOnwB9R9IgqvmDXF",
+      "name": "High Speed Racer - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "5nCVXtvsB2KsngsMbk8Hat",
+          "name": "Takayoshi Tanimoto",
+          "url": "https://open.spotify.com/artist/5nCVXtvsB2KsngsMbk8Hat"
+        }
+      ],
+      "album": {
+        "id": "1RuPS7PqEi9pYtHpGp5iaT",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e3c6c574f5e419d509bc5dfa",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e3c6c574f5e419d509bc5dfa",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e3c6c574f5e419d509bc5dfa",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "爆上戦隊ブンブンジャー EP vol.2",
+        "release_date": "2024-07-24",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1RuPS7PqEi9pYtHpGp5iaT",
+        "total_tracks": 6
+      },
+      "duration_ms": 185080,
+      "popularity": 2,
+      "url": "https://open.spotify.com/track/25d5hNXOnwB9R9IgqvmDXF"
+    },
+    {
+      "id": "08pZ8tYjxK72a582O33Toh",
+      "name": "逆転アゲサゲ音頭 - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "4zNoMxosDikQ010H4n96M7",
+          "name": "キャノンボーグ (CV: くじら)",
+          "url": "https://open.spotify.com/artist/4zNoMxosDikQ010H4n96M7"
+        }
+      ],
+      "album": {
+        "id": "1RuPS7PqEi9pYtHpGp5iaT",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e3c6c574f5e419d509bc5dfa",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e3c6c574f5e419d509bc5dfa",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e3c6c574f5e419d509bc5dfa",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "爆上戦隊ブンブンジャー EP vol.2",
+        "release_date": "2024-07-24",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1RuPS7PqEi9pYtHpGp5iaT",
+        "total_tracks": 6
+      },
+      "duration_ms": 137066,
+      "popularity": 1,
+      "url": "https://open.spotify.com/track/08pZ8tYjxK72a582O33Toh"
+    },
+    {
+      "id": "6dettysVlfOYVMeIdZbksD",
+      "name": "RESCUE TIME 119 - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "7EXcKeTc8Hdu6sur3oYLRY",
+          "name": "吉田達彦",
+          "url": "https://open.spotify.com/artist/7EXcKeTc8Hdu6sur3oYLRY"
+        }
+      ],
+      "album": {
+        "id": "7lkesCpKJNtXDvuyNU6pwY",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734898f290976722978b78a13d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024898f290976722978b78a13d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514898f290976722978b78a13d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "爆上戦隊ブンブンジャー EP vol.3",
+        "release_date": "2024-09-25",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/7lkesCpKJNtXDvuyNU6pwY",
+        "total_tracks": 6
+      },
+      "duration_ms": 243480,
+      "popularity": 3,
+      "url": "https://open.spotify.com/track/6dettysVlfOYVMeIdZbksD"
+    },
+    {
+      "id": "5OFcQFyxSFvqCGbSIFoGXI",
+      "name": "にじ - オリジナル・カラオケ",
+      "artists": [
+        {
+          "id": "4eMVcSxbgb3xKvlR9tai0z",
+          "name": "井内悠陽",
+          "url": "https://open.spotify.com/artist/4eMVcSxbgb3xKvlR9tai0z"
+        },
+        {
+          "id": "0NObtNqQYLzjZk52x4sRnD",
+          "name": "葉山侑樹",
+          "url": "https://open.spotify.com/artist/0NObtNqQYLzjZk52x4sRnD"
+        },
+        {
+          "id": "5h8CGKplUaagx2esDSvs5I",
+          "name": "鈴木美羽",
+          "url": "https://open.spotify.com/artist/5h8CGKplUaagx2esDSvs5I"
+        },
+        {
+          "id": "6PZSzBcms9As1LHlBCZMQ4",
+          "name": "齋藤璃佑",
+          "url": "https://open.spotify.com/artist/6PZSzBcms9As1LHlBCZMQ4"
+        },
+        {
+          "id": "2MIFyusHRZ0t8Osakl8YYJ",
+          "name": "相馬 理",
+          "url": "https://open.spotify.com/artist/2MIFyusHRZ0t8Osakl8YYJ"
+        },
+        {
+          "id": "0N7UBKm6UKRWIAimVH1gkN",
+          "name": "さくらキッズ",
+          "url": "https://open.spotify.com/artist/0N7UBKm6UKRWIAimVH1gkN"
+        }
+      ],
+      "album": {
+        "id": "7lkesCpKJNtXDvuyNU6pwY",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734898f290976722978b78a13d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024898f290976722978b78a13d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514898f290976722978b78a13d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "爆上戦隊ブンブンジャー EP vol.3",
+        "release_date": "2024-09-25",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/7lkesCpKJNtXDvuyNU6pwY",
+        "total_tracks": 6
+      },
+      "duration_ms": 174573,
+      "popularity": 4,
+      "url": "https://open.spotify.com/track/5OFcQFyxSFvqCGbSIFoGXI"
+    }
+  ],
+  "description": "",
+  "name": "スーパー戦隊全曲 (カラオケver.)2",
+  "owner": {
+    "display_name": "キュアレインボー🌈",
+    "url": "https://open.spotify.com/user/316nyo4i3du6atjbiv4tzjbgf6em",
+    "id": "316nyo4i3du6atjbiv4tzjbgf6em"
+  },
+  "url": "https://open.spotify.com/playlist/5vj2l7IT8j5AWE61Ne7CoP"
+}

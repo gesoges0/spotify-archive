@@ -1,0 +1,59 @@
+{
+  "id": "2mgU4H7RwihHI80ExaLQXq",
+  "tracks": [
+    {
+      "id": "64rEma8J5f8oOTogV9CB51",
+      "name": "ラブギターロッドCM音楽",
+      "artists": [
+        {
+          "id": "64mecceQewFCKwCK6JBW0o",
+          "name": "Yasuharu Takanashi",
+          "url": "https://open.spotify.com/artist/64mecceQewFCKwCK6JBW0o"
+        }
+      ],
+      "album": {
+        "id": "3nAdkkWYZ2mGnnKyNJ6P08",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27300f85021c0922f622fe62cc3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0200f85021c0922f622fe62cc3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485100f85021c0922f622fe62cc3",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "スイートプリキュア♪ オリジナル・サウンドトラック2 プリキュア・サウンドシンフォニア!!",
+        "release_date": "2011-11-30",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "url": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3nAdkkWYZ2mGnnKyNJ6P08",
+        "total_tracks": 28
+      },
+      "duration_ms": 41680,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/64rEma8J5f8oOTogV9CB51"
+    }
+  ],
+  "description": "",
+  "name": "CM音楽",
+  "owner": {
+    "display_name": "キュアレインボー🌈",
+    "url": "https://open.spotify.com/user/316nyo4i3du6atjbiv4tzjbgf6em",
+    "id": "316nyo4i3du6atjbiv4tzjbgf6em"
+  },
+  "url": "https://open.spotify.com/playlist/2mgU4H7RwihHI80ExaLQXq"
+}

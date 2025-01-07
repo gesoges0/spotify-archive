@@ -1,0 +1,1045 @@
+{
+  "id": "0NAmJNA7SPt7Gkn40o1gRW",
+  "tracks": [
+    {
+      "id": "01jAlHee4psROggfWjk8hp",
+      "name": "ONE",
+      "artists": [
+        {
+          "id": "0bAsR2unSRpn6BQPEnNlZm",
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "album": {
+        "id": "0FNWMFyb0nLCCHucsDfxmA",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273189f203384af534b6b269e7d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02189f203384af534b6b269e7d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851189f203384af534b6b269e7d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Sun Dance",
+        "release_date": "2019-04-09",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0bAsR2unSRpn6BQPEnNlZm",
+            "name": "Aimer",
+            "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA",
+        "total_tracks": 10
+      },
+      "duration_ms": 328493,
+      "popularity": 43,
+      "url": "https://open.spotify.com/track/01jAlHee4psROggfWjk8hp"
+    },
+    {
+      "id": "3bhv4tvXb5S4phuCczbET8",
+      "name": "3min",
+      "artists": [
+        {
+          "id": "0bAsR2unSRpn6BQPEnNlZm",
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "album": {
+        "id": "0FNWMFyb0nLCCHucsDfxmA",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273189f203384af534b6b269e7d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02189f203384af534b6b269e7d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851189f203384af534b6b269e7d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Sun Dance",
+        "release_date": "2019-04-09",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0bAsR2unSRpn6BQPEnNlZm",
+            "name": "Aimer",
+            "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA",
+        "total_tracks": 10
+      },
+      "duration_ms": 183826,
+      "popularity": 28,
+      "url": "https://open.spotify.com/track/3bhv4tvXb5S4phuCczbET8"
+    },
+    {
+      "id": "3Xzb9D64WsKmYcV8AGMmeu",
+      "name": "StarRingChild",
+      "artists": [
+        {
+          "id": "0bAsR2unSRpn6BQPEnNlZm",
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "album": {
+        "id": "5tWOnk7nrqGc6Fhqe74Kse",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273abe86257ad3404a244ff21db",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02abe86257ad3404a244ff21db",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851abe86257ad3404a244ff21db",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Midnight Sun",
+        "release_date": "2014-06-25",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0bAsR2unSRpn6BQPEnNlZm",
+            "name": "Aimer",
+            "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5tWOnk7nrqGc6Fhqe74Kse",
+        "total_tracks": 13
+      },
+      "duration_ms": 328026,
+      "popularity": 45,
+      "url": "https://open.spotify.com/track/3Xzb9D64WsKmYcV8AGMmeu"
+    },
+    {
+      "id": "2HovXsvcdJur52BOcYGydz",
+      "name": "カタオモイ",
+      "artists": [
+        {
+          "id": "0bAsR2unSRpn6BQPEnNlZm",
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "album": {
+        "id": "336m0kejdM5Fkw2HUX46Bw",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b56ada0ba61d7787fb213f72",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b56ada0ba61d7787fb213f72",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b56ada0ba61d7787fb213f72",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "daydream",
+        "release_date": "2016-09-21",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0bAsR2unSRpn6BQPEnNlZm",
+            "name": "Aimer",
+            "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+          }
+        ],
+        "url": "https://open.spotify.com/album/336m0kejdM5Fkw2HUX46Bw",
+        "total_tracks": 13
+      },
+      "duration_ms": 207360,
+      "popularity": 63,
+      "url": "https://open.spotify.com/track/2HovXsvcdJur52BOcYGydz"
+    },
+    {
+      "id": "0ZiO07cHvb675UDaKB1iix",
+      "name": "コイワズライ",
+      "artists": [
+        {
+          "id": "0bAsR2unSRpn6BQPEnNlZm",
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "album": {
+        "id": "0FNWMFyb0nLCCHucsDfxmA",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273189f203384af534b6b269e7d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02189f203384af534b6b269e7d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851189f203384af534b6b269e7d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Sun Dance",
+        "release_date": "2019-04-09",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0bAsR2unSRpn6BQPEnNlZm",
+            "name": "Aimer",
+            "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0FNWMFyb0nLCCHucsDfxmA",
+        "total_tracks": 10
+      },
+      "duration_ms": 235160,
+      "popularity": 54,
+      "url": "https://open.spotify.com/track/0ZiO07cHvb675UDaKB1iix"
+    },
+    {
+      "id": "6At8fG853JqHaZP72oONtA",
+      "name": "遥か",
+      "artists": [
+        {
+          "id": "0bAsR2unSRpn6BQPEnNlZm",
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "album": {
+        "id": "6uDU9vnNFQN2WB4h7pwI93",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273df3ab6b3773c701cc9946ef4",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02df3ab6b3773c701cc9946ef4",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851df3ab6b3773c701cc9946ef4",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "遥か",
+        "release_date": "2024-04-02",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0bAsR2unSRpn6BQPEnNlZm",
+            "name": "Aimer",
+            "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6uDU9vnNFQN2WB4h7pwI93",
+        "total_tracks": 1
+      },
+      "duration_ms": 191047,
+      "popularity": 46,
+      "url": "https://open.spotify.com/track/6At8fG853JqHaZP72oONtA"
+    },
+    {
+      "id": "3HoMReE3cc6zZDQdwpGzUo",
+      "name": "月影",
+      "artists": [
+        {
+          "id": "0bAsR2unSRpn6BQPEnNlZm",
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "album": {
+        "id": "268Fp4sOfh7kFOmChBsT4f",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27316943045e28eb56b11d2ebde",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0216943045e28eb56b11d2ebde",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485116943045e28eb56b11d2ebde",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Sign",
+        "release_date": "2024-08-28",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0bAsR2unSRpn6BQPEnNlZm",
+            "name": "Aimer",
+            "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+          }
+        ],
+        "url": "https://open.spotify.com/album/268Fp4sOfh7kFOmChBsT4f",
+        "total_tracks": 5
+      },
+      "duration_ms": 206933,
+      "popularity": 38,
+      "url": "https://open.spotify.com/track/3HoMReE3cc6zZDQdwpGzUo"
+    },
+    {
+      "id": "0OL7OMOyaLJizoA6b9mPWa",
+      "name": "誰か、海を。",
+      "artists": [
+        {
+          "id": "0bAsR2unSRpn6BQPEnNlZm",
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "album": {
+        "id": "7EHV2huu8yHAsPjzgmUjka",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b54e91cdc2fc4e29efab4e4b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b54e91cdc2fc4e29efab4e4b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b54e91cdc2fc4e29efab4e4b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "DAWN",
+        "release_date": "2015-07-29",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0bAsR2unSRpn6BQPEnNlZm",
+            "name": "Aimer",
+            "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+          }
+        ],
+        "url": "https://open.spotify.com/album/7EHV2huu8yHAsPjzgmUjka",
+        "total_tracks": 13
+      },
+      "duration_ms": 294146,
+      "popularity": 33,
+      "url": "https://open.spotify.com/track/0OL7OMOyaLJizoA6b9mPWa"
+    },
+    {
+      "id": "42IF4VUNaIGc1oD74rHa8O",
+      "name": "Deep down",
+      "artists": [
+        {
+          "id": "0bAsR2unSRpn6BQPEnNlZm",
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "album": {
+        "id": "7arScRaGCUmEWNeQEPDq3K",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27367b3ddc2f162440b8953c5c9",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0267b3ddc2f162440b8953c5c9",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485167b3ddc2f162440b8953c5c9",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Deep down",
+        "release_date": "2022-12-07",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0bAsR2unSRpn6BQPEnNlZm",
+            "name": "Aimer",
+            "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+          }
+        ],
+        "url": "https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K",
+        "total_tracks": 1
+      },
+      "duration_ms": 227146,
+      "popularity": 45,
+      "url": "https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O"
+    },
+    {
+      "id": "4adxfjDov8fxK1vXTVvGfU",
+      "name": "STAND-ALONE",
+      "artists": [
+        {
+          "id": "0bAsR2unSRpn6BQPEnNlZm",
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "album": {
+        "id": "3iFkNa8SRNFHD7La40UqUz",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273146ee402c8243cf8db8630e6",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02146ee402c8243cf8db8630e6",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851146ee402c8243cf8db8630e6",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Walpurgis",
+        "release_date": "2021-04-12",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0bAsR2unSRpn6BQPEnNlZm",
+            "name": "Aimer",
+            "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz",
+        "total_tracks": 14
+      },
+      "duration_ms": 285826,
+      "popularity": 41,
+      "url": "https://open.spotify.com/track/4adxfjDov8fxK1vXTVvGfU"
+    },
+    {
+      "id": "52vvBMxnqKfg3pkkZJ5yof",
+      "name": "歌鳥風月",
+      "artists": [
+        {
+          "id": "0bAsR2unSRpn6BQPEnNlZm",
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "album": {
+        "id": "7yx6Q3WFOEDWIdVfkAmxIq",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273a8e834259bdfc021ca570dfc",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02a8e834259bdfc021ca570dfc",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851a8e834259bdfc021ca570dfc",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "BEST SELECTION \"blanc\"",
+        "release_date": "2017-05-03",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0bAsR2unSRpn6BQPEnNlZm",
+            "name": "Aimer",
+            "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+          }
+        ],
+        "url": "https://open.spotify.com/album/7yx6Q3WFOEDWIdVfkAmxIq",
+        "total_tracks": 14
+      },
+      "duration_ms": 344626,
+      "popularity": 28,
+      "url": "https://open.spotify.com/track/52vvBMxnqKfg3pkkZJ5yof"
+    },
+    {
+      "id": "0wVjZVd9dwTdaHmtypsNr6",
+      "name": "Torches",
+      "artists": [
+        {
+          "id": "0bAsR2unSRpn6BQPEnNlZm",
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "album": {
+        "id": "3iFkNa8SRNFHD7La40UqUz",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273146ee402c8243cf8db8630e6",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02146ee402c8243cf8db8630e6",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851146ee402c8243cf8db8630e6",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Walpurgis",
+        "release_date": "2021-04-12",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0bAsR2unSRpn6BQPEnNlZm",
+            "name": "Aimer",
+            "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3iFkNa8SRNFHD7La40UqUz",
+        "total_tracks": 14
+      },
+      "duration_ms": 294760,
+      "popularity": 46,
+      "url": "https://open.spotify.com/track/0wVjZVd9dwTdaHmtypsNr6"
+    },
+    {
+      "id": "0d0K90wpp2CDfy7923mZ00",
+      "name": "Sign",
+      "artists": [
+        {
+          "id": "0bAsR2unSRpn6BQPEnNlZm",
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "album": {
+        "id": "2er0Xi4lRpqY20aCvDnw3p",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27338d3d158c23a4d7c02fbb6ff",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0238d3d158c23a4d7c02fbb6ff",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485138d3d158c23a4d7c02fbb6ff",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Sign",
+        "release_date": "2024-07-08",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0bAsR2unSRpn6BQPEnNlZm",
+            "name": "Aimer",
+            "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2er0Xi4lRpqY20aCvDnw3p",
+        "total_tracks": 1
+      },
+      "duration_ms": 215490,
+      "popularity": 46,
+      "url": "https://open.spotify.com/track/0d0K90wpp2CDfy7923mZ00"
+    },
+    {
+      "id": "6ts1KCOudfDYXYfyWtq0k1",
+      "name": "おもかげ (produced by Vaundy)",
+      "artists": [
+        {
+          "id": "45ft4DyTCEJfQwTBHXpdhM",
+          "name": "milet",
+          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
+        },
+        {
+          "id": "0bAsR2unSRpn6BQPEnNlZm",
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        },
+        {
+          "id": "1qM11R4ylJyQiPJ0DffE9z",
+          "name": "Lilas Ikuta",
+          "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+        }
+      ],
+      "album": {
+        "id": "3PQH45Tw7K3IzTLsGze9UE",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ac1a5a83790ba13920affe1e",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ac1a5a83790ba13920affe1e",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ac1a5a83790ba13920affe1e",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "おもかげ (produced by Vaundy)",
+        "release_date": "2021-12-17",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "45ft4DyTCEJfQwTBHXpdhM",
+            "name": "milet",
+            "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
+          },
+          {
+            "id": "0bAsR2unSRpn6BQPEnNlZm",
+            "name": "Aimer",
+            "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+          },
+          {
+            "id": "1qM11R4ylJyQiPJ0DffE9z",
+            "name": "Lilas Ikuta",
+            "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3PQH45Tw7K3IzTLsGze9UE",
+        "total_tracks": 1
+      },
+      "duration_ms": 188060,
+      "popularity": 60,
+      "url": "https://open.spotify.com/track/6ts1KCOudfDYXYfyWtq0k1"
+    },
+    {
+      "id": "3NEuSQZbVmfQwRuDKol40Y",
+      "name": "SPARK-AGAIN",
+      "artists": [
+        {
+          "id": "0bAsR2unSRpn6BQPEnNlZm",
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "album": {
+        "id": "3OBjI5LyxiWJZSEuBskBbG",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27332a6df61fa5c878c6e2aa87b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0232a6df61fa5c878c6e2aa87b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485132a6df61fa5c878c6e2aa87b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "SPARK-AGAIN",
+        "release_date": "2020-09-09",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0bAsR2unSRpn6BQPEnNlZm",
+            "name": "Aimer",
+            "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3OBjI5LyxiWJZSEuBskBbG",
+        "total_tracks": 4
+      },
+      "duration_ms": 244160,
+      "popularity": 49,
+      "url": "https://open.spotify.com/track/3NEuSQZbVmfQwRuDKol40Y"
+    },
+    {
+      "id": "0Dh60dW9jdDFjWePIav0Ur",
+      "name": "spiral dance",
+      "artists": [
+        {
+          "id": "0bAsR2unSRpn6BQPEnNlZm",
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "album": {
+        "id": "4BJ7PY6YSfHY9pu2nDFBiy",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e9c7a6eef73e74417c6ef679",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e9c7a6eef73e74417c6ef679",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e9c7a6eef73e74417c6ef679",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Open α Door",
+        "release_date": "2023-07-26",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0bAsR2unSRpn6BQPEnNlZm",
+            "name": "Aimer",
+            "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4BJ7PY6YSfHY9pu2nDFBiy",
+        "total_tracks": 12
+      },
+      "duration_ms": 236146,
+      "popularity": 26,
+      "url": "https://open.spotify.com/track/0Dh60dW9jdDFjWePIav0Ur"
+    },
+    {
+      "id": "7v8wKvNQQIxkugCFFjrkaO",
+      "name": "残響散歌",
+      "artists": [
+        {
+          "id": "0bAsR2unSRpn6BQPEnNlZm",
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "album": {
+        "id": "1gfSftIuafqkGu28ely5z6",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27310179936604a42f16280835e",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0210179936604a42f16280835e",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485110179936604a42f16280835e",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "残響散歌",
+        "release_date": "2021-12-06",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0bAsR2unSRpn6BQPEnNlZm",
+            "name": "Aimer",
+            "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1gfSftIuafqkGu28ely5z6",
+        "total_tracks": 1
+      },
+      "duration_ms": 184893,
+      "popularity": 65,
+      "url": "https://open.spotify.com/track/7v8wKvNQQIxkugCFFjrkaO"
+    },
+    {
+      "id": "3NnSPwwU269vl140mVcim6",
+      "name": "SKYLIGHT",
+      "artists": [
+        {
+          "id": "0bAsR2unSRpn6BQPEnNlZm",
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "album": {
+        "id": "4BJ7PY6YSfHY9pu2nDFBiy",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e9c7a6eef73e74417c6ef679",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e9c7a6eef73e74417c6ef679",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e9c7a6eef73e74417c6ef679",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Open α Door",
+        "release_date": "2023-07-26",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0bAsR2unSRpn6BQPEnNlZm",
+            "name": "Aimer",
+            "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4BJ7PY6YSfHY9pu2nDFBiy",
+        "total_tracks": 12
+      },
+      "duration_ms": 213413,
+      "popularity": 28,
+      "url": "https://open.spotify.com/track/3NnSPwwU269vl140mVcim6"
+    },
+    {
+      "id": "0xO5jkEJFwOJubHFVPJZCQ",
+      "name": "あてもなく",
+      "artists": [
+        {
+          "id": "0bAsR2unSRpn6BQPEnNlZm",
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "album": {
+        "id": "4bCJ9NCd5jxC0udzWCQCAG",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273391c88a0a994b31b8fecec98",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02391c88a0a994b31b8fecec98",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851391c88a0a994b31b8fecec98",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "あてもなく",
+        "release_date": "2023-04-21",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0bAsR2unSRpn6BQPEnNlZm",
+            "name": "Aimer",
+            "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4bCJ9NCd5jxC0udzWCQCAG",
+        "total_tracks": 1
+      },
+      "duration_ms": 234586,
+      "popularity": 38,
+      "url": "https://open.spotify.com/track/0xO5jkEJFwOJubHFVPJZCQ"
+    },
+    {
+      "id": "7bQkHGtDYy1JDolcU5A3ix",
+      "name": "Overdrive",
+      "artists": [
+        {
+          "id": "0bAsR2unSRpn6BQPEnNlZm",
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "album": {
+        "id": "1Ik2BvP0bVrVf5HopKBPBr",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273069efc4647cf86260557c1d1",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02069efc4647cf86260557c1d1",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851069efc4647cf86260557c1d1",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "白色蜉蝣",
+        "release_date": "2023-12-06",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0bAsR2unSRpn6BQPEnNlZm",
+            "name": "Aimer",
+            "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1Ik2BvP0bVrVf5HopKBPBr",
+        "total_tracks": 5
+      },
+      "duration_ms": 182733,
+      "popularity": 27,
+      "url": "https://open.spotify.com/track/7bQkHGtDYy1JDolcU5A3ix"
+    },
+    {
+      "id": "4251HZQieHxgvAH6D7v8U5",
+      "name": "Wren",
+      "artists": [
+        {
+          "id": "0bAsR2unSRpn6BQPEnNlZm",
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "album": {
+        "id": "268Fp4sOfh7kFOmChBsT4f",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27316943045e28eb56b11d2ebde",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0216943045e28eb56b11d2ebde",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485116943045e28eb56b11d2ebde",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Sign",
+        "release_date": "2024-08-28",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0bAsR2unSRpn6BQPEnNlZm",
+            "name": "Aimer",
+            "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+          }
+        ],
+        "url": "https://open.spotify.com/album/268Fp4sOfh7kFOmChBsT4f",
+        "total_tracks": 5
+      },
+      "duration_ms": 187520,
+      "popularity": 39,
+      "url": "https://open.spotify.com/track/4251HZQieHxgvAH6D7v8U5"
+    },
+    {
+      "id": "6Cbj35JwbPVyBXfqtX17Jm",
+      "name": "グレースノート",
+      "artists": [
+        {
+          "id": "0bAsR2unSRpn6BQPEnNlZm",
+          "name": "Aimer",
+          "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+        }
+      ],
+      "album": {
+        "id": "1mR8kxKKuBobjRXaZjHWw4",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27380b034fcb0ee1d2de095d060",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0280b034fcb0ee1d2de095d060",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485180b034fcb0ee1d2de095d060",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "星の消えた夜に",
+        "release_date": "2022-01-24",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0bAsR2unSRpn6BQPEnNlZm",
+            "name": "Aimer",
+            "url": "https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1mR8kxKKuBobjRXaZjHWw4",
+        "total_tracks": 23
+      },
+      "duration_ms": 301200,
+      "popularity": 33,
+      "url": "https://open.spotify.com/track/6Cbj35JwbPVyBXfqtX17Jm"
+    }
+  ],
+  "description": "",
+  "name": "aimer  ライブ　セトリ",
+  "owner": {
+    "display_name": "海斗",
+    "url": "https://open.spotify.com/user/31qjlfbrk546yv23qc73q4u4gre4",
+    "id": "31qjlfbrk546yv23qc73q4u4gre4"
+  },
+  "url": "https://open.spotify.com/playlist/0NAmJNA7SPt7Gkn40o1gRW"
+}

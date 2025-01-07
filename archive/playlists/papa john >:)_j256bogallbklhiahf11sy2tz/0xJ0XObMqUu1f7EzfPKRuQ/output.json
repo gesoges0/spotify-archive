@@ -1,0 +1,1081 @@
+{
+  "id": "0xJ0XObMqUu1f7EzfPKRuQ",
+  "tracks": [
+    {
+      "id": "08q2CrXYf1ZaMbcKViPdVA",
+      "name": "JOJO SONO CHINO SADAME",
+      "artists": [
+        {
+          "id": "3Pp8OVTOM4HoXf7Vysq2dZ",
+          "name": "Hiroaki Tommy Tominaga",
+          "url": "https://open.spotify.com/artist/3Pp8OVTOM4HoXf7Vysq2dZ"
+        }
+      ],
+      "album": {
+        "id": "0t9GYCbtohYvtA60qUBCHa",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e852030c1f80187ef1288cda",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e852030c1f80187ef1288cda",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e852030c1f80187ef1288cda",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "JOJO SONO CHINO SADAME",
+        "release_date": "2012-11-21",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "3Pp8OVTOM4HoXf7Vysq2dZ",
+            "name": "Hiroaki Tommy Tominaga",
+            "url": "https://open.spotify.com/artist/3Pp8OVTOM4HoXf7Vysq2dZ"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0t9GYCbtohYvtA60qUBCHa",
+        "total_tracks": 2
+      },
+      "duration_ms": 262566,
+      "popularity": 58,
+      "url": "https://open.spotify.com/track/08q2CrXYf1ZaMbcKViPdVA"
+    },
+    {
+      "id": "3BSPKTravgBDjmuG1rIXvw",
+      "name": "BLOODY STREAM",
+      "artists": [
+        {
+          "id": "2xcKG6XtsW4NV5zMXWuL6n",
+          "name": "Coda",
+          "url": "https://open.spotify.com/artist/2xcKG6XtsW4NV5zMXWuL6n"
+        }
+      ],
+      "album": {
+        "id": "3Jyv6ZSMdzPKSd83r75dLW",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731f254fca2096ecec14c9ef95",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021f254fca2096ecec14c9ef95",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511f254fca2096ecec14c9ef95",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "BLOODY STREAM",
+        "release_date": "2013-01-30",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "2xcKG6XtsW4NV5zMXWuL6n",
+            "name": "Coda",
+            "url": "https://open.spotify.com/artist/2xcKG6XtsW4NV5zMXWuL6n"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3Jyv6ZSMdzPKSd83r75dLW",
+        "total_tracks": 2
+      },
+      "duration_ms": 261920,
+      "popularity": 64,
+      "url": "https://open.spotify.com/track/3BSPKTravgBDjmuG1rIXvw"
+    },
+    {
+      "id": "3OqPSJsqe4LvcaVl7G6vV3",
+      "name": "STAND PROUD",
+      "artists": [
+        {
+          "id": "01djLeQ0nZvRhEPjn5Wdw0",
+          "name": "Jin Hashimoto",
+          "url": "https://open.spotify.com/artist/01djLeQ0nZvRhEPjn5Wdw0"
+        }
+      ],
+      "album": {
+        "id": "4p5qdQrjYGuVwakXJ1hB4k",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27385d0dd2e0f516d377f82f338",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0285d0dd2e0f516d377f82f338",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485185d0dd2e0f516d377f82f338",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "STAND PROUD",
+        "release_date": "2014-04-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "01djLeQ0nZvRhEPjn5Wdw0",
+            "name": "Jin Hashimoto",
+            "url": "https://open.spotify.com/artist/01djLeQ0nZvRhEPjn5Wdw0"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4p5qdQrjYGuVwakXJ1hB4k",
+        "total_tracks": 2
+      },
+      "duration_ms": 278066,
+      "popularity": 57,
+      "url": "https://open.spotify.com/track/3OqPSJsqe4LvcaVl7G6vV3"
+    },
+    {
+      "id": "09du1gawpao1iSUlyuMSPL",
+      "name": "ジョジョ その血の記憶〜END OF THE WORLD〜",
+      "artists": [
+        {
+          "id": "6l9Y8mTIIt63S8okk7haDk",
+          "name": "JO☆STARS 〜TOMMY,Coda,JIN〜",
+          "url": "https://open.spotify.com/artist/6l9Y8mTIIt63S8okk7haDk"
+        }
+      ],
+      "album": {
+        "id": "4ONz90mgJeFj1iFjcF6F4R",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739e5c255cbebe956cfe396605",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029e5c255cbebe956cfe396605",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519e5c255cbebe956cfe396605",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ジョジョ その血の記憶〜END OF THE WORLD〜",
+        "release_date": "2015-01-28",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6l9Y8mTIIt63S8okk7haDk",
+            "name": "JO☆STARS 〜TOMMY,Coda,JIN〜",
+            "url": "https://open.spotify.com/artist/6l9Y8mTIIt63S8okk7haDk"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4ONz90mgJeFj1iFjcF6F4R",
+        "total_tracks": 2
+      },
+      "duration_ms": 263566,
+      "popularity": 38,
+      "url": "https://open.spotify.com/track/09du1gawpao1iSUlyuMSPL"
+    },
+    {
+      "id": "17ak2L9hb5BXExDRRZ1owi",
+      "name": "CRAZY NOISY BIZARRE TOWN",
+      "artists": [
+        {
+          "id": "6eZor9TE76Mu0P1wVEQQyL",
+          "name": "THE DU",
+          "url": "https://open.spotify.com/artist/6eZor9TE76Mu0P1wVEQQyL"
+        }
+      ],
+      "album": {
+        "id": "7qPAJuYABhEaSyBXx6tvCF",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2738bce9414e4ffe90cc7d91363",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e028bce9414e4ffe90cc7d91363",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048518bce9414e4ffe90cc7d91363",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "CRAZY NOISY BIZARRE TOWN",
+        "release_date": "2016-04-27",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6eZor9TE76Mu0P1wVEQQyL",
+            "name": "THE DU",
+            "url": "https://open.spotify.com/artist/6eZor9TE76Mu0P1wVEQQyL"
+          }
+        ],
+        "url": "https://open.spotify.com/album/7qPAJuYABhEaSyBXx6tvCF",
+        "total_tracks": 4
+      },
+      "duration_ms": 186720,
+      "popularity": 39,
+      "url": "https://open.spotify.com/track/17ak2L9hb5BXExDRRZ1owi"
+    },
+    {
+      "id": "2HR8ujhAog0t1TE4gBAROy",
+      "name": "CRAZY NOISY BIZARRE TOWN - EDM ARRANGE VER.",
+      "artists": [
+        {
+          "id": "6eZor9TE76Mu0P1wVEQQyL",
+          "name": "THE DU",
+          "url": "https://open.spotify.com/artist/6eZor9TE76Mu0P1wVEQQyL"
+        }
+      ],
+      "album": {
+        "id": "3IRbWMKkKfhnTETLLsAMxp",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739d956d70e6b09cd3452f4a59",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029d956d70e6b09cd3452f4a59",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519d956d70e6b09cd3452f4a59",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "CRAZY NOISY BIZARRE TOWN",
+        "release_date": "2016-04-27",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6eZor9TE76Mu0P1wVEQQyL",
+            "name": "THE DU",
+            "url": "https://open.spotify.com/artist/6eZor9TE76Mu0P1wVEQQyL"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3IRbWMKkKfhnTETLLsAMxp",
+        "total_tracks": 4
+      },
+      "duration_ms": 187573,
+      "popularity": 38,
+      "url": "https://open.spotify.com/track/2HR8ujhAog0t1TE4gBAROy"
+    },
+    {
+      "id": "5QKiW2Oogj7T5KoI1Wcl2u",
+      "name": "chase",
+      "artists": [
+        {
+          "id": "5vyNgIKfSHb5dvDvDXupGL",
+          "name": "batta",
+          "url": "https://open.spotify.com/artist/5vyNgIKfSHb5dvDvDXupGL"
+        }
+      ],
+      "album": {
+        "id": "5Q5mg7x7f1iQ8w5CzOhNCa",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2733e7d602d51903e0aab0f3e8a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e023e7d602d51903e0aab0f3e8a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048513e7d602d51903e0aab0f3e8a",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "chase",
+        "release_date": "2016-07-27",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "5vyNgIKfSHb5dvDvDXupGL",
+            "name": "batta",
+            "url": "https://open.spotify.com/artist/5vyNgIKfSHb5dvDvDXupGL"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5Q5mg7x7f1iQ8w5CzOhNCa",
+        "total_tracks": 4
+      },
+      "duration_ms": 145400,
+      "popularity": 37,
+      "url": "https://open.spotify.com/track/5QKiW2Oogj7T5KoI1Wcl2u"
+    },
+    {
+      "id": "7b4x3IrBFSEnC2XFsKiouR",
+      "name": "Great Days",
+      "artists": [
+        {
+          "id": "7ky9g1jEjCsjNjZbYuflUJ",
+          "name": "Karen Aoki",
+          "url": "https://open.spotify.com/artist/7ky9g1jEjCsjNjZbYuflUJ"
+        },
+        {
+          "id": "3Zd87MBrn6zbLnZQA8rF13",
+          "name": "ハセガワダイスケ",
+          "url": "https://open.spotify.com/artist/3Zd87MBrn6zbLnZQA8rF13"
+        }
+      ],
+      "album": {
+        "id": "5V2u4uiKPCIWxohc1P3cHL",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d19ba9fad14b2dae27ba6921",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d19ba9fad14b2dae27ba6921",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d19ba9fad14b2dae27ba6921",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Great Days",
+        "release_date": "2016-10-19",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "7ky9g1jEjCsjNjZbYuflUJ",
+            "name": "Karen Aoki",
+            "url": "https://open.spotify.com/artist/7ky9g1jEjCsjNjZbYuflUJ"
+          },
+          {
+            "id": "3Zd87MBrn6zbLnZQA8rF13",
+            "name": "ハセガワダイスケ",
+            "url": "https://open.spotify.com/artist/3Zd87MBrn6zbLnZQA8rF13"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5V2u4uiKPCIWxohc1P3cHL",
+        "total_tracks": 3
+      },
+      "duration_ms": 243376,
+      "popularity": 41,
+      "url": "https://open.spotify.com/track/7b4x3IrBFSEnC2XFsKiouR"
+    },
+    {
+      "id": "5ycVJufpq4ad1mqA5JfNQS",
+      "name": "Fighting Gold",
+      "artists": [
+        {
+          "id": "2xcKG6XtsW4NV5zMXWuL6n",
+          "name": "Coda",
+          "url": "https://open.spotify.com/artist/2xcKG6XtsW4NV5zMXWuL6n"
+        }
+      ],
+      "album": {
+        "id": "1UMwWm9cXGyMsjMCnmPxrA",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739266eb37fbfef94fea1ac068",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029266eb37fbfef94fea1ac068",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519266eb37fbfef94fea1ac068",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Fighting Gold",
+        "release_date": "2018-11-14",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "2xcKG6XtsW4NV5zMXWuL6n",
+            "name": "Coda",
+            "url": "https://open.spotify.com/artist/2xcKG6XtsW4NV5zMXWuL6n"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1UMwWm9cXGyMsjMCnmPxrA",
+        "total_tracks": 3
+      },
+      "duration_ms": 253185,
+      "popularity": 58,
+      "url": "https://open.spotify.com/track/5ycVJufpq4ad1mqA5JfNQS"
+    },
+    {
+      "id": "6CclqpjR65FarYV3AXf7by",
+      "name": "裏切り者のレクイエム",
+      "artists": [
+        {
+          "id": "3Zd87MBrn6zbLnZQA8rF13",
+          "name": "ハセガワダイスケ",
+          "url": "https://open.spotify.com/artist/3Zd87MBrn6zbLnZQA8rF13"
+        }
+      ],
+      "album": {
+        "id": "32CzpiAlDx85Fzdr67NLtc",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273767022c19e5c239f6773c12b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02767022c19e5c239f6773c12b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851767022c19e5c239f6773c12b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "裏切り者のレクイエム",
+        "release_date": "2019-03-27",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "3Zd87MBrn6zbLnZQA8rF13",
+            "name": "ハセガワダイスケ",
+            "url": "https://open.spotify.com/artist/3Zd87MBrn6zbLnZQA8rF13"
+          }
+        ],
+        "url": "https://open.spotify.com/album/32CzpiAlDx85Fzdr67NLtc",
+        "total_tracks": 3
+      },
+      "duration_ms": 210592,
+      "popularity": 40,
+      "url": "https://open.spotify.com/track/6CclqpjR65FarYV3AXf7by"
+    },
+    {
+      "id": "4CoTazwZS0VXFHgqgmVT85",
+      "name": "Uragirimonono Requiem - Diavolo Ver.",
+      "artists": [
+        {
+          "id": "56DDzGJXY0xndL9wu9aHUD",
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "album": {
+        "id": "3MYc7n3EUljB6Qq2pwzECI",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e9a7a02e91fa18655cfd254f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e9a7a02e91fa18655cfd254f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e9a7a02e91fa18655cfd254f",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "JOJO'S BIZARRE ADVENTURE -Golden Wind O.S.T vol.3 Finare",
+        "release_date": "2019-08-14",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "56DDzGJXY0xndL9wu9aHUD",
+            "name": "Yugo Kanno",
+            "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3MYc7n3EUljB6Qq2pwzECI",
+        "total_tracks": 28
+      },
+      "duration_ms": 224426,
+      "popularity": 48,
+      "url": "https://open.spotify.com/track/4CoTazwZS0VXFHgqgmVT85"
+    },
+    {
+      "id": "3q7hI6kxCAbj0yDTR4asML",
+      "name": "Uragirimonono Requiem - Giorno Ver.",
+      "artists": [
+        {
+          "id": "56DDzGJXY0xndL9wu9aHUD",
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "album": {
+        "id": "3MYc7n3EUljB6Qq2pwzECI",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e9a7a02e91fa18655cfd254f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e9a7a02e91fa18655cfd254f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e9a7a02e91fa18655cfd254f",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "JOJO'S BIZARRE ADVENTURE -Golden Wind O.S.T vol.3 Finare",
+        "release_date": "2019-08-14",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "56DDzGJXY0xndL9wu9aHUD",
+            "name": "Yugo Kanno",
+            "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3MYc7n3EUljB6Qq2pwzECI",
+        "total_tracks": 28
+      },
+      "duration_ms": 219187,
+      "popularity": 52,
+      "url": "https://open.spotify.com/track/3q7hI6kxCAbj0yDTR4asML"
+    },
+    {
+      "id": "0H6YIWFAP26G4b5Zj0lhAE",
+      "name": "STONE OCEAN",
+      "artists": [
+        {
+          "id": "01jPgSPIsFQgE0QnYeT3cm",
+          "name": "ichigo from 岸田教団&THE明星ロケッツ",
+          "url": "https://open.spotify.com/artist/01jPgSPIsFQgE0QnYeT3cm"
+        }
+      ],
+      "album": {
+        "id": "1EUSG4zCNKJqDH8t7OKw4x",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2735d76a315d0b6616737916871",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e025d76a315d0b6616737916871",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048515d76a315d0b6616737916871",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "STONE OCEAN",
+        "release_date": "2021-12-01",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "01jPgSPIsFQgE0QnYeT3cm",
+            "name": "ichigo from 岸田教団&THE明星ロケッツ",
+            "url": "https://open.spotify.com/artist/01jPgSPIsFQgE0QnYeT3cm"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1EUSG4zCNKJqDH8t7OKw4x",
+        "total_tracks": 3
+      },
+      "duration_ms": 209744,
+      "popularity": 54,
+      "url": "https://open.spotify.com/track/0H6YIWFAP26G4b5Zj0lhAE"
+    },
+    {
+      "id": "5viPEz1dLOhTXNEeZEscGH",
+      "name": "Heaven’s falling down",
+      "artists": [
+        {
+          "id": "7xPozlvOETtjDzmgTUfLRY",
+          "name": "sana (sajou no hana)",
+          "url": "https://open.spotify.com/artist/7xPozlvOETtjDzmgTUfLRY"
+        }
+      ],
+      "album": {
+        "id": "4fJPCGw5H94MX6TGOe6gBd",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e6de2b5dd6bd6f02135a520b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e6de2b5dd6bd6f02135a520b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e6de2b5dd6bd6f02135a520b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Heaven’s falling down",
+        "release_date": "2022-12-02",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "7xPozlvOETtjDzmgTUfLRY",
+            "name": "sana (sajou no hana)",
+            "url": "https://open.spotify.com/artist/7xPozlvOETtjDzmgTUfLRY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4fJPCGw5H94MX6TGOe6gBd",
+        "total_tracks": 3
+      },
+      "duration_ms": 215572,
+      "popularity": 48,
+      "url": "https://open.spotify.com/track/5viPEz1dLOhTXNEeZEscGH"
+    },
+    {
+      "id": "5QRrqq6JS5Nu1SBqVaSlzX",
+      "name": "Heaven’s falling down - Dawning Ver.",
+      "artists": [
+        {
+          "id": "7xPozlvOETtjDzmgTUfLRY",
+          "name": "sana (sajou no hana)",
+          "url": "https://open.spotify.com/artist/7xPozlvOETtjDzmgTUfLRY"
+        }
+      ],
+      "album": {
+        "id": "6IKlaUpstRmBZeuTChMYvK",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2736aa8230fe9571fb940ffc1c0",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e026aa8230fe9571fb940ffc1c0",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048516aa8230fe9571fb940ffc1c0",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Heaven’s falling down (Dawning Ver.)",
+        "release_date": "2023-04-08",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "7xPozlvOETtjDzmgTUfLRY",
+            "name": "sana (sajou no hana)",
+            "url": "https://open.spotify.com/artist/7xPozlvOETtjDzmgTUfLRY"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6IKlaUpstRmBZeuTChMYvK",
+        "total_tracks": 1
+      },
+      "duration_ms": 93596,
+      "popularity": 38,
+      "url": "https://open.spotify.com/track/5QRrqq6JS5Nu1SBqVaSlzX"
+    },
+    {
+      "id": "0YveezON7jpiaHA8fnUHxN",
+      "name": "Roundabout - 2003 Remaster",
+      "artists": [
+        {
+          "id": "7AC976RDJzL2asmZuz7qil",
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+        }
+      ],
+      "album": {
+        "id": "0dZF93WHyOhTWjz5EWM7yG",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273f4174f51268699ef79fbe3da",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02f4174f51268699ef79fbe3da",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851f4174f51268699ef79fbe3da",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Fragile (Deluxe Edition)",
+        "release_date": "1971-11-26",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "7AC976RDJzL2asmZuz7qil",
+            "name": "Yes",
+            "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0dZF93WHyOhTWjz5EWM7yG",
+        "total_tracks": 11
+      },
+      "duration_ms": 510573,
+      "popularity": 40,
+      "url": "https://open.spotify.com/track/0YveezON7jpiaHA8fnUHxN"
+    },
+    {
+      "id": "5L6HNuXN71bfeuKXYtRasF",
+      "name": "Walk Like an Egyptian",
+      "artists": [
+        {
+          "id": "51l0uqRxGaczYr4271pVIC",
+          "name": "The Bangles",
+          "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
+        }
+      ],
+      "album": {
+        "id": "7qEP3i0f0zfk6JUFW3SyeN",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2734aaad3bb593721bcaa6827d6",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e024aaad3bb593721bcaa6827d6",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048514aaad3bb593721bcaa6827d6",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Different Light (Expanded Edition)",
+        "release_date": "1986-01-10",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "51l0uqRxGaczYr4271pVIC",
+            "name": "The Bangles",
+            "url": "https://open.spotify.com/artist/51l0uqRxGaczYr4271pVIC"
+          }
+        ],
+        "url": "https://open.spotify.com/album/7qEP3i0f0zfk6JUFW3SyeN",
+        "total_tracks": 20
+      },
+      "duration_ms": 203226,
+      "popularity": 53,
+      "url": "https://open.spotify.com/track/5L6HNuXN71bfeuKXYtRasF"
+    },
+    {
+      "id": "2O7heTmxheKOe1T0jNBPd1",
+      "name": "Last Train Home",
+      "artists": [
+        {
+          "id": "4uBSazM6snEc9wCG3jMlYt",
+          "name": "Pat Metheny Group",
+          "url": "https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt"
+        }
+      ],
+      "album": {
+        "id": "5YnUbwAzrorRuvSJ0sCj7n",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27346251d7f407e96e34407f16a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0246251d7f407e96e34407f16a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485146251d7f407e96e34407f16a",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Still Life (Talking)",
+        "release_date": "1987",
+        "release_date_precision": "year",
+        "artists": [
+          {
+            "id": "4uBSazM6snEc9wCG3jMlYt",
+            "name": "Pat Metheny Group",
+            "url": "https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5YnUbwAzrorRuvSJ0sCj7n",
+        "total_tracks": 7
+      },
+      "duration_ms": 338186,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/2O7heTmxheKOe1T0jNBPd1"
+    },
+    {
+      "id": "4pudEMQK6XARck35F3exSf",
+      "name": "Akuyaku Kyousoukyoku",
+      "artists": [
+        {
+          "id": "56DDzGJXY0xndL9wu9aHUD",
+          "name": "Yugo Kanno",
+          "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+        }
+      ],
+      "album": {
+        "id": "1fLTdMU8DuK2TZKr12bVcc",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c0df0130614b21cd9f39afc0",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c0df0130614b21cd9f39afc0",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c0df0130614b21cd9f39afc0",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "JOJO'S BIZARRE ADVENTURE -Stardust Crusaders O.S.T [Destination]",
+        "release_date": "2015-05-27",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "56DDzGJXY0xndL9wu9aHUD",
+            "name": "Yugo Kanno",
+            "url": "https://open.spotify.com/artist/56DDzGJXY0xndL9wu9aHUD"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1fLTdMU8DuK2TZKr12bVcc",
+        "total_tracks": 27
+      },
+      "duration_ms": 245586,
+      "popularity": 40,
+      "url": "https://open.spotify.com/track/4pudEMQK6XARck35F3exSf"
+    },
+    {
+      "id": "3XorCFmcupSm5QS6hA9g4N",
+      "name": "I Want You",
+      "artists": [
+        {
+          "id": "3NRFinRTEqUCfaTTZmk8ek",
+          "name": "Savage Garden",
+          "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
+        }
+      ],
+      "album": {
+        "id": "64peTvbTLBDeSBu0GsCRE4",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27384fef39a9a8293c86796599f",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0284fef39a9a8293c86796599f",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485184fef39a9a8293c86796599f",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Savage Garden",
+        "release_date": "1997-03-04",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "3NRFinRTEqUCfaTTZmk8ek",
+            "name": "Savage Garden",
+            "url": "https://open.spotify.com/artist/3NRFinRTEqUCfaTTZmk8ek"
+          }
+        ],
+        "url": "https://open.spotify.com/album/64peTvbTLBDeSBu0GsCRE4",
+        "total_tracks": 11
+      },
+      "duration_ms": 232066,
+      "popularity": 58,
+      "url": "https://open.spotify.com/track/3XorCFmcupSm5QS6hA9g4N"
+    },
+    {
+      "id": "43sNw9nvGYGLYnNiwI8oMZ",
+      "name": "Freek'n You",
+      "artists": [
+        {
+          "id": "1eNkUXHPaXyuyC8NAgzykK",
+          "name": "Jodeci",
+          "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
+        }
+      ],
+      "album": {
+        "id": "5tincGtQaRD1QoXAT0PELz",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27368c0e2a35938761798f78c86",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0268c0e2a35938761798f78c86",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485168c0e2a35938761798f78c86",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "The Show, The After Party, The Hotel",
+        "release_date": "1995-01-01",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "1eNkUXHPaXyuyC8NAgzykK",
+            "name": "Jodeci",
+            "url": "https://open.spotify.com/artist/1eNkUXHPaXyuyC8NAgzykK"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5tincGtQaRD1QoXAT0PELz",
+        "total_tracks": 22
+      },
+      "duration_ms": 379240,
+      "popularity": 56,
+      "url": "https://open.spotify.com/track/43sNw9nvGYGLYnNiwI8oMZ"
+    },
+    {
+      "id": "0aiAH0rJX9KJzwy3tzPQSS",
+      "name": "Modern Crusaders",
+      "artists": [
+        {
+          "id": "3DmG65yHQsMms7WAvrZOdt",
+          "name": "Enigma",
+          "url": "https://open.spotify.com/artist/3DmG65yHQsMms7WAvrZOdt"
+        }
+      ],
+      "album": {
+        "id": "3idlo0DqoL0k5xP8X9gAAa",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273251898236cf85ac01d71793a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02251898236cf85ac01d71793a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851251898236cf85ac01d71793a",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Love Sensuality Devotion: The Greatest Hits",
+        "release_date": "2001-01-01",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "3DmG65yHQsMms7WAvrZOdt",
+            "name": "Enigma",
+            "url": "https://open.spotify.com/artist/3DmG65yHQsMms7WAvrZOdt"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3idlo0DqoL0k5xP8X9gAAa",
+        "total_tracks": 18
+      },
+      "duration_ms": 233533,
+      "popularity": 37,
+      "url": "https://open.spotify.com/track/0aiAH0rJX9KJzwy3tzPQSS"
+    },
+    {
+      "id": "0czRI0qwOQDe1tIIrsvkaK",
+      "name": "Distant Dreamer",
+      "artists": [
+        {
+          "id": "37NqXwtb6nIEqRt4EJSoIO",
+          "name": "Duffy",
+          "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
+        }
+      ],
+      "album": {
+        "id": "6Yw7f0kqQ1gbt2OHa7fi1g",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273618eb90c1c10d299e51f3822",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02618eb90c1c10d299e51f3822",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851618eb90c1c10d299e51f3822",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Rockferry",
+        "release_date": "2008",
+        "release_date_precision": "year",
+        "artists": [
+          {
+            "id": "37NqXwtb6nIEqRt4EJSoIO",
+            "name": "Duffy",
+            "url": "https://open.spotify.com/artist/37NqXwtb6nIEqRt4EJSoIO"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6Yw7f0kqQ1gbt2OHa7fi1g",
+        "total_tracks": 10
+      },
+      "duration_ms": 305666,
+      "popularity": 42,
+      "url": "https://open.spotify.com/track/0czRI0qwOQDe1tIIrsvkaK"
+    }
+  ],
+  "description": "All of the Openings and Endings of JoJo&#x27;s Bizarre Adventure Parts 1-6",
+  "name": "JoJo OPs & EDs",
+  "owner": {
+    "display_name": "papa john >:)",
+    "url": "https://open.spotify.com/user/j256bogallbklhiahf11sy2tz",
+    "id": "j256bogallbklhiahf11sy2tz"
+  },
+  "url": "https://open.spotify.com/playlist/0xJ0XObMqUu1f7EzfPKRuQ"
+}

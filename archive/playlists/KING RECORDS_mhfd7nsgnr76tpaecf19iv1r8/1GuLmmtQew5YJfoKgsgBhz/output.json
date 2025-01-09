@@ -1,0 +1,1163 @@
+{
+  "id": "1GuLmmtQew5YJfoKgsgBhz",
+  "tracks": [
+    {
+      "id": "3KilkleaXGf4Vupdqhv2oY",
+      "name": "禁断のレジスタンス",
+      "artists": [
+        {
+          "id": "0W2x7650Lt2CEIIcLHXmsE",
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "album": {
+        "id": "4iiYQrS0qw7dNaB9ZlmNmo",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273dba44a867905f450d6a6355e",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02dba44a867905f450d6a6355e",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851dba44a867905f450d6a6355e",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "禁断のレジスタンス",
+        "release_date": "2014-10-15",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0W2x7650Lt2CEIIcLHXmsE",
+            "name": "Nana Mizuki",
+            "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4iiYQrS0qw7dNaB9ZlmNmo",
+        "total_tracks": 3
+      },
+      "duration_ms": 264333,
+      "popularity": 19,
+      "url": "https://open.spotify.com/track/3KilkleaXGf4Vupdqhv2oY"
+    },
+    {
+      "id": "3Y0vHa9j7yyznCZoRwkSlM",
+      "name": "Synchrogazer",
+      "artists": [
+        {
+          "id": "0W2x7650Lt2CEIIcLHXmsE",
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "album": {
+        "id": "0em2lAYqDwbG6EZ2tAokS8",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273453b17ff776a5ffe14b299e9",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02453b17ff776a5ffe14b299e9",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851453b17ff776a5ffe14b299e9",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Synchrogazer",
+        "release_date": "2012-01-11",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0W2x7650Lt2CEIIcLHXmsE",
+            "name": "Nana Mizuki",
+            "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0em2lAYqDwbG6EZ2tAokS8",
+        "total_tracks": 3
+      },
+      "duration_ms": 264760,
+      "popularity": 30,
+      "url": "https://open.spotify.com/track/3Y0vHa9j7yyznCZoRwkSlM"
+    },
+    {
+      "id": "09IKYdiiHe50L8oI8mFVue",
+      "name": "BRIGHT STREAM",
+      "artists": [
+        {
+          "id": "0W2x7650Lt2CEIIcLHXmsE",
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "album": {
+        "id": "0XDdDSPWk1o4qcUDkAETMb",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2738e312dc51cb6d105f0776a4c",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e028e312dc51cb6d105f0776a4c",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048518e312dc51cb6d105f0776a4c",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "BRIGHT STREAM",
+        "release_date": "2012-08-01",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0W2x7650Lt2CEIIcLHXmsE",
+            "name": "Nana Mizuki",
+            "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0XDdDSPWk1o4qcUDkAETMb",
+        "total_tracks": 3
+      },
+      "duration_ms": 248706,
+      "popularity": 19,
+      "url": "https://open.spotify.com/track/09IKYdiiHe50L8oI8mFVue"
+    },
+    {
+      "id": "4o0KU8A4yt1Q2HuLBRHLgK",
+      "name": "Never Let Go",
+      "artists": [
+        {
+          "id": "0W2x7650Lt2CEIIcLHXmsE",
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "album": {
+        "id": "0ebMgBTomQnd3WNUpjnLlK",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2732cb3ff087f529ce985499eb3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e022cb3ff087f529ce985499eb3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048512cb3ff087f529ce985499eb3",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "SMASHING ANTHEMS",
+        "release_date": "2015-11-11",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0W2x7650Lt2CEIIcLHXmsE",
+            "name": "Nana Mizuki",
+            "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0ebMgBTomQnd3WNUpjnLlK",
+        "total_tracks": 15
+      },
+      "duration_ms": 250240,
+      "popularity": 10,
+      "url": "https://open.spotify.com/track/4o0KU8A4yt1Q2HuLBRHLgK"
+    },
+    {
+      "id": "6E8Z41r77dYzB6CxqLk4B0",
+      "name": "Trickster",
+      "artists": [
+        {
+          "id": "0W2x7650Lt2CEIIcLHXmsE",
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "album": {
+        "id": "7euTCgG5nFnrb0JKsNnvvq",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27328d78a5fa60254829e207b5b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0228d78a5fa60254829e207b5b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485128d78a5fa60254829e207b5b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Trickster",
+        "release_date": "2008-10-01",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0W2x7650Lt2CEIIcLHXmsE",
+            "name": "Nana Mizuki",
+            "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/7euTCgG5nFnrb0JKsNnvvq",
+        "total_tracks": 3
+      },
+      "duration_ms": 225786,
+      "popularity": 13,
+      "url": "https://open.spotify.com/track/6E8Z41r77dYzB6CxqLk4B0"
+    },
+    {
+      "id": "335ebz0kyT8Y8uVQxFsKGM",
+      "name": "Exterminate",
+      "artists": [
+        {
+          "id": "0W2x7650Lt2CEIIcLHXmsE",
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "album": {
+        "id": "5eyRVLUSNzYmLwoX2rKZ1e",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273926d74191be0b6e38cd21c74",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02926d74191be0b6e38cd21c74",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851926d74191be0b6e38cd21c74",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Exterminate",
+        "release_date": "2015-07-22",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0W2x7650Lt2CEIIcLHXmsE",
+            "name": "Nana Mizuki",
+            "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5eyRVLUSNzYmLwoX2rKZ1e",
+        "total_tracks": 3
+      },
+      "duration_ms": 242400,
+      "popularity": 30,
+      "url": "https://open.spotify.com/track/335ebz0kyT8Y8uVQxFsKGM"
+    },
+    {
+      "id": "6gOz3Iy7Ue6t9Ja3dj7RSb",
+      "name": "COSMIC LOVE",
+      "artists": [
+        {
+          "id": "0W2x7650Lt2CEIIcLHXmsE",
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "album": {
+        "id": "5fgkBCPsotW9RSTYSKnaUN",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27321c6bf27618819ad88c26d1d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0221c6bf27618819ad88c26d1d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485121c6bf27618819ad88c26d1d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "THE MUSEUM II",
+        "release_date": "2011-11-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0W2x7650Lt2CEIIcLHXmsE",
+            "name": "Nana Mizuki",
+            "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN",
+        "total_tracks": 17
+      },
+      "duration_ms": 270200,
+      "popularity": 28,
+      "url": "https://open.spotify.com/track/6gOz3Iy7Ue6t9Ja3dj7RSb"
+    },
+    {
+      "id": "6xbYc248uvo0BXaegA3SK1",
+      "name": "エゴアイディール",
+      "artists": [
+        {
+          "id": "0W2x7650Lt2CEIIcLHXmsE",
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "album": {
+        "id": "0ebMgBTomQnd3WNUpjnLlK",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2732cb3ff087f529ce985499eb3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e022cb3ff087f529ce985499eb3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048512cb3ff087f529ce985499eb3",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "SMASHING ANTHEMS",
+        "release_date": "2015-11-11",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0W2x7650Lt2CEIIcLHXmsE",
+            "name": "Nana Mizuki",
+            "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0ebMgBTomQnd3WNUpjnLlK",
+        "total_tracks": 15
+      },
+      "duration_ms": 251533,
+      "popularity": 10,
+      "url": "https://open.spotify.com/track/6xbYc248uvo0BXaegA3SK1"
+    },
+    {
+      "id": "6XdzaWP71SfBog92gpowaF",
+      "name": "Mr.Bunny!",
+      "artists": [
+        {
+          "id": "0W2x7650Lt2CEIIcLHXmsE",
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "album": {
+        "id": "6YjWSq0UNQ7oqLAL7Af6dL",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d98649e97f839711201bd7b6",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d98649e97f839711201bd7b6",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d98649e97f839711201bd7b6",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ULTIMATE DIAMOND",
+        "release_date": "2009-06-03",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0W2x7650Lt2CEIIcLHXmsE",
+            "name": "Nana Mizuki",
+            "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6YjWSq0UNQ7oqLAL7Af6dL",
+        "total_tracks": 15
+      },
+      "duration_ms": 271000,
+      "popularity": 11,
+      "url": "https://open.spotify.com/track/6XdzaWP71SfBog92gpowaF"
+    },
+    {
+      "id": "5w20BfLMEAdemPI5Bd6Eu0",
+      "name": "少年",
+      "artists": [
+        {
+          "id": "0W2x7650Lt2CEIIcLHXmsE",
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "album": {
+        "id": "6YjWSq0UNQ7oqLAL7Af6dL",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273d98649e97f839711201bd7b6",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02d98649e97f839711201bd7b6",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851d98649e97f839711201bd7b6",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ULTIMATE DIAMOND",
+        "release_date": "2009-06-03",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0W2x7650Lt2CEIIcLHXmsE",
+            "name": "Nana Mizuki",
+            "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6YjWSq0UNQ7oqLAL7Af6dL",
+        "total_tracks": 15
+      },
+      "duration_ms": 278973,
+      "popularity": 10,
+      "url": "https://open.spotify.com/track/5w20BfLMEAdemPI5Bd6Eu0"
+    },
+    {
+      "id": "73ACANoLL120bpD9Hhi1K7",
+      "name": "アンビバレンス",
+      "artists": [
+        {
+          "id": "0W2x7650Lt2CEIIcLHXmsE",
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "album": {
+        "id": "0ebMgBTomQnd3WNUpjnLlK",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2732cb3ff087f529ce985499eb3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e022cb3ff087f529ce985499eb3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048512cb3ff087f529ce985499eb3",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "SMASHING ANTHEMS",
+        "release_date": "2015-11-11",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0W2x7650Lt2CEIIcLHXmsE",
+            "name": "Nana Mizuki",
+            "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0ebMgBTomQnd3WNUpjnLlK",
+        "total_tracks": 15
+      },
+      "duration_ms": 276013,
+      "popularity": 9,
+      "url": "https://open.spotify.com/track/73ACANoLL120bpD9Hhi1K7"
+    },
+    {
+      "id": "21Eyzcco7OReeA1HR7q1j7",
+      "name": "SUPER☆MAN",
+      "artists": [
+        {
+          "id": "0W2x7650Lt2CEIIcLHXmsE",
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "album": {
+        "id": "0ebMgBTomQnd3WNUpjnLlK",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2732cb3ff087f529ce985499eb3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e022cb3ff087f529ce985499eb3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048512cb3ff087f529ce985499eb3",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "SMASHING ANTHEMS",
+        "release_date": "2015-11-11",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0W2x7650Lt2CEIIcLHXmsE",
+            "name": "Nana Mizuki",
+            "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0ebMgBTomQnd3WNUpjnLlK",
+        "total_tracks": 15
+      },
+      "duration_ms": 231946,
+      "popularity": 8,
+      "url": "https://open.spotify.com/track/21Eyzcco7OReeA1HR7q1j7"
+    },
+    {
+      "id": "4i9D1GN4xtGXiYRgx7mfl9",
+      "name": "DISCOTHEQUE",
+      "artists": [
+        {
+          "id": "0W2x7650Lt2CEIIcLHXmsE",
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "album": {
+        "id": "5fgkBCPsotW9RSTYSKnaUN",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27321c6bf27618819ad88c26d1d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0221c6bf27618819ad88c26d1d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485121c6bf27618819ad88c26d1d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "THE MUSEUM II",
+        "release_date": "2011-11-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0W2x7650Lt2CEIIcLHXmsE",
+            "name": "Nana Mizuki",
+            "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN",
+        "total_tracks": 17
+      },
+      "duration_ms": 239360,
+      "popularity": 41,
+      "url": "https://open.spotify.com/track/4i9D1GN4xtGXiYRgx7mfl9"
+    },
+    {
+      "id": "4THfcBq4kEdHsTOEqcbrmW",
+      "name": "恋の抑止力-type EXCITER-",
+      "artists": [
+        {
+          "id": "0W2x7650Lt2CEIIcLHXmsE",
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "album": {
+        "id": "7eRju7cXN0JfW34mqwVeUA",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ab18aececfb5e01d97446d3b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ab18aececfb5e01d97446d3b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ab18aececfb5e01d97446d3b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "IMPACT EXCITER",
+        "release_date": "2010-07-07",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0W2x7650Lt2CEIIcLHXmsE",
+            "name": "Nana Mizuki",
+            "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/7eRju7cXN0JfW34mqwVeUA",
+        "total_tracks": 16
+      },
+      "duration_ms": 296666,
+      "popularity": 34,
+      "url": "https://open.spotify.com/track/4THfcBq4kEdHsTOEqcbrmW"
+    },
+    {
+      "id": "6aSOAkhrHgGv4hzDhnIm50",
+      "name": "FEARLESS HERO",
+      "artists": [
+        {
+          "id": "0W2x7650Lt2CEIIcLHXmsE",
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "album": {
+        "id": "0XDdDSPWk1o4qcUDkAETMb",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2738e312dc51cb6d105f0776a4c",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e028e312dc51cb6d105f0776a4c",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048518e312dc51cb6d105f0776a4c",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "BRIGHT STREAM",
+        "release_date": "2012-08-01",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0W2x7650Lt2CEIIcLHXmsE",
+            "name": "Nana Mizuki",
+            "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0XDdDSPWk1o4qcUDkAETMb",
+        "total_tracks": 3
+      },
+      "duration_ms": 254253,
+      "popularity": 22,
+      "url": "https://open.spotify.com/track/6aSOAkhrHgGv4hzDhnIm50"
+    },
+    {
+      "id": "5xlXHQM8bPlQU9LCnYiPOY",
+      "name": "Glorious Break",
+      "artists": [
+        {
+          "id": "0W2x7650Lt2CEIIcLHXmsE",
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "album": {
+        "id": "0ebMgBTomQnd3WNUpjnLlK",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2732cb3ff087f529ce985499eb3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e022cb3ff087f529ce985499eb3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048512cb3ff087f529ce985499eb3",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "SMASHING ANTHEMS",
+        "release_date": "2015-11-11",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0W2x7650Lt2CEIIcLHXmsE",
+            "name": "Nana Mizuki",
+            "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0ebMgBTomQnd3WNUpjnLlK",
+        "total_tracks": 15
+      },
+      "duration_ms": 316280,
+      "popularity": 30,
+      "url": "https://open.spotify.com/track/5xlXHQM8bPlQU9LCnYiPOY"
+    },
+    {
+      "id": "2lg1ymFNYPt9mEgiZNNWeL",
+      "name": "VIRGIN CODE",
+      "artists": [
+        {
+          "id": "0W2x7650Lt2CEIIcLHXmsE",
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "album": {
+        "id": "3JZgRA7BTYogkdQu8OboVt",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273207e284a896eae63851e1bce",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02207e284a896eae63851e1bce",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851207e284a896eae63851e1bce",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "SUPERNAL LIBERTY",
+        "release_date": "2014-04-16",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0W2x7650Lt2CEIIcLHXmsE",
+            "name": "Nana Mizuki",
+            "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3JZgRA7BTYogkdQu8OboVt",
+        "total_tracks": 15
+      },
+      "duration_ms": 345026,
+      "popularity": 15,
+      "url": "https://open.spotify.com/track/2lg1ymFNYPt9mEgiZNNWeL"
+    },
+    {
+      "id": "6Xo06kovS9cOG5Nrlnk19o",
+      "name": "Love Brick",
+      "artists": [
+        {
+          "id": "0W2x7650Lt2CEIIcLHXmsE",
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "album": {
+        "id": "0em2lAYqDwbG6EZ2tAokS8",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273453b17ff776a5ffe14b299e9",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02453b17ff776a5ffe14b299e9",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851453b17ff776a5ffe14b299e9",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Synchrogazer",
+        "release_date": "2012-01-11",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0W2x7650Lt2CEIIcLHXmsE",
+            "name": "Nana Mizuki",
+            "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0em2lAYqDwbG6EZ2tAokS8",
+        "total_tracks": 3
+      },
+      "duration_ms": 281920,
+      "popularity": 15,
+      "url": "https://open.spotify.com/track/6Xo06kovS9cOG5Nrlnk19o"
+    },
+    {
+      "id": "6qYt6W4ybVc6NUqt6A0PYt",
+      "name": "Clutch!!",
+      "artists": [
+        {
+          "id": "0W2x7650Lt2CEIIcLHXmsE",
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "album": {
+        "id": "0ebMgBTomQnd3WNUpjnLlK",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2732cb3ff087f529ce985499eb3",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e022cb3ff087f529ce985499eb3",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048512cb3ff087f529ce985499eb3",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "SMASHING ANTHEMS",
+        "release_date": "2015-11-11",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0W2x7650Lt2CEIIcLHXmsE",
+            "name": "Nana Mizuki",
+            "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0ebMgBTomQnd3WNUpjnLlK",
+        "total_tracks": 15
+      },
+      "duration_ms": 251106,
+      "popularity": 8,
+      "url": "https://open.spotify.com/track/6qYt6W4ybVc6NUqt6A0PYt"
+    },
+    {
+      "id": "5HSUhlcZfZyJiwfvU2YbNR",
+      "name": "POP MASTER",
+      "artists": [
+        {
+          "id": "0W2x7650Lt2CEIIcLHXmsE",
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "album": {
+        "id": "5fgkBCPsotW9RSTYSKnaUN",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27321c6bf27618819ad88c26d1d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0221c6bf27618819ad88c26d1d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485121c6bf27618819ad88c26d1d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "THE MUSEUM II",
+        "release_date": "2011-11-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0W2x7650Lt2CEIIcLHXmsE",
+            "name": "Nana Mizuki",
+            "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN",
+        "total_tracks": 17
+      },
+      "duration_ms": 283906,
+      "popularity": 15,
+      "url": "https://open.spotify.com/track/5HSUhlcZfZyJiwfvU2YbNR"
+    },
+    {
+      "id": "2xh6jGEY6ZsgIkXDPi9FII",
+      "name": "Astrogation",
+      "artists": [
+        {
+          "id": "0W2x7650Lt2CEIIcLHXmsE",
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "album": {
+        "id": "5scAa9AvRlYRD37a1ScuYl",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273f737e59801ae6d327b3d41fc",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02f737e59801ae6d327b3d41fc",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851f737e59801ae6d327b3d41fc",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "STARCAMP EP",
+        "release_date": "2008-02-06",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0W2x7650Lt2CEIIcLHXmsE",
+            "name": "Nana Mizuki",
+            "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5scAa9AvRlYRD37a1ScuYl",
+        "total_tracks": 4
+      },
+      "duration_ms": 273653,
+      "popularity": 14,
+      "url": "https://open.spotify.com/track/2xh6jGEY6ZsgIkXDPi9FII"
+    },
+    {
+      "id": "5PVIP7NhLND939oqMDgF8K",
+      "name": "Rock you baby!",
+      "artists": [
+        {
+          "id": "0W2x7650Lt2CEIIcLHXmsE",
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "album": {
+        "id": "3JZgRA7BTYogkdQu8OboVt",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273207e284a896eae63851e1bce",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02207e284a896eae63851e1bce",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851207e284a896eae63851e1bce",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "SUPERNAL LIBERTY",
+        "release_date": "2014-04-16",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0W2x7650Lt2CEIIcLHXmsE",
+            "name": "Nana Mizuki",
+            "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3JZgRA7BTYogkdQu8OboVt",
+        "total_tracks": 15
+      },
+      "duration_ms": 229400,
+      "popularity": 7,
+      "url": "https://open.spotify.com/track/5PVIP7NhLND939oqMDgF8K"
+    },
+    {
+      "id": "5NDMUVjHWNo6hjNXLUB7UF",
+      "name": "天空のカナリア",
+      "artists": [
+        {
+          "id": "0W2x7650Lt2CEIIcLHXmsE",
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "album": {
+        "id": "1tWqgL6k6A06lcZSc7QoAF",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c6f3270cbd1a5dc10600227b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c6f3270cbd1a5dc10600227b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c6f3270cbd1a5dc10600227b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "夢幻",
+        "release_date": "2009-10-28",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0W2x7650Lt2CEIIcLHXmsE",
+            "name": "Nana Mizuki",
+            "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1tWqgL6k6A06lcZSc7QoAF",
+        "total_tracks": 4
+      },
+      "duration_ms": 239013,
+      "popularity": 27,
+      "url": "https://open.spotify.com/track/5NDMUVjHWNo6hjNXLUB7UF"
+    },
+    {
+      "id": "5TBkTkhfM2u4e3cKiVbR7g",
+      "name": "愛の星",
+      "artists": [
+        {
+          "id": "0W2x7650Lt2CEIIcLHXmsE",
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "album": {
+        "id": "55LFu6vcCbZ8FXIgk1oI1V",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273c0a0e2b4ab1cd4616c8e2295",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02c0a0e2b4ab1cd4616c8e2295",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851c0a0e2b4ab1cd4616c8e2295",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Vitalization",
+        "release_date": "2013-07-31",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0W2x7650Lt2CEIIcLHXmsE",
+            "name": "Nana Mizuki",
+            "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/55LFu6vcCbZ8FXIgk1oI1V",
+        "total_tracks": 3
+      },
+      "duration_ms": 268880,
+      "popularity": 15,
+      "url": "https://open.spotify.com/track/5TBkTkhfM2u4e3cKiVbR7g"
+    },
+    {
+      "id": "4GnvQyayofxtMbWVLjGSgu",
+      "name": "NEXT ARCADIA",
+      "artists": [
+        {
+          "id": "0W2x7650Lt2CEIIcLHXmsE",
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "album": {
+        "id": "7eRju7cXN0JfW34mqwVeUA",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ab18aececfb5e01d97446d3b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ab18aececfb5e01d97446d3b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ab18aececfb5e01d97446d3b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "IMPACT EXCITER",
+        "release_date": "2010-07-07",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0W2x7650Lt2CEIIcLHXmsE",
+            "name": "Nana Mizuki",
+            "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/7eRju7cXN0JfW34mqwVeUA",
+        "total_tracks": 16
+      },
+      "duration_ms": 290586,
+      "popularity": 14,
+      "url": "https://open.spotify.com/track/4GnvQyayofxtMbWVLjGSgu"
+    }
+  ],
+  "description": "水樹奈々２度目の東京ドーム公演より、1日目「NANA MIZUKI LIVE GALAXY -FRONTIER-」のセットリスト",
+  "name": "NANA MIZUKI LIVE GALAXY -FRONTIER- SET LIST",
+  "owner": {
+    "display_name": "KING RECORDS",
+    "url": "https://open.spotify.com/user/mhfd7nsgnr76tpaecf19iv1r8",
+    "id": "mhfd7nsgnr76tpaecf19iv1r8"
+  },
+  "url": "https://open.spotify.com/playlist/1GuLmmtQew5YJfoKgsgBhz"
+}

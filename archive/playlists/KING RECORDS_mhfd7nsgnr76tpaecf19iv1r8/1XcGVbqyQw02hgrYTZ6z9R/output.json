@@ -1,0 +1,1347 @@
+{
+  "id": "1XcGVbqyQw02hgrYTZ6z9R",
+  "tracks": [
+    {
+      "id": "6HAAG01wmaFg7mjDBwRpZH",
+      "name": "innocent starter",
+      "artists": [
+        {
+          "id": "0W2x7650Lt2CEIIcLHXmsE",
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "album": {
+        "id": "3Mm5J6uZ8yN30jCdODv856",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273bd0fd7d5ce0380670dcae8e8",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02bd0fd7d5ce0380670dcae8e8",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851bd0fd7d5ce0380670dcae8e8",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "innocent starter",
+        "release_date": "2004-10-06",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0W2x7650Lt2CEIIcLHXmsE",
+            "name": "Nana Mizuki",
+            "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3Mm5J6uZ8yN30jCdODv856",
+        "total_tracks": 6
+      },
+      "duration_ms": 281133,
+      "popularity": 27,
+      "url": "https://open.spotify.com/track/6HAAG01wmaFg7mjDBwRpZH"
+    },
+    {
+      "id": "5FSSYoSTylVVowefqYxqj9",
+      "name": "Little Wish〜lyrical step〜",
+      "artists": [
+        {
+          "id": "7hb4cZrq9Myg7VEqI2z0hJ",
+          "name": "Yukari Tamura",
+          "url": "https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ"
+        }
+      ],
+      "album": {
+        "id": "43YnhsJDwrIcANEeBZPFy3",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273964e91a08ae697b71b566439",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02964e91a08ae697b71b566439",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851964e91a08ae697b71b566439",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Little Wish〜lyrical step〜",
+        "release_date": "2004",
+        "release_date_precision": "year",
+        "artists": [
+          {
+            "id": "7hb4cZrq9Myg7VEqI2z0hJ",
+            "name": "Yukari Tamura",
+            "url": "https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ"
+          }
+        ],
+        "url": "https://open.spotify.com/album/43YnhsJDwrIcANEeBZPFy3",
+        "total_tracks": 3
+      },
+      "duration_ms": 245093,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/5FSSYoSTylVVowefqYxqj9"
+    },
+    {
+      "id": "79wJSBmb8e3wRR8j9znvk0",
+      "name": "Take a shot",
+      "artists": [
+        {
+          "id": "0W2x7650Lt2CEIIcLHXmsE",
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "album": {
+        "id": "1huJVCFa253gaYPx6P2f3i",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273fb68c11ccf25abc24e56bbec",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02fb68c11ccf25abc24e56bbec",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851fb68c11ccf25abc24e56bbec",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ALIVE&KICKING",
+        "release_date": "2004-12-08",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0W2x7650Lt2CEIIcLHXmsE",
+            "name": "Nana Mizuki",
+            "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1huJVCFa253gaYPx6P2f3i",
+        "total_tracks": 14
+      },
+      "duration_ms": 250506,
+      "popularity": 23,
+      "url": "https://open.spotify.com/track/79wJSBmb8e3wRR8j9znvk0"
+    },
+    {
+      "id": "4xWpriGI2MYpeMXfPkTkxr",
+      "name": "ETERNAL BLAZE",
+      "artists": [
+        {
+          "id": "0W2x7650Lt2CEIIcLHXmsE",
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "album": {
+        "id": "2nvexCedsx1QDH9CuCD0cV",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273cc4f3e2aee31759a348c0ef5",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02cc4f3e2aee31759a348c0ef5",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851cc4f3e2aee31759a348c0ef5",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "ETERNAL BLAZE",
+        "release_date": "2005-10-19",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0W2x7650Lt2CEIIcLHXmsE",
+            "name": "Nana Mizuki",
+            "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2nvexCedsx1QDH9CuCD0cV",
+        "total_tracks": 3
+      },
+      "duration_ms": 308773,
+      "popularity": 25,
+      "url": "https://open.spotify.com/track/4xWpriGI2MYpeMXfPkTkxr"
+    },
+    {
+      "id": "3SOU8YatQohfONytTqxuEF",
+      "name": "Spiritual Garden",
+      "artists": [
+        {
+          "id": "7hb4cZrq9Myg7VEqI2z0hJ",
+          "name": "Yukari Tamura",
+          "url": "https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ"
+        }
+      ],
+      "album": {
+        "id": "68MIDqGUNbirDlgIYYNhfW",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2739af1679cb39bf0210ab307a7",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e029af1679cb39bf0210ab307a7",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048519af1679cb39bf0210ab307a7",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "銀の旋律、記憶の水音。",
+        "release_date": "2006",
+        "release_date_precision": "year",
+        "artists": [
+          {
+            "id": "7hb4cZrq9Myg7VEqI2z0hJ",
+            "name": "Yukari Tamura",
+            "url": "https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ"
+          }
+        ],
+        "url": "https://open.spotify.com/album/68MIDqGUNbirDlgIYYNhfW",
+        "total_tracks": 15
+      },
+      "duration_ms": 207466,
+      "popularity": 0,
+      "url": "https://open.spotify.com/track/3SOU8YatQohfONytTqxuEF"
+    },
+    {
+      "id": "3MSgSjvtkWzBhxMDUQARwO",
+      "name": "BRAVE PHOENIX",
+      "artists": [
+        {
+          "id": "0W2x7650Lt2CEIIcLHXmsE",
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "album": {
+        "id": "1C9IznkbM0sI0x2vUu8xnv",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273290c37b3a462253c64a365d7",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02290c37b3a462253c64a365d7",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851290c37b3a462253c64a365d7",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "SUPER GENERATION",
+        "release_date": "2006-01-18",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0W2x7650Lt2CEIIcLHXmsE",
+            "name": "Nana Mizuki",
+            "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1C9IznkbM0sI0x2vUu8xnv",
+        "total_tracks": 3
+      },
+      "duration_ms": 324546,
+      "popularity": 16,
+      "url": "https://open.spotify.com/track/3MSgSjvtkWzBhxMDUQARwO"
+    },
+    {
+      "id": "7zA81TsoQpcGfU9sq0OoWy",
+      "name": "SECRET AMBITION",
+      "artists": [
+        {
+          "id": "0W2x7650Lt2CEIIcLHXmsE",
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "album": {
+        "id": "2M97BLXBpREKzRgChj527r",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273bdff7fa61ea222c7505d128c",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02bdff7fa61ea222c7505d128c",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851bdff7fa61ea222c7505d128c",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "SECRET AMBITION",
+        "release_date": "2007-04-18",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0W2x7650Lt2CEIIcLHXmsE",
+            "name": "Nana Mizuki",
+            "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2M97BLXBpREKzRgChj527r",
+        "total_tracks": 6
+      },
+      "duration_ms": 264080,
+      "popularity": 19,
+      "url": "https://open.spotify.com/track/7zA81TsoQpcGfU9sq0OoWy"
+    },
+    {
+      "id": "7hDXkVTBjTTHlbDhuKlTxJ",
+      "name": "MASSIVE WONDERS",
+      "artists": [
+        {
+          "id": "0W2x7650Lt2CEIIcLHXmsE",
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "album": {
+        "id": "5zL6ArHqY9Ln15KPWfXKCq",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27301ddc0b18da89e3a74a03600",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0201ddc0b18da89e3a74a03600",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485101ddc0b18da89e3a74a03600",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "MASSIVE WONDERS",
+        "release_date": "2007-08-22",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0W2x7650Lt2CEIIcLHXmsE",
+            "name": "Nana Mizuki",
+            "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5zL6ArHqY9Ln15KPWfXKCq",
+        "total_tracks": 6
+      },
+      "duration_ms": 255800,
+      "popularity": 16,
+      "url": "https://open.spotify.com/track/7hDXkVTBjTTHlbDhuKlTxJ"
+    },
+    {
+      "id": "0LJf8BKxv3FfsLDxPmcpYP",
+      "name": "星空のSpica",
+      "artists": [
+        {
+          "id": "7hb4cZrq9Myg7VEqI2z0hJ",
+          "name": "Yukari Tamura",
+          "url": "https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ"
+        }
+      ],
+      "album": {
+        "id": "5uTwTeSl3n61c1bUk7wlHw",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273cbc75edb93fa1e7833e5c9f5",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02cbc75edb93fa1e7833e5c9f5",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851cbc75edb93fa1e7833e5c9f5",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "星空のSpica",
+        "release_date": "2007-05-09",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "7hb4cZrq9Myg7VEqI2z0hJ",
+            "name": "Yukari Tamura",
+            "url": "https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5uTwTeSl3n61c1bUk7wlHw",
+        "total_tracks": 3
+      },
+      "duration_ms": 285093,
+      "popularity": 19,
+      "url": "https://open.spotify.com/track/0LJf8BKxv3FfsLDxPmcpYP"
+    },
+    {
+      "id": "6eOJBmoObjznVNhX881eFb",
+      "name": "Beautiful Amulet",
+      "artists": [
+        {
+          "id": "7hb4cZrq9Myg7VEqI2z0hJ",
+          "name": "Yukari Tamura",
+          "url": "https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ"
+        }
+      ],
+      "album": {
+        "id": "59f6VBDXhxPtgGd9mmKP5K",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27315fc252777787af4393d775b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0215fc252777787af4393d775b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485115fc252777787af4393d775b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Beautiful Amulet",
+        "release_date": "2007-08-01",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "7hb4cZrq9Myg7VEqI2z0hJ",
+            "name": "Yukari Tamura",
+            "url": "https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ"
+          }
+        ],
+        "url": "https://open.spotify.com/album/59f6VBDXhxPtgGd9mmKP5K",
+        "total_tracks": 4
+      },
+      "duration_ms": 271760,
+      "popularity": 17,
+      "url": "https://open.spotify.com/track/6eOJBmoObjznVNhX881eFb"
+    },
+    {
+      "id": "41ZrtLrBLLlwpucuNJ9WuF",
+      "name": "Pray",
+      "artists": [
+        {
+          "id": "0W2x7650Lt2CEIIcLHXmsE",
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "album": {
+        "id": "5fgkBCPsotW9RSTYSKnaUN",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27321c6bf27618819ad88c26d1d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0221c6bf27618819ad88c26d1d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485121c6bf27618819ad88c26d1d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "THE MUSEUM II",
+        "release_date": "2011-11-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0W2x7650Lt2CEIIcLHXmsE",
+            "name": "Nana Mizuki",
+            "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN",
+        "total_tracks": 17
+      },
+      "duration_ms": 268506,
+      "popularity": 28,
+      "url": "https://open.spotify.com/track/41ZrtLrBLLlwpucuNJ9WuF"
+    },
+    {
+      "id": "6vxS68gz82kDyFLpxHkr8y",
+      "name": "Angel Blossom",
+      "artists": [
+        {
+          "id": "0W2x7650Lt2CEIIcLHXmsE",
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "album": {
+        "id": "3QODdjGsrOsyMPMGOFn92H",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273ee1480c0a1452bff3e21f954",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02ee1480c0a1452bff3e21f954",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851ee1480c0a1452bff3e21f954",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Angel Blossom",
+        "release_date": "2015-04-22",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0W2x7650Lt2CEIIcLHXmsE",
+            "name": "Nana Mizuki",
+            "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/3QODdjGsrOsyMPMGOFn92H",
+        "total_tracks": 3
+      },
+      "duration_ms": 243786,
+      "popularity": 12,
+      "url": "https://open.spotify.com/track/6vxS68gz82kDyFLpxHkr8y"
+    },
+    {
+      "id": "1A0nwXOhrMMjV22ogW9Nam",
+      "name": "Pleasure treasure",
+      "artists": [
+        {
+          "id": "7hb4cZrq9Myg7VEqI2z0hJ",
+          "name": "Yukari Tamura",
+          "url": "https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ"
+        }
+      ],
+      "album": {
+        "id": "2BA8TGwHAyXDNN9vDjZpAl",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2731a169c155476ca124d52da51",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e021a169c155476ca124d52da51",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048511a169c155476ca124d52da51",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "好きだって言えなくて",
+        "release_date": "2015-04-01",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "7hb4cZrq9Myg7VEqI2z0hJ",
+            "name": "Yukari Tamura",
+            "url": "https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ"
+          }
+        ],
+        "url": "https://open.spotify.com/album/2BA8TGwHAyXDNN9vDjZpAl",
+        "total_tracks": 4
+      },
+      "duration_ms": 221026,
+      "popularity": 17,
+      "url": "https://open.spotify.com/track/1A0nwXOhrMMjV22ogW9Nam"
+    },
+    {
+      "id": "6DqJVnS00o4czdn6fyTVJO",
+      "name": "Silent Bible",
+      "artists": [
+        {
+          "id": "0W2x7650Lt2CEIIcLHXmsE",
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "album": {
+        "id": "4tnnahmbMG1qiJA3GCCL50",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273b70be5aff27e0f51f5c5ecd1",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02b70be5aff27e0f51f5c5ecd1",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851b70be5aff27e0f51f5c5ecd1",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Silent Bible",
+        "release_date": "2010-02-10",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0W2x7650Lt2CEIIcLHXmsE",
+            "name": "Nana Mizuki",
+            "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4tnnahmbMG1qiJA3GCCL50",
+        "total_tracks": 4
+      },
+      "duration_ms": 246426,
+      "popularity": 13,
+      "url": "https://open.spotify.com/track/6DqJVnS00o4czdn6fyTVJO"
+    },
+    {
+      "id": "77M4ebln43oUrth3jawBVZ",
+      "name": "Tiny Rainbow",
+      "artists": [
+        {
+          "id": "7hb4cZrq9Myg7VEqI2z0hJ",
+          "name": "Yukari Tamura",
+          "url": "https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ"
+        }
+      ],
+      "album": {
+        "id": "70dOlfTgEYLSdjnAE3oBWq",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273bcee479426a4c2f330a7c58b",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02bcee479426a4c2f330a7c58b",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851bcee479426a4c2f330a7c58b",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "シトロンの雨",
+        "release_date": "2010-09-08",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "7hb4cZrq9Myg7VEqI2z0hJ",
+            "name": "Yukari Tamura",
+            "url": "https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ"
+          }
+        ],
+        "url": "https://open.spotify.com/album/70dOlfTgEYLSdjnAE3oBWq",
+        "total_tracks": 15
+      },
+      "duration_ms": 249240,
+      "popularity": 6,
+      "url": "https://open.spotify.com/track/77M4ebln43oUrth3jawBVZ"
+    },
+    {
+      "id": "2VTG3HzU2MZcxzH9s7j770",
+      "name": "ROMANCERS' NEO",
+      "artists": [
+        {
+          "id": "0W2x7650Lt2CEIIcLHXmsE",
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "album": {
+        "id": "5fgkBCPsotW9RSTYSKnaUN",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b27321c6bf27618819ad88c26d1d",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e0221c6bf27618819ad88c26d1d",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000485121c6bf27618819ad88c26d1d",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "THE MUSEUM II",
+        "release_date": "2011-11-23",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0W2x7650Lt2CEIIcLHXmsE",
+            "name": "Nana Mizuki",
+            "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5fgkBCPsotW9RSTYSKnaUN",
+        "total_tracks": 17
+      },
+      "duration_ms": 291760,
+      "popularity": 16,
+      "url": "https://open.spotify.com/track/2VTG3HzU2MZcxzH9s7j770"
+    },
+    {
+      "id": "1IQYh3nGpM5Fyww1SEuSF5",
+      "name": "滑空の果てのイノセント",
+      "artists": [
+        {
+          "id": "7hb4cZrq9Myg7VEqI2z0hJ",
+          "name": "Yukari Tamura",
+          "url": "https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ"
+        }
+      ],
+      "album": {
+        "id": "5y7uXxCwnZoKOA8e59zsEz",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273bf988eacc60a7b7562eafb00",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02bf988eacc60a7b7562eafb00",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851bf988eacc60a7b7562eafb00",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "春待ちソレイユ",
+        "release_date": "2011-12-21",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "7hb4cZrq9Myg7VEqI2z0hJ",
+            "name": "Yukari Tamura",
+            "url": "https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ"
+          }
+        ],
+        "url": "https://open.spotify.com/album/5y7uXxCwnZoKOA8e59zsEz",
+        "total_tracks": 14
+      },
+      "duration_ms": 288920,
+      "popularity": 10,
+      "url": "https://open.spotify.com/track/1IQYh3nGpM5Fyww1SEuSF5"
+    },
+    {
+      "id": "4v5Q5FEV4dRE6OW5xcWazs",
+      "name": "PHANTOM MINDS",
+      "artists": [
+        {
+          "id": "0W2x7650Lt2CEIIcLHXmsE",
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "album": {
+        "id": "0notlbwCGBJGTAW7jxdv4d",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273abf3b9015863b73a0db10e16",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02abf3b9015863b73a0db10e16",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851abf3b9015863b73a0db10e16",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "PHANTOM MINDS",
+        "release_date": "2010-01-13",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0W2x7650Lt2CEIIcLHXmsE",
+            "name": "Nana Mizuki",
+            "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0notlbwCGBJGTAW7jxdv4d",
+        "total_tracks": 4
+      },
+      "duration_ms": 219413,
+      "popularity": 19,
+      "url": "https://open.spotify.com/track/4v5Q5FEV4dRE6OW5xcWazs"
+    },
+    {
+      "id": "0ll81zQFYZWOzLj2IGq9se",
+      "name": "My wish My love",
+      "artists": [
+        {
+          "id": "7hb4cZrq9Myg7VEqI2z0hJ",
+          "name": "Yukari Tamura",
+          "url": "https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ"
+        }
+      ],
+      "album": {
+        "id": "0yLdTGt941TdlACtCKjqvu",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273979ad18a828e229bc808ed88",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02979ad18a828e229bc808ed88",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851979ad18a828e229bc808ed88",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "My wish My love",
+        "release_date": "2010-01-27",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "7hb4cZrq9Myg7VEqI2z0hJ",
+            "name": "Yukari Tamura",
+            "url": "https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0yLdTGt941TdlACtCKjqvu",
+        "total_tracks": 4
+      },
+      "duration_ms": 321013,
+      "popularity": 14,
+      "url": "https://open.spotify.com/track/0ll81zQFYZWOzLj2IGq9se"
+    },
+    {
+      "id": "3uQ060lAf4KKnf0F2yp7OE",
+      "name": "Don't be long",
+      "artists": [
+        {
+          "id": "0W2x7650Lt2CEIIcLHXmsE",
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "album": {
+        "id": "0notlbwCGBJGTAW7jxdv4d",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273abf3b9015863b73a0db10e16",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02abf3b9015863b73a0db10e16",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851abf3b9015863b73a0db10e16",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "PHANTOM MINDS",
+        "release_date": "2010-01-13",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0W2x7650Lt2CEIIcLHXmsE",
+            "name": "Nana Mizuki",
+            "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0notlbwCGBJGTAW7jxdv4d",
+        "total_tracks": 4
+      },
+      "duration_ms": 276080,
+      "popularity": 18,
+      "url": "https://open.spotify.com/track/3uQ060lAf4KKnf0F2yp7OE"
+    },
+    {
+      "id": "09IKYdiiHe50L8oI8mFVue",
+      "name": "BRIGHT STREAM",
+      "artists": [
+        {
+          "id": "0W2x7650Lt2CEIIcLHXmsE",
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "album": {
+        "id": "0XDdDSPWk1o4qcUDkAETMb",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2738e312dc51cb6d105f0776a4c",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e028e312dc51cb6d105f0776a4c",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048518e312dc51cb6d105f0776a4c",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "BRIGHT STREAM",
+        "release_date": "2012-08-01",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0W2x7650Lt2CEIIcLHXmsE",
+            "name": "Nana Mizuki",
+            "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0XDdDSPWk1o4qcUDkAETMb",
+        "total_tracks": 3
+      },
+      "duration_ms": 248706,
+      "popularity": 19,
+      "url": "https://open.spotify.com/track/09IKYdiiHe50L8oI8mFVue"
+    },
+    {
+      "id": "6g7LUp5GBpaCOOUlmdtxHP",
+      "name": "微笑みのプルマージュ",
+      "artists": [
+        {
+          "id": "7hb4cZrq9Myg7VEqI2z0hJ",
+          "name": "Yukari Tamura",
+          "url": "https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ"
+        }
+      ],
+      "album": {
+        "id": "41pJdc8ycXgndoiIwUZn7Y",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273159f02ecd2038a5ad996f4d0",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02159f02ecd2038a5ad996f4d0",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851159f02ecd2038a5ad996f4d0",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "微笑みのプルマージュ",
+        "release_date": "2012-08-15",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "7hb4cZrq9Myg7VEqI2z0hJ",
+            "name": "Yukari Tamura",
+            "url": "https://open.spotify.com/artist/7hb4cZrq9Myg7VEqI2z0hJ"
+          }
+        ],
+        "url": "https://open.spotify.com/album/41pJdc8ycXgndoiIwUZn7Y",
+        "total_tracks": 4
+      },
+      "duration_ms": 282920,
+      "popularity": 14,
+      "url": "https://open.spotify.com/track/6g7LUp5GBpaCOOUlmdtxHP"
+    },
+    {
+      "id": "2PoIB3gqN5EREhzyp2AYQm",
+      "name": "Sacred Force",
+      "artists": [
+        {
+          "id": "0W2x7650Lt2CEIIcLHXmsE",
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "album": {
+        "id": "0XDdDSPWk1o4qcUDkAETMb",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2738e312dc51cb6d105f0776a4c",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e028e312dc51cb6d105f0776a4c",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048518e312dc51cb6d105f0776a4c",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "BRIGHT STREAM",
+        "release_date": "2012-08-01",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0W2x7650Lt2CEIIcLHXmsE",
+            "name": "Nana Mizuki",
+            "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/0XDdDSPWk1o4qcUDkAETMb",
+        "total_tracks": 3
+      },
+      "duration_ms": 187066,
+      "popularity": 23,
+      "url": "https://open.spotify.com/track/2PoIB3gqN5EREhzyp2AYQm"
+    },
+    {
+      "id": "3FrTuc0iZXzB2qvguFjoy5",
+      "name": "Destiny's Prelude",
+      "artists": [
+        {
+          "id": "0W2x7650Lt2CEIIcLHXmsE",
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "album": {
+        "id": "4On0OykKYCMhJK4fGOySNs",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273fe53d317254b18c9e269a991",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02fe53d317254b18c9e269a991",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851fe53d317254b18c9e269a991",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Destiny's Prelude",
+        "release_date": "2017-07-19",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0W2x7650Lt2CEIIcLHXmsE",
+            "name": "Nana Mizuki",
+            "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4On0OykKYCMhJK4fGOySNs",
+        "total_tracks": 3
+      },
+      "duration_ms": 299386,
+      "popularity": 17,
+      "url": "https://open.spotify.com/track/3FrTuc0iZXzB2qvguFjoy5"
+    },
+    {
+      "id": "6Q85RKm3uVg8pvwbxFTZzv",
+      "name": "Invisible Heat",
+      "artists": [
+        {
+          "id": "0W2x7650Lt2CEIIcLHXmsE",
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "album": {
+        "id": "4On0OykKYCMhJK4fGOySNs",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273fe53d317254b18c9e269a991",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02fe53d317254b18c9e269a991",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851fe53d317254b18c9e269a991",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Destiny's Prelude",
+        "release_date": "2017-07-19",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0W2x7650Lt2CEIIcLHXmsE",
+            "name": "Nana Mizuki",
+            "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/4On0OykKYCMhJK4fGOySNs",
+        "total_tracks": 3
+      },
+      "duration_ms": 267813,
+      "popularity": 22,
+      "url": "https://open.spotify.com/track/6Q85RKm3uVg8pvwbxFTZzv"
+    },
+    {
+      "id": "477Xr2Es25pQuBe95lrt4t",
+      "name": "NEVER SURRENDER",
+      "artists": [
+        {
+          "id": "0W2x7650Lt2CEIIcLHXmsE",
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "album": {
+        "id": "02moJLic5EMfR2on6CHuJ8",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b2735ff4387f2e9c3567cb6e5116",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e025ff4387f2e9c3567cb6e5116",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d000048515ff4387f2e9c3567cb6e5116",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "CANNONBALL RUNNING",
+        "release_date": "2019-12-11",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0W2x7650Lt2CEIIcLHXmsE",
+            "name": "Nana Mizuki",
+            "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/02moJLic5EMfR2on6CHuJ8",
+        "total_tracks": 17
+      },
+      "duration_ms": 260140,
+      "popularity": 17,
+      "url": "https://open.spotify.com/track/477Xr2Es25pQuBe95lrt4t"
+    },
+    {
+      "id": "5g7FmSxZZX7psWFi1HtgB4",
+      "name": "GET BACK",
+      "artists": [
+        {
+          "id": "0W2x7650Lt2CEIIcLHXmsE",
+          "name": "Nana Mizuki",
+          "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+        }
+      ],
+      "album": {
+        "id": "211qg1BzWTHv6E211iWdzj",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273de841bd72182d0d436036673",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02de841bd72182d0d436036673",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851de841bd72182d0d436036673",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "NEVER SURRENDER",
+        "release_date": "2018-10-24",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "0W2x7650Lt2CEIIcLHXmsE",
+            "name": "Nana Mizuki",
+            "url": "https://open.spotify.com/artist/0W2x7650Lt2CEIIcLHXmsE"
+          }
+        ],
+        "url": "https://open.spotify.com/album/211qg1BzWTHv6E211iWdzj",
+        "total_tracks": 4
+      },
+      "duration_ms": 239000,
+      "popularity": 22,
+      "url": "https://open.spotify.com/track/5g7FmSxZZX7psWFi1HtgB4"
+    },
+    {
+      "id": "5AeJ6zal8tPIVUGxrI1kZw",
+      "name": "Future Strike",
+      "artists": [
+        {
+          "id": "4BVBO54UlQrzDW66hSEefy",
+          "name": "Yui Ogura",
+          "url": "https://open.spotify.com/artist/4BVBO54UlQrzDW66hSEefy"
+        }
+      ],
+      "album": {
+        "id": "1V6XHdc0nIZv8RcqS3mpzc",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273752d8c0d5ba813f43596018a",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02752d8c0d5ba813f43596018a",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851752d8c0d5ba813f43596018a",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Future Strike",
+        "release_date": "2016-11-02",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "4BVBO54UlQrzDW66hSEefy",
+            "name": "Yui Ogura",
+            "url": "https://open.spotify.com/artist/4BVBO54UlQrzDW66hSEefy"
+          }
+        ],
+        "url": "https://open.spotify.com/album/1V6XHdc0nIZv8RcqS3mpzc",
+        "total_tracks": 5
+      },
+      "duration_ms": 261767,
+      "popularity": 14,
+      "url": "https://open.spotify.com/track/5AeJ6zal8tPIVUGxrI1kZw"
+    },
+    {
+      "id": "7LPtEFbEVTKLXvSh2qUv3E",
+      "name": "Starry Wish",
+      "artists": [
+        {
+          "id": "6Aal2uLlwnLAQwSI7apV11",
+          "name": "Inori Minase",
+          "url": "https://open.spotify.com/artist/6Aal2uLlwnLAQwSI7apV11"
+        }
+      ],
+      "album": {
+        "id": "6y6wyI1gYad7wW1rwO8Ymj",
+        "images": [
+          {
+            "url": "https://i.scdn.co/image/ab67616d0000b273e9ea3b28b754fd25be651ebe",
+            "width": 640,
+            "height": 640
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00001e02e9ea3b28b754fd25be651ebe",
+            "width": 300,
+            "height": 300
+          },
+          {
+            "url": "https://i.scdn.co/image/ab67616d00004851e9ea3b28b754fd25be651ebe",
+            "width": 64,
+            "height": 64
+          }
+        ],
+        "name": "Starry Wish",
+        "release_date": "2016-11-09",
+        "release_date_precision": "day",
+        "artists": [
+          {
+            "id": "6Aal2uLlwnLAQwSI7apV11",
+            "name": "Inori Minase",
+            "url": "https://open.spotify.com/artist/6Aal2uLlwnLAQwSI7apV11"
+          }
+        ],
+        "url": "https://open.spotify.com/album/6y6wyI1gYad7wW1rwO8Ymj",
+        "total_tracks": 3
+      },
+      "duration_ms": 244546,
+      "popularity": 22,
+      "url": "https://open.spotify.com/track/7LPtEFbEVTKLXvSh2qUv3E"
+    }
+  ],
+  "description": "田村ゆかり・水樹奈々が担当した「魔法少女リリカルなのは」全シリーズの 歴代楽曲プレイリスト",
+  "name": "「魔法少女リリカルなのは」シリーズ 主題歌・挿入歌プレイリスト",
+  "owner": {
+    "display_name": "KING RECORDS",
+    "url": "https://open.spotify.com/user/mhfd7nsgnr76tpaecf19iv1r8",
+    "id": "mhfd7nsgnr76tpaecf19iv1r8"
+  },
+  "url": "https://open.spotify.com/playlist/1XcGVbqyQw02hgrYTZ6z9R"
+}
